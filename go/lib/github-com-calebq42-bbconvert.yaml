@@ -1,0 +1,8 @@
+description: Converts bbCode to HTML that allows you to add support for custom bbCode
+  tags
+home_addr: https://github.com/CalebQ42/bbConvert
+title: bbConvert
+topics:
+- go
+- lib
+- text

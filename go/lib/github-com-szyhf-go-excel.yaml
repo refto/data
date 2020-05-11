@@ -1,0 +1,7 @@
+description: A simple and light reader to read a relate-db-like excel as a table
+home_addr: https://github.com/szyhf/go-excel
+title: go-excel
+topics:
+- go
+- lib
+- excel

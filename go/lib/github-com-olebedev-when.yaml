@@ -1,0 +1,7 @@
+description: Natural EN and RU language date/time parser with pluggable rules
+home_addr: https://github.com/olebedev/when
+title: when
+topics:
+- go
+- lib
+- lang

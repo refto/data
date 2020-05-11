@@ -1,0 +1,7 @@
+description: Format bytes to string
+home_addr: https://github.com/labstack/gommon/tree/master/bytes
+title: gommon/bytes
+topics:
+- go
+- lib
+- text

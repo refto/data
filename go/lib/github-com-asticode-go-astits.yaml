@@ -1,0 +1,7 @@
+description: Parse and demux MPEG Transport Streams (.ts) natively in GO
+home_addr: https://github.com/asticode/go-astits
+title: go-astits
+topics:
+- go
+- lib
+- video

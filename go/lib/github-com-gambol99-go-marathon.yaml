@@ -1,0 +1,7 @@
+description: Go library for interacting with Mesosphere's Marathon PAAS
+home_addr: https://github.com/gambol99/go-marathon
+title: go-marathon
+topics:
+- go
+- lib
+- api

@@ -1,0 +1,7 @@
+description: 'Expression evaluation engine for Go: fast, non-Turing complete, dynamic
+  typing, static typing'
+home_addr: https://github.com/antonmedv/expr
+title: expr
+topics:
+- go
+- lib

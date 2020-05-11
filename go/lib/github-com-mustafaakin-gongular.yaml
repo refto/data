@@ -1,0 +1,8 @@
+description: Fast Go web framework with input mapping/validation and (DI) Dependency
+  Injection
+home_addr: https://github.com/mustafaakin/gongular
+title: gongular
+topics:
+- go
+- lib
+- framework

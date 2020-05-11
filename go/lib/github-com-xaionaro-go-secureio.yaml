@@ -1,0 +1,8 @@
+description: An keyexchanging+authenticating+encrypting wrapper and multiplexer for
+  "io.ReadWriteCloser" based on XChaCha20-poly1305, ECDH and ED25519
+home_addr: https://github.com/xaionaro-go/secureio
+title: secureio
+topics:
+- go
+- lib
+- security

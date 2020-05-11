@@ -1,0 +1,9 @@
+description: Supports validation of various data types (structs, strings, maps, slices,
+  etc.) with configurable and extensible validation rules specified in usual code
+  constructs instead of struct tags
+home_addr: https://github.com/go-ozzo/ozzo-validation
+title: ozzo-validation
+topics:
+- go
+- lib
+- validation

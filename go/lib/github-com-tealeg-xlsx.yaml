@@ -1,0 +1,8 @@
+description: Library to simplify reading the XML format used by recent version of
+  Microsoft Excel in Go programs
+home_addr: https://github.com/tealeg/xlsx
+title: xlsx
+topics:
+- go
+- lib
+- excel

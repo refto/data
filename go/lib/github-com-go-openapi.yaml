@@ -1,0 +1,6 @@
+description: Collection of packages to parse and utilize open-api schemas
+home_addr: https://github.com/go-openapi
+title: go-openapi
+topics:
+- go
+- lib

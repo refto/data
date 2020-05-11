@@ -1,0 +1,7 @@
+description: GraphQL server with a focus on ease of use
+home_addr: https://github.com/neelance/graphql-go
+title: graphql
+topics:
+- go
+- lib
+- query

@@ -1,0 +1,7 @@
+description: Web-based PostgreSQL database browser
+home_addr: https://github.com/sosedoff/pgweb
+title: pgweb
+topics:
+- go
+- lib
+- db

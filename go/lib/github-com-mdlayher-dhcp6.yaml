@@ -1,0 +1,8 @@
+description: Package dhcp6 implements a DHCPv6 server, as described in RFC 3315
+home_addr: https://github.com/mdlayher/dhcp6
+title: dhcp6
+topics:
+- go
+- lib
+- net
+- network

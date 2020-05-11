@@ -1,0 +1,7 @@
+description: Type-safe bindings for the Chrome Debugging Protocol that can be used
+  with browsers or other debug targets that implement it
+home_addr: https://github.com/mafredri/cdp
+title: cdp
+topics:
+- go
+- lib

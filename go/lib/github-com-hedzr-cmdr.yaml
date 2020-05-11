@@ -1,0 +1,7 @@
+description: A POSIX/GNU style, getopt-like command-line UI Go library
+home_addr: https://github.com/hedzr/cmdr
+title: cmdr
+topics:
+- go
+- lib
+- cli

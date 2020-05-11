@@ -1,0 +1,8 @@
+description: Typesafe, customizable, clean & easy to use Redis client
+home_addr: https://github.com/shomali11/xredis
+title: xredis
+topics:
+- go
+- lib
+- db
+- driver

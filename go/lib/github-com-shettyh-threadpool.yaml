@@ -1,0 +1,7 @@
+description: Golang threadpool implementation
+home_addr: https://github.com/shettyh/threadpool
+title: threadpool
+topics:
+- go
+- lib
+- goroutine

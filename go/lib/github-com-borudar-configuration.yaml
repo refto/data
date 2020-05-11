@@ -1,0 +1,8 @@
+description: Library for initializing configuration structs from env variables, files,
+  flags and 'default' tag
+home_addr: https://github.com/BoRuDar/configuration
+title: configuration
+topics:
+- go
+- lib
+- config

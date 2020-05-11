@@ -1,0 +1,7 @@
+description: Zero-width character detection and removal for Go
+home_addr: https://github.com/trubitsyn/go-zero-width
+title: go-zero-width
+topics:
+- go
+- lib
+- text

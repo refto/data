@@ -1,0 +1,8 @@
+description: Parallelized formatter with no external dependencies for gherkin (cucumber,
+  behat...)
+home_addr: https://github.com/antham/ghokin
+title: ghokin
+topics:
+- go
+- lib
+- util

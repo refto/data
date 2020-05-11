@@ -1,0 +1,8 @@
+description: Dynago is a principle of least surprise client for DynamoDB
+home_addr: https://github.com/underarmour/dynago
+title: dynago
+topics:
+- go
+- lib
+- db
+- driver

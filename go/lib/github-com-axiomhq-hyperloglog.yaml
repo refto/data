@@ -1,0 +1,7 @@
+description: HyperLogLog implementation with Sparse, LogLog-Beta bias correction and
+  TailCut space reduction
+home_addr: https://github.com/axiomhq/hyperloglog
+title: hyperloglog
+topics:
+- go
+- lib

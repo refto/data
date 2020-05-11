@@ -1,0 +1,7 @@
+description: Hand-crafted 2D game library in Go
+home_addr: https://github.com/faiface/pixel
+title: Pixel
+topics:
+- go
+- lib
+- game

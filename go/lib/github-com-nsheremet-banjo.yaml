@@ -1,0 +1,7 @@
+description: Very simple and fast web framework for Go
+home_addr: https://github.com/nsheremet/banjo
+title: Banjo
+topics:
+- go
+- lib
+- framework

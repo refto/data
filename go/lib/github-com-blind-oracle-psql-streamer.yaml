@@ -1,0 +1,7 @@
+description: Stream database events from PostgreSQL to Kafka
+home_addr: https://github.com/blind-oracle/psql-streamer
+title: psql-streamer
+topics:
+- go
+- lib
+- server

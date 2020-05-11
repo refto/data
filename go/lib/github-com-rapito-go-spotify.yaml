@@ -1,0 +1,7 @@
+description: Go Library to access Spotify WEB API
+home_addr: https://github.com/rapito/go-spotify
+title: spotify
+topics:
+- go
+- lib
+- api

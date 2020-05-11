@@ -1,0 +1,8 @@
+description: Native Go bindings for D-Bus
+home_addr: https://github.com/godbus/dbus
+title: dbus
+topics:
+- go
+- lib
+- msg
+- messaging

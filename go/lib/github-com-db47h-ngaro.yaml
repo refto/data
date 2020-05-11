@@ -1,0 +1,6 @@
+description: Embeddable Ngaro VM implementation enabling scripting in Retro
+home_addr: https://github.com/db47h/ngaro
+title: ngaro
+topics:
+- go
+- lib

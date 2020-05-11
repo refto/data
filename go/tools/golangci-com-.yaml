@@ -1,0 +1,9 @@
+description: GolangCI is an automated Golang code review service for GitHub pull requests.
+  Service is open source and it's free for open source projects
+home_addr: https://golangci.com/
+title: GolangCI
+topics:
+- go
+- tool
+- lint
+- analysis

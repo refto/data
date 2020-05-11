@@ -1,0 +1,8 @@
+description: Fast, embeddable, in-memory key/value database for Go with custom indexing
+  and spatial support
+home_addr: https://github.com/tidwall/buntdb
+title: buntdb
+topics:
+- go
+- lib
+- db

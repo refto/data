@@ -1,0 +1,8 @@
+description: Time duration formatting library for Go
+home_addr: https://github.com/hako/durafmt
+title: durafmt
+topics:
+- go
+- lib
+- date
+- time

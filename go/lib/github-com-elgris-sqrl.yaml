@@ -1,0 +1,8 @@
+description: SQL query builder, fork of Squirrel with improved performance
+home_addr: https://github.com/elgris/sqrl
+title: sqrl
+topics:
+- go
+- lib
+- db
+- sql

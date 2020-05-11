@@ -1,0 +1,8 @@
+description: GoStorm is a Go library that implements the communications protocol required
+  to write Storm spouts and Bolts in Go that communicate with the Storm shells
+home_addr: https://github.com/jsgilmore/gostorm
+title: gostorm
+topics:
+- go
+- lib
+- api

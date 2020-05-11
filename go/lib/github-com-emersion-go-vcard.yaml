@@ -1,0 +1,7 @@
+description: Parse and format vCard
+home_addr: https://github.com/emersion/go-vcard
+title: go-vcard
+topics:
+- go
+- lib
+- text

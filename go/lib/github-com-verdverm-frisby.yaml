@@ -1,0 +1,7 @@
+description: REST API testing framework
+home_addr: https://github.com/verdverm/frisby
+title: frisby
+topics:
+- go
+- lib
+- test

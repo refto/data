@@ -1,0 +1,7 @@
+description: XML to MAP converter written Golang
+home_addr: https://github.com/sbabiv/xml2map
+title: xml2map
+topics:
+- go
+- lib
+- xml

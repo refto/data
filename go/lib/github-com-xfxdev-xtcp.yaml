@@ -1,0 +1,9 @@
+description: TCP Server Framework with simultaneous full duplex communication,graceful
+  shutdown,custom protocol
+home_addr: https://github.com/xfxdev/xtcp
+title: xtcp
+topics:
+- go
+- lib
+- net
+- network

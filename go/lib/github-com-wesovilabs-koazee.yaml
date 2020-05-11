@@ -1,0 +1,8 @@
+description: Library inspired in Lazy evaluation and functional programming that takes
+  the hassle out of working with arrays
+home_addr: https://github.com/wesovilabs/koazee
+title: koazee
+topics:
+- go
+- lib
+- util

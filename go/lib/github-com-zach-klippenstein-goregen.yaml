@@ -1,0 +1,7 @@
+description: Library for generating random strings from regular expressions
+home_addr: https://github.com/zach-klippenstein/goregen
+title: goregen
+topics:
+- go
+- lib
+- text

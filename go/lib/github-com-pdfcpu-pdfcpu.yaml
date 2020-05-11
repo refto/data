@@ -1,0 +1,7 @@
+description: PDF processor
+home_addr: https://github.com/pdfcpu/pdfcpu
+title: pdfcpu
+topics:
+- go
+- lib
+- file

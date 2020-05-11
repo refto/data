@@ -1,0 +1,7 @@
+description: Websocket client for unit-testing a websocket http.Handler
+home_addr: https://github.com/posener/wstest
+title: wstest
+topics:
+- go
+- lib
+- test

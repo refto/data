@@ -1,0 +1,7 @@
+description: RESTful caching micro-service backed by Couchbase server
+home_addr: https://github.com/codingsince1985/couchcache
+title: couchcache
+topics:
+- go
+- lib
+- db

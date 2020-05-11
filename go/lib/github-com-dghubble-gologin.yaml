@@ -1,0 +1,7 @@
+description: chainable handlers for login with OAuth1 and OAuth2 authentication providers
+home_addr: https://github.com/dghubble/gologin
+title: gologin
+topics:
+- go
+- lib
+- auth

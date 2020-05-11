@@ -1,0 +1,7 @@
+description: Command line and flag parser supporting sub commands
+home_addr: https://github.com/alecthomas/kingpin
+title: kingpin
+topics:
+- go
+- lib
+- cli

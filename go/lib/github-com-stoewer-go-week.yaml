@@ -1,0 +1,8 @@
+description: An efficient package to work with ISO8601 week dates
+home_addr: https://github.com/stoewer/go-week
+title: go-week
+topics:
+- go
+- lib
+- date
+- time

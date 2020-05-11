@@ -1,0 +1,7 @@
+description: Log4j implementation in Go
+home_addr: https://github.com/ian-kent/go-log
+title: go-log
+topics:
+- go
+- lib
+- log

@@ -1,0 +1,8 @@
+description: Redis-protocol compatible TCP servers/services
+home_addr: https://github.com/bsm/redeo
+title: redeo
+topics:
+- go
+- lib
+- db
+- driver

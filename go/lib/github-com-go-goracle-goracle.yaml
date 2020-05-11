@@ -1,0 +1,8 @@
+description: Oracle driver for Go, using the ODPI-C driver
+home_addr: https://github.com/go-goracle/goracle
+title: goracle
+topics:
+- go
+- lib
+- db
+- driver

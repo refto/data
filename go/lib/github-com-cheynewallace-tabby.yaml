@@ -1,0 +1,7 @@
+description: A tiny library for super simple Golang tables
+home_addr: https://github.com/cheynewallace/tabby
+title: tabby
+topics:
+- go
+- lib
+- ui

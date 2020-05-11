@@ -1,0 +1,7 @@
+description: Go library for Patreon API
+home_addr: https://github.com/mxpv/patreon-go
+title: patreon-go
+topics:
+- go
+- lib
+- api

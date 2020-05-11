@@ -1,0 +1,8 @@
+description: Go bindings for ForestDB
+home_addr: https://github.com/couchbase/goforestdb
+title: forestdb
+topics:
+- go
+- lib
+- db
+- driver

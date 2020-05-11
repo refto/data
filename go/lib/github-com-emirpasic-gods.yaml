@@ -1,0 +1,7 @@
+description: Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps,
+  Trees, HashSet etc
+home_addr: https://github.com/emirpasic/gods
+title: gods
+topics:
+- go
+- lib

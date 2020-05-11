@@ -1,0 +1,8 @@
+description: 2D triangulation library. Allows translating lines and polygons (both
+  based on points) to the language of GPUs
+home_addr: https://github.com/tchayen/triangolatte
+title: triangolatte
+topics:
+- go
+- lib
+- science

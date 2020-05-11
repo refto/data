@@ -1,0 +1,7 @@
+description: Weighted PageRank algorithm implemented in Go
+home_addr: https://github.com/alixaxel/pagerank
+title: pagerank
+topics:
+- go
+- lib
+- science

@@ -1,0 +1,7 @@
+description: Mock object for Go http.ResponseWriter
+home_addr: https://github.com/tv42/mockhttp
+title: mockhttp
+topics:
+- go
+- lib
+- mock

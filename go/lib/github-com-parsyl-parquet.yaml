@@ -1,0 +1,7 @@
+description: Read and write [parquet](https://parquet.apache.org) files
+home_addr: https://github.com/parsyl/parquet
+title: parquet
+topics:
+- go
+- lib
+- file

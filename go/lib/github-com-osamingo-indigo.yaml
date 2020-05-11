@@ -1,0 +1,6 @@
+description: Distributed unique ID generator of using Sonyflake and encoded by Base58
+home_addr: https://github.com/osamingo/indigo
+title: indigo
+topics:
+- go
+- lib

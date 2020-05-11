@@ -1,0 +1,7 @@
+description: glg is simple and fast leveled logging library for Go
+home_addr: https://github.com/kpango/glg
+title: glg
+topics:
+- go
+- lib
+- log

@@ -1,0 +1,9 @@
+description: A concurrent toolkit to help execute funcs concurrently in an efficient
+  and safe way.It supports specifying the overall timeout to avoid blocking and uses
+  goroutine pool to improve efficiency
+home_addr: https://github.com/ITcathyh/conexec
+title: conexec
+topics:
+- go
+- lib
+- goroutine

@@ -1,0 +1,6 @@
+description: Port of the Lua 5.2 VM to pure Go
+home_addr: https://github.com/Shopify/go-lua
+title: go-lua
+topics:
+- go
+- lib

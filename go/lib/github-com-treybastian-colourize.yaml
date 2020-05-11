@@ -1,0 +1,7 @@
+description: Go library for ANSI colour text in terminals
+home_addr: https://github.com/TreyBastian/colourize
+title: colourize
+topics:
+- go
+- lib
+- ui

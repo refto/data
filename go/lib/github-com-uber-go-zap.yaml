@@ -1,0 +1,7 @@
+description: Fast, structured, leveled logging in Go
+home_addr: https://github.com/uber-go/zap
+title: zap
+topics:
+- go
+- lib
+- log

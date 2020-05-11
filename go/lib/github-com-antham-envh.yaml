@@ -1,0 +1,7 @@
+description: Helpers to manage environment variables
+home_addr: https://github.com/antham/envh
+title: envh
+topics:
+- go
+- lib
+- config

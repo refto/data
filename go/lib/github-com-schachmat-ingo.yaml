@@ -1,0 +1,7 @@
+description: Flags persisted in an ini-like config file
+home_addr: https://github.com/schachmat/ingo
+title: ingo
+topics:
+- go
+- lib
+- config

@@ -1,0 +1,7 @@
+description: Managing go application shutdown with signals
+home_addr: https://github.com/vrecan/death
+title: Death
+topics:
+- go
+- lib
+- util

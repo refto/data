@@ -1,0 +1,7 @@
+description: Signed and timestamped strings
+home_addr: https://github.com/sashka/signedvalue
+title: signedvalue
+topics:
+- go
+- lib
+- auth

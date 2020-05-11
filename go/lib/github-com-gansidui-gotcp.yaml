@@ -1,0 +1,8 @@
+description: Go package for quickly writing tcp applications
+home_addr: https://github.com/gansidui/gotcp
+title: gotcp
+topics:
+- go
+- lib
+- net
+- network

@@ -1,0 +1,9 @@
+description: Go package for OCR (Optical Character Recognition), by using Tesseract
+  C++ library
+home_addr: https://github.com/otiai10/gosseract
+title: gosseract
+topics:
+- go
+- lib
+- ml
+- machine learning

@@ -1,0 +1,7 @@
+description: Implementation of Fowler's Money pattern
+home_addr: https://github.com/rhymond/go-money
+title: go-money
+topics:
+- go
+- lib
+- finance

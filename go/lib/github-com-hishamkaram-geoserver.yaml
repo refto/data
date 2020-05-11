@@ -1,0 +1,8 @@
+description: geoserver Is a Go Package For Manipulating a GeoServer Instance via the
+  GeoServer REST API
+home_addr: https://github.com/hishamkaram/geoserver
+title: geoserver
+topics:
+- go
+- lib
+- geo

@@ -1,0 +1,7 @@
+description: Go package to schedule periodic jobs using a simple, fluent syntax
+home_addr: http://github.com/onatm/clockwerk
+title: clockwerk
+topics:
+- go
+- lib
+- schedule

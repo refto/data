@@ -1,0 +1,8 @@
+description: Provides configuration through multiple sources, including JSON, flags
+  and environment variables
+home_addr: https://github.com/paked/configure
+title: configure
+topics:
+- go
+- lib
+- config

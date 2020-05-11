@@ -1,0 +1,9 @@
+description: Terraform provider plugin that dynamically configures itself at runtime
+  based on an OpenAPI document (formerly known as swagger file) containing the definitions
+  of the APIs exposed
+home_addr: https://github.com/dikhan/terraform-provider-openapi
+title: terraform-provider-openapi
+topics:
+- go
+- tool
+- devop

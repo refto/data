@@ -1,0 +1,8 @@
+description: Go package for n-gram based text categorization, with support for utf-8
+  and raw text
+home_addr: https://github.com/pebbe/textcat
+title: textcat
+topics:
+- go
+- lib
+- lang

@@ -1,0 +1,6 @@
+description: A useful Set collection implementation for Go
+home_addr: https://github.com/zoumo/goset
+title: goset
+topics:
+- go
+- lib

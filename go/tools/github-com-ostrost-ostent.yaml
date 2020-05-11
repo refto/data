@@ -1,0 +1,8 @@
+description: collects and displays system metrics and optionally relays to Graphite
+  and/or InfluxDB
+home_addr: https://github.com/ostrost/ostent
+title: ostent
+topics:
+- go
+- tool
+- devop

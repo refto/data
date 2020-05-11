@@ -1,0 +1,8 @@
+description: A framework for running self-updating signed binaries from a central,
+  trusted repository
+home_addr: https://github.com/nikogura/dbt
+title: dbt
+topics:
+- go
+- lib
+- util

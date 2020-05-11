@@ -1,0 +1,8 @@
+description: Go library for accessing [trending repositories](https://github.com/trending)
+  and [developers](https://github.com/trending/developers) at Github
+home_addr: https://github.com/andygrunwald/go-trending
+title: go-trending
+topics:
+- go
+- lib
+- api

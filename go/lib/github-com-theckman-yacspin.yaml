@@ -1,0 +1,7 @@
+description: Yet Another CLi Spinner package, for working with terminal spinners
+home_addr: https://github.com/theckman/yacspin
+title: yacspin
+topics:
+- go
+- lib
+- ui

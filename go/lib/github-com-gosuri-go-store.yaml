@@ -1,0 +1,7 @@
+description: Simple and fast Redis backed key-value store library for Go
+home_addr: https://github.com/gosuri/go-store
+title: go-store
+topics:
+- go
+- lib
+- orm

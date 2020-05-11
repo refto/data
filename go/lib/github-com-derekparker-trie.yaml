@@ -1,0 +1,6 @@
+description: Trie implementation in Go
+home_addr: https://github.com/derekparker/trie
+title: trie
+topics:
+- go
+- lib

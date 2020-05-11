@@ -1,0 +1,7 @@
+description: Run functions in parallel
+home_addr: https://github.com/rafaeljesus/parallel-fn
+title: parallel-fn
+topics:
+- go
+- lib
+- goroutine

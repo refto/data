@@ -1,0 +1,8 @@
+description: Run linters as part of go test
+home_addr: https://github.com/surullabs/lint
+title: lint
+topics:
+- go
+- tool
+- lint
+- analysis

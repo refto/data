@@ -1,0 +1,7 @@
+description: Go package for easily rendering JSON, XML, and HTML template responses
+home_addr: https://github.com/unrolled/render
+title: render
+topics:
+- go
+- lib
+- middleware

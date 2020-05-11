@@ -1,0 +1,7 @@
+description: Rule-based data generator for fuzzing and penetration testing
+home_addr: https://bitbucket.org/vahidi/interpol
+title: Interpol
+topics:
+- go
+- lib
+- security

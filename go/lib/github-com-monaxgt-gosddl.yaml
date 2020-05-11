@@ -1,0 +1,8 @@
+description: 'Converter from SDDL-string to user-friendly JSON. SDDL consist of four
+  part: Owner, Primary Group, DACL, SACL'
+home_addr: https://github.com/MonaxGT/gosddl
+title: gosddl
+topics:
+- go
+- lib
+- windows

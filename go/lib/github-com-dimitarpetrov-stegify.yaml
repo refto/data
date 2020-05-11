@@ -1,0 +1,7 @@
+description: Go tool for LSB steganography, capable of hiding any file within an image
+home_addr: https://github.com/DimitarPetrov/stegify
+title: stegify
+topics:
+- go
+- lib
+- image

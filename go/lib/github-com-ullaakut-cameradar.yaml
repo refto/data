@@ -1,0 +1,7 @@
+description: Tool and library to remotely hack RTSP streams from surveillance cameras
+home_addr: https://github.com/Ullaakut/cameradar
+title: Cameradar
+topics:
+- go
+- lib
+- security

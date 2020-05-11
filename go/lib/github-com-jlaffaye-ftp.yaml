@@ -1,0 +1,8 @@
+description: Package ftp implements a FTP client as described in [RFC 959](http://tools.ietf.org/html/rfc959)
+home_addr: https://github.com/jlaffaye/ftp
+title: ftp
+topics:
+- go
+- lib
+- net
+- network

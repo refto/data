@@ -1,0 +1,9 @@
+description: Simple Time extension with a lot of util methods, ported from PHP Carbon
+  library
+home_addr: https://github.com/uniplaces/carbon
+title: carbon
+topics:
+- go
+- lib
+- date
+- time

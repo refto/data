@@ -1,0 +1,7 @@
+description: Readable, flexible, simple-to-use client for REST APIs
+home_addr: https://github.com/zpatrick/rclient
+title: rclient
+topics:
+- go
+- lib
+- util

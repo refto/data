@@ -1,0 +1,8 @@
+description: Zero boilerplate database operations for Go
+home_addr: https://github.com/rocketlaunchr/dbq
+title: dbq
+topics:
+- go
+- lib
+- db
+- sql

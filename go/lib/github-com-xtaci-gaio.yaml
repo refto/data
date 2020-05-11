@@ -1,0 +1,8 @@
+description: High performance async-io networking for Golang in proactor mode
+home_addr: https://github.com/xtaci/gaio
+title: gaio
+topics:
+- go
+- lib
+- net
+- network

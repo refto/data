@@ -1,0 +1,9 @@
+description: Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs,
+  validation against a JSON schema, and application of default values defined in the
+  schema
+home_addr: https://github.com/the4thamigo-uk/conflate
+title: conflate
+topics:
+- go
+- lib
+- config

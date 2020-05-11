@@ -1,0 +1,7 @@
+description: Go bindings for FFmpeg av\* libraries
+home_addr: https://github.com/3d0c/gmf
+title: gmf
+topics:
+- go
+- lib
+- video

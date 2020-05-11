@@ -1,0 +1,8 @@
+description: Simple easy to use log lib for go, logs in Colored Console, Simple Console,
+  File or Elasticsearch
+home_addr: https://github.com/sadlil/gologger
+title: gologger
+topics:
+- go
+- lib
+- log

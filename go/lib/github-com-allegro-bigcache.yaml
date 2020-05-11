@@ -1,0 +1,7 @@
+description: Efficient key/value cache for gigabytes of data
+home_addr: https://github.com/allegro/bigcache
+title: BigCache
+topics:
+- go
+- lib
+- db

@@ -1,0 +1,8 @@
+description: HTTPLabs let you inspect HTTP requests and forge responses
+home_addr: https://github.com/gchaincl/httplab
+title: HTTPLab
+topics:
+- go
+- lib
+- net
+- network

@@ -1,0 +1,7 @@
+description: Provides a Bradley-Terry Model for pairwise comparisons
+home_addr: https://github.com/seanhagen/bradleyterry
+title: bradleyterry
+topics:
+- go
+- lib
+- science

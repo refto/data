@@ -1,0 +1,7 @@
+description: Scrape the Twitter Frontend API without authentication and limits
+home_addr: https://github.com/n0madic/twitter-scraper
+title: twitter-scraper
+topics:
+- go
+- lib
+- api

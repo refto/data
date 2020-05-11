@@ -1,0 +1,7 @@
+description: Chrome extension for Go Doc sites, which shows function description as
+  tooltip at function list
+home_addr: https://github.com/diankong/GoDocTooltip
+title: GoDocTooltip
+topics:
+- go
+- tool

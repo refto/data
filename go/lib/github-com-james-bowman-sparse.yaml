@@ -1,0 +1,8 @@
+description: Go Sparse matrix formats for linear algebra supporting scientific and
+  machine learning applications, compatible with gonum matrix libraries
+home_addr: https://github.com/james-bowman/sparse
+title: sparse
+topics:
+- go
+- lib
+- science

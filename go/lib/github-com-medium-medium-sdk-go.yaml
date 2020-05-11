@@ -1,0 +1,7 @@
+description: Golang SDK for Medium's OAuth2 API
+home_addr: https://github.com/Medium/medium-sdk-go
+title: Medium
+topics:
+- go
+- lib
+- api

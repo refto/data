@@ -1,0 +1,6 @@
+description: Highly optimized bit-level Reader and Writer for Go
+home_addr: https://github.com/icza/bitio
+title: bitio
+topics:
+- go
+- lib

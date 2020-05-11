@@ -1,0 +1,6 @@
+description: Lightweight, fault-tolerant message streams for NATS
+home_addr: https://github.com/liftbridge-io/liftbridge
+title: liftbridge
+topics:
+- go
+- lib

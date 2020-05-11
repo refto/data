@@ -1,0 +1,6 @@
+description: distributed sync using operational transformation/OT
+home_addr: https://github.com/dotchain/dot/
+title: dot
+topics:
+- go
+- lib

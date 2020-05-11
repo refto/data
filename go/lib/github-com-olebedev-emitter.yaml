@@ -1,0 +1,9 @@
+description: Emits events using Go way, with wildcard, predicates, cancellation possibilities
+  and many other good wins
+home_addr: https://github.com/olebedev/emitter
+title: emitter
+topics:
+- go
+- lib
+- msg
+- messaging

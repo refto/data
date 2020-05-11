@@ -1,0 +1,9 @@
+description: staticcheck is "go vet" on steroids, applying a ton of static analysis
+  checks you might be used to from tools like ReSharper for C#
+home_addr: https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck
+title: staticcheck
+topics:
+- go
+- tool
+- lint
+- analysis

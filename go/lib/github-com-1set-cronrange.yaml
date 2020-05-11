@@ -1,0 +1,9 @@
+description: Parses Cron-style time range expressions, checks if the given time is
+  within any ranges
+home_addr: https://github.com/1set/cronrange
+title: cronrange
+topics:
+- go
+- lib
+- date
+- time

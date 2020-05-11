@@ -1,0 +1,7 @@
+description: Go bindings for PortMidi
+home_addr: https://github.com/rakyll/portmidi
+title: portmidi
+topics:
+- go
+- lib
+- audio

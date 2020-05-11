@@ -1,0 +1,8 @@
+description: Simple writer that rotate log files automatically based on current date
+  and time, like cronolog
+home_addr: https://github.com/utahta/go-cronowriter
+title: go-cronowriter
+topics:
+- go
+- lib
+- log

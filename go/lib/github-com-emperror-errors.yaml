@@ -1,0 +1,8 @@
+description: Drop-in replacement for the standard library errors package and github.com/pkg/errors.
+  Provides various error handling primitives
+home_addr: https://github.com/emperror/errors
+title: errors
+topics:
+- go
+- lib
+- error

@@ -1,0 +1,7 @@
+description: Lightweight MP3 decoder library
+home_addr: https://github.com/tosone/minimp3
+title: minimp3
+topics:
+- go
+- lib
+- audio

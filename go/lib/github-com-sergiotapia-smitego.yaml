@@ -1,0 +1,7 @@
+description: Go package to wraps access to the Smite game API
+home_addr: https://github.com/sergiotapia/smitego
+title: smite
+topics:
+- go
+- lib
+- api

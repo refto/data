@@ -1,0 +1,7 @@
+description: Lightweight SMTP client providing an HTTP API
+home_addr: https://github.com/hectane/hectane
+title: Hectane
+topics:
+- go
+- lib
+- email

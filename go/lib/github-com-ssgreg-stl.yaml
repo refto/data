@@ -1,0 +1,8 @@
+description: Software transactional locks based on Software Transactional Memory (STM)
+  concurrency control mechanism
+home_addr: https://github.com/ssgreg/stl
+title: stl
+topics:
+- go
+- lib
+- goroutine

@@ -1,0 +1,7 @@
+description: Code generation tool providing generics, free-form macros, conditional
+  compilation and HTML templating
+home_addr: https://github.com/senselogic/GENERIS
+title: generis
+topics:
+- go
+- lib

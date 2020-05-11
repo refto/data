@@ -1,0 +1,7 @@
+description: Fast, tag-based validation for structs
+home_addr: https://github.com/twharmon/govalid
+title: govalid
+topics:
+- go
+- lib
+- validation

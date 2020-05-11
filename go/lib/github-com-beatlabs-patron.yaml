@@ -1,0 +1,8 @@
+description: Patron is a microservice framework following best cloud practices with
+  a focus on productivity
+home_addr: https://github.com/beatlabs/patron
+title: patron
+topics:
+- go
+- lib
+- framework

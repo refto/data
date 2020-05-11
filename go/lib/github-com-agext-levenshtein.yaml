@@ -1,0 +1,7 @@
+description: Levenshtein distance and similarity metrics with customizable edit costs
+  and Winkler-like bonus for common prefix
+home_addr: https://github.com/agext/levenshtein
+title: levenshtein
+topics:
+- go
+- lib

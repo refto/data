@@ -1,0 +1,9 @@
+description: Library for working with IP addresses (net.IP, net.IPNet), inspired by
+  python [ipaddress](https://docs.python.org/3/library/ipaddress.html) and ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr
+home_addr: https://github.com/c-robinson/iplib
+title: iplib
+topics:
+- go
+- lib
+- net
+- network

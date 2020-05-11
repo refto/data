@@ -1,0 +1,8 @@
+description: Go middleware for monetizing APIs on a per-request basis with the Lightning
+  Network (Bitcoin)
+home_addr: https://github.com/philippgille/ln-paywall
+title: ln-paywall
+topics:
+- go
+- lib
+- middleware

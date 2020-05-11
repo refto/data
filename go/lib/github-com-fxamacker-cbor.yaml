@@ -1,0 +1,7 @@
+description: Small, safe, and easy CBOR encoding and decoding library
+home_addr: https://github.com/fxamacker/cbor
+title: cbor
+topics:
+- go
+- lib
+- serialization

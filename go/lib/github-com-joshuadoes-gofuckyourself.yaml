@@ -1,0 +1,7 @@
+description: A sanitization-based swear filter for Go
+home_addr: https://github.com/JoshuaDoes/gofuckyourself
+title: gofuckyourself
+topics:
+- go
+- lib
+- text

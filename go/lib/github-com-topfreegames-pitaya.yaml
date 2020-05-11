@@ -1,0 +1,8 @@
+description: Scalable game server framework with clustering support and client libraries
+  for iOS, Android, Unity and others through the C SDK
+home_addr: https://github.com/topfreegames/pitaya
+title: Pitaya
+topics:
+- go
+- lib
+- game

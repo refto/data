@@ -1,0 +1,7 @@
+description: Sync your MySQL data into Elasticsearch automatically
+home_addr: https://github.com/siddontang/go-mysql-elasticsearch
+title: go-mysql-elasticsearch
+topics:
+- go
+- lib
+- db

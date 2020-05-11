@@ -1,0 +1,6 @@
+description: Highly concurrent drop-in replacement for "bufio.Writer"
+home_addr: https://github.com/free/concurrent-writer
+title: concurrent-writer
+topics:
+- go
+- lib

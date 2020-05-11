@@ -1,0 +1,8 @@
+description: socket.io library for golang, a realtime application framework
+home_addr: https://github.com/googollee/go-socket.io
+title: go-socket.io
+topics:
+- go
+- lib
+- msg
+- messaging

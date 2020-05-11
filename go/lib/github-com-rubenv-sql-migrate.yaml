@@ -1,0 +1,9 @@
+description: Database migration tool. Allows embedding migrations into the application
+  using go-bindata
+home_addr: https://github.com/rubenv/sql-migrate
+title: sql-migrate
+topics:
+- go
+- lib
+- db
+- migration

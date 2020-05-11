@@ -1,0 +1,8 @@
+description: Semaphore pattern implementation with timeout of lock/unlock operations
+  based on channel and context
+home_addr: https://github.com/kamilsk/semaphore
+title: semaphore
+topics:
+- go
+- lib
+- goroutine

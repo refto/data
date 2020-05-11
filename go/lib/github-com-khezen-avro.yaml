@@ -1,0 +1,9 @@
+description: Discover SQL schemas and convert them to AVRO schemas. Query SQL records
+  into AVRO bytes
+home_addr: https://github.com/khezen/avro
+title: avro
+topics:
+- go
+- lib
+- db
+- migration

@@ -1,0 +1,8 @@
+description: goa is just like koajs for golang, it is a flexible, light, high-performance
+  and extensible web framework based on middleware
+home_addr: https://github.com/goa-go/goa
+title: goa
+topics:
+- go
+- lib
+- framework

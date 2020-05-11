@@ -1,0 +1,8 @@
+description: Small configuration library for Go that parses environment variables,
+  JSON files, and reloads automatically on SIGHUP
+home_addr: https://github.com/joshbetz/config
+title: joshbetz/config
+topics:
+- go
+- lib
+- config

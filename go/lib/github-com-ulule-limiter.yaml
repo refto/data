@@ -1,0 +1,7 @@
+description: Dead simple rate limit middleware for Go
+home_addr: https://github.com/ulule/limiter
+title: Limiter
+topics:
+- go
+- lib
+- middleware

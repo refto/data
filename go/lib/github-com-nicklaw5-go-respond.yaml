@@ -1,0 +1,7 @@
+description: Go package for handling common HTTP JSON responses
+home_addr: https://github.com/nicklaw5/go-respond
+title: go-respond
+topics:
+- go
+- lib
+- json

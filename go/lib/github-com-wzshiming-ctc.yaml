@@ -1,0 +1,8 @@
+description: The non-invasive cross-platform terminal color library does not need
+  to modify the Print method
+home_addr: https://github.com/wzshiming/ctc
+title: ctc
+topics:
+- go
+- lib
+- ui

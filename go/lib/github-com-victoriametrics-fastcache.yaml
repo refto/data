@@ -1,0 +1,8 @@
+description: fast thread-safe inmemory cache for big number of entries. Minimizes
+  GC overhead
+home_addr: https://github.com/VictoriaMetrics/fastcache
+title: fastcache
+topics:
+- go
+- lib
+- db

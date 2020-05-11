@@ -1,0 +1,7 @@
+description: A simple Go-based server for map tiles stored in mbtiles format
+home_addr: https://github.com/consbio/mbtileserver
+title: mbtileserver
+topics:
+- go
+- lib
+- geo

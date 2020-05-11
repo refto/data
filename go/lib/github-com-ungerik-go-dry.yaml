@@ -1,0 +1,7 @@
+description: DRY (don't repeat yourself) package for Go
+home_addr: https://github.com/ungerik/go-dry
+title: go-dry
+topics:
+- go
+- lib
+- util

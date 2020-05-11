@@ -1,0 +1,7 @@
+description: Telegram bot server with API similar to net/http
+home_addr: https://github.com/yanzay/tbot
+title: tbot
+topics:
+- go
+- lib
+- bot

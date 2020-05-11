@@ -1,0 +1,7 @@
+description: Go bindings for GStreamer
+home_addr: https://github.com/ziutek/gst
+title: gst
+topics:
+- go
+- lib
+- video

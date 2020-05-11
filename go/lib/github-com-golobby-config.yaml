@@ -1,0 +1,7 @@
+description: A lightweight yet powerful config package for Go projects
+home_addr: https://github.com/golobby/config
+title: config
+topics:
+- go
+- lib
+- config

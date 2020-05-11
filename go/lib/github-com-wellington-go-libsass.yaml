@@ -1,0 +1,7 @@
+description: Go wrapper to the 100% Sass compatible libsass project
+home_addr: https://github.com/wellington/go-libsass
+title: go-libsass
+topics:
+- go
+- lib
+- css

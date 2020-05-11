@@ -1,0 +1,6 @@
+description: alternative Selenium hub server that launches browsers within containers
+home_addr: https://github.com/aerokube/selenoid
+title: selenoid
+topics:
+- go
+- lib

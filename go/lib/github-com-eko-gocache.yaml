@@ -1,0 +1,7 @@
+description: A complete Go cache library with mutiple stores (memory, memcache, redis,
+  ...), chainable, loadable, metrics cache and more
+home_addr: https://github.com/eko/gocache
+title: gocache
+topics:
+- go
+- lib

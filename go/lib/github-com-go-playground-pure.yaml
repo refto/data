@@ -1,0 +1,7 @@
+description: Is a lightweight HTTP router that sticks to the std "net/http" implementation
+home_addr: https://github.com/go-playground/pure
+title: pure
+topics:
+- go
+- lib
+- router

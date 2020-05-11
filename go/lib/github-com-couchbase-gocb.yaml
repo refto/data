@@ -1,0 +1,8 @@
+description: Official Couchbase Go SDK
+home_addr: https://github.com/couchbase/gocb
+title: gocb
+topics:
+- go
+- lib
+- db
+- driver

@@ -1,0 +1,7 @@
+description: cli application framework with auto configuration and dependency injection
+home_addr: https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli
+title: hiboot cli
+topics:
+- go
+- lib
+- cli

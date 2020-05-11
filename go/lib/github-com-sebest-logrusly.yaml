@@ -1,0 +1,8 @@
+description: '[logrus](https://github.com/sirupsen/logrus) plug-in to send errors
+  to a [Loggly](https://www.loggly.com/)'
+home_addr: https://github.com/sebest/logrusly
+title: logrusly
+topics:
+- go
+- lib
+- log

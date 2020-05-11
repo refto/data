@@ -1,0 +1,7 @@
+description: Copy files and artifacts via SSH using a binary, docker or Drone CI
+home_addr: https://github.com/appleboy/drone-scp
+title: drone-scp
+topics:
+- go
+- tool
+- devop

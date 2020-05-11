@@ -1,0 +1,7 @@
+description: Library to simplify access struct fields with Go's expression in reflection
+home_addr: https://github.com/tenntenn/gpath
+title: gpath
+topics:
+- go
+- lib
+- util

@@ -1,0 +1,7 @@
+description: OSX Sleep/Wake notifications in golang
+home_addr: https://github.com/prashantgupta24/mac-sleep-notifier
+title: mac-sleep-notifier
+topics:
+- go
+- lib
+- gui

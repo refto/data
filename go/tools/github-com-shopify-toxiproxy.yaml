@@ -1,0 +1,6 @@
+description: Proxy to simulate network and system conditions for automated tests
+home_addr: https://github.com/shopify/toxiproxy
+title: toxiproxy
+topics:
+- go
+- tool

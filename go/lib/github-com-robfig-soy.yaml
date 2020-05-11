@@ -1,0 +1,8 @@
+description: Closure templates (aka Soy templates) for Go, following the [official
+  spec](https://developers.google.com/closure/templates/)
+home_addr: https://github.com/robfig/soy
+title: Soy
+topics:
+- go
+- lib
+- template

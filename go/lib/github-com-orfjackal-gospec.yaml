@@ -1,0 +1,7 @@
+description: BDD-style testing framework for the Go programming language
+home_addr: https://github.com/orfjackal/gospec
+title: GoSpec
+topics:
+- go
+- lib
+- test

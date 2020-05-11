@@ -1,0 +1,8 @@
+description: Cross-platform (Windows/Linux/Mac) library for creating desktop games
+  using a minimal API
+home_addr: https://github.com/gonutz/prototype
+title: prototype
+topics:
+- go
+- lib
+- game

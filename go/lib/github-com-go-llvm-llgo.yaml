@@ -1,0 +1,6 @@
+description: LLVM-based compiler for Go
+home_addr: https://github.com/go-llvm/llgo
+title: llgo
+topics:
+- go
+- lib

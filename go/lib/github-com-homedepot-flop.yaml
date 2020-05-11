@@ -1,0 +1,8 @@
+description: File operations library which aims to mirror feature parity with [GNU
+  cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html)
+home_addr: https://github.com/homedepot/flop
+title: flop
+topics:
+- go
+- lib
+- file

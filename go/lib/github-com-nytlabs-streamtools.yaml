@@ -1,0 +1,7 @@
+description: general purpose, graphical tool for dealing with streams of data
+home_addr: https://github.com/nytlabs/streamtools
+title: streamtools
+topics:
+- go
+- lib
+- science

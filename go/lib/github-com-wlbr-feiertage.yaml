@@ -1,0 +1,9 @@
+description: Set of functions to calculate public holidays in Germany, incl. specialization
+  on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving..
+home_addr: https://github.com/wlbr/feiertage
+title: feiertage
+topics:
+- go
+- lib
+- date
+- time

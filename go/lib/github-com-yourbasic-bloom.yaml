@@ -1,0 +1,6 @@
+description: Golang Bloom filter implementation
+home_addr: https://github.com/yourbasic/bloom
+title: bloom
+topics:
+- go
+- lib

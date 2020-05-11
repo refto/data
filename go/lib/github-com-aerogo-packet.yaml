@@ -1,0 +1,9 @@
+description: Send packets over TCP and UDP. It can buffer messages and hot-swap connections
+  if needed
+home_addr: https://github.com/aerogo/packet
+title: packet
+topics:
+- go
+- lib
+- net
+- network

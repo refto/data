@@ -1,0 +1,7 @@
+description: Go client library for the SPTrans Olho Vivo API
+home_addr: https://github.com/sergioaugrod/go-sptrans
+title: go-sptrans
+topics:
+- go
+- lib
+- api

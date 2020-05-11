@@ -1,0 +1,7 @@
+description: Structured logging package for Go
+home_addr: https://github.com/apex/log
+title: log
+topics:
+- go
+- lib
+- log

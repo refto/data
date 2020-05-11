@@ -1,0 +1,8 @@
+description: Couchbase client in Go
+home_addr: https://github.com/couchbase/go-couchbase
+title: go-couchbase
+topics:
+- go
+- lib
+- db
+- driver

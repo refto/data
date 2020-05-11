@@ -1,0 +1,6 @@
+description: A revamped Google's jump consistent hash
+home_addr: https://github.com/edwingeng/doublejump
+title: doublejump
+topics:
+- go
+- lib

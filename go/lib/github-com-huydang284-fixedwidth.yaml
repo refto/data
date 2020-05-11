@@ -1,0 +1,7 @@
+description: Fixed-width text formatting (UTF-8 supported)
+home_addr: https://github.com/huydang284/fixedwidth
+title: fixedwidth
+topics:
+- go
+- lib
+- serialization

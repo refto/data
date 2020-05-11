@@ -1,0 +1,7 @@
+description: Library for executing shell commands on osx, windows and linux
+home_addr: https://github.com/SimonBaeumer/cmd
+title: cmd
+topics:
+- go
+- lib
+- util

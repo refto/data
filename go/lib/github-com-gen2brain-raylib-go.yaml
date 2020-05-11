@@ -1,0 +1,8 @@
+description: Go bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use
+  library to learn videogames programming
+home_addr: https://github.com/gen2brain/raylib-go
+title: raylib-go
+topics:
+- go
+- lib
+- game

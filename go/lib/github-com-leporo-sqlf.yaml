@@ -1,0 +1,8 @@
+description: Fast SQL query builder
+home_addr: https://github.com/leporo/sqlf
+title: sqlf
+topics:
+- go
+- lib
+- db
+- sql

@@ -1,0 +1,7 @@
+description: Another framework for building Slack bots
+home_addr: https://github.com/alexandre-normand/slackscot
+title: slackscot
+topics:
+- go
+- lib
+- bot

@@ -1,0 +1,9 @@
+description: Bayesian text classifier with flexible tokenizers and storage backends
+  for Go
+home_addr: https://github.com/eaigner/shield
+title: shield
+topics:
+- go
+- lib
+- ml
+- machine learning

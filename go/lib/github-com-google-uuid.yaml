@@ -1,0 +1,8 @@
+description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and
+  Security Services'
+home_addr: https://github.com/google/uuid
+title: uuid
+topics:
+- go
+- lib
+- uuid

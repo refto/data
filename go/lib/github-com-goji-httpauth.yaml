@@ -1,0 +1,7 @@
+description: HTTP Authentication middleware
+home_addr: https://github.com/goji/httpauth
+title: httpauth
+topics:
+- go
+- lib
+- auth

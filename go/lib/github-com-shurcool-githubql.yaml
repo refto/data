@@ -1,0 +1,7 @@
+description: Go library for accessing the GitHub GraphQL API v4
+home_addr: https://github.com/shurcooL/githubql
+title: githubql
+topics:
+- go
+- lib
+- api

@@ -1,0 +1,6 @@
+description: De-duplicating backup program
+home_addr: https://github.com/restic/restic
+title: restic
+topics:
+- go
+- tool

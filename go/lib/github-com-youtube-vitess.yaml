@@ -1,0 +1,8 @@
+description: vitess provides servers and tools which facilitate scaling of MySQL databases
+  for large scale web services
+home_addr: https://github.com/youtube/vitess
+title: vitess
+topics:
+- go
+- lib
+- db

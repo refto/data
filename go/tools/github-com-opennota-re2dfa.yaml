@@ -1,0 +1,8 @@
+description: Transform regular expressions into finite state machines and output Go
+  source code
+home_addr: https://github.com/opennota/re2dfa
+title: re2dfa
+topics:
+- go
+- tool
+- generate

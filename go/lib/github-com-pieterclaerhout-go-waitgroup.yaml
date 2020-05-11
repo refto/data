@@ -1,0 +1,7 @@
+description: Like "sync.WaitGroup"" with error handling and concurrency control
+home_addr: https://github.com/pieterclaerhout/go-waitgroup
+title: go-waitgroup
+topics:
+- go
+- lib
+- goroutine

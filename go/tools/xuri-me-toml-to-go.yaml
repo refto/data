@@ -1,0 +1,7 @@
+description: Translates TOML into a Go type in the browser instantly
+home_addr: https://xuri.me/toml-to-go
+title: TOML-to-Go
+topics:
+- go
+- tool
+- generate

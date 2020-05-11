@@ -1,0 +1,7 @@
+description: libsamplerate bindings for go
+home_addr: https://github.com/dh1tw/gosamplerate
+title: gosamplerate
+topics:
+- go
+- lib
+- audio

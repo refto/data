@@ -1,0 +1,8 @@
+description: Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext,
+  .smi, etc.)
+home_addr: https://github.com/asticode/go-astisub
+title: go-astisub
+topics:
+- go
+- lib
+- video

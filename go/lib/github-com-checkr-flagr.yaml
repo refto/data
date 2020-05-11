@@ -1,0 +1,7 @@
+description: Flagr is an open-source feature flagging and A/B testing service
+home_addr: https://github.com/checkr/flagr
+title: Flagr
+topics:
+- go
+- lib
+- server

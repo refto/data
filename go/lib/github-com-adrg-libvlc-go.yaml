@@ -1,0 +1,7 @@
+description: Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player)
+home_addr: https://github.com/adrg/libvlc-go
+title: libvlc-go
+topics:
+- go
+- lib
+- video

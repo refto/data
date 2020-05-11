@@ -1,0 +1,7 @@
+description: Microservice toolkit with support for service discovery, load balancing,
+  pluggable transports, request tracking, etc
+home_addr: https://github.com/go-kit/kit
+title: go-kit
+topics:
+- go
+- lib

@@ -1,0 +1,8 @@
+description: manipulate and inspect VCS repositories in Go
+home_addr: https://github.com/sourcegraph/go-vcs
+title: go-vcs
+topics:
+- go
+- lib
+- vcs
+- version control

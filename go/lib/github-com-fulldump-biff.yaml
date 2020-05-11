@@ -1,0 +1,7 @@
+description: Bifurcation testing framework, BDD compatible
+home_addr: https://github.com/fulldump/biff
+title: biff
+topics:
+- go
+- lib
+- test

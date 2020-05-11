@@ -1,0 +1,8 @@
+description: Neo4j Rest API Bindings for Golang
+home_addr: https://github.com/cihangir/neo4j
+title: neo4j
+topics:
+- go
+- lib
+- db
+- driver

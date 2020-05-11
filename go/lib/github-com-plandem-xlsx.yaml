@@ -1,0 +1,8 @@
+description: Fast and safe way to read/update your existing Microsoft Excel files
+  in Go programs
+home_addr: https://github.com/plandem/xlsx
+title: xlsx
+topics:
+- go
+- lib
+- excel

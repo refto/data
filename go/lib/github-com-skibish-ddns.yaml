@@ -1,0 +1,7 @@
+description: Personal DDNS client with Digital Ocean Networking DNS as backend
+home_addr: https://github.com/skibish/ddns
+title: DDNS
+topics:
+- go
+- lib
+- dns

@@ -1,0 +1,7 @@
+description: usql is a universal command-line interface for SQL databases
+home_addr: https://github.com/knq/usql
+title: usql
+topics:
+- go
+- lib
+- util

@@ -1,0 +1,7 @@
+description: Go library for accessing the GitHub REST API v3
+home_addr: https://github.com/google/go-github
+title: github
+topics:
+- go
+- lib
+- api

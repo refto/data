@@ -1,0 +1,7 @@
+description: generator for Cap'n Proto schemas from go
+home_addr: https://github.com/glycerine/bambam
+title: bambam
+topics:
+- go
+- lib
+- serialization

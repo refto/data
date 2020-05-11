@@ -1,0 +1,7 @@
+description: Enable your Go applications to self update
+home_addr: https://github.com/sanbornm/go-selfupdate
+title: go-selfupdate
+topics:
+- go
+- tool
+- devop

@@ -1,0 +1,8 @@
+description: Adds zero-value return statements to match the func return types
+home_addr: https://sourcegraph.com/github.com/sqs/goreturns
+title: goreturns
+topics:
+- go
+- tool
+- lint
+- analysis

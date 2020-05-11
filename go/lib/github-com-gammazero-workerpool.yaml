@@ -1,0 +1,8 @@
+description: Goroutine pool that limits the concurrency of task execution, not the
+  number of tasks queued
+home_addr: https://github.com/gammazero/workerpool
+title: workerpool
+topics:
+- go
+- lib
+- goroutine

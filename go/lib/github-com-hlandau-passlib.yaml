@@ -1,0 +1,7 @@
+description: Futureproof password hashing library
+home_addr: https://github.com/hlandau/passlib
+title: passlib
+topics:
+- go
+- lib
+- security

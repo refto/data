@@ -1,0 +1,8 @@
+description: A go library and an executable that produces valid Dockerfiles using
+  various input channels
+home_addr: https://github.com/ozankasikci/dockerfile-generator
+title: Dockerfile-Generator
+topics:
+- go
+- tool
+- devop

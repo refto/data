@@ -1,0 +1,8 @@
+description: Golang package for easy remote execution through SSH and SCP downloading
+  via "ProxyCommand"
+home_addr: https://github.com/appleboy/easyssh-proxy
+title: easyssh-proxy
+topics:
+- go
+- tool
+- devop

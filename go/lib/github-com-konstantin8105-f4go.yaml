@@ -1,0 +1,6 @@
+description: Transpile FORTRAN 77 code to Go code
+home_addr: https://github.com/Konstantin8105/f4go
+title: f4go
+topics:
+- go
+- lib

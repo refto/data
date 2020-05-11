@@ -1,0 +1,8 @@
+description: ORM generator. Generate a featureful and blazing-fast ORM tailored to
+  your database schema
+home_addr: https://github.com/volatiletech/sqlboiler
+title: SQLBoiler
+topics:
+- go
+- lib
+- orm

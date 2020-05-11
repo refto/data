@@ -1,0 +1,7 @@
+description: Oversight is a complete implementation of the Erlang supervision trees
+home_addr: https://cirello.io/oversight
+title: oversight
+topics:
+- go
+- lib
+- goroutine

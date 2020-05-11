@@ -1,0 +1,7 @@
+description: encrypt/decrypt using ssh keys
+home_addr: https://github.com/ssh-vault/ssh-vault
+title: ssh-vault
+topics:
+- go
+- lib
+- security

@@ -1,0 +1,7 @@
+description: Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
+home_addr: https://github.com/c-bata/go-prompt
+title: go-prompt
+topics:
+- go
+- lib
+- ui

@@ -1,0 +1,7 @@
+description: Benchmarks of common basic operations for the Go language
+home_addr: https://github.com/PuerkitoBio/gocostmodel
+title: gocostmodel
+topics:
+- go
+- lib
+- benchmark

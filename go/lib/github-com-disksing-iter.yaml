@@ -1,0 +1,6 @@
+description: Go implementation of C++ STL iterators and algorithms
+home_addr: https://github.com/disksing/iter
+title: iter
+topics:
+- go
+- lib

@@ -1,0 +1,7 @@
+description: Implementation of dataframes, series, and data wrangling methods for
+  Go
+home_addr: https://github.com/kniren/gota
+title: gota
+topics:
+- go
+- lib

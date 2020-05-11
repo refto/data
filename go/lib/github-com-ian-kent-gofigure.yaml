@@ -1,0 +1,7 @@
+description: Go application configuration made easy
+home_addr: https://github.com/ian-kent/gofigure
+title: gofigure
+topics:
+- go
+- lib
+- config

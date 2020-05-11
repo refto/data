@@ -1,0 +1,7 @@
+description: Go Library to make CRUD request to the Shopify API
+home_addr: https://github.com/rapito/go-shopify
+title: shopify
+topics:
+- go
+- lib
+- api

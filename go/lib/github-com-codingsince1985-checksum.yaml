@@ -1,0 +1,7 @@
+description: Compute message digest, like MD5 and SHA256, for large files
+home_addr: https://github.com/codingsince1985/checksum
+title: checksum
+topics:
+- go
+- lib
+- file

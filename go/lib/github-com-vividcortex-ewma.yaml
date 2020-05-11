@@ -1,0 +1,7 @@
+description: Exponentially-weighted moving averages
+home_addr: https://github.com/VividCortex/ewma
+title: ewma
+topics:
+- go
+- lib
+- science

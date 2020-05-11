@@ -1,0 +1,8 @@
+description: Terminal color rendering tool library, support 16 colors, 256 colors,
+  RGB color rendering output, compatible with Windows
+home_addr: https://github.com/gookit/color
+title: gookit/color
+topics:
+- go
+- lib
+- ui

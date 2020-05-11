@@ -1,0 +1,7 @@
+description: Flexible mechanism to make execution flow interruptible
+home_addr: https://github.com/kamilsk/breaker
+title: breaker
+topics:
+- go
+- lib
+- goroutine

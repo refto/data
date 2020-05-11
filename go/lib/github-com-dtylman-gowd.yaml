@@ -1,0 +1,8 @@
+description: Rapid and simple desktop UI development with GO, HTML, CSS and NW.js.
+  Cross platform
+home_addr: https://github.com/dtylman/gowd
+title: gowd
+topics:
+- go
+- lib
+- gui

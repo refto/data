@@ -1,0 +1,9 @@
+description: Sending [Line](https://at.line.me/en) notifications using a binary, docker
+  or Drone CI
+home_addr: https://github.com/appleboy/drone-line
+title: drone-line
+topics:
+- go
+- lib
+- msg
+- messaging

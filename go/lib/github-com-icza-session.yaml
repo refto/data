@@ -1,0 +1,8 @@
+description: Go session management for web servers (including support for Google App
+  Engine - GAE)
+home_addr: https://github.com/icza/session
+title: session
+topics:
+- go
+- lib
+- auth

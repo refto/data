@@ -1,0 +1,8 @@
+description: Tool which allows user to create HTTP endpoints (hooks) that execute
+  commands on the server
+home_addr: https://github.com/adnanh/webhook
+title: webhook
+topics:
+- go
+- tool
+- devop

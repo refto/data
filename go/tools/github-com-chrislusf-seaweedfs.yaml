@@ -1,0 +1,6 @@
+description: Fast, Simple and Scalable Distributed File System with O(1) disk seek
+home_addr: https://github.com/chrislusf/seaweedfs
+title: Seaweed File System
+topics:
+- go
+- tool

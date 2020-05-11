@@ -1,0 +1,7 @@
+description: XPath package for Go
+home_addr: https://github.com/antchfx/xpath
+title: xpath
+topics:
+- go
+- lib
+- xml

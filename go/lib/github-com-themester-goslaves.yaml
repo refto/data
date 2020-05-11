@@ -1,0 +1,7 @@
+description: Simple and Asynchronous Goroutine pool library
+home_addr: https://github.com/themester/GoSlaves
+title: GoSlaves
+topics:
+- go
+- lib
+- goroutine

@@ -1,0 +1,7 @@
+description: Tool to generate fake interface implementations for tests
+home_addr: https://github.com/percolate/charlatan
+title: charlatan
+topics:
+- go
+- lib
+- test

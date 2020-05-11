@@ -1,0 +1,8 @@
+description: Datastore Connectivity for BigQuery for go
+home_addr: https://github.com/viant/bgc
+title: bgc
+topics:
+- go
+- lib
+- db
+- driver

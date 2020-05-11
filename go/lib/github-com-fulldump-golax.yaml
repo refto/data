@@ -1,0 +1,8 @@
+description: A non Sinatra fast HTTP framework with support for Google custom methods,
+  deep interceptors, recursion and more
+home_addr: https://github.com/fulldump/golax
+title: Golax
+topics:
+- go
+- lib
+- framework

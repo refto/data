@@ -1,0 +1,7 @@
+description: Tool for deploying code via cdn
+home_addr: https://github.com/chrismckenzie/dropship
+title: Dropship
+topics:
+- go
+- tool
+- devop

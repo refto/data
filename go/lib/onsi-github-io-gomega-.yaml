@@ -1,0 +1,7 @@
+description: Rspec like matcher/assertion library
+home_addr: http://onsi.github.io/gomega/
+title: gomega
+topics:
+- go
+- lib
+- test

@@ -1,0 +1,8 @@
+description: Library of financial functions for time value of money (annuities), cash
+  flow, interest rate conversions, bonds and depreciation calculations
+home_addr: https://github.com/alpeb/go-finance
+title: go-finance
+topics:
+- go
+- lib
+- finance

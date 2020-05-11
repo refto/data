@@ -1,0 +1,8 @@
+description: Composable, observable and performant config handling for Go for the
+  distributed processing era
+home_addr: https://github.com/lalamove/konfig
+title: konfig
+topics:
+- go
+- lib
+- config

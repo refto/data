@@ -1,0 +1,7 @@
+description: Extremely flexible golang deep comparison, extends the go testing package
+home_addr: https://github.com/maxatome/go-testdeep
+title: go-testdeep
+topics:
+- go
+- lib
+- test

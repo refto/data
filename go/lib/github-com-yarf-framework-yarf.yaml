@@ -1,0 +1,8 @@
+description: Fast micro-framework designed to build REST APIs and web services in
+  a fast and simple way
+home_addr: https://github.com/yarf-framework/yarf
+title: YARF
+topics:
+- go
+- lib
+- framework

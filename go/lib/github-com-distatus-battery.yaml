@@ -1,0 +1,6 @@
+description: Cross-platform, normalized battery information library
+home_addr: https://github.com/distatus/battery
+title: battery
+topics:
+- go
+- lib

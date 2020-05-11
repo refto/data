@@ -1,0 +1,8 @@
+description: Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal
+  number Pi
+home_addr: https://github.com/claygod/PiHex
+title: PiHex
+topics:
+- go
+- lib
+- science

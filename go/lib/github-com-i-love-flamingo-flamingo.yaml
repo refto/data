@@ -1,0 +1,9 @@
+description: Framework for pluggable web projects. Including a concept for modules
+  and offering features for DI, Configareas, i18n, template engines, graphql, observability,
+  security, events, routing & reverse routing etc
+home_addr: https://github.com/i-love-flamingo/flamingo
+title: Flamingo
+topics:
+- go
+- lib
+- framework

@@ -1,0 +1,7 @@
+description: Code generation tool for high performance conversion from interface{}
+  to immutable type without allocations
+home_addr: https://github.com/t0pep0/efaceconv
+title: efaceconv
+topics:
+- go
+- lib

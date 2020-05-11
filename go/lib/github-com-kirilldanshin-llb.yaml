@@ -1,0 +1,9 @@
+description: It's a very simple but quick backend for proxy servers. Can be useful
+  for fast redirection to predefined domain with zero memory allocation and fast response
+home_addr: https://github.com/kirillDanshin/llb
+title: llb
+topics:
+- go
+- lib
+- net
+- network

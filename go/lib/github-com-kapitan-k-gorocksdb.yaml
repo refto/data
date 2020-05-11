@@ -1,0 +1,8 @@
+description: Gorocksdb is a wrapper for [RocksDB](https://rocksdb.org) written in
+  Go
+home_addr: https://github.com/kapitan-k/gorocksdb
+title: gorocksdb
+topics:
+- go
+- lib
+- db

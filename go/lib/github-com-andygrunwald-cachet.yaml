@@ -1,0 +1,7 @@
+description: Go client library for [Cachet (open source status page system)](https://cachethq.io/)
+home_addr: https://github.com/andygrunwald/cachet
+title: cachet
+topics:
+- go
+- lib
+- api

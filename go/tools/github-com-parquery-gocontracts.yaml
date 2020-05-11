@@ -1,0 +1,7 @@
+description: brings design-by-contract to Go by synchronizing the code with the documentation
+home_addr: https://github.com/Parquery/gocontracts
+title: gocontracts
+topics:
+- go
+- tool
+- generate

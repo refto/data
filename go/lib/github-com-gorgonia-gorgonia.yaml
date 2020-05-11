@@ -1,0 +1,9 @@
+description: graph-based computational library like Theano for Go that provides primitives
+  for building various machine learning and neural network algorithms
+home_addr: https://github.com/gorgonia/gorgonia
+title: gorgonia
+topics:
+- go
+- lib
+- ml
+- machine learning

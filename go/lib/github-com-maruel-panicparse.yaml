@@ -1,0 +1,7 @@
+description: Groups similar goroutines and colorizes stack dump
+home_addr: https://github.com/maruel/panicparse
+title: panicparse
+topics:
+- go
+- lib
+- util

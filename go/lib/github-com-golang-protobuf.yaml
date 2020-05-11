@@ -1,0 +1,8 @@
+description: Go support, in the form of a library and protocol compiler plugin, for
+  Google's protocol buffers
+home_addr: https://github.com/golang/protobuf
+title: goprotobuf
+topics:
+- go
+- lib
+- serialization

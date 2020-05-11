@@ -1,0 +1,8 @@
+description: TiDB is a distributed SQL database. Inspired by the design of Google
+  F1
+home_addr: https://github.com/pingcap/tidb
+title: tidb
+topics:
+- go
+- lib
+- db

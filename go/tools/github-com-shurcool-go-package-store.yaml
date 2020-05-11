@@ -1,0 +1,6 @@
+description: App that displays updates for the Go packages in your GOPATH
+home_addr: https://github.com/shurcooL/Go-Package-Store
+title: Go Package Store
+topics:
+- go
+- tool

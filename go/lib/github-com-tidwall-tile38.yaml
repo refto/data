@@ -1,0 +1,7 @@
+description: Geolocation DB with spatial index and realtime geofencing
+home_addr: https://github.com/tidwall/tile38
+title: Tile38
+topics:
+- go
+- lib
+- geo

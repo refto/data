@@ -1,0 +1,7 @@
+description: Cache library with support for expirable Cache, LFU, LRU and ARC
+home_addr: https://github.com/bluele/gcache
+title: GCache
+topics:
+- go
+- lib
+- db

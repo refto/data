@@ -1,0 +1,8 @@
+description: Fairly complete implementation of the JOSE working group's JSON Web Token,
+  JSON Web Signatures, and JSON Web Encryption specs
+home_addr: https://github.com/square/go-jose
+title: go-jose
+topics:
+- go
+- lib
+- auth

@@ -1,0 +1,7 @@
+description: HTTP load testing tool and library
+home_addr: https://github.com/tsenart/vegeta
+title: Vegeta
+topics:
+- go
+- tool
+- devop

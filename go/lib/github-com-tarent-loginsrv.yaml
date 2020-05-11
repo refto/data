@@ -1,0 +1,8 @@
+description: JWT login microservice with plugable backends such as OAuth2 (Github),
+  htpasswd, osiam
+home_addr: https://github.com/tarent/loginsrv
+title: loginsrv
+topics:
+- go
+- lib
+- auth

@@ -1,0 +1,7 @@
+description: aptly is a Debian repository management tool
+home_addr: https://github.com/smira/aptly
+title: aptly
+topics:
+- go
+- tool
+- devop

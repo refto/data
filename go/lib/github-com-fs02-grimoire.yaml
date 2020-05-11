@@ -1,0 +1,8 @@
+description: 'Grimoire is a database access layer and validation for golang. (Support:
+  MySQL, PostgreSQL and SQLite3)'
+home_addr: https://github.com/Fs02/grimoire
+title: grimoire
+topics:
+- go
+- lib
+- orm

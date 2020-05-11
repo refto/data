@@ -1,0 +1,7 @@
+description: Manage BareMetal Servers from Command Line (as easily as with Docker)
+home_addr: https://github.com/scaleway/scaleway-cli
+title: Scaleway-cli
+topics:
+- go
+- tool
+- devop

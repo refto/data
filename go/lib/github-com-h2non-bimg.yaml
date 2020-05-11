@@ -1,0 +1,7 @@
+description: Small package for fast and efficient image processing using libvips
+home_addr: https://github.com/h2non/bimg
+title: bimg
+topics:
+- go
+- lib
+- image

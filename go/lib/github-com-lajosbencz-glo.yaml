@@ -1,0 +1,7 @@
+description: PHP Monolog inspired logging facility with identical severity levels
+home_addr: https://github.com/lajosbencz/glo
+title: glo
+topics:
+- go
+- lib
+- log

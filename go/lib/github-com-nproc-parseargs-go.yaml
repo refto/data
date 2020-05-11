@@ -1,0 +1,7 @@
+description: string argument parser that understands quotes and backslashes
+home_addr: https://github.com/nproc/parseargs-go
+title: parseargs-go
+topics:
+- go
+- lib
+- text

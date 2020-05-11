@@ -1,0 +1,7 @@
+description: A general-purpose bot library inspired by Hubot but written in Go
+home_addr: https://joe-bot.net
+title: go-joe
+topics:
+- go
+- lib
+- bot

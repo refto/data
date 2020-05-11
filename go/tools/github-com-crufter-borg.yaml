@@ -1,0 +1,6 @@
+description: Terminal based search engine for bash snippets
+home_addr: https://github.com/crufter/borg
+title: borg
+topics:
+- go
+- tool

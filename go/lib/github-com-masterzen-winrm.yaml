@@ -1,0 +1,8 @@
+description: Go WinRM client to remotely execute commands on Windows machines
+home_addr: https://github.com/masterzen/winrm
+title: winrm
+topics:
+- go
+- lib
+- net
+- network

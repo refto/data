@@ -1,0 +1,8 @@
+description: Structured logger for "net/context" aware HTTP handlers with flexible
+  dispatching
+home_addr: https://github.com/rs/xlog
+title: xlog
+topics:
+- go
+- lib
+- log

@@ -1,0 +1,8 @@
+description: Go client to reliable queues based on Redis Cluster Streams
+home_addr: https://github.com/kak-tus/ami
+title: ami
+topics:
+- go
+- lib
+- msg
+- messaging

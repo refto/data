@@ -1,0 +1,8 @@
+description: 'Very simple package to send emails with SMTP Keep Alive and two timeouts:
+  Connect and Send'
+home_addr: https://github.com/xhit/go-simple-mail
+title: go-simple-mail
+topics:
+- go
+- lib
+- email

@@ -1,0 +1,7 @@
+description: Go implementation of systemd Journal's native API for logging
+home_addr: https://github.com/ssgreg/journald
+title: journald
+topics:
+- go
+- lib
+- log

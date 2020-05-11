@@ -1,0 +1,8 @@
+description: This is a Go implementation of [jieba](https://github.com/fxsjy/jieba)
+  which a Chinese word splitting algorithm
+home_addr: https://github.com/yanyiwu/gojieba
+title: gojieba
+topics:
+- go
+- lib
+- lang

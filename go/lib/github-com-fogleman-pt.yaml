@@ -1,0 +1,7 @@
+description: Path tracing engine written in Go
+home_addr: https://github.com/fogleman/pt
+title: pt
+topics:
+- go
+- lib
+- image

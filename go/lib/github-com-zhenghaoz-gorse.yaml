@@ -1,0 +1,9 @@
+description: An offline recommender system backend based on collaborative filtering
+  written in Go
+home_addr: https://github.com/zhenghaoz/gorse
+title: gorse
+topics:
+- go
+- lib
+- ml
+- machine learning

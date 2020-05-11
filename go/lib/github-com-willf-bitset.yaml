@@ -1,0 +1,6 @@
+description: Go package implementing bitsets
+home_addr: https://github.com/willf/bitset
+title: bitset
+topics:
+- go
+- lib

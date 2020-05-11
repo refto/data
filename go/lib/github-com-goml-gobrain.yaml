@@ -1,0 +1,8 @@
+description: Neural Networks written in go
+home_addr: https://github.com/goml/gobrain
+title: gobrain
+topics:
+- go
+- lib
+- ml
+- machine learning

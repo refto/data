@@ -1,0 +1,7 @@
+description: Composable hamcrest-like matchers for Go assertions
+home_addr: https://github.com/corbym/gocrest
+title: gocrest
+topics:
+- go
+- lib
+- test

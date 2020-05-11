@@ -1,0 +1,7 @@
+description: Small and simple package to easily consume REST APIs
+home_addr: https://github.com/bndr/gopencils
+title: gopencils
+topics:
+- go
+- lib
+- util

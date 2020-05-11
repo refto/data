@@ -1,0 +1,7 @@
+description: Simple Chart Plotting library for Go. Supports many graphs types
+home_addr: https://github.com/vdobler/chart
+title: chart
+topics:
+- go
+- lib
+- science

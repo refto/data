@@ -1,0 +1,8 @@
+description: A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses
+  gofpdf. Fast and simple
+home_addr: https://github.com/johnfercher/maroto
+title: maroto
+topics:
+- go
+- lib
+- template

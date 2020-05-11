@@ -1,0 +1,7 @@
+description: Collection of image processing algorithms in pure Go
+home_addr: https://github.com/anthonynsimon/bild
+title: bild
+topics:
+- go
+- lib
+- image

@@ -1,0 +1,8 @@
+description: Tool for code clone detection
+home_addr: https://github.com/mibk/dupl
+title: dupl
+topics:
+- go
+- tool
+- lint
+- analysis

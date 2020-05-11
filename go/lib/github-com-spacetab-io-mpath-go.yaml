@@ -1,0 +1,9 @@
+description: MPTT (Modified Preorder Tree Traversal) package for SQL records - materialized
+  path realisation
+home_addr: https://github.com/spacetab-io/mpath-go
+title: mpath
+topics:
+- go
+- lib
+- db
+- sql

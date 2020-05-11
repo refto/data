@@ -1,0 +1,7 @@
+description: Go library for decoding generic map values into native Go structures
+home_addr: https://github.com/mitchellh/mapstructure
+title: mapstructure
+topics:
+- go
+- lib
+- serialization

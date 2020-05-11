@@ -1,0 +1,8 @@
+description: Useful extensions (Timedelta, Strftime, ...) to the golang's time package
+home_addr: https://github.com/leekchan/timeutil
+title: timeutil
+topics:
+- go
+- lib
+- date
+- time

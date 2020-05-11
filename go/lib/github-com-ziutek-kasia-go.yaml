@@ -1,0 +1,7 @@
+description: Templating system for HTML and other text documents - go implementation
+home_addr: https://github.com/ziutek/kasia.go
+title: kasia.go
+topics:
+- go
+- lib
+- template

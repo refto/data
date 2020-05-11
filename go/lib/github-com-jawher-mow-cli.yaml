@@ -1,0 +1,8 @@
+description: Go library for building CLI applications with sophisticated flag and
+  argument parsing and validation
+home_addr: https://github.com/jawher/mow.cli
+title: mow.cli
+topics:
+- go
+- lib
+- cli

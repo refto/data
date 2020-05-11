@@ -1,0 +1,6 @@
+description: Transpile C code to Go code
+home_addr: https://github.com/Konstantin8105/c4go
+title: c4go
+topics:
+- go
+- lib

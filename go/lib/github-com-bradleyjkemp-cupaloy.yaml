@@ -1,0 +1,7 @@
+description: Simple snapshot testing addon for your test framework
+home_addr: https://github.com/bradleyjkemp/cupaloy
+title: cupaloy
+topics:
+- go
+- lib
+- test

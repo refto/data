@@ -1,0 +1,8 @@
+description: Manage a pool of goroutines using this lightweight library with a simple
+  API
+home_addr: https://github.com/nikhilsaraf/go-tools
+title: go-tools/multithreading
+topics:
+- go
+- lib
+- goroutine

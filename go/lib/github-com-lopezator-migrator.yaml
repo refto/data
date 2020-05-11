@@ -1,0 +1,8 @@
+description: Dead simple Go database migration library
+home_addr: https://github.com/lopezator/migrator
+title: migrator
+topics:
+- go
+- lib
+- db
+- migration

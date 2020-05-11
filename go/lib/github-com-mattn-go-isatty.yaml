@@ -1,0 +1,7 @@
+description: isatty for golang
+home_addr: https://github.com/mattn/go-isatty
+title: go-isatty
+topics:
+- go
+- lib
+- ui

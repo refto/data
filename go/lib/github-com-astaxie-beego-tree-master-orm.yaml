@@ -1,0 +1,7 @@
+description: 'Powerful orm framework for go. Support: pq/mysql/sqlite3'
+home_addr: https://github.com/astaxie/beego/tree/master/orm
+title: beego orm
+topics:
+- go
+- lib
+- orm

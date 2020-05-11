@@ -1,0 +1,7 @@
+description: Easily pretty-print your tabular data with Go
+home_addr: https://github.com/bndr/gotabulate
+title: gotabulate
+topics:
+- go
+- lib
+- text

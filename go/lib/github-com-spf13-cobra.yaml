@@ -1,0 +1,7 @@
+description: Commander for modern Go CLI interactions
+home_addr: https://github.com/spf13/cobra
+title: cobra
+topics:
+- go
+- lib
+- cli

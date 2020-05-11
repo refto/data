@@ -1,0 +1,7 @@
+description: Easily Manage OAuth2 Scopes In Go
+home_addr: https://github.com/SonicRoshan/scope
+title: scope
+topics:
+- go
+- lib
+- auth

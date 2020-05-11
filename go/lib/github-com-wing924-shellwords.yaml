@@ -1,0 +1,7 @@
+description: A Golang library to manipulate strings according to the word parsing
+  rules of the UNIX Bourne shell
+home_addr: https://github.com/Wing924/shellwords
+title: shellwords
+topics:
+- go
+- lib

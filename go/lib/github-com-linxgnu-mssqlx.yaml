@@ -1,0 +1,8 @@
+description: Database client library, proxy for any master slave, master master structures.
+  Lightweight and auto balancing in mind
+home_addr: https://github.com/linxGnu/mssqlx
+title: mssqlx
+topics:
+- go
+- lib
+- util

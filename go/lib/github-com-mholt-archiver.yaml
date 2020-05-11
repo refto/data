@@ -1,0 +1,6 @@
+description: Library and command for making and extracting .zip and .tar.gz archives
+home_addr: https://github.com/mholt/archiver
+title: archiver
+topics:
+- go
+- lib

@@ -1,0 +1,7 @@
+description: Go library for encoding structs into Header fields
+home_addr: https://github.com/mozillazg/go-httpheader
+title: go-httpheader
+topics:
+- go
+- lib
+- util

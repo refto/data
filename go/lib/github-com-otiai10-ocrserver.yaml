@@ -1,0 +1,9 @@
+description: A simple OCR API server, seriously easy to be deployed by Docker and
+  Heroku
+home_addr: https://github.com/otiai10/ocrserver
+title: ocrserver
+topics:
+- go
+- lib
+- ml
+- machine learning

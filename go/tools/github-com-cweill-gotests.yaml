@@ -1,0 +1,7 @@
+description: Generate Go tests from your source code
+home_addr: https://github.com/cweill/gotests
+title: gotests
+topics:
+- go
+- tool
+- generate

@@ -1,0 +1,7 @@
+description: A collection of common regular expressions for Go
+home_addr: https://github.com/mingrammer/commonregex
+title: commonregex
+topics:
+- go
+- lib
+- text

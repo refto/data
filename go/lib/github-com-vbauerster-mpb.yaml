@@ -1,0 +1,7 @@
+description: Multi progress bar for terminal applications
+home_addr: https://github.com/vbauerster/mpb
+title: mpb
+topics:
+- go
+- lib
+- ui

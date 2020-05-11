@@ -1,0 +1,7 @@
+description: Go binding to ImageMagick's MagickWand C API
+home_addr: https://github.com/gographics/imagick
+title: imagick
+topics:
+- go
+- lib
+- image

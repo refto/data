@@ -1,0 +1,8 @@
+description: PDF document generator with high level support for text, drawing and
+  images
+home_addr: https://github.com/jung-kurt/gofpdf
+title: gofpdf
+topics:
+- go
+- lib
+- template

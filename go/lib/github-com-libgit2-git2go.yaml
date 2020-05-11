@@ -1,0 +1,8 @@
+description: Go bindings for libgit2
+home_addr: https://github.com/libgit2/git2go
+title: git2go
+topics:
+- go
+- lib
+- vcs
+- version control

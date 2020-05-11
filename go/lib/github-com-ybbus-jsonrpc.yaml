@@ -1,0 +1,6 @@
+description: JSON-RPC 2.0 HTTP client implementation
+home_addr: https://github.com/ybbus/jsonrpc
+title: jsonrpc
+topics:
+- go
+- lib

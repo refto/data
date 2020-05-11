@@ -1,0 +1,6 @@
+description: Go implementation of the Raft consensus protocol, by CoreOS
+home_addr: https://github.com/coreos/etcd/tree/master/raft
+title: raft
+topics:
+- go
+- lib

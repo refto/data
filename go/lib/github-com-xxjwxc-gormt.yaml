@@ -1,0 +1,7 @@
+description: Mysql database to golang gorm struct
+home_addr: https://github.com/xxjwxc/gormt
+title: gormt
+topics:
+- go
+- lib
+- orm

@@ -1,0 +1,8 @@
+description: Go efficient text segmentation; support english, chinese, japanese and
+  other
+home_addr: https://github.com/go-ego/gse
+title: gse
+topics:
+- go
+- lib
+- lang

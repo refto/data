@@ -1,0 +1,7 @@
+description: Easily Convert Golang structs to GraphQL objects
+home_addr: https://github.com/SonicRoshan/straf
+title: straf
+topics:
+- go
+- lib
+- query

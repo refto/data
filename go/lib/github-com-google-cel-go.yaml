@@ -1,0 +1,7 @@
+description: Fast, portable, non-Turing complete expression evaluation with gradual
+  typing
+home_addr: https://github.com/google/cel-go
+title: cel-go
+topics:
+- go
+- lib

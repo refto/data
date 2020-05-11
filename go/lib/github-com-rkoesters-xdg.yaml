@@ -1,0 +1,6 @@
+description: FreeDesktop.org (xdg) Specs implemented in Go
+home_addr: https://github.com/rkoesters/xdg
+title: xdg
+topics:
+- go
+- lib

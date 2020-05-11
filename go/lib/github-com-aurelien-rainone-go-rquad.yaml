@@ -1,0 +1,6 @@
+description: Region quadtrees with efficient point location and neighbour finding
+home_addr: https://github.com/aurelien-rainone/go-rquad
+title: go-rquad
+topics:
+- go
+- lib

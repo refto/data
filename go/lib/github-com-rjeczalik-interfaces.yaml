@@ -1,0 +1,6 @@
+description: Command line tool for generating interface definitions
+home_addr: https://github.com/rjeczalik/interfaces
+title: interfaces
+topics:
+- go
+- lib

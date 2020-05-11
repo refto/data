@@ -1,0 +1,7 @@
+description: Go session management using the SessionGate Redis module
+home_addr: https://github.com/f0rmiga/sessiongate-go
+title: sessiongate-go
+topics:
+- go
+- lib
+- auth

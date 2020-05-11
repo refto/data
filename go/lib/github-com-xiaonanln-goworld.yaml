@@ -1,0 +1,7 @@
+description: Scalable game server engine, featuring space-entity framework and hot-swapping
+home_addr: https://github.com/xiaonanln/goworld
+title: goworld
+topics:
+- go
+- lib
+- game

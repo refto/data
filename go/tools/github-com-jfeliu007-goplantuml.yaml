@@ -1,0 +1,9 @@
+description: Library and CLI that generates text plantump class diagram containing
+  information about structures and interfaces with the relationship among them
+home_addr: https://github.com/jfeliu007/goplantuml
+title: GoPlantUML
+topics:
+- go
+- tool
+- lint
+- analysis

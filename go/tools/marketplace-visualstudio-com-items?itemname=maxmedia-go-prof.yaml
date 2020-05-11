@@ -1,0 +1,8 @@
+description: This extension adds benchmark profiling support for the Go language to
+  VS Code
+home_addr: https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof
+title: goprofiling
+topics:
+- go
+- tool
+- ide

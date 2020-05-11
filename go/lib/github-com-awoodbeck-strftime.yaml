@@ -1,0 +1,8 @@
+description: C99-compatible strftime formatter
+home_addr: https://github.com/awoodbeck/strftime
+title: strftime
+topics:
+- go
+- lib
+- date
+- time

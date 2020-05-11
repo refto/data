@@ -1,0 +1,7 @@
+description: library created for testing JSON against patterns
+home_addr: https://github.com/jfilipczyk/gomatch
+title: gomatch
+topics:
+- go
+- lib
+- test

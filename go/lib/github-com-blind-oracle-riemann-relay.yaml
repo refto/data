@@ -1,0 +1,7 @@
+description: Relay to load-balance Riemann events and/or convert them to Carbon
+home_addr: https://github.com/blind-oracle/riemann-relay
+title: riemann-relay
+topics:
+- go
+- lib
+- server

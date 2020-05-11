@@ -1,0 +1,8 @@
+description: This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/)
+  which a Chinese word splitting algorithm
+home_addr: https://github.com/awsong/MMSEGO
+title: MMSEGO
+topics:
+- go
+- lib
+- lang

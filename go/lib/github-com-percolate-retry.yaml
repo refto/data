@@ -1,0 +1,7 @@
+description: A simple but highly configurable retry package for Go
+home_addr: https://github.com/percolate/retry
+title: retry
+topics:
+- go
+- lib
+- util

@@ -1,0 +1,7 @@
+description: Type-safe functions for common Go slice operations
+home_addr: https://github.com/psampaz/slice
+title: slice
+topics:
+- go
+- lib
+- util

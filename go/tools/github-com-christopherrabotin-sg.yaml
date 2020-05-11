@@ -1,0 +1,9 @@
+description: Benchmarks a set of HTTP endpoints (like ab), with possibility to use
+  the response code and data between each call for specific server stress based on
+  its previous response
+home_addr: https://github.com/ChristopherRabotin/sg
+title: sg
+topics:
+- go
+- tool
+- devop

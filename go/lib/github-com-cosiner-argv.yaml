@@ -1,0 +1,8 @@
+description: Go library to split command line string as arguments array using the
+  bash syntax
+home_addr: https://github.com/cosiner/argv
+title: argv
+topics:
+- go
+- lib
+- cli

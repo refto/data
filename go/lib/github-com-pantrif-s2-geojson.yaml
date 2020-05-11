@@ -1,0 +1,8 @@
+description: Convert geojson to s2 cells & demonstrating some S2 geometry features
+  on map
+home_addr: https://github.com/pantrif/s2-geojson
+title: S2 geojson
+topics:
+- go
+- lib
+- geo

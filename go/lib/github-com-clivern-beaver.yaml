@@ -1,0 +1,9 @@
+description: A real time messaging server to build a scalable in-app notifications,
+  multiplayer games, chat apps in web and mobile apps
+home_addr: https://github.com/Clivern/Beaver
+title: Beaver
+topics:
+- go
+- lib
+- msg
+- messaging

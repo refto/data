@@ -1,0 +1,7 @@
+description: Mock generator for Go interfaces
+home_addr: https://github.com/gojuno/minimock
+title: minimock
+topics:
+- go
+- lib
+- mock

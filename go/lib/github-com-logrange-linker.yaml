@@ -1,0 +1,8 @@
+description: A reflection based dependency injection and inversion of control library
+  with components lifecycle support
+home_addr: https://github.com/logrange/linker
+title: linker
+topics:
+- go
+- lib
+- di

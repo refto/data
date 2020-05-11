@@ -1,0 +1,8 @@
+description: Encode / decode XML as JSON or map[string]interface{}; extract values
+  with dot-notation paths and wildcards. Replaces x2j and j2x packages
+home_addr: https://github.com/clbanning/mxj
+title: mxj
+topics:
+- go
+- lib
+- text

@@ -1,0 +1,6 @@
+description: Scalable, fault-tolerant application-layer sharding for Go applications
+home_addr: https://github.com/uber/ringpop-go
+title: ringpop-go
+topics:
+- go
+- lib

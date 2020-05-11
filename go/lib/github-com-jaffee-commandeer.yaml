@@ -1,0 +1,8 @@
+description: 'Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct
+  fields and tags'
+home_addr: https://github.com/jaffee/commandeer
+title: commandeer
+topics:
+- go
+- lib
+- cli

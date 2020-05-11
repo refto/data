@@ -1,0 +1,7 @@
+description: Go library for managing configuration data from environment variables
+home_addr: https://github.com/kelseyhightower/envconfig
+title: kelseyhightower/envconfig
+topics:
+- go
+- lib
+- config

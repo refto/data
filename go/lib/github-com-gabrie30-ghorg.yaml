@@ -1,0 +1,7 @@
+description: Quickly clone an entire org/users repositories into one directory - Supports
+  GitHub, GitLab, and Bitbucket
+home_addr: https://github.com/gabrie30/ghorg
+title: ghorg
+topics:
+- go
+- lib

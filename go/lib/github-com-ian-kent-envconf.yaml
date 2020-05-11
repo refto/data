@@ -1,0 +1,7 @@
+description: Configuration from environment
+home_addr: https://github.com/ian-kent/envconf
+title: envconf
+topics:
+- go
+- lib
+- config

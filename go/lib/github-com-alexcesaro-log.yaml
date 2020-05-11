@@ -1,0 +1,8 @@
+description: Stdlog is an object-oriented library providing leveled logging. It is
+  very useful for cron jobs
+home_addr: https://github.com/alexcesaro/log
+title: stdlog
+topics:
+- go
+- lib
+- log

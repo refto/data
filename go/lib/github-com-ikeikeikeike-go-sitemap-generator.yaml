@@ -1,0 +1,7 @@
+description: XML Sitemap generator written in Go
+home_addr: https://github.com/ikeikeikeike/go-sitemap-generator
+title: go-sitemap-generator
+topics:
+- go
+- lib
+- util

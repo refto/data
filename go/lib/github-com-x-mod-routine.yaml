@@ -1,0 +1,8 @@
+description: 'go routine control with context, support: Main, Go, Pool and some useful
+  Executors'
+home_addr: https://github.com/x-mod/routine
+title: routine
+topics:
+- go
+- lib
+- goroutine

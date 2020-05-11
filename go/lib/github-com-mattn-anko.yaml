@@ -1,0 +1,6 @@
+description: Scriptable interpreter written in Go
+home_addr: https://github.com/mattn/anko
+title: anko
+topics:
+- go
+- lib

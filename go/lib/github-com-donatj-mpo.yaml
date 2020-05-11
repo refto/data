@@ -1,0 +1,7 @@
+description: Decoder and conversion tool for MPO 3D Photos
+home_addr: https://github.com/donatj/mpo
+title: mpo
+topics:
+- go
+- lib
+- image

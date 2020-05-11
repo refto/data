@@ -1,0 +1,8 @@
+description: Caching library with support for multiple backend stores (Redis, Memcached,
+  filesystem etc)
+home_addr: https://github.com/adelowo/onecache
+title: onecache
+topics:
+- go
+- lib
+- util

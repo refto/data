@@ -1,0 +1,7 @@
+description: GNU gettext utilities for Go
+home_addr: https://github.com/leonelquinteros/gotext
+title: gotext
+topics:
+- go
+- lib
+- text

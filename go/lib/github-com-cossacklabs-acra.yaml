@@ -1,0 +1,9 @@
+description: 'Network encryption proxy to protect database-based applications from
+  data leaks: strong selective encryption, SQL injections prevention, intrusion detection
+  system'
+home_addr: https://github.com/cossacklabs/acra
+title: acra
+topics:
+- go
+- lib
+- security

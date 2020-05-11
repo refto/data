@@ -1,0 +1,7 @@
+description: Peg, Parsing Expression Grammar, is an implementation of a Packrat parser
+  generator
+home_addr: https://github.com/pointlander/peg
+title: peg
+topics:
+- go
+- tool

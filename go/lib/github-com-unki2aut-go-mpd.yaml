@@ -1,0 +1,7 @@
+description: Parser and generator library for MPEG-DASH manifest files
+home_addr: https://github.com/unki2aut/go-mpd
+title: go-mpd
+topics:
+- go
+- lib
+- video

@@ -1,0 +1,7 @@
+description: Tome was designed to paginate simple RESTful APIs
+home_addr: https://github.com/cyruzin/tome
+title: tome
+topics:
+- go
+- lib
+- util

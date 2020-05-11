@@ -1,0 +1,7 @@
+description: A golang package to communicate with HipChat over XMPP
+home_addr: https://github.com/daneharrigan/hipchat
+title: hipchat (xmpp)
+topics:
+- go
+- lib
+- api

@@ -1,0 +1,8 @@
+description: Hosting solution written in Go. Deploy your Application with ease on
+  AWS, GCP or DigitalOcean
+home_addr: https://github.com/go-furnace/go-furnace
+title: go-furnace
+topics:
+- go
+- tool
+- devop

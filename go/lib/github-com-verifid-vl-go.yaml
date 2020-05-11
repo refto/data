@@ -1,0 +1,7 @@
+description: Go client library around the VerifID identity verification layer API
+home_addr: https://github.com/verifid/vl-go
+title: vl-go
+topics:
+- go
+- lib
+- api

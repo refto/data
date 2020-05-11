@@ -1,0 +1,7 @@
+description: Multi-Package go project coverprofile for tools like goveralls
+home_addr: https://github.com/go-playground/overalls
+title: overalls
+topics:
+- go
+- lib
+- ci

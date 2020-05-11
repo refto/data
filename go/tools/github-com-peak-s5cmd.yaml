@@ -1,0 +1,7 @@
+description: Blazing fast S3 and local filesystem execution tool
+home_addr: https://github.com/peak/s5cmd
+title: s5cmd
+topics:
+- go
+- tool
+- devop

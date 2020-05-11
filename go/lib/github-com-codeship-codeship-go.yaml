@@ -1,0 +1,7 @@
+description: Go client library for interacting with Codeship's API v2
+home_addr: https://github.com/codeship/codeship-go
+title: codeship-go
+topics:
+- go
+- lib
+- api

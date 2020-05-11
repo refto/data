@@ -1,0 +1,7 @@
+description: Fast key-value store in Go
+home_addr: https://github.com/dgraph-io/badger
+title: badger
+topics:
+- go
+- lib
+- db

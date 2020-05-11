@@ -1,0 +1,9 @@
+description: Client for stock market, forex and crypto data from finnhub.io. Access
+  real-time financial market data from 60+ stock exchanges, 10 forex brokers, and
+  15+ crypto exchanges
+home_addr: https://github.com/m1/go-finnhub
+title: go-finnhub
+topics:
+- go
+- lib
+- finance

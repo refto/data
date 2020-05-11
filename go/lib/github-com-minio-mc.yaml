@@ -1,0 +1,8 @@
+description: Minio Client provides minimal tools to work with Amazon S3 compatible
+  cloud storage and filesystems
+home_addr: https://github.com/minio/mc
+title: mc
+topics:
+- go
+- lib
+- util

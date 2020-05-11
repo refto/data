@@ -1,0 +1,8 @@
+description: Cgo binding for libtextcat C library. Guaranteed compatibility with version
+  2.2
+home_addr: https://github.com/goodsign/libtextcat
+title: libtextcat
+topics:
+- go
+- lib
+- lang

@@ -1,0 +1,6 @@
+description: A Go distributed systems development framework
+home_addr: https://github.com/gmsec/micro
+title: gmsec
+topics:
+- go
+- lib

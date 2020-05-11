@@ -1,0 +1,8 @@
+description: application config manage(load,get,set). support JSON, YAML, TOML, INI,
+  HCL. multi file load, data override merge
+home_addr: https://github.com/gookit/config
+title: gookit/config
+topics:
+- go
+- lib
+- config

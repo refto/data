@@ -1,0 +1,7 @@
+description: Package for verifying that your JSON payloads are serialized correctly
+home_addr: https://github.com/kinbiko/jsonassert
+title: jsonassert
+topics:
+- go
+- lib
+- test

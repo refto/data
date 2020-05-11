@@ -1,0 +1,8 @@
+description: Simple pubsub package for go
+home_addr: https://github.com/tuxychandru/pubsub
+title: pubsub
+topics:
+- go
+- lib
+- msg
+- messaging

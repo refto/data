@@ -1,0 +1,7 @@
+description: FileSystem Abstraction System for Go
+home_addr: https://github.com/spf13/afero
+title: afero
+topics:
+- go
+- lib
+- file

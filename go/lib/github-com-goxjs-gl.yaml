@@ -1,0 +1,8 @@
+description: Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS,
+  Android)
+home_addr: https://github.com/goxjs/gl
+title: goxjs/gl
+topics:
+- go
+- lib
+- opengl

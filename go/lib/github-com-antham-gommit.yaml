@@ -1,0 +1,6 @@
+description: Analyze git commit messages to ensure they follow defined patterns
+home_addr: https://github.com/antham/gommit
+title: gommit
+topics:
+- go
+- lib

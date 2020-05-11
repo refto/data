@@ -1,0 +1,10 @@
+description: Messaging server using push notifications (Google Firebase Cloud Messaging,
+  Apple Push Notification services, SMS) as well as websockets, a REST API, featuring
+  distributed operation and message-persistence
+home_addr: https://github.com/smancke/guble
+title: guble
+topics:
+- go
+- lib
+- msg
+- messaging

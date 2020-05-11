@@ -1,0 +1,7 @@
+description: Lightweight Goroutine pool
+home_addr: https://github.com/ivpusic/grpool
+title: grpool
+topics:
+- go
+- lib
+- goroutine

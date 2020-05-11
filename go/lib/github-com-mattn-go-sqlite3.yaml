@@ -1,0 +1,8 @@
+description: SQLite3 driver for go that uses database/sql
+home_addr: https://github.com/mattn/go-sqlite3
+title: go-sqlite3
+topics:
+- go
+- lib
+- db
+- driver

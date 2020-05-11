@@ -1,0 +1,7 @@
+description: Embedded key-value store for read-heavy workloads
+home_addr: https://github.com/akrylysov/pogreb
+title: pogreb
+topics:
+- go
+- lib
+- db

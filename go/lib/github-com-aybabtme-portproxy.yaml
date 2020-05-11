@@ -1,0 +1,9 @@
+description: Simple TCP proxy which adds CORS support to API's which don't support
+  it
+home_addr: https://github.com/aybabtme/portproxy
+title: portproxy
+topics:
+- go
+- lib
+- net
+- network

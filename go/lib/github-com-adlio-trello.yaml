@@ -1,0 +1,7 @@
+description: Go wrapper for the Trello API
+home_addr: https://github.com/adlio/trello
+title: Trello
+topics:
+- go
+- lib
+- api

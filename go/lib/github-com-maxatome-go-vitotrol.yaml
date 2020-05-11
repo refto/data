@@ -1,0 +1,8 @@
+description: Client library to Viessmann Vitotrol web service
+home_addr: https://github.com/maxatome/go-vitotrol
+title: go-vitotrol
+topics:
+- go
+- lib
+- msg
+- messaging

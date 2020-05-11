@@ -1,0 +1,6 @@
+description: Generic object pool for Golang
+home_addr: https://github.com/jolestar/go-commons-pool
+title: go-commons-pool
+topics:
+- go
+- lib

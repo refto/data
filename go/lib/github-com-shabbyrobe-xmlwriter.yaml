@@ -1,0 +1,7 @@
+description: Procedural XML generation API based on libxml2's xmlwriter module
+home_addr: https://github.com/shabbyrobe/xmlwriter
+title: xmlwriter
+topics:
+- go
+- lib
+- xml

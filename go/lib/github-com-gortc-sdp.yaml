@@ -1,0 +1,7 @@
+description: 'SDP: Session Description Protocol [[RFC 4566](https://tools.ietf.org/html/rfc4566)]'
+home_addr: https://github.com/gortc/sdp
+title: sdp
+topics:
+- go
+- lib
+- text

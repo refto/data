@@ -1,0 +1,8 @@
+description: A nicer interface for golang stdlib HTTP client
+home_addr: https://github.com/ddo/rq
+title: rq
+topics:
+- go
+- lib
+- http
+- client

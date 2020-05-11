@@ -1,0 +1,7 @@
+description: A dependency injection toolkit for Go, based on Guice
+home_addr: https://github.com/i-love-flamingo/dingo
+title: dingo
+topics:
+- go
+- lib
+- di

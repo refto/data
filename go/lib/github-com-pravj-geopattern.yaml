@@ -1,0 +1,7 @@
+description: Create beautiful generative image patterns from a string
+home_addr: https://github.com/pravj/geopattern
+title: geopattern
+topics:
+- go
+- lib
+- image

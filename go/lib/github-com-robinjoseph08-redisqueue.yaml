@@ -1,0 +1,9 @@
+description: redisqueue provides a producer and consumer of a queue that uses Redis
+  streams
+home_addr: https://github.com/robinjoseph08/redisqueue
+title: redisqueue
+topics:
+- go
+- lib
+- msg
+- messaging

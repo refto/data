@@ -1,0 +1,7 @@
+description: gowp is concurrency limiting goroutine pool
+home_addr: https://github.com/xxjwxc/gowp
+title: gowp
+topics:
+- go
+- lib
+- goroutine

@@ -1,0 +1,7 @@
+description: Simple in-memory job queue for Golang using worker-based dispatching
+home_addr: https://github.com/borderstech/artifex
+title: artifex
+topics:
+- go
+- lib
+- goroutine

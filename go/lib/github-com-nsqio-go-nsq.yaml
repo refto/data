@@ -1,0 +1,8 @@
+description: the official Go package for NSQ
+home_addr: https://github.com/nsqio/go-nsq
+title: go-nsq
+topics:
+- go
+- lib
+- msg
+- messaging

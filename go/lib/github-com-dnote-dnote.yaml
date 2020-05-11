@@ -1,0 +1,7 @@
+description: A simple command line notebook with multi-device sync
+home_addr: https://github.com/dnote/dnote
+title: Dnote
+topics:
+- go
+- lib
+- cli

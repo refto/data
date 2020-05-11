@@ -1,0 +1,6 @@
+description: Bloom filters implemented in Go
+home_addr: https://github.com/zhenjl/bloom
+title: bloom
+topics:
+- go
+- lib

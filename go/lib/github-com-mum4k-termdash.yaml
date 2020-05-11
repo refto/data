@@ -1,0 +1,7 @@
+description: Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui)
+home_addr: https://github.com/mum4k/termdash
+title: termdash
+topics:
+- go
+- lib
+- ui

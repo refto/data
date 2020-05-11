@@ -1,0 +1,7 @@
+description: A modern, powerful, and robust URL shortener microservice with mysql
+  support
+home_addr: https://github.com/pantrif/url-shortener
+title: url-shortener
+topics:
+- go
+- lib

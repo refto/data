@@ -1,0 +1,6 @@
+description: naive go bindings to the CPython C-API
+home_addr: https://github.com/sbinet/go-python
+title: go-python
+topics:
+- go
+- lib

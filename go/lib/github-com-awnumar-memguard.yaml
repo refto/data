@@ -1,0 +1,7 @@
+description: A pure Go library for handling sensitive values in memory
+home_addr: https://github.com/awnumar/memguard
+title: memguard
+topics:
+- go
+- lib
+- security

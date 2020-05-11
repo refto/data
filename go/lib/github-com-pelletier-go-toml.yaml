@@ -1,0 +1,7 @@
+description: Go library for the TOML format with query support and handy cli tools
+home_addr: https://github.com/pelletier/go-toml
+title: go-toml
+topics:
+- go
+- lib
+- text

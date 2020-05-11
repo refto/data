@@ -1,0 +1,8 @@
+description: A tiny wrapper over amqp exchanges and queues
+home_addr: https://github.com/rafaeljesus/rabbus
+title: rabbus
+topics:
+- go
+- lib
+- msg
+- messaging

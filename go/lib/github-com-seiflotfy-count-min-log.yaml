@@ -1,0 +1,7 @@
+description: 'Go implementation Count-Min-Log sketch: Approximately counting with
+  approximate counters (Like Count-Min sketch but using less memory)'
+home_addr: https://github.com/seiflotfy/count-min-log
+title: count-min-log
+topics:
+- go
+- lib

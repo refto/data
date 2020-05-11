@@ -1,0 +1,8 @@
+description: Smart and featureful cron job scheduler with job queuing and live monitoring
+  built in
+home_addr: https://github.com/bamzi/jobrunner
+title: JobRunner
+topics:
+- go
+- lib
+- schedule

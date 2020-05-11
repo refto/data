@@ -1,0 +1,8 @@
+description: Go cross-platform glfw library for creating an OpenGL context and receiving
+  events
+home_addr: https://github.com/goxjs/glfw
+title: goxjs/glfw
+topics:
+- go
+- lib
+- opengl

@@ -1,0 +1,8 @@
+description: provides a set of extensions on top of the excellent built-in database/sql
+  package
+home_addr: https://github.com/jmoiron/sqlx
+title: sqlx
+topics:
+- go
+- lib
+- util

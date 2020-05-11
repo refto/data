@@ -1,0 +1,8 @@
+description: Framework to build REST/GraphQL API on top of databases with mostly configuration
+  over code
+home_addr: http://rest-layer.io
+title: REST Layer
+topics:
+- go
+- lib
+- framework

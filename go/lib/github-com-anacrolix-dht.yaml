@@ -1,0 +1,6 @@
+description: BitTorrent Kademlia DHT implementation
+home_addr: https://github.com/anacrolix/dht
+title: dht
+topics:
+- go
+- lib

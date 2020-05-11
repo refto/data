@@ -1,0 +1,8 @@
+description: A simple configuration library with recursive placeholders resolution
+  and no magic
+home_addr: https://github.com/ufoscout/go-up
+title: go-up
+topics:
+- go
+- lib
+- config

@@ -1,0 +1,8 @@
+description: Lightweight templating language that lets you write templates in Go.
+  Templates are translated into Go and compiled
+home_addr: https://github.com/benbjohnson/ego
+title: ego
+topics:
+- go
+- lib
+- template

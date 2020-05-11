@@ -1,0 +1,8 @@
+description: Collection of useful utility functions. (strings, concurrency, manipulations,
+  ...)
+home_addr: https://github.com/shomali11/util
+title: util
+topics:
+- go
+- lib
+- util

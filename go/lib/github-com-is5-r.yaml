@@ -1,0 +1,7 @@
+description: Python-like "range()" experience for Go
+home_addr: https://github.com/is5/r
+title: r
+topics:
+- go
+- lib
+- util

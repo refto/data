@@ -1,0 +1,7 @@
+description: Package provides a generic interface to encoders and decodersa
+home_addr: https://github.com/mickep76/encdec
+title: encdec
+topics:
+- go
+- lib
+- text

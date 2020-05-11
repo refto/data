@@ -1,0 +1,7 @@
+description: ID hashing and Obfuscation using Knuth's Algorithm
+home_addr: https://github.com/pjebs/optimus-go
+title: optimus-go
+topics:
+- go
+- lib
+- security

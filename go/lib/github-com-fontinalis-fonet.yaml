@@ -1,0 +1,8 @@
+description: A Deep Neural Network library written in Go
+home_addr: https://github.com/Fontinalis/fonet
+title: fonet
+topics:
+- go
+- lib
+- ml
+- machine learning

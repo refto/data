@@ -1,0 +1,7 @@
+description: Mocha like testing framework fo Go
+home_addr: https://github.com/franela/goblin
+title: goblin
+topics:
+- go
+- lib
+- test

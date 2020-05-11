@@ -1,0 +1,7 @@
+description: Interop between Go and JS values
+home_addr: https://github.com/norunners/vert
+title: vert
+topics:
+- go
+- lib
+- web assembly

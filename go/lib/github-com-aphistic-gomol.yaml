@@ -1,0 +1,7 @@
+description: Multiple-output, structured logging for Go with extensible logging outputs
+home_addr: https://github.com/aphistic/gomol
+title: gomol
+topics:
+- go
+- lib
+- log

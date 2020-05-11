@@ -1,0 +1,7 @@
+description: Go client library for the [LastPass](https://www.lastpass.com/) API
+home_addr: https://github.com/ansd/lastpass-go
+title: lastpass-go
+topics:
+- go
+- lib
+- api

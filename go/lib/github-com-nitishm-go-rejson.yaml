@@ -1,0 +1,9 @@
+description: Golang client for redislabs' ReJSON module using Redigo golang client.
+  Store and manipulate structs as JSON objects in redis with ease
+home_addr: https://github.com/nitishm/go-rejson
+title: go-rejson
+topics:
+- go
+- lib
+- db
+- driver

@@ -1,0 +1,8 @@
+description: Ruby-compatible Strftime function
+home_addr: https://github.com/osteele/tuesday
+title: tuesday
+topics:
+- go
+- lib
+- date
+- time

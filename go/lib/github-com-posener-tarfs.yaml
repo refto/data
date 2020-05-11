@@ -1,0 +1,7 @@
+description: Implementation of the fs.FileSystem for tar files
+home_addr: https://github.com/posener/tarfs
+title: tarfs
+topics:
+- go
+- lib
+- file

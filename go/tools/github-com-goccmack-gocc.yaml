@@ -1,0 +1,6 @@
+description: Gocc is a compiler kit for Go written in Go
+home_addr: https://github.com/goccmack/gocc
+title: gocc
+topics:
+- go
+- tool

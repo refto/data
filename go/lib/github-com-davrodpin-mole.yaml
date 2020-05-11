@@ -1,0 +1,7 @@
+description: cli app to easily create ssh tunnels
+home_addr: https://github.com/davrodpin/mole
+title: mole
+topics:
+- go
+- lib
+- util

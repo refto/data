@@ -1,0 +1,7 @@
+description: distilled levelled logging (think of it as stdlib + log levels)
+home_addr: https://github.com/amoghe/distillog
+title: distillog
+topics:
+- go
+- lib
+- log

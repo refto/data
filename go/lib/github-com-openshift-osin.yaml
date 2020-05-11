@@ -1,0 +1,7 @@
+description: Golang OAuth2 server library
+home_addr: https://github.com/openshift/osin
+title: osin
+topics:
+- go
+- lib
+- auth

@@ -1,0 +1,7 @@
+description: Orchestrate goroutines with ease
+home_addr: https://github.com/workanator/go-floc
+title: go-floc
+topics:
+- go
+- lib
+- goroutine

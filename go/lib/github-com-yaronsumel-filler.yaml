@@ -1,0 +1,7 @@
+description: small utility to fill structs using "fill" tag
+home_addr: https://github.com/yaronsumel/filler
+title: filler
+topics:
+- go
+- lib
+- util

@@ -1,0 +1,7 @@
+description: A syndication feed for Atom 1.0 and RSS 2.0
+home_addr: https://github.com/zhengchun/syndfeed
+title: syndfeed
+topics:
+- go
+- lib
+- text

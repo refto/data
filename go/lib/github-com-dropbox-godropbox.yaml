@@ -1,0 +1,7 @@
+description: Common libraries for writing Go services/applications from Dropbox
+home_addr: https://github.com/dropbox/godropbox
+title: godropbox
+topics:
+- go
+- lib
+- util

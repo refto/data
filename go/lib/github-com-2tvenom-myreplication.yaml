@@ -1,0 +1,8 @@
+description: MySql binary log replication listener. Supports statement and row based
+  replication
+home_addr: https://github.com/2tvenom/myreplication
+title: myreplication
+topics:
+- go
+- lib
+- db

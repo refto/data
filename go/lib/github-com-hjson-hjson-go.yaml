@@ -1,0 +1,8 @@
+description: Human JSON, a configuration file format for humans. Relaxed syntax, fewer
+  mistakes, more comments
+home_addr: https://github.com/hjson/hjson-go
+title: hjson
+topics:
+- go
+- lib
+- config

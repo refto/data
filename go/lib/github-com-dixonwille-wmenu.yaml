@@ -1,0 +1,8 @@
+description: Easy to use menu structure for cli applications that prompts users to
+  make choices
+home_addr: https://github.com/dixonwille/wmenu
+title: wmenu
+topics:
+- go
+- lib
+- cli

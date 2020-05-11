@@ -1,0 +1,7 @@
+description: Comphrensive Go bindings for FFmpeg
+home_addr: https://github.com/giorgisio/goav
+title: goav
+topics:
+- go
+- lib
+- video

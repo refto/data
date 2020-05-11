@@ -1,0 +1,7 @@
+description: Go client library for [Atlassian JIRA](https://www.atlassian
+home_addr: https://github.com/andygrunwald/go-jira
+title: go-jira
+topics:
+- go
+- lib
+- api

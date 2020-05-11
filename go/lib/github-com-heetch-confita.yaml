@@ -1,0 +1,7 @@
+description: Load configuration in cascade from multiple backends into a struct
+home_addr: https://github.com/heetch/confita
+title: confita
+topics:
+- go
+- lib
+- config

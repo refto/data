@@ -1,0 +1,8 @@
+description: Harvester, a easy to use static and dynamic configuration package supportig
+  seeding, env vars and Consul integration
+home_addr: https://github.com/beatlabs/harvester
+title: harvester
+topics:
+- go
+- lib
+- config

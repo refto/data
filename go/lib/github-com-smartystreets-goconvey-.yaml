@@ -1,0 +1,7 @@
+description: BDD-style framework with web UI and live reload
+home_addr: https://github.com/smartystreets/goconvey/
+title: GoConvey
+topics:
+- go
+- lib
+- test

@@ -1,0 +1,7 @@
+description: Golang logger to different configurable writers
+home_addr: https://github.com/mbndr/logo
+title: logo
+topics:
+- go
+- lib
+- log

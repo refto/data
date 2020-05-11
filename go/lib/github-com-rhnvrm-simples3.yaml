@@ -1,0 +1,8 @@
+description: Simple no frills AWS S3 Library using REST with V4 Signing written in
+  Go
+home_addr: https://github.com/rhnvrm/simples3
+title: simples3
+topics:
+- go
+- lib
+- api

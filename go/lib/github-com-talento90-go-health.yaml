@@ -1,0 +1,7 @@
+description: Health package simplifies the way you add health check to your services
+home_addr: https://github.com/Talento90/go-health
+title: go-health
+topics:
+- go
+- lib
+- util

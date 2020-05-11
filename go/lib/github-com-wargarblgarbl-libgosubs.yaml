@@ -1,0 +1,7 @@
+description: Subtitle format support for go. Supports .srt, .ttml, and .ass
+home_addr: https://github.com/wargarblgarbl/libgosubs
+title: libgosubs
+topics:
+- go
+- lib
+- video

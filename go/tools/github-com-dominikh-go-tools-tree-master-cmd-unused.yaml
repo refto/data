@@ -1,0 +1,9 @@
+description: unused checks Go code for unused constants, variables, functions and
+  types
+home_addr: https://github.com/dominikh/go-tools/tree/master/cmd/unused
+title: unused
+topics:
+- go
+- tool
+- lint
+- analysis

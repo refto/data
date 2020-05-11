@@ -1,0 +1,7 @@
+description: Transparently handle JSON input as a standard form POST
+home_addr: https://github.com/rs/formjson
+title: formjson
+topics:
+- go
+- lib
+- middleware

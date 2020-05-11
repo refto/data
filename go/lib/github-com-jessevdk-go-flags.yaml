@@ -1,0 +1,7 @@
+description: go command line option parser
+home_addr: https://github.com/jessevdk/go-flags
+title: go-flags
+topics:
+- go
+- lib
+- cli

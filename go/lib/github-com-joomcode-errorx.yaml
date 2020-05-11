@@ -1,0 +1,8 @@
+description: A feature rich error package with stack traces, composition of errors
+  and more
+home_addr: https://github.com/joomcode/errorx
+title: errorx
+topics:
+- go
+- lib
+- error

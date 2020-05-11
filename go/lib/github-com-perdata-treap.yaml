@@ -1,0 +1,6 @@
+description: Persistent, fast ordered map using tree heaps
+home_addr: https://github.com/perdata/treap
+title: treap
+topics:
+- go
+- lib

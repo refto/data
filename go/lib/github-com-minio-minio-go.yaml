@@ -1,0 +1,7 @@
+description: Minio Go Library for Amazon S3 compatible cloud storage
+home_addr: https://github.com/minio/minio-go
+title: minio-go
+topics:
+- go
+- lib
+- api

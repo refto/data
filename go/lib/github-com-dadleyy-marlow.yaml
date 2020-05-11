@@ -1,0 +1,7 @@
+description: Generated ORM from project structs for compile time safety assurances
+home_addr: https://github.com/dadleyy/marlow
+title: Marlow
+topics:
+- go
+- lib
+- orm

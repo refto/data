@@ -1,0 +1,8 @@
+description: In-memory key:value store with expiration time, 0 dependencies, <100
+  LoC, 100% coverage
+home_addr: https://github.com/akyoto/cache
+title: cache
+topics:
+- go
+- lib
+- db

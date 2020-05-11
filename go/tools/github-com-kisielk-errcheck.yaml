@@ -1,0 +1,8 @@
+description: Errcheck is a program for checking for unchecked errors in Go programs
+home_addr: https://github.com/kisielk/errcheck
+title: errcheck
+topics:
+- go
+- tool
+- lint
+- analysis

@@ -1,0 +1,8 @@
+description: Go language driver for Riak KV
+home_addr: https://github.com/zegl/goriak
+title: goriak
+topics:
+- go
+- lib
+- db
+- driver

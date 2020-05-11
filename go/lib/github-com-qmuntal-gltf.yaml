@@ -1,0 +1,7 @@
+description: Efficient and robust glTF 2.0 reader, writer and validator
+home_addr: https://github.com/qmuntal/gltf
+title: gltf
+topics:
+- go
+- lib
+- image

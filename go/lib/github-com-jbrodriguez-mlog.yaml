@@ -1,0 +1,8 @@
+description: Simple logging module for go, with 5 levels, an optional rotating logfile
+  feature and stdout/stderr output
+home_addr: https://github.com/jbrodriguez/mlog
+title: mlog
+topics:
+- go
+- lib
+- log

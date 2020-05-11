@@ -1,0 +1,8 @@
+description: S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID
+  Connect and Basic Auth)
+home_addr: https://github.com/oxyno-zeta/s3-proxy
+title: s3-proxy
+topics:
+- go
+- tool
+- devop

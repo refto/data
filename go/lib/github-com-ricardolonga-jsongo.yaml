@@ -1,0 +1,7 @@
+description: Fluent API to make it easier to create Json objects
+home_addr: https://github.com/ricardolonga/jsongo
+title: jsongo
+topics:
+- go
+- lib
+- json

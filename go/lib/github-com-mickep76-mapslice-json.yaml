@@ -1,0 +1,7 @@
+description: Go MapSlice for ordered marshal/ unmarshal of maps in JSON
+home_addr: https://github.com/mickep76/mapslice-json
+title: mapslice-json
+topics:
+- go
+- lib
+- json

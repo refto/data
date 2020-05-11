@@ -1,0 +1,7 @@
+description: Retrying made simple and easy for golang
+home_addr: https://github.com/rafaeljesus/retry-go
+title: retry-go
+topics:
+- go
+- lib
+- util

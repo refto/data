@@ -1,0 +1,6 @@
+description: Perl 5.18.2 embedded in Go
+home_addr: https://github.com/ian-kent/purl
+title: purl
+topics:
+- go
+- lib

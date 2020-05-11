@@ -1,0 +1,8 @@
+description: Amber is an elegant templating engine for Go Programming Language It
+  is inspired from HAML and Jade
+home_addr: https://github.com/eknkc/amber
+title: amber
+topics:
+- go
+- lib
+- template

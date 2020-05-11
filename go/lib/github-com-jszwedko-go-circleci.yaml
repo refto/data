@@ -1,0 +1,7 @@
+description: Go client library for interacting with CircleCI's API
+home_addr: https://github.com/jszwedko/go-circleci
+title: circleci
+topics:
+- go
+- lib
+- api

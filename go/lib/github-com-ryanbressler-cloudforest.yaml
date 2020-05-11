@@ -1,0 +1,9 @@
+description: Fast, flexible, multi-threaded ensembles of decision trees for machine
+  learning in pure Go
+home_addr: https://github.com/ryanbressler/CloudForest
+title: CloudForest
+topics:
+- go
+- lib
+- ml
+- machine learning

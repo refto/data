@@ -1,0 +1,6 @@
+description: Fast in-memory key:value store/cache library. Pointer caches
+home_addr: https://github.com/OrlovEvgeny/go-mcache
+title: go-mcache
+topics:
+- go
+- lib

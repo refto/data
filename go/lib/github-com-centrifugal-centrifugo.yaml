@@ -1,0 +1,8 @@
+description: Real-time messaging (Websockets or SockJS) server in Go
+home_addr: https://github.com/centrifugal/centrifugo
+title: Centrifugo
+topics:
+- go
+- lib
+- msg
+- messaging

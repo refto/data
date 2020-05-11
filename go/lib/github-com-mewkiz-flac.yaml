@@ -1,0 +1,7 @@
+description: Native Go FLAC encoder/decoder with support for FLAC streams
+home_addr: https://github.com/mewkiz/flac
+title: flac
+topics:
+- go
+- lib
+- audio

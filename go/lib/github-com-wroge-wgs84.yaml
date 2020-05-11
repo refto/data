@@ -1,0 +1,8 @@
+description: Library for Coordinate Conversion and Transformation (ETRS89, OSGB36,
+  NAD83, RGF93, Web Mercator, UTM)
+home_addr: https://github.com/wroge/wgs84
+title: WGS84
+topics:
+- go
+- lib
+- geo

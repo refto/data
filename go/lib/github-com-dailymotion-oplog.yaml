@@ -1,0 +1,8 @@
+description: Generic oplog/replication system for REST APIs
+home_addr: https://github.com/dailymotion/oplog
+title: oplog
+topics:
+- go
+- lib
+- msg
+- messaging

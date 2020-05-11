@@ -1,0 +1,7 @@
+description: Structured logger for Go
+home_addr: https://github.com/Sirupsen/logrus
+title: logrus
+topics:
+- go
+- lib
+- log

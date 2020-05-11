@@ -1,0 +1,8 @@
+description: A Discord bot for managing ephemeral roles based upon voice channel member
+  presence
+home_addr: https://github.com/ewohltman/ephemeral-roles
+title: ephemeral-roles
+topics:
+- go
+- lib
+- bot

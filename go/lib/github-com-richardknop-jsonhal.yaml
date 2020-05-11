@@ -1,0 +1,8 @@
+description: Simple Go package to make custom structs marshal into HAL compatible
+  JSON responses
+home_addr: https://github.com/RichardKnop/jsonhal
+title: jsonhal
+topics:
+- go
+- lib
+- json

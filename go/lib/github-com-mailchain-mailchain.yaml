@@ -1,0 +1,7 @@
+description: Send encrypted emails to blockchain addresses written in Go
+home_addr: https://github.com/mailchain/mailchain
+title: mailchain
+topics:
+- go
+- lib
+- email

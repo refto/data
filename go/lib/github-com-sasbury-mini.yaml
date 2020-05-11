@@ -1,0 +1,7 @@
+description: Golang package for parsing ini-style configuration files
+home_addr: https://github.com/sasbury/mini
+title: mini
+topics:
+- go
+- lib
+- config

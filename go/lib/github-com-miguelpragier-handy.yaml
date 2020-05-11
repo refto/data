@@ -1,0 +1,7 @@
+description: Many utilities and helpers like string handlers/formatters and validators
+home_addr: https://github.com/miguelpragier/handy
+title: handy
+topics:
+- go
+- lib
+- util

@@ -1,0 +1,7 @@
+description: Simple, powerful logging for Go
+home_addr: https://github.com/inconshreveable/log15
+title: log15
+topics:
+- go
+- lib
+- log

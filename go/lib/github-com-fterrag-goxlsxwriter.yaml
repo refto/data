@@ -1,0 +1,8 @@
+description: Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel)
+  files
+home_addr: https://github.com/fterrag/goxlsxwriter
+title: goxlsxwriter
+topics:
+- go
+- lib
+- excel

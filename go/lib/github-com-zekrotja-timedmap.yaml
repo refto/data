@@ -1,0 +1,6 @@
+description: Map with expiring key-value pairs
+home_addr: https://github.com/zekroTJA/timedmap
+title: timedmap
+topics:
+- go
+- lib

@@ -1,0 +1,7 @@
+description: Go client for wit.ai HTTP API
+home_addr: https://github.com/wit-ai/wit-go
+title: wit-go
+topics:
+- go
+- lib
+- api

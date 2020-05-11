@@ -1,0 +1,8 @@
+description: Builds and restarts a Go project when it crashes or some watched file
+  changes
+home_addr: https://github.com/maxcnunes/gaper
+title: gaper
+topics:
+- go
+- lib
+- util

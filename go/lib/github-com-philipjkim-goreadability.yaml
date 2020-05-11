@@ -1,0 +1,7 @@
+description: Webpage summary extractor using Facebook Open Graph and arc90's readability
+home_addr: https://github.com/philipjkim/goreadability
+title: goreadability
+topics:
+- go
+- lib
+- util

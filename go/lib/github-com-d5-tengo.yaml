@@ -1,0 +1,6 @@
+description: Bytecode compiled script language for Go
+home_addr: https://github.com/d5/tengo
+title: tengo
+topics:
+- go
+- lib

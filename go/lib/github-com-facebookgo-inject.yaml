@@ -1,0 +1,7 @@
+description: Package inject provides a reflect based injector
+home_addr: https://github.com/facebookgo/inject
+title: inject
+topics:
+- go
+- lib
+- text

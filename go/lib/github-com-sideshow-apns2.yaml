@@ -1,0 +1,9 @@
+description: HTTP/2 Apple Push Notification provider for Go — Send push notifications
+  to iOS, tvOS, Safari and OSX apps
+home_addr: https://github.com/sideshow/apns2
+title: APNs2
+topics:
+- go
+- lib
+- msg
+- messaging

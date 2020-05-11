@@ -1,0 +1,7 @@
+description: Benchmarks of Go serialization methods
+home_addr: https://github.com/alecthomas/go_serialization_benchmarks
+title: go_serialization_benchmarks
+topics:
+- go
+- lib
+- benchmark

@@ -1,0 +1,8 @@
+description: Migrate all your GitHub repositories, issues, milestones and labels to
+  your Gitea instance
+home_addr: https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator
+title: gitea-github-migrator
+topics:
+- go
+- tool
+- devop

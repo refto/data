@@ -1,0 +1,6 @@
+description: .NET LINQ-like query methods for Go
+home_addr: https://github.com/ahmetalpbalkan/go-linq
+title: go-linq
+topics:
+- go
+- lib

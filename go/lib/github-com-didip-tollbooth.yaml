@@ -1,0 +1,7 @@
+description: Rate limit HTTP request handler
+home_addr: https://github.com/didip/tollbooth
+title: Tollbooth
+topics:
+- go
+- lib
+- middleware

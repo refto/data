@@ -1,0 +1,7 @@
+description: Collection of useful string functions ported from other languages
+home_addr: https://github.com/huandu/xstrings
+title: xstrings
+topics:
+- go
+- lib
+- string

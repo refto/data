@@ -1,0 +1,8 @@
+description: Authorization library that supports access control models like ACL, RBAC,
+  ABAC
+home_addr: https://github.com/hsluoyz/casbin
+title: casbin
+topics:
+- go
+- lib
+- auth

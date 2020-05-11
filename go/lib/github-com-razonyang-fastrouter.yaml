@@ -1,0 +1,7 @@
+description: a fast, flexible HTTP router written in Go
+home_addr: https://github.com/razonyang/fastrouter
+title: FastRouter
+topics:
+- go
+- lib
+- router

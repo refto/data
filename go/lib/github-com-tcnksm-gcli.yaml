@@ -1,0 +1,7 @@
+description: The easy way to start building Golang command line applications
+home_addr: https://github.com/tcnksm/gcli
+title: cli-init
+topics:
+- go
+- lib
+- cli

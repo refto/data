@@ -1,0 +1,8 @@
+description: Implementation of the [LevelDB](https://github.com/google/leveldb) key/value
+  database in Go
+home_addr: https://github.com/syndtr/goleveldb
+title: goleveldb
+topics:
+- go
+- lib
+- db

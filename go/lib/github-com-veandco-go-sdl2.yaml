@@ -1,0 +1,7 @@
+description: Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/)
+home_addr: https://github.com/veandco/go-sdl2
+title: go-sdl2
+topics:
+- go
+- lib
+- game

@@ -1,0 +1,9 @@
+description: Database migration tool. You can manage your database's evolution by
+  creating incremental SQL or Go scripts
+home_addr: https://github.com/steinbacher/goose
+title: goose
+topics:
+- go
+- lib
+- db
+- migration

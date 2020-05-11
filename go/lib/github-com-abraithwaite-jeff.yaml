@@ -1,0 +1,8 @@
+description: Simple, flexible, secure and idiomatic web session management with pluggable
+  backends
+home_addr: https://github.com/abraithwaite/jeff
+title: jeff
+topics:
+- go
+- lib
+- auth

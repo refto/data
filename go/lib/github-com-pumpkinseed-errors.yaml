@@ -1,0 +1,8 @@
+description: The most simple error wrapper with awesome performance and minimal memory
+  overhead
+home_addr: https://github.com/PumpkinSeed/errors
+title: errors
+topics:
+- go
+- lib
+- error

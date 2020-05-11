@@ -1,0 +1,7 @@
+description: Tool for using localstack in AWS testing
+home_addr: https://github.com/elgohr/go-localstack
+title: go-localstack
+topics:
+- go
+- lib
+- mock

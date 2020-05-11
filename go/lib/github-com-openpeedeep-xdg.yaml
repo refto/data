@@ -1,0 +1,7 @@
+description: Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+home_addr: https://github.com/OpenPeeDeeP/xdg
+title: xdg
+topics:
+- go
+- lib
+- config

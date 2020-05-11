@@ -1,0 +1,7 @@
+description: Runs a command in an acme win on file changes
+home_addr: https://github.com/eaburns/Watch
+title: Watch
+topics:
+- go
+- tool
+- ide

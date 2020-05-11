@@ -1,0 +1,7 @@
+description: Read environment variables easily with dotenv support
+home_addr: https://github.com/sakirsensoy/genv
+title: genv
+topics:
+- go
+- lib
+- config

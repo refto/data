@@ -1,0 +1,7 @@
+description: Go bindings for Direct3D9
+home_addr: https://github.com/gonutz/d3d9
+title: d3d9
+topics:
+- go
+- lib
+- windows

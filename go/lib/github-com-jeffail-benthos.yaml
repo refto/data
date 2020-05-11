@@ -1,0 +1,8 @@
+description: A message streaming bridge between a range of protocols
+home_addr: https://github.com/Jeffail/benthos
+title: Benthos
+topics:
+- go
+- lib
+- msg
+- messaging

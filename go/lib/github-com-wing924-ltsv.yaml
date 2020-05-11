@@ -1,0 +1,8 @@
+description: High performance [LTSV (Labeled Tab Separeted Value)](http://ltsv.org/)
+  reader for Go
+home_addr: https://github.com/Wing924/ltsv
+title: ltsv
+topics:
+- go
+- lib
+- text

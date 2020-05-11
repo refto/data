@@ -1,0 +1,7 @@
+description: Go client for the xkcd API
+home_addr: https://github.com/nishanths/go-xkcd
+title: go-xkcd
+topics:
+- go
+- lib
+- api

@@ -1,0 +1,7 @@
+description: Redis-based rate counter and rate limiter for Go
+home_addr: https://github.com/abo/rerate
+title: rerate
+topics:
+- go
+- lib
+- util

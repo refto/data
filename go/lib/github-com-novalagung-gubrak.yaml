@@ -1,0 +1,8 @@
+description: Golang utility library with syntactic sugar. It's like lodash, but for
+  golang
+home_addr: https://github.com/novalagung/gubrak
+title: gubrak
+topics:
+- go
+- lib
+- util

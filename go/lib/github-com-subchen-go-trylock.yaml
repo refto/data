@@ -1,0 +1,7 @@
+description: TryLock support on read-write lock for Golang
+home_addr: https://github.com/subchen/go-trylock
+title: go-trylock
+topics:
+- go
+- lib
+- goroutine

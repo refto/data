@@ -1,0 +1,8 @@
+description: Modules to read and write STL (stereolithography) files.  Concurrent
+  algorithm for reading
+home_addr: https://gitlab.com/russoj88/stl
+title: stl
+topics:
+- go
+- lib
+- file

@@ -1,0 +1,7 @@
+description: Manage local application configuration files using templates and data
+  from etcd or consul
+home_addr: https://github.com/kelseyhightower/confd
+title: confd
+topics:
+- go
+- tool

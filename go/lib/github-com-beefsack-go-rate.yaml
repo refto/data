@@ -1,0 +1,7 @@
+description: Timed rate limiter for Go
+home_addr: https://github.com/beefsack/go-rate
+title: go-rate
+topics:
+- go
+- lib
+- util

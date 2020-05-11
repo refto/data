@@ -1,0 +1,9 @@
+description: Lints online Go source files on GitHub, Bitbucket and Google Project
+  Hosting using the golint package
+home_addr: http://go-lint.appspot.com/
+title: Golint online
+topics:
+- go
+- tool
+- lint
+- analysis

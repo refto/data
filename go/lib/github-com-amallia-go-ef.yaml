@@ -1,0 +1,6 @@
+description: A Go implementation of the Elias-Fano encoding
+home_addr: https://github.com/amallia/go-ef
+title: go-ef
+topics:
+- go
+- lib

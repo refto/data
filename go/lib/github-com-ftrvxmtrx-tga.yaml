@@ -1,0 +1,7 @@
+description: Package tga is a TARGA image format decoder/encoder
+home_addr: https://github.com/ftrvxmtrx/tga
+title: tga
+topics:
+- go
+- lib
+- image

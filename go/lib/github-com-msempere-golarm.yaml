@@ -1,0 +1,7 @@
+description: Fire alarms with system events
+home_addr: https://github.com/msempere/golarm
+title: golarm
+topics:
+- go
+- lib
+- util

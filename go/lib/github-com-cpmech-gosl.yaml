@@ -1,0 +1,8 @@
+description: Go scientific library for linear algebra, FFT, geometry, NURBS, numerical
+  methods, probabilities, optimisation, differential equations, and more
+home_addr: https://github.com/cpmech/gosl
+title: gosl
+topics:
+- go
+- lib
+- science

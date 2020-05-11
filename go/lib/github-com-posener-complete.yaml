@@ -1,0 +1,7 @@
+description: Write bash completions in Go + Go command bash completion
+home_addr: https://github.com/posener/complete
+title: complete
+topics:
+- go
+- lib
+- cli

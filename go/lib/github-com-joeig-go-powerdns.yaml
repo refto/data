@@ -1,0 +1,8 @@
+description: PowerDNS API bindings for Golang
+home_addr: https://github.com/joeig/go-powerdns
+title: go-powerdns
+topics:
+- go
+- lib
+- net
+- network

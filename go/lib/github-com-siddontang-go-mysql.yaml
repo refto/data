@@ -1,0 +1,7 @@
+description: Go toolset to handle MySQL protocol and replication
+home_addr: https://github.com/siddontang/go-mysql
+title: go-mysql
+topics:
+- go
+- lib
+- db

@@ -1,0 +1,6 @@
+description: Open, decentralized file synchronization tool and protocol
+home_addr: https://syncthing.net/
+title: syncthing
+topics:
+- go
+- tool

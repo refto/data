@@ -1,0 +1,7 @@
+description: Read silk netflow files
+home_addr: https://github.com/chrispassas/silk
+title: silk
+topics:
+- go
+- lib
+- util

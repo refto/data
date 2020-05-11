@@ -1,0 +1,7 @@
+description: Fork of Gogs, entirely community driven
+home_addr: https://github.com/go-gitea/gitea
+title: Gitea
+topics:
+- go
+- tool
+- devop

@@ -1,0 +1,7 @@
+description: JP morphological analyzer written in pure Go
+home_addr: https://github.com/ikawaha/kagome
+title: kagome
+topics:
+- go
+- lib
+- lang

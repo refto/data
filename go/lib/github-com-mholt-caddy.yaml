@@ -1,0 +1,8 @@
+description: Caddy is an alternative, HTTP/2 web server that's easy to configure and
+  use
+home_addr: https://github.com/mholt/caddy
+title: Caddy
+topics:
+- go
+- lib
+- server

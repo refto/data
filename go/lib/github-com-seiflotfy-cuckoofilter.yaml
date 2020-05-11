@@ -1,0 +1,7 @@
+description: 'Cuckoo filter: a good alternative to a counting bloom filter implemented
+  in Go'
+home_addr: https://github.com/seiflotfy/cuckoofilter
+title: cuckoofilter
+topics:
+- go
+- lib

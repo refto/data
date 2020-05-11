@@ -1,0 +1,8 @@
+description: Web based Golang AST visualizer
+home_addr: https://github.com/yuroyoro/goast-viewer
+title: goast-viewer
+topics:
+- go
+- tool
+- lint
+- analysis

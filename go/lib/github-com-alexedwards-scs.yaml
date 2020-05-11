@@ -1,0 +1,7 @@
+description: Session Manager for HTTP servers
+home_addr: https://github.com/alexedwards/scs
+title: scs
+topics:
+- go
+- lib
+- auth

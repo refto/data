@@ -1,0 +1,8 @@
+description: Socket server made simple
+home_addr: https://github.com/rakeki/gosocsvr
+title: gosocsvr
+topics:
+- go
+- lib
+- net
+- network

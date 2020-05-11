@@ -1,0 +1,8 @@
+description: Changelog generator using a git repository with multiple configuration
+  possibilities
+home_addr: https://github.com/antham/chyle
+title: chyle
+topics:
+- go
+- lib
+- util

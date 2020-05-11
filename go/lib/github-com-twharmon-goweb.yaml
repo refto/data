@@ -1,0 +1,8 @@
+description: Web framework with routing, websockets, logging, middleware, static file
+  server (optional gzip), and automatic TLS
+home_addr: https://github.com/twharmon/goweb
+title: goweb
+topics:
+- go
+- lib
+- framework

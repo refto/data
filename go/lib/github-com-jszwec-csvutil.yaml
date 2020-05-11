@@ -1,0 +1,8 @@
+description: High Performance, idiomatic CSV record encoding and decoding to native
+  Go structures
+home_addr: https://github.com/jszwec/csvutil
+title: csvutil
+topics:
+- go
+- lib
+- serialization

@@ -1,0 +1,8 @@
+description: CoAP Client/Server implementation (RFC 7252)
+home_addr: https://github.com/zubairhamed/canopus
+title: canopus
+topics:
+- go
+- lib
+- net
+- network

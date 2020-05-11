@@ -1,0 +1,7 @@
+description: Get a JSON value with one line of code
+home_addr: https://github.com/tidwall/gjson
+title: GJSON
+topics:
+- go
+- lib
+- json

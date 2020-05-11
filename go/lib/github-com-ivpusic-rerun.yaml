@@ -1,0 +1,7 @@
+description: Recompiling and rerunning go apps when source changes
+home_addr: https://github.com/ivpusic/rerun
+title: rerun
+topics:
+- go
+- lib
+- util

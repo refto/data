@@ -1,0 +1,7 @@
+description: gonum/plot provides an API for building and drawing plots in Go
+home_addr: https://github.com/gonum/plot
+title: gonum/plot
+topics:
+- go
+- lib
+- science

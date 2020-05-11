@@ -1,0 +1,7 @@
+description: Persistent and flexible background jobs library
+home_addr: https://github.com/albrow/jobs
+title: jobs
+topics:
+- go
+- lib
+- schedule

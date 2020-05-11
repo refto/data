@@ -1,0 +1,9 @@
+description: Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting
+  Topologies (NEAT)
+home_addr: https://github.com/jinyeom/neat
+title: neat
+topics:
+- go
+- lib
+- ml
+- machine learning

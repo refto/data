@@ -1,0 +1,6 @@
+description: DynamoDB-backed distributed locking implementation
+home_addr: https://cirello.io/dynamolock
+title: dynamolock
+topics:
+- go
+- lib

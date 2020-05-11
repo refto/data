@@ -1,0 +1,8 @@
+description: light wrapper around Go's argon2 package that closely mirrors with Go's
+  standard library Bcrypt and simple-scrypt package
+home_addr: https://github.com/andskur/argon2-hashing
+title: argon2-hashing
+topics:
+- go
+- lib
+- security

@@ -1,0 +1,8 @@
+description: liblinear bindings for Go
+home_addr: https://github.com/danieldk/golinear
+title: golinear
+topics:
+- go
+- lib
+- ml
+- machine learning

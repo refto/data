@@ -1,0 +1,7 @@
+description: Simple logging interface that supports cross-platform color and concurrency
+home_addr: https://github.com/dixonwille/wlog
+title: wlog
+topics:
+- go
+- lib
+- cli

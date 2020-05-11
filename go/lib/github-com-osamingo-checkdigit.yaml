@@ -1,0 +1,8 @@
+description: Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators
+  (ISBN, EAN, JAN, UPC, etc.)
+home_addr: https://github.com/osamingo/checkdigit
+title: checkdigit
+topics:
+- go
+- lib
+- validation

@@ -1,0 +1,7 @@
+description: Use prepared SQL statements without changing your code
+home_addr: https://github.com/hexdigest/prep
+title: prep
+topics:
+- go
+- lib
+- db

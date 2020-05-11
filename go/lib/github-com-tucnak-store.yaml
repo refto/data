@@ -1,0 +1,7 @@
+description: Lightweight configuration manager for Go
+home_addr: https://github.com/tucnak/store
+title: store
+topics:
+- go
+- lib
+- config

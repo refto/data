@@ -1,0 +1,8 @@
+description: Language Detection API Go Client. Supports batch requests, short phrase
+  or single word language detection
+home_addr: https://github.com/detectlanguage/detectlanguage-go
+title: detectlanguage
+topics:
+- go
+- lib
+- lang

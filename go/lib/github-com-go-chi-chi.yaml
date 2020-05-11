@@ -1,0 +1,7 @@
+description: Small, fast and expressive HTTP router built on net/context
+home_addr: https://github.com/go-chi/chi
+title: chi
+topics:
+- go
+- lib
+- router

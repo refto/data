@@ -1,0 +1,8 @@
+description: Golang plugin collection for the text editor SublimeText 3 providing
+  code completion and other IDE-like features
+home_addr: https://github.com/DisposaBoy/GoSublime
+title: GoSublime
+topics:
+- go
+- tool
+- ide

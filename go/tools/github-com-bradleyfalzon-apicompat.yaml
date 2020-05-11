@@ -1,0 +1,8 @@
+description: Checks recent changes to a Go project for backwards incompatible changes
+home_addr: https://github.com/bradleyfalzon/apicompat
+title: apicompat
+topics:
+- go
+- tool
+- lint
+- analysis

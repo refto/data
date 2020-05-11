@@ -1,0 +1,7 @@
+description: Small package to infer the file type checking the magic numbers signature
+home_addr: https://github.com/h2non/filetype
+title: filetype
+topics:
+- go
+- lib
+- util

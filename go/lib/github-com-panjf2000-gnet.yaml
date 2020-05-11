@@ -1,0 +1,9 @@
+description: '"gnet" is a high-performance, lightweight, non-blocking, event-driven
+  networking framework written in pure Go'
+home_addr: https://github.com/panjf2000/gnet
+title: gnet
+topics:
+- go
+- lib
+- net
+- network

@@ -1,0 +1,8 @@
+description: Neo4j client for Golang
+home_addr: https://github.com/jmcvetta/neoism
+title: neoism
+topics:
+- go
+- lib
+- db
+- driver

@@ -1,0 +1,9 @@
+description: Bayesian optimization framework for black-box functions written in Go.
+  Everything will be optimized
+home_addr: https://github.com/c-bata/goptuna
+title: Goptuna
+topics:
+- go
+- lib
+- ml
+- machine learning

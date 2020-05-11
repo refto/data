@@ -1,0 +1,7 @@
+description: Sacred extension to the standard go testing package
+home_addr: https://github.com/stretchr/testify
+title: Testify
+topics:
+- go
+- lib
+- test

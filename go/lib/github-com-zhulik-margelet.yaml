@@ -1,0 +1,7 @@
+description: Framework for building Telegram bots
+home_addr: https://github.com/zhulik/margelet
+title: margelet
+topics:
+- go
+- lib
+- bot

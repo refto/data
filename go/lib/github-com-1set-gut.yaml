@@ -1,0 +1,8 @@
+description: Simple and reliable package for file operations like copy/move/diff/list
+  on files, directories and symbolic links
+home_addr: https://github.com/1set/gut
+title: gut/yos
+topics:
+- go
+- lib
+- file

@@ -1,0 +1,6 @@
+description: Nullable Go types that can be marshalled/unmarshalled to/from JSON
+home_addr: https://github.com/emvi/null
+title: "null"
+topics:
+- go
+- lib

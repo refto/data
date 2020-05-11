@@ -1,0 +1,7 @@
+description: Single transaction based database driver mainly for testing purposes
+home_addr: https://github.com/DATA-DOG/go-txdb
+title: go-txdb
+topics:
+- go
+- lib
+- mock

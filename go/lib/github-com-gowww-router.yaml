@@ -1,0 +1,8 @@
+description: Lightning fast HTTP router fully compatible with the net/http.Handler
+  interface
+home_addr: https://github.com/gowww/router
+title: gowww/router
+topics:
+- go
+- lib
+- router

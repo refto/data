@@ -1,0 +1,7 @@
+description: A norms and conventions validator for Terraform
+home_addr: https://github.com/thazelart/terraform-validator
+title: terraform-validator
+topics:
+- go
+- lib
+- validation

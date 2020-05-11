@@ -1,0 +1,7 @@
+description: 2D rendering in pure Go
+home_addr: https://github.com/fogleman/gg
+title: gg
+topics:
+- go
+- lib
+- image

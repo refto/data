@@ -1,0 +1,7 @@
+description: Small utility to create JSON objects
+home_addr: https://github.com/skanehira/gjo
+title: gjo
+topics:
+- go
+- lib
+- json

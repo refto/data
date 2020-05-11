@@ -1,0 +1,7 @@
+description: Golang errors with stack trace and source fragments
+home_addr: https://github.com/ztrue/tracerr
+title: tracerr
+topics:
+- go
+- lib
+- error

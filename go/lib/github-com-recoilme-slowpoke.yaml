@@ -1,0 +1,7 @@
+description: Key-value store with persistence
+home_addr: https://github.com/recoilme/slowpoke
+title: slowpoke
+topics:
+- go
+- lib
+- db

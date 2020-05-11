@@ -1,0 +1,6 @@
+description: Generate arbitrary Go code without templates
+home_addr: https://github.com/dave/jennifer
+title: jennifer
+topics:
+- go
+- lib

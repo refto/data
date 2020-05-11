@@ -1,0 +1,8 @@
+description: Asynchronous task queue/job queue based on distributed message passing
+home_addr: https://github.com/RichardKnop/machinery
+title: machinery
+topics:
+- go
+- lib
+- msg
+- messaging

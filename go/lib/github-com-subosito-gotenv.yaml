@@ -1,0 +1,7 @@
+description: Load environment variables from ".env" or any "io.Reader" in Go
+home_addr: https://github.com/subosito/gotenv
+title: gotenv
+topics:
+- go
+- lib
+- util

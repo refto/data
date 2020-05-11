@@ -1,0 +1,7 @@
+description: Consul is a tool for service discovery, monitoring and configuration
+home_addr: https://www.consul.io/
+title: consul
+topics:
+- go
+- lib
+- server

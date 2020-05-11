@@ -1,0 +1,7 @@
+description: High performance, distributed, secure and low latency publish-subscribe
+  platform built with MQTT, Websockets and love
+home_addr: https://github.com/emitter-io/emitter
+title: emitter-io
+topics:
+- go
+- lib

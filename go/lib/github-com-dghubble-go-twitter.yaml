@@ -1,0 +1,7 @@
+description: Go client library for the Twitter v1.1 APIs
+home_addr: https://github.com/dghubble/go-twitter
+title: go-twitter
+topics:
+- go
+- lib
+- api

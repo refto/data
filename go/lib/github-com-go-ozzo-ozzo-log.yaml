@@ -1,0 +1,9 @@
+description: High performance logging supporting log severity, categorization, and
+  filtering. Can send filtered log messages to various targets (e.g. console, network,
+  mail)
+home_addr: https://github.com/go-ozzo/ozzo-log
+title: ozzo-log
+topics:
+- go
+- lib
+- log

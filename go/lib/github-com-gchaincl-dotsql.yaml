@@ -1,0 +1,9 @@
+description: Go library that helps you keep sql files in one place and use them with
+  ease
+home_addr: https://github.com/gchaincl/dotsql
+title: Dotsql
+topics:
+- go
+- lib
+- db
+- sql

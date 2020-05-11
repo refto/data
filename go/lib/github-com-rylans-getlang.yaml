@@ -1,0 +1,7 @@
+description: Fast natural language detection package
+home_addr: https://github.com/rylans/getlang
+title: getlang
+topics:
+- go
+- lib
+- lang

@@ -1,0 +1,7 @@
+description: The simple and easy way to embed static files into Go binaries
+home_addr: https://github.com/gobuffalo/packr
+title: packr
+topics:
+- go
+- lib
+- file

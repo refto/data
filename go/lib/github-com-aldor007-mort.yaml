@@ -1,0 +1,7 @@
+description: Storage and image processing server written in Go
+home_addr: https://github.com/aldor007/mort
+title: mort
+topics:
+- go
+- lib
+- image

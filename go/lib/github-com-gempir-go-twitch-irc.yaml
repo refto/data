@@ -1,0 +1,7 @@
+description: Libary to write bots for twitch
+home_addr: https://github.com/gempir/go-twitch-irc
+title: go-twitch-irc
+topics:
+- go
+- lib
+- bot

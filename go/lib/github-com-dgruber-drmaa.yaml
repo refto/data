@@ -1,0 +1,6 @@
+description: Job submission library for cluster schedulers based on the DRMAA standard
+home_addr: https://github.com/dgruber/drmaa
+title: drmaa
+topics:
+- go
+- lib

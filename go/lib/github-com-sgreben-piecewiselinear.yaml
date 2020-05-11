@@ -1,0 +1,7 @@
+description: Tiny linear interpolation library
+home_addr: https://github.com/sgreben/piecewiselinear
+title: piecewiselinear
+topics:
+- go
+- lib
+- science

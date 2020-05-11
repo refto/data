@@ -1,0 +1,6 @@
+description: Go counters for readers/writer/http.ResponseWriter
+home_addr: https://github.com/miolini/datacounter
+title: datacounter
+topics:
+- go
+- lib

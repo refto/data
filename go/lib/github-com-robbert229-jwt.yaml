@@ -1,0 +1,7 @@
+description: Clean and easy to use implementation of JSON Web Tokens (JWT)
+home_addr: https://github.com/robbert229/jwt
+title: jwt
+topics:
+- go
+- lib
+- auth

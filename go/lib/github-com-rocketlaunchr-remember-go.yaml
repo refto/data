@@ -1,0 +1,7 @@
+description: A universal interface for caching slow database queries (backed by redis,
+  memcached, ristretto, or in-memory)
+home_addr: https://github.com/rocketlaunchr/remember-go
+title: remember-go
+topics:
+- go
+- lib

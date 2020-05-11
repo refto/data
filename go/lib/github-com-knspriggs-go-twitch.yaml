@@ -1,0 +1,7 @@
+description: Go client for interacting with the Twitch v3 API
+home_addr: https://github.com/knspriggs/go-twitch
+title: go-twitch
+topics:
+- go
+- lib
+- api

@@ -1,0 +1,7 @@
+description: 2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support
+home_addr: https://github.com/paulmach/orb
+title: orb
+topics:
+- go
+- lib
+- science

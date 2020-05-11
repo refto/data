@@ -1,0 +1,7 @@
+description: Blazingly fast CLI tool for creating projects from boilerplate templates
+home_addr: https://github.com/tmrts/boilr
+title: boilr
+topics:
+- go
+- lib
+- util

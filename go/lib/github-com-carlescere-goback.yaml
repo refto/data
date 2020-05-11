@@ -1,0 +1,7 @@
+description: Go simple exponential backoff package
+home_addr: https://github.com/carlescere/goback
+title: goback
+topics:
+- go
+- lib
+- util

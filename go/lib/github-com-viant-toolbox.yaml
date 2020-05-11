@@ -1,0 +1,8 @@
+description: Slice, map, multimap, struct, function, data conversion utilities. Service
+  router, macro evaluator, tokenizer
+home_addr: https://github.com/viant/toolbox
+title: toolbox
+topics:
+- go
+- lib
+- util

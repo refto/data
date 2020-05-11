@@ -1,0 +1,7 @@
+description: Go bindings for GLFW 3
+home_addr: https://github.com/go-gl/glfw
+title: glfw
+topics:
+- go
+- lib
+- opengl

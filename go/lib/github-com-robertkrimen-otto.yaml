@@ -1,0 +1,6 @@
+description: JavaScript interpreter written in Go
+home_addr: https://github.com/robertkrimen/otto
+title: otto
+topics:
+- go
+- lib

@@ -1,0 +1,7 @@
+description: Strict Runtime Dependency Injection for Golang
+home_addr: https://github.com/Fs02/wire
+title: wire
+topics:
+- go
+- lib
+- di

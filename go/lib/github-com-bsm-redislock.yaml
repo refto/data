@@ -1,0 +1,6 @@
+description: Simplified distributed locking implementation using Redis
+home_addr: https://github.com/bsm/redislock
+title: redis-lock
+topics:
+- go
+- lib

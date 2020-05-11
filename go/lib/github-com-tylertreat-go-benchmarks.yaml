@@ -1,0 +1,8 @@
+description: Few miscellaneous Go microbenchmarks. Compare some language features
+  to alternative approaches
+home_addr: https://github.com/tylertreat/go-benchmarks
+title: go-benchmarks
+topics:
+- go
+- lib
+- benchmark

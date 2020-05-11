@@ -1,0 +1,7 @@
+description: Cli tool to remotely execute commands on Windows machines
+home_addr: https://github.com/masterzen/winrm-cli
+title: winrm-cli
+topics:
+- go
+- tool
+- devop

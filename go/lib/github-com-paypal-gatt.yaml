@@ -1,0 +1,7 @@
+description: Gatt is a Go package for building Bluetooth Low Energy peripherals
+home_addr: https://github.com/paypal/gatt
+title: gatt
+topics:
+- go
+- lib
+- iot

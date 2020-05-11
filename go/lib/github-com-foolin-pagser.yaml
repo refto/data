@@ -1,0 +1,8 @@
+description: Pagser is a simple, extensible, configurable parse and deserialize html
+  page to struct based on goquery and struct tags for golang crawler
+home_addr: https://github.com/foolin/pagser
+title: pagser
+topics:
+- go
+- lib
+- text

@@ -1,0 +1,7 @@
+description: Arbitrary-precision fixed-point decimal numbers
+home_addr: https://github.com/shopspring/decimal
+title: decimal
+topics:
+- go
+- lib
+- finance

@@ -1,0 +1,8 @@
+description: A micro-framework to build web apps; with handler chaining, middleware
+  and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc)
+home_addr: https://github.com/bnkamalesh/webgo
+title: WebGo
+topics:
+- go
+- lib
+- framework

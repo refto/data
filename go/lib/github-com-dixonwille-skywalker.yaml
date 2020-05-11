@@ -1,0 +1,7 @@
+description: Package to allow one to concurrently go through a filesystem with ease
+home_addr: https://github.com/dixonwille/skywalker
+title: skywalker
+topics:
+- go
+- lib
+- file

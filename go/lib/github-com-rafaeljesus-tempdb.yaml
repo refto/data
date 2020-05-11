@@ -1,0 +1,7 @@
+description: Key-value store for temporary items
+home_addr: https://github.com/rafaeljesus/tempdb
+title: tempdb
+topics:
+- go
+- lib
+- db

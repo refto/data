@@ -1,0 +1,8 @@
+description: Mixpanel is a library for tracking events and sending Mixpanel profile
+  updates to Mixpanel from your go applications
+home_addr: https://github.com/dukex/mixpanel
+title: mixpanel
+topics:
+- go
+- lib
+- api

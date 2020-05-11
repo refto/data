@@ -1,0 +1,8 @@
+description: Highly-available key value store for shared configuration and service
+  discovery
+home_addr: https://github.com/coreos/etcd
+title: etcd
+topics:
+- go
+- lib
+- server

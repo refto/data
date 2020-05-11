@@ -1,0 +1,8 @@
+description: HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible
+  middleware and easy-to-use CLI
+home_addr: https://github.com/SpectoLabs/hoverfly
+title: hoverfly
+topics:
+- go
+- lib
+- mock

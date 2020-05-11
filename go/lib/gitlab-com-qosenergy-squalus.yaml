@@ -1,0 +1,8 @@
+description: Thin layer over the Go SQL package that makes it easier to perform queries
+home_addr: https://gitlab.com/qosenergy/squalus
+title: Squalus
+topics:
+- go
+- lib
+- db
+- sql

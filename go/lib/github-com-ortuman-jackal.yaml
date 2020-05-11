@@ -1,0 +1,7 @@
+description: An XMPP server written in Go
+home_addr: https://github.com/ortuman/jackal
+title: jackal
+topics:
+- go
+- lib
+- server

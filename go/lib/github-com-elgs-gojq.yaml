@@ -1,0 +1,7 @@
+description: JSON query in Golang
+home_addr: https://github.com/elgs/gojq
+title: gojq
+topics:
+- go
+- lib
+- json

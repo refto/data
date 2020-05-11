@@ -1,0 +1,7 @@
+description: Go client library for interacting with Coinpaprika's API
+home_addr: https://github.com/coinpaprika/coinpaprika-api-go-client
+title: coinpaprika-go
+topics:
+- go
+- lib
+- api

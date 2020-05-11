@@ -1,0 +1,7 @@
+description: Industrial IoT Messaging and Device Management Server
+home_addr: https://github.com/Mainflux/mainflux
+title: mainflux
+topics:
+- go
+- lib
+- iot

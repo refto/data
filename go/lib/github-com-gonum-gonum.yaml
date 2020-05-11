@@ -1,0 +1,8 @@
+description: Gonum is a set of numeric libraries for the Go programming language.
+  It contains libraries for matrices, statistics, optimization, and more
+home_addr: https://github.com/gonum/gonum
+title: gonum
+topics:
+- go
+- lib
+- science

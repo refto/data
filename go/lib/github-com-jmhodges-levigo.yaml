@@ -1,0 +1,7 @@
+description: Levigo is a Go wrapper for LevelDB
+home_addr: https://github.com/jmhodges/levigo
+title: levigo
+topics:
+- go
+- lib
+- db

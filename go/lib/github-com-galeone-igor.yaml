@@ -1,0 +1,9 @@
+description: Abstraction layer for PostgreSQL that supports advanced functionality
+  and uses gorm-like syntax
+home_addr: https://github.com/galeone/igor
+title: igor
+topics:
+- go
+- lib
+- db
+- sql

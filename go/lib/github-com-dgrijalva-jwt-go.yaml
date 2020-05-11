@@ -1,0 +1,7 @@
+description: Golang implementation of JSON Web Tokens (JWT)
+home_addr: https://github.com/dgrijalva/jwt-go
+title: jwt-go
+topics:
+- go
+- lib
+- auth

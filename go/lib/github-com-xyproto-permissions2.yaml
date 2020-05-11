@@ -1,0 +1,8 @@
+description: Library for keeping track of users, login states and permissions. Uses
+  secure cookies and bcrypt
+home_addr: https://github.com/xyproto/permissions2
+title: permissions2
+topics:
+- go
+- lib
+- auth

@@ -1,0 +1,7 @@
+description: SSL certificates made easy with a high level wrapper around acme/autocert
+home_addr: https://github.com/adrianosela/sslmgr
+title: sslmgr
+topics:
+- go
+- lib
+- security

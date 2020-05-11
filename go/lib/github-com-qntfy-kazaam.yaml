@@ -1,0 +1,7 @@
+description: API for arbitrary transformation of JSON documents
+home_addr: https://github.com/Qntfy/kazaam
+title: kazaam
+topics:
+- go
+- lib
+- json

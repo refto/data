@@ -1,0 +1,7 @@
+description: Easy remote profiling of your services
+home_addr: https://github.com/e-dard/netbug
+title: netbug
+topics:
+- go
+- lib
+- util

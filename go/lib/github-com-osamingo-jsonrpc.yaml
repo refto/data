@@ -1,0 +1,6 @@
+description: The jsonrpc package helps implement of JSON-RPC 2.0
+home_addr: https://github.com/osamingo/jsonrpc
+title: jsonrpc
+topics:
+- go
+- lib

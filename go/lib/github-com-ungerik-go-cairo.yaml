@@ -1,0 +1,7 @@
+description: Go binding for the cairo graphics library
+home_addr: https://github.com/ungerik/go-cairo
+title: go-cairo
+topics:
+- go
+- lib
+- image

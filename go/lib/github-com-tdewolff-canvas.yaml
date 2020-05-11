@@ -1,0 +1,7 @@
+description: Vector graphics to PDF, SVG or rasterized image
+home_addr: https://github.com/tdewolff/canvas
+title: canvas
+topics:
+- go
+- lib
+- image

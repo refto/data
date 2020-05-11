@@ -1,0 +1,7 @@
+description: Parse TODOs in your GO code
+home_addr: https://github.com/asticode/go-astitodo
+title: go-astitodo
+topics:
+- go
+- lib
+- util

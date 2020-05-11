@@ -1,0 +1,7 @@
+description: Go package for mapping values to and from space-filling curves, such
+  as Hilbert and Peano curves
+home_addr: https://github.com/google/hilbert
+title: hilbert
+topics:
+- go
+- lib

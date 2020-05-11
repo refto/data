@@ -1,0 +1,7 @@
+description: ASCII transliterations of Unicode text
+home_addr: https://github.com/mozillazg/go-unidecode
+title: go-unidecode
+topics:
+- go
+- lib
+- lang

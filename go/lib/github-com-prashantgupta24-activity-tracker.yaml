@@ -1,0 +1,7 @@
+description: OSX library to notify about any (pluggable) activity on your machine
+home_addr: https://github.com/prashantgupta24/activity-tracker
+title: mac-activity-tracker
+topics:
+- go
+- lib
+- gui

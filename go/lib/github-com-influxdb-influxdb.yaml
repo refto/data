@@ -1,0 +1,7 @@
+description: Scalable datastore for metrics, events, and real-time analytics
+home_addr: https://github.com/influxdb/influxdb
+title: influxdb
+topics:
+- go
+- lib
+- db

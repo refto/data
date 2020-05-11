@@ -1,0 +1,8 @@
+description: A Go package to help write migrations with go-pg/pg
+home_addr: https://github.com/robinjoseph08/go-pg-migrations
+title: go-pg-migrations
+topics:
+- go
+- lib
+- db
+- migration

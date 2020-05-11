@@ -1,0 +1,7 @@
+description: Extract urls from text
+home_addr: https://github.com/mvdan/xurls
+title: xurls
+topics:
+- go
+- lib
+- text

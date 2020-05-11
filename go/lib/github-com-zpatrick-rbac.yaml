@@ -1,0 +1,7 @@
+description: Minimalistic RBAC package for Go applications
+home_addr: https://github.com/zpatrick/rbac
+title: rbac
+topics:
+- go
+- lib
+- auth

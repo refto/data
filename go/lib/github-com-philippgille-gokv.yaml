@@ -1,0 +1,9 @@
+description: Simple key-value store abstraction and implementations for Go (Redis,
+  Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB,
+  CockroachDB and many more)
+home_addr: https://github.com/philippgille/gokv
+title: gokv
+topics:
+- go
+- lib
+- db

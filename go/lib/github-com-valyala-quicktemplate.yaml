@@ -1,0 +1,8 @@
+description: Fast, powerful, yet easy to use template engine. Converts templates into
+  Go code and then compiles it
+home_addr: https://github.com/valyala/quicktemplate
+title: quicktemplate
+topics:
+- go
+- lib
+- template

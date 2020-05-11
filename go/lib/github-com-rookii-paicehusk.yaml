@@ -1,0 +1,7 @@
+description: Golang implementation of the Paice/Husk Stemming Algorithm
+home_addr: https://github.com/rookii/paicehusk
+title: paicehusk
+topics:
+- go
+- lib
+- lang

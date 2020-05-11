@@ -1,0 +1,9 @@
+description: For interacting with intervals of time, defined as a start time and a
+  duration
+home_addr: https://github.com/SaidinWoT/timespan
+title: timespan
+topics:
+- go
+- lib
+- date
+- time

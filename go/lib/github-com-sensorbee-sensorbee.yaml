@@ -1,0 +1,7 @@
+description: Lightweight stream processing engine for IoT
+home_addr: https://github.com/sensorbee/sensorbee
+title: sensorbee
+topics:
+- go
+- lib
+- iot

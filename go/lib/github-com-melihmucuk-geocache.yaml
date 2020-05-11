@@ -1,0 +1,7 @@
+description: In-memory cache that is suitable for geolocation based applications
+home_addr: https://github.com/melihmucuk/geocache
+title: geocache
+topics:
+- go
+- lib
+- geo

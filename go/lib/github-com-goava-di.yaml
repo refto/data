@@ -1,0 +1,7 @@
+description: A dependency injection container for go programming language
+home_addr: https://github.com/goava/di
+title: di
+topics:
+- go
+- lib
+- di

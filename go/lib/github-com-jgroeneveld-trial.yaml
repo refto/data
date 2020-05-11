@@ -1,0 +1,7 @@
+description: Quick and easy extendable assertions without introducing much boilerplate
+home_addr: https://github.com/jgroeneveld/trial
+title: trial
+topics:
+- go
+- lib
+- test

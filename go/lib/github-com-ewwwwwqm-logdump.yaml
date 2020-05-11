@@ -1,0 +1,7 @@
+description: Package for multi-level logging
+home_addr: https://github.com/ewwwwwqm/logdump
+title: logdump
+topics:
+- go
+- lib
+- log

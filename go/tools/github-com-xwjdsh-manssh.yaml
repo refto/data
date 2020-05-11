@@ -1,0 +1,7 @@
+description: manssh is a command line tool for managing your ssh alias config easily
+home_addr: https://github.com/xwjdsh/manssh
+title: manssh
+topics:
+- go
+- tool
+- devop
