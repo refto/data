@@ -1,0 +1,25 @@
+title: apitest
+home_addr: https://apitest.dev
+description: >
+  A simple and extensible behavioural testing library.
+  Supports mocking external http calls and renders sequence diagrams on completion.
+  In behavioural tests the internal structure of the app is not known by the tests.
+  Data is input to the system and the outputs are expected to meet certain conditions.
+
+picture_addr: https://apitest.dev/svg/dummy.svg
+
+links:
+  - icon: github
+    label: Repo
+    addr: https://github.com/steinfletcher/apitest
+
+  - icon: book
+    label: Docs
+    addr: https://apitest.dev/
+
+topics:
+- go
+- lib
+- test
+- http
+- api

@@ -1,0 +1,9 @@
+title: CronRange
+description: >
+  CronRange expression is a combination of Cron expression and time duration to represent periodic time ranges, i.e. Cron for TimeRange. And it made easier to tell if the moment falls within the any time ranges (use IsWithin() method), and what's the next occurrence (use NextOccurrences() method).
+home_addr: https://github.com/1set/cronrange
+topics:
+  - go
+  - lib
+  - time
+  - cron

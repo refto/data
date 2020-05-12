@@ -1,7 +1,0 @@
-description: SMTP server written in Go
-home_addr: https://blitiri.com.ar/p/chasquid
-title: chasquid
-topics:
-- go
-- lib
-- email

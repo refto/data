@@ -1,0 +1,14 @@
+title: Interpol
+
+description: >
+  Interpol is a minimal string interpolation library written in Go.
+  It can be used to generate a series of strings from a set of rules.
+  This is useful for example for people doing penetration testing or fuzzing.
+
+home_addr: https://bitbucket.org/vahidi/interpol
+picture_addr: https://bytebucket.org/vahidi/interpol/raw/06ac04448f8c38d57551526850bc6adf32ed90f0/logo.png
+
+topics:
+- go
+- lib
+- string

@@ -1,9 +1,0 @@
-description: The Paho Go Client provides an MQTT client library for connection to
-  MQTT brokers via TCP, TLS or WebSockets
-home_addr: https://eclipse.org/paho/clients/golang/
-title: mqttPaho
-topics:
-- go
-- lib
-- net
-- network

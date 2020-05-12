@@ -1,0 +1,23 @@
+title: aah
+description: >
+  aah aims to provide necessary components to build modern Web, API and WebSocket applications. aah framework is secure, rapid and extensible. It takes full care of infrastructure, boilerplate code, repetitive activities, reusable components, etc.
+home_addr: https://aahframework.org
+picture_addr: https://cdn.aahframework.org/assets/img/aah-logo-64x64.png
+
+links:
+  - icon: home
+    label: Website
+    addr: https://aahframework.org
+
+  - icon: github
+    label: Source code
+    addr: https://github.com/go-aah/aah
+
+  - icon: book
+    label: Documentation
+    addr: https://docs.aahframework.org/
+
+topics:
+  - go
+  - web
+  - framework

@@ -1,0 +1,25 @@
+title: chasquid
+description: >
+  chasquid is an SMTP (email) server with a focus on simplicity, security, and ease of operation.
+  It sends and receives email as a typical MTA (for example, can be used instead of Postfix or Exim), and it is designed mainly for individuals and small groups.
+
+home_addr: https://blitiri.com.ar/p/chasquid
+
+links:
+  - icon: home
+    label: Website
+    addr: https://blitiri.com.ar/p/chasquid/
+
+  - label: Repo
+    addr: https://blitiri.com.ar/git/r/chasquid/
+
+  - icon: book
+    label: Docs
+    addr: https://blitiri.com.ar/p/chasquid/howto/
+
+topics:
+- binary
+- smtp
+- email
+- server
+- go

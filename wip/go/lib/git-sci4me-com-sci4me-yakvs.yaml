@@ -1,7 +1,0 @@
-description: Small, networked, in-memory key-value store
-home_addr: https://git.sci4me.com/sci4me/yakvs
-title: yakvs
-topics:
-- go
-- lib
-- server

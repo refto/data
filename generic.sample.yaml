@@ -7,24 +7,27 @@
     # topics (at least one)
     
 title: Something awesome
-description: Something that will awesome you
+description: >
+  Something that
+  will amaze you
 
-# Address to preview picture
-preview_url: https://something.awesome.some/pic.jpg
-
-# Address of home page or where to find out more
+# Primary address
 home_addr: https://something.awesome.some
+
+# Address to preview picture (or logo)
+picture_addr: https://something.awesome.some/pic.jpg
 
 # List of helpful links associated with data
 # None is required, but if provided "label" 
 # and "addr" properties is required on each element
 links:
+   # available icons: https://www.antdv.com/components/icon/
    - icon: news
      label: News
-     addr: ttps://something.awesome.some/news
+     addr: https://something.awesome.some/news
    - icon: docs
      label: Documentation
-     addr: ttps://something.awesome.some/docs
+     addr: https://something.awesome.some/docs
 
 # List of topics that data is related to
 # At least one is required

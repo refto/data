@@ -1,6 +1,0 @@
-description: PostgreSQL-backed distributed locking implementation
-home_addr: https://cirello.io/pglock
-title: pglock
-topics:
-- go
-- lib

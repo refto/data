@@ -6,15 +6,19 @@ properties:
     title:
         type: string
         description: Title
+
     description:
         type: string
         description: Description
+
     home_addr:
         type: string
         description: Address of home page or where to find more
-    preview_url:
+
+    picture_addr:
         type: string
-        description: Preview picture URL
+        description: Preview picture (or logo) address
+
     links:
         description: List of helpful links associated with data
         type: array
@@ -30,6 +34,7 @@ properties:
             required:
                 - label
                 - addr
+
     topics:
         type: array
         description: List of topics that data is related to
