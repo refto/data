@@ -1,7 +1,9 @@
+title: adam-hanna/jwt-auth
 description: JWT middleware for Golang http servers with many configuration options
 home_addr: https://github.com/adam-hanna/jwt-auth
-title: jwt-auth
 topics:
-- go
-- lib
-- auth
+  - go
+  - lib
+  - auth
+  - jwt
+  - middleware

@@ -1,0 +1,10 @@
+title: ggr
+description: Go Grid Router (aka Ggr) is a lightweight active load balancer used to create scalable and highly-available Selenium clusters
+
+home_addr: https://github.com/aerokube/ggr
+
+topics:
+  - go
+  - lib
+  - selenuim
+  - balancer

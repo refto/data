@@ -1,0 +1,14 @@
+title: libvlc-go
+description: Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). The package can be useful for adding multimedia capabilities to applications through the provided player interfaces. It relies on Go modules in order to mirror each supported major version of libVLC.
+
+home_addr: https://github.com/adrg/libvlc-go
+picture_addr: https://raw.githubusercontent.com/adrg/adrg.github.io/master/assets/projects/libvlc-go/libvlc-go-logo.jpg
+
+topics:
+  - go
+  - lib
+  - video
+  - audio
+  - media
+  - vlc
+  - binding

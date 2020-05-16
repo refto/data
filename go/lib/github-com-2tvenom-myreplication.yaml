@@ -1,0 +1,10 @@
+title: myreplication
+description: Pure Go Implementation of MySQL replication protocol. This allow you to receive event like insert, update, delete with their datas and raw SQL queries.
+
+home_addr: https://github.com/2tvenom/myreplication
+
+topics:
+  - go
+  - lib
+  - mysql
+  - replication

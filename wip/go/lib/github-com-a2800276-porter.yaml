@@ -1,8 +1,0 @@
-description: This is a fairly straightforward port of Martin Porter's C implementation
-  of the Porter stemming algorithm
-home_addr: https://github.com/a2800276/porter
-title: porter
-topics:
-- go
-- lib
-- lang

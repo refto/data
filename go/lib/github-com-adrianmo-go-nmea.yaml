@@ -1,7 +1,7 @@
+title: go-nmea
 description: NMEA parser library for the Go language
 home_addr: https://github.com/adrianmo/go-nmea
-title: go-nmea
 topics:
-- go
-- lib
-- text
+  - go
+  - lib
+  - nmea

@@ -1,6 +1,8 @@
-description: alternative Selenium hub server that launches browsers within containers
-home_addr: https://github.com/aerokube/selenoid
 title: selenoid
+description: Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary
+
+home_addr: https://github.com/aerokube/selenoid
+
 topics:
 - go
-- lib
+- selenium

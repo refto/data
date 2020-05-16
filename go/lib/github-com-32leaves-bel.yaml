@@ -1,0 +1,8 @@
+title: bel
+description: Generate TypeScript interfaces from Go structs/interfaces
+home_addr: https://github.com/32leaves/bel
+topics:
+  - go
+  - typescript
+  - lib
+  - codegen

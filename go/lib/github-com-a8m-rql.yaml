@@ -1,0 +1,11 @@
+title: Resource Query Language for REST
+description: RQL is a resource query language for REST. It provides a simple and light-weight API for adding dynamic querying capabilities to web-applications that use SQL-based database. It functions as the connector between the HTTP handler and the DB engine, and manages all validations and translations for user inputs.
+
+home_addr: https://github.com/a8m/rql
+picture_addr: https://github.com/a8m/rql/raw/master/assets/logo.png
+
+topics:
+  - go
+  - lib
+  - rest
+  - sql

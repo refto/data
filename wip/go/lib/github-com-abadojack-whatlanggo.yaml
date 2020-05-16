@@ -1,8 +1,0 @@
-description: Natural language detection package for Go. Supports 84 languages and
-  24 scripts (writing systems e.g. Latin, Cyrillic, etc)
-home_addr: https://github.com/abadojack/whatlanggo
-title: whatlanggo
-topics:
-- go
-- lib
-- lang

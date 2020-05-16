@@ -1,8 +1,0 @@
-description: 'Hunch provides functions like: "All", "First", "Retry", "Waterfall"
-  etc., that makes asynchronous flow control more intuitive'
-home_addr: https://github.com/AaronJan/Hunch
-title: Hunch
-topics:
-- go
-- lib
-- goroutine

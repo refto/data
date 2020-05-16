@@ -1,8 +1,0 @@
-description: An O(1) logging system that allows you to connect one log to multiple
-  writers (e.g. stdout, a file and a TCP connection)
-home_addr: https://github.com/aerogo/log
-title: log
-topics:
-- go
-- lib
-- log

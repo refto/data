@@ -1,8 +1,0 @@
-description: Generate TypeScript interfaces from Go structs/interfaces. Useful for
-  JSON RPC
-home_addr: https://github.com/32leaves/bel
-title: bel
-topics:
-- go
-- lib
-- serialization

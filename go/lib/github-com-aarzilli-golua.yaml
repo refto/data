@@ -1,6 +1,8 @@
+title: golua
 description: Go bindings for Lua C API
 home_addr: https://github.com/aarzilli/golua
-title: golua
 topics:
-- go
-- lib
+  - go
+  - lib
+  - lua
+  - bindings

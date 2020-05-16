@@ -1,8 +1,0 @@
-description: Parses indented code (python, pixy, scarlet, etc.) and returns a tree
-  structure
-home_addr: https://github.com/aerogo/codetree
-title: codetree
-topics:
-- go
-- lib
-- text

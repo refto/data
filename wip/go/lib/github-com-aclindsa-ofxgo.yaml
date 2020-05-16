@@ -1,8 +1,0 @@
-description: Query OFX servers and/or parse the responses (with example command-line
-  client)
-home_addr: https://github.com/aclindsa/ofxgo
-title: ofxgo
-topics:
-- go
-- lib
-- finance

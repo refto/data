@@ -1,7 +1,0 @@
-description: a lightweight server that routes and proxies Selenium WebDriver requests
-  to multiple Selenium hubs
-home_addr: https://github.com/aerokube/ggr
-title: ggr
-topics:
-- go
-- lib

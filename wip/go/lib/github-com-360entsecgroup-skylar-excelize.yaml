@@ -1,7 +1,0 @@
-description: Golang library for reading and writing Microsoft Excel™ (XLSX) files
-home_addr: https://github.com/360EntSecGroup-Skylar/excelize
-title: excelize
-topics:
-- go
-- lib
-- excel

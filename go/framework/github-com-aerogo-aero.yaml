@@ -1,0 +1,10 @@
+title: Aero
+description: High-performance web server with a clean API
+
+home_addr: https://github.com/aerogo/aero
+picture_addr: https://github.com/aerogo/aero/raw/master/docs/media/aero.go.png
+topics:
+  - go
+  - web
+  - framework
+  - server

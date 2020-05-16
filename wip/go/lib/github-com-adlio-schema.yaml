@@ -1,9 +1,0 @@
-description: Library to embed schema migrations for database/sql-compatible databases
-  inside your Go binaries
-home_addr: https://github.com/adlio/schema
-title: schema
-topics:
-- go
-- lib
-- db
-- migration

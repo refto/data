@@ -1,8 +1,10 @@
 description: Dead simple, highly performant, highly customizable sessions service
   for go http servers
 home_addr: https://github.com/adam-hanna/sessions
-title: sessions
+title: adam-hanna/sessions
 topics:
-- go
-- lib
-- auth
+  - go
+  - lib
+  - auth
+  - session
+  - middleware
