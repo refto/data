@@ -1,7 +1,6 @@
+title: svgo
 description: Go Language Library for SVG generation
 home_addr: https://github.com/ajstarks/svgo
-title: svgo
 topics:
-- go
-- lib
-- image
+  - go
+  - svg

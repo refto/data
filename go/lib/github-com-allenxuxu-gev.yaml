@@ -1,0 +1,10 @@
+title: gev
+description: Gev is a lightweight, fast non-blocking TCP network library based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.
+home_addr: https://github.com/Allenxuxu/gev
+topics:
+  - go
+  - lib
+  - net
+  - network
+  - tcp
+  - server

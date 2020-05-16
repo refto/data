@@ -1,8 +1,0 @@
-description: Go package that handles HTML, JSON, XML and etc. responses. Useful for
-  RESTful APIs
-home_addr: https://github.com/alioygur/gores
-title: gores
-topics:
-- go
-- lib
-- middleware

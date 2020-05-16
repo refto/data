@@ -1,7 +1,7 @@
+title: Zoom
 description: Blazing-fast datastore and querying engine built on Redis
 home_addr: https://github.com/albrow/zoom
-title: Zoom
 topics:
-- go
-- lib
-- orm
+  - go
+  - redis
+  - orm

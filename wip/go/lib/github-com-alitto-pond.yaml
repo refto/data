@@ -1,7 +1,0 @@
-description: Minimalistic and High-performance goroutine worker pool written in Go
-home_addr: https://github.com/alitto/pond
-title: pond
-topics:
-- go
-- lib
-- goroutine

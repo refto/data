@@ -1,0 +1,7 @@
+title: go-linq
+description: A powerful language integrated query (LINQ) library for Go
+home_addr: https://github.com/ahmetalpbalkan/go-linq
+topics:
+  - go
+  - lib
+  - linq

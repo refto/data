@@ -1,0 +1,13 @@
+title: pogreb
+description: Embedded key-value store for read-heavy workloads
+
+home_addr: https://github.com/akrylysov/pogreb
+picture_addr: https://camo.githubusercontent.com/c2485abc413fe0ffb1c15d48994a6afe39cbe508/68747470733a2f2f616b72796c79736f762e6769746875622e696f2f706f677265622f6c6f676f2e737667
+
+topics:
+  - go
+  - lib
+  - store
+  - db
+  - key-value
+

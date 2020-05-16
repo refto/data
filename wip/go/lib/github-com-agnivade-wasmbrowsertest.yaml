@@ -1,7 +1,0 @@
-description: Run Go WASM tests in your browser
-home_addr: https://github.com/agnivade/wasmbrowsertest
-title: wasmbrowsertest
-topics:
-- go
-- lib
-- web assembly

@@ -1,7 +1,7 @@
+title: go-arg
 description: Struct-based argument parsing in Go
 home_addr: https://github.com/alexflint/go-arg
-title: go-arg
 topics:
-- go
-- lib
-- cli
+  - go
+  - lib
+  - cli

@@ -1,7 +1,0 @@
-description: A tiny and efficient Go unique string ID generator
-home_addr: https://github.com/aidarkhanov/nanoid
-title: nanoid
-topics:
-- go
-- lib
-- uuid

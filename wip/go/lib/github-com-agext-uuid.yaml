@@ -1,8 +1,0 @@
-description: Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality
-  random node identifier
-home_addr: https://github.com/agext/uuid
-title: uuid
-topics:
-- go
-- lib
-- uuid

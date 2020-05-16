@@ -1,6 +1,0 @@
-description: Go to Lua binding library, based on [gopher-lua](https://github.com/yuin/gopher-lua)
-home_addr: https://github.com/alexeyco/binder
-title: binder
-topics:
-- go
-- lib

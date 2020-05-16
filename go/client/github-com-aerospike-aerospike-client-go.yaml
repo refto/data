@@ -1,8 +1,9 @@
-description: Aerospike client in Go language
-home_addr: https://github.com/aerospike/aerospike-client-go
 title: aerospike-client-go
+description: Aerospike client in Go language
+
+home_addr: https://github.com/aerospike/aerospike-client-go
+
 topics:
-- go
-- lib
-- db
-- driver
+  - go
+  - aerospike
+  - client

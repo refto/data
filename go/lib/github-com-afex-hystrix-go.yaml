@@ -1,0 +1,8 @@
+title: hystrix-go
+description: Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker
+home_addr: https://github.com/afex/hystrix-go
+topics:
+  - go
+  - lib
+  - util
+  - hystrix

@@ -1,6 +1,0 @@
-description: Implementation to calculate levenshtein distance in Go
-home_addr: https://github.com/agnivade/levenshtein
-title: levenshtein
-topics:
-- go
-- lib

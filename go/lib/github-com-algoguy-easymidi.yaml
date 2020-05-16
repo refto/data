@@ -1,8 +1,9 @@
+title: EasyMIDI
 description: EasyMidi is a simple and reliable library for working with standard midi
   file (SMF)
 home_addr: https://github.com/algoGuy/EasyMIDI
-title: EasyMIDI
 topics:
-- go
-- lib
-- audio
+  - go
+  - lib
+  - audio
+  - midi

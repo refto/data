@@ -1,7 +1,7 @@
+title: argparse
 description: Command line argument parser inspired by Python's argparse module
 home_addr: https://github.com/akamensky/argparse
-title: argparse
 topics:
-- go
-- lib
-- cli
+  - go
+  - lib
+  - cli

@@ -1,8 +1,0 @@
-description: Provides one-way string transliteration with supporting of language-specific
-  transliteration rules
-home_addr: https://github.com/alexsergivan/transliterator
-title: transliterator
-topics:
-- go
-- lib
-- lang
