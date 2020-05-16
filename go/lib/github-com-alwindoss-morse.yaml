@@ -1,6 +1,9 @@
+title: morse
 description: Library to convert to and from morse code
 home_addr: https://github.com/alwindoss/morse
-title: morse
 topics:
-- go
-- lib
+  - go
+  - lib
+  - morse
+  - encode
+  - decode
