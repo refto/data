@@ -18,8 +18,7 @@ home_addr: https://something.awesome.some
 picture_addr: https://something.awesome.some/pic.jpg
 
 # List of helpful links associated with data
-# None is required, but if provided "label" 
-# and "addr" properties is required on each element
+# None is required, but if provided, "label"  and "addr" properties is required on each element
 links:
    # available icons: https://www.antdv.com/components/icon/
    - icon: news

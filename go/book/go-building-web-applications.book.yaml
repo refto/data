@@ -1,0 +1,25 @@
+title: "Go: Building Web Applications"
+description: >
+  An easy-to-follow guide that provides everything a developer needs to know to build end-to-end web applications in Go
+
+# Address where to read, buy or find out more
+home_addr: https://www.amazon.com/dp/B01LD8K5C0/ref=cm_sw_su_dp
+
+# Address to cover picture
+picture_addr: https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL._SX419_BO1,204,203,200_.jpg
+
+publish_date: August 31, 2016
+
+# at least one author should be set
+authors:
+  - name: Nathan Kozyra
+    addr: https://twitter.com/nkozyra
+  - name: Mat Ryer
+    addr: https://twitter.com/matryer
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

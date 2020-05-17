@@ -1,0 +1,25 @@
+title: The Go Programming Language
+description: >
+  The Go Programming Language is the authoritative resource for any programmer who wants to learn Go. It shows how to write clear and idiomatic Go to solve real-world problems. The book does not assume prior knowledge of Go nor experience with any specific language, so you’ll find it accessible whether you’re most comfortable with JavaScript, Ruby, Python, Java, or C++.
+
+# Address where to read or buy
+home_addr: http://www.gopl.io/
+
+# Address to cover picture
+picture_addr: http://www.gopl.io/cover.png
+
+publish_date: Oct 26, 2015
+
+# at least one author should be set
+authors:
+  - name: Alan A. A. Donovan
+#    addr:
+  - name: Brian W. Kernighan
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - intermediate

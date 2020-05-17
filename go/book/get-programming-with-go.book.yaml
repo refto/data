@@ -1,0 +1,25 @@
+title: Get Programming with Go
+description: >
+  Get Programming with Go introduces you to the powerful Go language without confusing jargon or high-level theory. By working through 32 quick-fire lessons, you'll quickly pick up the basics of the innovative Go programming language!
+
+# Address where to read or buy
+home_addr: https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821
+
+# Address to cover picture
+picture_addr: https://images.manning.com/720/960/resize/book/3/ddd56a6-ba2b-4ca4-bda2-540761b91c55/Go-Youngman_hi-res_REV.png
+
+publish_date: August 2018
+
+# at least one author should be set
+authors:
+  - name: Nathan Youngman
+#    addr:
+  - name: Roger Peppé
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - novice

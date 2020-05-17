@@ -1,0 +1,24 @@
+title: Network Programming with Go
+description: >
+  Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
+  Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (RPC), web sockets including HTML5 web sockets, and more.
+
+# Address where to read, buy or find out more
+home_addr: https://www.apress.com/us/book/9781484226919
+
+# Address to cover picture
+picture_addr: https://images.springer.com/sgw/books/medium/9781484226919.jpg
+
+publish_date: 2017
+
+# at least one author should be set
+authors:
+  - name: Jan Newmarch
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

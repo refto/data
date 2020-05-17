@@ -1,0 +1,23 @@
+title: 12 Factor Applications with Docker and Go
+description: >
+  A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications
+
+# Address where to read, buy or find out more
+home_addr: https://leanpub.com/12fa-docker-golang
+
+# Address to cover picture
+picture_addr: https://d2sofvawe08yqg.cloudfront.net/12fa-docker-golang/hero?1549493697
+
+publish_date: 2018
+
+# at least one author should be set
+authors:
+  - name: Tit Petric
+    addr: https://leanpub.com/u/titpetric
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

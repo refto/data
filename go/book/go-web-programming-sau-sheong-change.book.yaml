@@ -1,0 +1,22 @@
+title: Go Web Programming
+description: >
+  Go Web Programming teaches you how to build web applications in Go using modern design principles. You?ll learn how to implement the dependency injection design pattern for writing test doubles, use concurrency in web applications, and create and consume JSON and XML in web services. Along the way, you?ll discover how to minimize your dependence on external frameworks, and you?ll pick up valuable productivity techniques for testing and deploying your applications.
+
+# Address where to read, buy or find out more
+home_addr: https://www.manning.com/books/go-web-programming
+
+# Address to cover picture
+picture_addr: https://images.manning.com/720/960/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png
+
+publish_date: July 2016
+
+# at least one author should be set
+authors:
+  - name: Sau Sheong Chang
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

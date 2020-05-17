@@ -1,0 +1,23 @@
+title: Mastering Concurrency in Go
+description: >
+  This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
+
+# Address where to read, buy or find out more
+home_addr: http://shop.oreilly.com/product/9781783983483.do
+
+# Address to cover picture
+picture_addr: https://covers.oreillystatic.com/images/9781783983483/cat.gif
+
+publish_date: July 2014
+
+# at least one author should be set
+authors:
+  - name: Nathan Kozyra
+    addr: https://twitter.com/nkozyra
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

@@ -1,0 +1,24 @@
+title: Go Design Patterns
+description: >
+  Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD
+
+# Address where to read, buy or find out more
+home_addr: https://www.packtpub.com/application-development/go-design-patterns
+
+# Address to cover picture
+picture_addr: https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05557.png
+
+publish_date: February 24, 2017
+
+# at least one author should be set
+authors:
+  - name: Super Mario Castro Contreras
+    addr: https://twitter.com/110010111101011
+
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced

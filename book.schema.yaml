@@ -1,0 +1,72 @@
+title: Book
+description: Book's schema
+type: object
+additionalProperties: false
+properties:
+    title:
+        type: string
+        description: Title
+
+    description:
+        type: string
+        description: Description
+
+    home_addr:
+        type: string
+        description: Address of home page or where to find more
+
+    picture_addr:
+        type: string
+        description: Preview picture (or logo) address
+
+    publish_date:
+        anyOf:
+            - type: string
+            - type: integer
+
+    authors:
+        description: List of book's authors
+        type: array
+        items:
+            type: object
+            properties:
+                name:
+                    type: string
+                addr:
+                    type: string
+            description: Any web address to help find out more about this author
+            required:
+                - name
+        minItems: 1
+        uniqueItems: true
+
+    links:
+        description: List of helpful links associated with book
+        type: array
+        items:
+            type: object
+            properties:
+                icon:
+                    type: string
+                label:
+                    type: string
+                addr:
+                    type: string
+            required:
+                - label
+                - addr
+
+    topics:
+        type: array
+        description: List of topics that data is related to
+        items:
+            type: string
+        minItems: 1
+        uniqueItems: true
+            
+    
+required:
+    - title
+    - description
+    - home_addr
+    - publish_date

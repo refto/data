@@ -1,0 +1,24 @@
+title: Webapps in Go
+description: >
+  The book teaches you how to write web applications in Go without using a framework. It is possible to write a webapp without using any framework in Go. Each new concept will be explained via a valid code example. The book is based of a todo list manager I wrote in Go, and at any point in time, you can check the source code of the todo list manager.
+
+# Address where to read, buy or find out more
+home_addr: https://leanpub.com/antitextbookGo/
+
+# Address to cover picture
+picture_addr: https://d2sofvawe08yqg.cloudfront.net/antitextbookGo/hero?1549491374
+
+publish_date: August 2017
+
+# at least one author should be set
+authors:
+  - name: Suraj
+    addr: https://twitter.com/igeeko
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced
+  - free

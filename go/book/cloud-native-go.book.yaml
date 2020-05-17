@@ -1,0 +1,23 @@
+title: "Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React (Developer's Library)"
+description: >
+  Cloud Native Go shows developers how to build massive cloud applications that meet the insatiable demands of today’s customers, and will dynamically scale to handle virtually any volume of data, traffic, or users.
+
+# Address where to read, buy or find out more
+home_addr: https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797
+
+# Address to cover picture
+picture_addr: https://images-na.ssl-images-amazon.com/images/I/41+6cMxElaL._SX384_BO1,204,203,200_.jpg
+
+publish_date: December 5, 2016
+
+# at least one author should be set
+authors:
+  - name: Kevin Hoffman
+  - name: Dan Nemeth
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

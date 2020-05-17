@@ -1,0 +1,23 @@
+title: Mastering Go Web Services
+description: >
+  This book will take you through the most important aspects of designing, building, and deploying a web service utilizing idiomatic REST practices with a focus on speed, security, and flexibility. You will begin by building your first API in Go using the HTTP package. You will look at designing and building your application including popular design structures like Model-View-Controller. You will also understand methods for deploying code to staging and development. Finally, you will see how the security features in Go can be used for protection against SQL injection, and sensitive data compromise.
+
+# Address where to read, buy or find out more
+home_addr: http://shop.oreilly.com/product/9781783981304.do
+
+# Address to cover picture
+picture_addr: https://covers.oreillystatic.com/images/9781783981304/cat.gif
+
+publish_date: April 2015
+
+# at least one author should be set
+authors:
+  - name: Nathan Kozyra
+    addr: https://twitter.com/nkozyra
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced

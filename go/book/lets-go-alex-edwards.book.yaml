@@ -1,0 +1,23 @@
+title: Let's Go!
+description: >
+  The book guides you through the start-to-finish build of a real-world application, so you'll gain all the knowledge, understanding and confidence you need to create production-ready applications with Go.
+
+# Address where to read, buy or find out more
+home_addr: https://lets-go.alexedwards.net/
+
+# Address to cover picture
+picture_addr: https://camo.githubusercontent.com/05e4226e6d44cf43319ff67e44dac989776021dd/68747470733a2f2f6c6574732d676f2e616c6578656477617264732e6e65742f73616d706c652f6173736574732f696d672f636f7665722e706e67
+
+publish_date: October 2017
+
+# at least one author should be set
+authors:
+  - name: Alex Edwards
+    addr: https://www.alexedwards.net/
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

@@ -1,0 +1,23 @@
+title: Build SaaS apps in Go
+description: >
+  Learn how to build an API-first web app in Go from scratch through to taking online payments with Stripe.
+
+# Address where to read, buy or find out more
+home_addr: https://buildsaasappingo.com/
+
+# Address to cover picture
+picture_addr: https://buildsaasappingo.com/basaig.jpg
+
+publish_date: October 2017
+
+# at least one author should be set
+authors:
+  - name: Dominic St-Pierre
+    addr: https://twitter.com/dominicstpierre
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

@@ -1,0 +1,22 @@
+title: Hands-On Dependency Injection in Go
+description: >
+  Explore various dependency injection methods in Go such as monkey patching, constructor injection, and method injection
+
+# Address where to read, buy or find out more
+home_addr: https://www.amazon.com/Hands-Dependency-Injection-Go-maintain/dp/1789132762/
+
+# Address to cover picture
+picture_addr: https://images-na.ssl-images-amazon.com/images/I/514CBWPuxXL._SX404_BO1,204,203,200_.jpg
+
+publish_date: August 2017
+
+# at least one author should be set
+authors:
+  - name: Corey Scott
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced

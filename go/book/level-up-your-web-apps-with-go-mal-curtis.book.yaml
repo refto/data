@@ -1,0 +1,22 @@
+title: Level Up Your Web Apps With Go
+description: >
+  This book gives you all you need to use Go in your web applications. You’ll learn the basic concepts — language structures, the standard library, and Go tools — then tackle more advanced features like concurrency concepts, testing methodologies, and package structures.
+
+# Address where to read, buy or find out more
+home_addr: https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go
+
+# Address to cover picture
+picture_addr: https://d2sis3lil8ndrq.cloudfront.net/books/d1b5be56-17cf-4b1b-8329-4e4170514675.png
+
+publish_date: April 2015
+
+# at least one author should be set
+authors:
+  - name: Mal Curtis
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

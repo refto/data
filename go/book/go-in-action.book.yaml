@@ -1,0 +1,28 @@
+title: Go in Action
+description: >
+  Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. Then, you'll get hands-on experience writing real-world applications including websites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous.
+
+# Address where to read or buy
+home_addr: https://www.manning.com/books/go-in-action
+
+# Address to cover picture
+picture_addr: https://images.manning.com/720/960/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png
+
+publish_date: 2015
+
+# at least one author should be set
+authors:
+  - name: William Kennedy
+#    addr:
+  - name: Brian Ketelsen
+#    addr:
+  - name: Erik St. Martin
+#    addr:
+
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - intermediate

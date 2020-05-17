@@ -1,0 +1,35 @@
+title: The Little Go Book
+description: >
+  The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
+
+# Address where to read or buy
+home_addr: https://www.openmymind.net/The-Little-Go-Book/
+
+# Address to cover picture
+picture_addr: https://www.openmymind.net/assets/go/title.png
+
+publish_date: 21 Oct 2014
+
+# at least one author should be set
+authors:
+  - name: Karl Seguin
+
+    # any web address to help find out more about this author
+    addr: https://twitter.com/karlseguin
+
+
+# List of helpful links associated with book
+# None is required, but if provided, "label"  and "addr" properties is required on each element
+links:
+   # available icons: https://www.antdv.com/components/icon/
+   - icon: github
+     label: Source
+     addr: https://github.com/karlseguin/the-little-go-book
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - free
+   - novice

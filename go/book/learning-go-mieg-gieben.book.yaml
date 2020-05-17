@@ -1,0 +1,27 @@
+title: Learning Go
+description: >
+  I've written this book for people who already know some programming languages and how to program. The best way to learn Go is to create your own programs. Each chapter therefore includes exercises (and answers to exercises) to acquaint you with the language. Each exercise is either easy, intermediate, or difficult.
+
+# Address where to read or buy
+home_addr: https://www.miek.nl/go/
+
+# Address to cover picture
+picture_addr: https://www.miek.nl/go/fig/bumper-inverse.png
+
+publish_date: 2018
+
+# at least one author should be set
+authors:
+  - name: Miek Gieben
+    addr: https://www.miek.nl/about/
+  - name: Contributors
+    addr: https://github.com/miekg/learninggo/blob/master/contributors.md
+
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - free
+   - intermediate

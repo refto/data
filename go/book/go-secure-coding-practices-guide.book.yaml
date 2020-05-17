@@ -1,0 +1,23 @@
+title: Secure Coding Practices Guide
+description: >
+  The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
+
+# Address where to read, buy or find out more
+home_addr: https://checkmarx.gitbooks.io/go-scp/
+
+# Address to cover picture
+#picture_addr:
+
+publish_date: 2019
+
+# at least one author should be set
+authors:
+  - name: Contributors
+    addr: https://github.com/OWASP/Go-SCP/graphs/contributors
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

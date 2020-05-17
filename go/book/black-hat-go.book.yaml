@@ -1,0 +1,25 @@
+title: Black Hat Go
+description: >
+  You’ll begin your journey with a basic overview of Go’s syntax and philosophy and then start to explore examples that you can leverage for tool development, including common network protocols like HTTP, DNS, and SMB. You’ll then dig into various tactics and problems that penetration testers encounter, addressing things like data pilfering, packet sniffing, and exploit development. You’ll create dynamic, pluggable tools before diving into cryptography, attacking Microsoft Windows, and implementing steganography.
+
+# Address where to read, buy or find out more
+home_addr: https://nostarch.com/blackhatgo
+
+# Address to cover picture
+picture_addr: https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frcvr.png?itok=wLh62MKg
+
+publish_date: February 2020
+
+# at least one author should be set
+authors:
+  - name: Tom Steele
+  - name: Chris Patten
+  - name: Dan Kottmann
+
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced

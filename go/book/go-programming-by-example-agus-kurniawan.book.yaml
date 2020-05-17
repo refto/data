@@ -1,0 +1,23 @@
+title: Go Programming by Example
+description: >
+  This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
+
+# Address where to read or buy
+home_addr: https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ
+
+# Address to cover picture
+picture_addr: https://m.media-amazon.com/images/I/41tDoH9l0GL.jpg
+
+publish_date: February 21, 2015
+
+# at least one author should be set
+authors:
+  - name: Agus Kurniawan
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - novice

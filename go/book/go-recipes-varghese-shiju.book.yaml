@@ -1,0 +1,23 @@
+title: Go Recipes
+description: >
+  Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
+
+# Address where to read or buy
+home_addr: https://www.apress.com/us/book/9781484211892
+
+# Address to cover picture
+picture_addr: https://images.springer.com/sgw/books/medium/9781484211892.jpg
+
+publish_date: 2016
+
+# at least one author should be set
+authors:
+  - name: Shiju Varghese
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

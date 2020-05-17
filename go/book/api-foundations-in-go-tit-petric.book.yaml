@@ -1,0 +1,23 @@
+title: API foundations in Go
+description: >
+  With this book you'll learn to use Go, taking advantage of it's multi-threaded nature, and typed syntax. Starting your API implementation in Go is your first step towards what a rock solid API should be.
+
+# Address where to read or buy
+home_addr: https://leanpub.com/api-foundations
+
+# Address to cover picture
+picture_addr: https://d2sofvawe08yqg.cloudfront.net/api-foundations/hero?1549481767
+
+publish_date: 2019
+
+# at least one author should be set
+authors:
+  - name: Tit Petric
+    addr: https://twitter.com/TitPetric
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

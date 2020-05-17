@@ -1,0 +1,25 @@
+title: Go in Practice
+description: >
+  Go in Practice guides you through 70 real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications.
+
+# Address where to read, buy or find out more
+home_addr: https://www.manning.com/books/go-in-practice
+
+# Address to cover picture
+picture_addr: https://images.manning.com/720/960/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png
+
+publish_date: August 2016
+
+# at least one author should be set
+authors:
+  - name: Matt Butcher
+  #    addr:
+  - name: Matt Farina
+    addr: https://www.mattfarina.com/
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - book
+  - advanced

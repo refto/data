@@ -1,0 +1,35 @@
+title: Go Bootcamp
+description: >
+  Everything you need to know to get started with Go.
+
+# Address where to read or buy
+home_addr: http://www.golangbootcamp.com/
+
+# Address to cover picture
+picture_addr: https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png
+
+publish_date: Work in progress
+
+# at least one author should be set
+authors:
+  - name: Matt Aimonetti
+
+    # any web address to help find out more about this author
+    addr: https://matt.aimonetti.net/
+
+
+# List of helpful links associated with book
+# None is required, but if provided, "label"  and "addr" properties is required on each element
+links:
+   # available icons: https://www.antdv.com/components/icon/
+   - icon: github
+     label: Source
+     addr: https://github.com/GoBootcamp/book
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - free
+   - novice

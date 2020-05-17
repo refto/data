@@ -1,0 +1,22 @@
+title: Building Microservices with Go
+description: >
+  Your one-stop guide to the common patterns and practices, showing you how to apply these using the Go programming language
+
+# Address where to read, buy or find out more
+home_addr: https://www.packtpub.com/application-development/building-microservices-go
+
+# Address to cover picture
+picture_addr: https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05528.png
+
+publish_date: July 26, 2017
+
+# at least one author should be set
+authors:
+  - name: Nic Jackson
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - advanced

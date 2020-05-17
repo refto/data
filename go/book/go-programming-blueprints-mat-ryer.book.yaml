@@ -1,0 +1,23 @@
+title: Go Programming Blueprints
+description: >
+  This book will show you how to leverage all the latest features and much more. This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions. Each project could form the basis of a start-up, which means they are directly applicable to modern software markets.
+
+# Address where to read or buy
+home_addr: https://www.packtpub.com/application-development/go-programming-blueprints-second-edition
+
+# Address to cover picture
+picture_addr: https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05569.png
+
+publish_date: October 26, 2016
+
+# at least one author should be set
+authors:
+  - name: Mat Ryer
+    addr: https://twitter.com/matryer
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - intermediate

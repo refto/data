@@ -1,0 +1,28 @@
+title: Go for Javascript Developers
+description: >
+  A comparison between Go and Javascript
+
+# Address where to read or buy
+home_addr: http://www.pazams.com/Go-for-Javascript-Developers/
+
+# Address to cover picture
+picture_addr: https://github.com/pazams/go-for-javascript-developers/raw/master/src/images/cover.png
+
+publish_date: 2019
+
+# at least one author should be set
+authors:
+  - name: Maor Zamski
+    addr: http://www.pazams.com/
+  - name: Daniel Singer
+#    addr:
+
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - js
+   - book
+   - free
+   - novice

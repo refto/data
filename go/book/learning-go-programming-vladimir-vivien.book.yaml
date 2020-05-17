@@ -1,0 +1,23 @@
+title: Learning Go Programming
+description: >
+  This is a step-by-step, practical guide full of real world examples to help you get started with Go in no time at all. We start off by understanding the fundamentals of Go, followed by a detailed description of the Go data types, program structures and Maps. After this, you learn how to use Go concurrency idioms to avoid pitfalls and create programs that are exact in expected behavior. Next, you will be familiarized with the tools and libraries that are available in Go for writing and exercising tests, benchmarking, and code coverage.
+
+# Address where to read or buy
+home_addr: https://www.packtpub.com/application-development/learning-go-programming
+
+# Address to cover picture
+picture_addr: https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/5/4/5438os_3676_learning20go20programming.png
+
+publish_date: October 24, 2016
+
+# at least one author should be set
+authors:
+  - name: Vladimir Vivien
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - novice

@@ -1,0 +1,23 @@
+title: "Programming in Go: Creating Applications for the 21st Century"
+description: >
+  Your Hands-On Guide to Go, the Revolutionary New Language Designed for Concurrency, Multicore Hardware, and Programmer Convenience
+
+# Address where to read or buy
+home_addr: https://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637
+
+# Address to cover picture
+picture_addr: https://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f
+
+publish_date: May 4, 2012
+
+# at least one author should be set
+authors:
+  - name: Mark Summerfield
+#    addr:
+
+# List of topics that book is related to
+# At least one is required
+topics:
+   - go
+   - book
+   - intermediate
