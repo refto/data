@@ -1,7 +1,0 @@
-description: Auto provision Let's Encrypt certificates and start a TLS server
-home_addr: https://godoc.org/golang.org/x/crypto/acme/autocert
-title: autocert
-topics:
-- go
-- lib
-- security

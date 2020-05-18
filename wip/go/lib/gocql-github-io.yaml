@@ -1,8 +1,0 @@
-description: Go language driver for Apache Cassandra
-home_addr: http://gocql.github.io
-title: gocql
-topics:
-- go
-- lib
-- db
-- driver

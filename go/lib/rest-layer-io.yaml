@@ -1,0 +1,12 @@
+title: REST Layer
+description: >
+  REST Layer is an API framework heavily inspired by the excellent Python Eve. It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable backend storages with no boiler plate code so you can focus on your business logic.
+
+home_addr: http://rest-layer.io
+picture_addr: http://rest-layer.io/doc/schema.png
+
+topics:
+  - go
+  - lib
+  - framework
+  - rest

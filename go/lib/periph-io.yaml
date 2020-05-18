@@ -1,0 +1,8 @@
+title: periph
+description: Peripherals I/O in Go
+home_addr: https://periph.io/
+topics:
+- go
+- lib
+- iot
+- hardware

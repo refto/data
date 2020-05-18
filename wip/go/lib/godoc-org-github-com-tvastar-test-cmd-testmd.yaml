@@ -1,7 +1,0 @@
-description: Convert markdown snippets into testable go code
-home_addr: https://godoc.org/github.com/tvastar/test/cmd/testmd
-title: testmd
-topics:
-- go
-- lib
-- test

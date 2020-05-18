@@ -1,0 +1,8 @@
+title: gocheck
+description: Rich testing for the Go language. gocheck works as an extension to the testing package and to the "go test" runner. That allows keeping all current tests and using gocheck-based tests right away for new tests without conflicts. The gocheck API was purposefully made similar to the testing package for a smooth migration.
+home_addr: http://labix.org/gocheck
+
+topics:
+- go
+- lib
+- test

@@ -1,0 +1,11 @@
+title: go-gtk
+description: Go bindings for GTK
+
+home_addr: http://mattn.github.io/go-gtk/
+picture_addr: http://mattn.github.io/go-gtk/static/images/go-gtk-logo.png
+
+topics:
+  - go
+  - lib
+  - gtk
+  - gui

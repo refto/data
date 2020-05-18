@@ -1,8 +1,0 @@
-description: GitHub Flavored Markdown renderer (using blackfriday) with fenced code
-  block highlighting, clickable header anchor links
-home_addr: https://godoc.org/github.com/shurcooL/github_flavored_markdown
-title: github_flavored_markdown
-topics:
-- go
-- lib
-- text

@@ -1,0 +1,10 @@
+title: GoCQL
+description: A fast and robust Cassandra client for the Go programming language
+
+home_addr: http://gocql.github.io/
+picture_addr: https://avatars0.githubusercontent.com/u/6570216?s=200&v=4
+
+topics:
+  - go
+  - cassandra
+  - client

@@ -1,0 +1,8 @@
+title: tracerr
+description: Golang errors with stack trace and source fragments. Tired of uninformative error output? Probably this will be more convenient
+home_addr: https://github.com/ztrue/tracerr
+
+topics:
+  - go
+  - lib
+  - error

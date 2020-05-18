@@ -1,7 +1,0 @@
-description: A realtime distributed messaging platform
-home_addr: http://nsq.io/
-title: nsq
-topics:
-- go
-- lib
-- server

@@ -1,8 +1,0 @@
-description: Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML
-  renderer
-home_addr: https://wails.app
-title: Wails
-topics:
-- go
-- lib
-- gui

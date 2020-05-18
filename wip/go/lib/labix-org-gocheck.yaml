@@ -1,7 +1,0 @@
-description: More advanced testing framework alternative to gotest
-home_addr: http://labix.org/gocheck
-title: gocheck
-topics:
-- go
-- lib
-- test

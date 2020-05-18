@@ -1,0 +1,10 @@
+title: ginkgo
+description: Ginkgo is a Go testing framework built to help you efficiently write expressive and comprehensive tests using Behavior-Driven Development (“BDD”) style. It is best paired with the Gomega matcher library but is designed to be matcher-agnostic.
+
+home_addr: http://onsi.github.io/ginkgo/
+picture_addr: http://onsi.github.io/ginkgo/images/ginkgo.png
+
+topics:
+- go
+- lib
+- test

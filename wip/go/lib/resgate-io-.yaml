@@ -1,7 +1,0 @@
-description: Realtime API Gateway for building REST, real time, and RPC APIs, where
-  all clients are synchronized seamlessly
-home_addr: https://resgate.io/
-title: resgate
-topics:
-- go
-- lib

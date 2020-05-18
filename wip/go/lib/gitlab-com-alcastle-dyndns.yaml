@@ -1,9 +1,0 @@
-description: Background Go process to regularly and automatically check your IP Address
-  and make updates to (one or many) Dynamic DNS records for Google domains whenever
-  your address changes
-home_addr: https://gitlab.com/alcastle/dyndns
-title: dyndns
-topics:
-- go
-- lib
-- dns

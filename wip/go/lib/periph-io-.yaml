@@ -1,7 +1,0 @@
-description: Peripherals I/O to interface with low-level board facilities
-home_addr: https://periph.io/
-title: periph
-topics:
-- go
-- lib
-- iot
