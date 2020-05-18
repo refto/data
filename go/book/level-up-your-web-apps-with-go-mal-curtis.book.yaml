@@ -18,5 +18,4 @@ authors:
 # At least one is required
 topics:
    - go
-   - book
    - advanced
