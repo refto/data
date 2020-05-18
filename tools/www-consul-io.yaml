@@ -1,0 +1,15 @@
+title: Consul
+description: Consul is a tool for service discovery and configuration. Consul is distributed, highly available, and extremely scalable.
+
+home_addr: https://www.consul.io/
+
+topics:
+- go
+- tool
+- devops
+- network
+
+links:
+  - icon: github
+    label: Repo
+    addr: https://github.com/hashicorp/consul
