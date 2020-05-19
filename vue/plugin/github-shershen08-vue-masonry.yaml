@@ -1,0 +1,15 @@
+title: vue-masonry
+description: Vue.js directive for masonry blocks layouting
+
+home_addr: https://github.com/shershen08/vue-masonry?ref=madewithvuejs.com
+
+topics:
+  - vue
+  - plugin
+  - layout
+  - masonry
+
+links:
+  - icon: eye
+    label: Demo
+    addr: https://shershen08.github.io/vue-plugins-demo-static/index.html#/masonry
