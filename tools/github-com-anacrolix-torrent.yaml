@@ -1,0 +1,9 @@
+description: Full-featured BitTorrent client package and utilities.
+home_addr: https://github.com/anacrolix/torrent
+title: torrent
+topics:
+  - torrent
+  - p2p
+  - tool
+  - cli
+  - go

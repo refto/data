@@ -1,0 +1,10 @@
+title: authboss
+description: Authboss is a modular authentication system for the web. It has several modules that represent authentication and authorization features that are common to websites in general so that you can enable as many as you need, and leave the others out. It makes it easy to plug in authentication to an application and get a lot of functionality for (hopefully) a smaller amount of integration effort.
+
+home_addr: https://github.com/volatiletech/authboss
+picture_addr: https://camo.githubusercontent.com/6ee0a52cc24492a1be493f87fed66ffd51d12f01/687474703a2f2f692e696d6775722e636f6d2f66504967714c672e6a7067
+topics:
+- go
+- lib
+- http
+- auth

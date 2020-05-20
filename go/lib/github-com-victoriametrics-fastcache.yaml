@@ -1,0 +1,8 @@
+title: fastcache
+description: Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
+home_addr: https://github.com/VictoriaMetrics/fastcache
+topics:
+  - go
+  - lib
+  - cache
+  - inmemory

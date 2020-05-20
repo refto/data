@@ -1,0 +1,7 @@
+title: bitset
+description: Package bitset implements bitsets, a mapping between non-negative integers and boolean values. It should be more efficient than map[uint] bool. It provides methods for setting, clearing, flipping, and testing individual integers. But it also provides set intersection, union, difference, complement, and symmetric operations, as well as tests to check whether any, all, or no bits are set, and querying a bitset's current length and number of positive bits.
+home_addr: https://github.com/willf/bitset
+topics:
+  - go
+  - lib
+  - bitset

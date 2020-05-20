@@ -1,0 +1,8 @@
+title: mpb
+description: Lib for rendering progress bars in terminal applications.
+home_addr: https://github.com/vbauerster/mpb
+topics:
+  - go
+  - lib
+  - ui
+  - cli

@@ -1,0 +1,7 @@
+title: gorpc
+description: Simple, fast and scalable golang RPC library for high load and microservices.
+home_addr: https://github.com/valyala/gorpc
+topics:
+  - go
+  - lib
+  - rpc

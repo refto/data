@@ -1,0 +1,10 @@
+title: chart
+description: Provide basic charts in go
+home_addr: https://github.com/vdobler/chart
+topics:
+  - go
+  - lib
+  - chart
+  - ascii
+  - svg
+  - image

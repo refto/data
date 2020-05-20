@@ -1,0 +1,12 @@
+title: goreporter
+description: A Golang tool that does static analysis, unit testing, code review and generate code quality report. This is a tool that concurrently runs a whole bunch of those linters and normalizes their output to a report
+
+home_addr: https://github.com/wgliang/goreporter
+picture_addr: https://github.com/360EntSecGroup-Skylar/goreporter/raw/master/logo.png
+
+topics:
+  - go
+  - tool
+  - code-review
+  - lint
+  - code-quality

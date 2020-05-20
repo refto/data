@@ -1,0 +1,7 @@
+description: FFast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
+home_addr: https://github.com/valyala/quicktemplate
+title: quicktemplate
+topics:
+  - go
+  - lib
+  - template

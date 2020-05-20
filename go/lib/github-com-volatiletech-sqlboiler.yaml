@@ -1,0 +1,16 @@
+title: SQLBoiler
+description: ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. It is a "database-first" ORM as opposed to "code-first" (like gorm/gorp). That means you must first create your database schema. Please use something like goose, sql-migrate or some other migration tool to manage this part of the database's life-cycle.
+
+home_addr: https://github.com/volatiletech/sqlboiler
+picture_addr: https://camo.githubusercontent.com/6b45c26869e06b9babe847f8c0bb1c245f0a59dd/68747470733a2f2f692e696d6775722e636f6d2f6c4d58555450452e706e67
+
+topics:
+  - go
+  - lib
+  - database
+  - orm
+  - postgresql
+  - mysql
+  - mssql
+  - cockroachdb
+

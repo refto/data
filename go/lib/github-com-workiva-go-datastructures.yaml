@@ -1,0 +1,8 @@
+title: go-datastructures
+description: A collection of useful, performant, and threadsafe Go datastructures
+home_addr: https://github.com/Workiva/go-datastructures
+topics:
+  - go
+  - lib
+  - datastructure
+  - util

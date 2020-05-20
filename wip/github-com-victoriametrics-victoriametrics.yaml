@@ -1,0 +1,8 @@
+description: fast, resource-effective and scalable open source time series database.
+  May be used as long-term remote storage for Prometheus. Supports PromQL
+home_addr: https://github.com/VictoriaMetrics/VictoriaMetrics
+title: VictoriaMetrics
+topics:
+- go
+- lib
+- db

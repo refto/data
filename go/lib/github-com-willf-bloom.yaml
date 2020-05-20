@@ -1,0 +1,7 @@
+title: willf/bloom
+description: Go package implementing Bloom filters
+home_addr: https://github.com/willf/bloom
+topics:
+  - go
+  - lib
+  - bloom-filter
