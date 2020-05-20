@@ -1,6 +1,0 @@
-description: BitTorrent client package
-home_addr: https://github.com/anacrolix/torrent
-title: torrent
-topics:
-- go
-- lib

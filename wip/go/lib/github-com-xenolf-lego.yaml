@@ -1,7 +1,0 @@
-description: Pure Go ACME client library and CLI tool (for use with Let's Encrypt)
-home_addr: https://github.com/xenolf/lego
-title: lego
-topics:
-- go
-- lib
-- security
