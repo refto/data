@@ -1,8 +1,0 @@
-description: A wrapper to turn the VSCode go extension into a language server supporting
-  the language-server-protocol
-home_addr: https://github.com/theia-ide/go-language-server
-title: go-language-server
-topics:
-- go
-- tool
-- ide

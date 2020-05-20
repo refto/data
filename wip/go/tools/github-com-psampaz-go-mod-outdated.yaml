@@ -1,8 +1,0 @@
-description: An easy way to find outdated dependencies of your Go projects
-home_addr: https://github.com/psampaz/go-mod-outdated
-title: go-mod-outdated
-topics:
-- go
-- tool
-- lint
-- analysis

@@ -1,7 +1,0 @@
-description: Vim plugin to highlight syntax errors on save
-home_addr: https://github.com/rjohnsondev/vim-compiler-go
-title: vim-compiler-go
-topics:
-- go
-- tool
-- ide

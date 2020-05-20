@@ -1,7 +1,0 @@
-description: A simple tool for API load testing and batch jobs
-home_addr: https://github.com/dave/blast
-title: Blast
-topics:
-- go
-- tool
-- devop

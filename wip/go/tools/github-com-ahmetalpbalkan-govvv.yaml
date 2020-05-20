@@ -1,7 +1,0 @@
-description: “go build” wrapper to easily add version information into Go binaries
-home_addr: https://github.com/ahmetalpbalkan/govvv
-title: govvv
-topics:
-- go
-- tool
-- devop

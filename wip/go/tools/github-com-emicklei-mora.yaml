@@ -1,7 +1,0 @@
-description: REST server for accessing MongoDB documents and meta data
-home_addr: https://github.com/emicklei/mora
-title: Mora
-topics:
-- go
-- tool
-- devop

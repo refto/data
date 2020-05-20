@@ -1,7 +1,0 @@
-description: A live-updating version of the UNIX wc command
-home_addr: https://github.com/timdp/lwc
-title: lwc
-topics:
-- go
-- tool
-- devop

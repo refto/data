@@ -1,7 +1,0 @@
-description: Generate Go tests using your own templates
-home_addr: https://github.com/hexdigest/gounit
-title: gounit
-topics:
-- go
-- tool
-- generate

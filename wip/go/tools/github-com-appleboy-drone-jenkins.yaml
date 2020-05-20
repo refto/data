@@ -1,7 +1,0 @@
-description: Trigger downstream Jenkins jobs using a binary, docker or Drone CI
-home_addr: https://github.com/appleboy/drone-jenkins
-title: drone-jenkins
-topics:
-- go
-- tool
-- devop

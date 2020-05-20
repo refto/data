@@ -1,8 +1,0 @@
-description: Fake HTTP servers and consumer driven contracts from one configuration
-  file. You can also make the server randomly misbehave to help do more realistic
-  performance tests
-home_addr: https://github.com/quii/mockingjay-server
-title: mockingjay
-topics:
-- go
-- tool

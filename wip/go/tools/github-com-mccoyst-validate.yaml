@@ -1,8 +1,0 @@
-description: Automatically validates struct fields with tags
-home_addr: https://github.com/mccoyst/validate
-title: validate
-topics:
-- go
-- tool
-- lint
-- analysis

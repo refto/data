@@ -1,6 +1,0 @@
-description: A simple tool for running commands and generating files from templates
-home_addr: https://github.com/gulien/orbit
-title: Orbit
-topics:
-- go
-- tool

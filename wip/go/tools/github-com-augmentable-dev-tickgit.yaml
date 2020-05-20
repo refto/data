@@ -1,9 +1,0 @@
-description: CLI and go package for surfacing code comment TODOs (in any language)
-  and applying a "git blame" to identify the author
-home_addr: https://github.com/augmentable-dev/tickgit
-title: tickgit
-topics:
-- go
-- tool
-- lint
-- analysis

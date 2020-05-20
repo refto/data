@@ -1,9 +1,0 @@
-description: tarp finds functions and methods without direct unit tests in Go source
-  code
-home_addr: https://github.com/verygoodsoftwarenotvirus/tarp
-title: tarp
-topics:
-- go
-- tool
-- lint
-- analysis

@@ -1,6 +1,0 @@
-description: Simple NaCL EC25519 based crypto pipe tool written in Go
-home_addr: https://github.com/unix4fun/naclpipe
-title: naclpipe
-topics:
-- go
-- tool

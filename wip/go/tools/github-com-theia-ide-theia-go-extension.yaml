@@ -1,7 +1,0 @@
-description: Go language support for the Theia IDE
-home_addr: https://github.com/theia-ide/theia-go-extension
-title: theia-go-extension
-topics:
-- go
-- tool
-- ide

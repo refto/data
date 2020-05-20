@@ -1,7 +1,0 @@
-description: Generate Haskell inspired functions for your slices
-home_addr: https://github.com/DylanMeeus/hasgo
-title: hasgo
-topics:
-- go
-- tool
-- generate

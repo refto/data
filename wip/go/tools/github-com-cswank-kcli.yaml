@@ -1,7 +1,0 @@
-description: Command line tool for inspecting kafka topics/partitions/messages
-home_addr: https://github.com/cswank/kcli
-title: kcli
-topics:
-- go
-- tool
-- devop

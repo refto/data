@@ -1,8 +1,0 @@
-description: Formatter that automatically shortens long lines in Go code
-home_addr: https://github.com/segmentio/golines
-title: golines
-topics:
-- go
-- tool
-- lint
-- analysis

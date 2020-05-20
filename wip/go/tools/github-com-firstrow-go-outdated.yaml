@@ -1,8 +1,0 @@
-description: Console application that displays outdated packages
-home_addr: https://github.com/firstrow/go-outdated
-title: go-outdated
-topics:
-- go
-- tool
-- lint
-- analysis

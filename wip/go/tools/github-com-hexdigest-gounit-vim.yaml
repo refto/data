@@ -1,8 +1,0 @@
-description: Vim plugin for generating Go tests based on the function's or method's
-  signature
-home_addr: https://github.com/hexdigest/gounit-vim
-title: gounit-vim
-topics:
-- go
-- tool
-- ide

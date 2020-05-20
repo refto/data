@@ -1,8 +1,0 @@
-description: Tool which creates a build of Go that can cross compile to all platforms
-  while still using the Cgo-enabled versions of the stdlib packages
-home_addr: https://github.com/inconshreveable/gonative
-title: gonative
-topics:
-- go
-- tool
-- devop

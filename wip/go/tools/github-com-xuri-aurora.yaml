@@ -1,7 +1,0 @@
-description: Cross-platform web-based Beanstalkd queue server console
-home_addr: https://github.com/xuri/aurora
-title: aurora
-topics:
-- go
-- tool
-- devop

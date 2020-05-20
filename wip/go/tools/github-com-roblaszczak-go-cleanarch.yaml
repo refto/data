@@ -1,9 +1,0 @@
-description: go-cleanarch was created to validate Clean Architecture rules, like a
-  The Dependency Rule and interaction between packages in your Go projects
-home_addr: https://github.com/roblaszczak/go-cleanarch
-title: go-cleanarch
-topics:
-- go
-- tool
-- lint
-- analysis

@@ -1,7 +1,0 @@
-description: Lightweight tool designed to distribute commands over ssh with ease
-home_addr: https://github.com/yaronsumel/grapes
-title: grapes
-topics:
-- go
-- tool
-- devop

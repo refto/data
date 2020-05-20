@@ -1,7 +1,0 @@
-description: Small binary that loads Amazon (AWS) environment variables for a profile
-home_addr: https://github.com/soniah/awsenv
-title: awsenv
-topics:
-- go
-- tool
-- devop

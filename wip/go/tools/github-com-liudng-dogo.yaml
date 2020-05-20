@@ -1,8 +1,0 @@
-description: Monitoring changes in the source file and automatically compile and run
-  (restart)
-home_addr: https://github.com/liudng/dogo
-title: dogo
-topics:
-- go
-- tool
-- devop

@@ -1,7 +1,0 @@
-description: Simple way to notify your team and many tools when someone has deployed
-  any application via Tsuru
-home_addr: https://github.com/lucasgomide/snitch
-title: Snitch
-topics:
-- go
-- tool

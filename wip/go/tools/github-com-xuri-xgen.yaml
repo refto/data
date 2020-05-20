@@ -1,8 +1,0 @@
-description: XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code
-  generator
-home_addr: https://github.com/xuri/xgen
-title: xgen
-topics:
-- go
-- tool
-- generate

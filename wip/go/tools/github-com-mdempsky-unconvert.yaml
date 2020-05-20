@@ -1,8 +1,0 @@
-description: Remove unnecessary type conversions from Go source
-home_addr: https://github.com/mdempsky/unconvert
-title: unconvert
-topics:
-- go
-- tool
-- lint
-- analysis
