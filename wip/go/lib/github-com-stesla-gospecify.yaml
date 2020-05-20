@@ -1,8 +1,0 @@
-description: This provides a BDD syntax for testing your Go code. It should be familiar
-  to anybody who has used libraries such as rspec
-home_addr: https://github.com/stesla/gospecify
-title: gospecify
-topics:
-- go
-- lib
-- test

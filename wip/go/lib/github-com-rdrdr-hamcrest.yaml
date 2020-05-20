@@ -1,8 +1,0 @@
-description: fluent framework for declarative Matcher objects that, when applied to
-  input values, produce self-describing results
-home_addr: https://github.com/rdrdr/hamcrest
-title: Hamcrest
-topics:
-- go
-- lib
-- test

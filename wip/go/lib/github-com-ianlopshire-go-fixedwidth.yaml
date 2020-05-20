@@ -1,7 +1,0 @@
-description: Fixed-width text formatting (encoder/decoder with reflection)
-home_addr: https://github.com/ianlopshire/go-fixedwidth
-title: go-fixedwidth
-topics:
-- go
-- lib
-- text

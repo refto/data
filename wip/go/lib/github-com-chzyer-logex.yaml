@@ -1,7 +1,0 @@
-description: Golang log lib, supports tracking and level, wrap by standard log lib
-home_addr: https://github.com/chzyer/logex
-title: logex
-topics:
-- go
-- lib
-- log

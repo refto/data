@@ -1,7 +1,0 @@
-description: ':balloon: A lightweight struct validator for Go'
-home_addr: https://github.com/guiferpa/gody
-title: gody
-topics:
-- go
-- lib
-- validation

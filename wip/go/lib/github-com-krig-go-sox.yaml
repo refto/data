@@ -1,7 +1,0 @@
-description: libsox bindings for go
-home_addr: https://github.com/krig/go-sox
-title: go-sox
-topics:
-- go
-- lib
-- audio

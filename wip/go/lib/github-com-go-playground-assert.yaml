@@ -1,8 +1,0 @@
-description: Basic Assertion Library used along side native go testing, with building
-  blocks for custom assertions
-home_addr: https://github.com/go-playground/assert
-title: assert
-topics:
-- go
-- lib
-- test

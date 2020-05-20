@@ -1,7 +1,0 @@
-description: Package captcha provides an easy to use, unopinionated API for captcha
-  generation
-home_addr: https://github.com/steambap/captcha
-title: captcha
-topics:
-- go
-- lib

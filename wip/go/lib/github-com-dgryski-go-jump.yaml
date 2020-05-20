@@ -1,6 +1,0 @@
-description: Port of Google's "Jump" Consistent Hash function
-home_addr: https://github.com/dgryski/go-jump
-title: go-jump
-topics:
-- go
-- lib

@@ -1,7 +1,0 @@
-description: Wrapper for PayPal payment API
-home_addr: https://github.com/logpacker/PayPal-Go-SDK
-title: paypal
-topics:
-- go
-- lib
-- api

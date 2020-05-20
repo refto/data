@@ -1,7 +1,0 @@
-description: Go bindings for the snowball libstemmer library including porter 2
-home_addr: https://github.com/rjohnsondev/golibstemmer
-title: golibstemmer
-topics:
-- go
-- lib
-- lang

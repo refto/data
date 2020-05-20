@@ -1,8 +1,0 @@
-description: Declarative unmarshaling of HTML using struct tags with jQuery syntax
-  (uses GoQuery)
-home_addr: https://github.com/andrewstuart/goq
-title: goq
-topics:
-- go
-- lib
-- text

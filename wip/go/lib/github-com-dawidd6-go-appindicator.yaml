@@ -1,7 +1,0 @@
-description: Go bindings for libappindicator3 C library
-home_addr: https://github.com/dawidd6/go-appindicator
-title: go-appindicator
-topics:
-- go
-- lib
-- gui

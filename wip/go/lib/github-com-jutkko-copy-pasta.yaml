@@ -1,8 +1,0 @@
-description: Universal multi-workstation clipboard that uses S3 like backend for the
-  storage
-home_addr: https://github.com/jutkko/copy-pasta
-title: copy-pasta
-topics:
-- go
-- lib
-- util

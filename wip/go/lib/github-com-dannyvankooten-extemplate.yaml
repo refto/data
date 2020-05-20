@@ -1,8 +1,0 @@
-description: Tiny wrapper around html/template to allow for easy file-based template
-  inheritance
-home_addr: https://github.com/dannyvankooten/extemplate
-title: extemplate
-topics:
-- go
-- lib
-- template

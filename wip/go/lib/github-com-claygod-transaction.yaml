@@ -1,8 +1,0 @@
-description: Embedded transactional database of accounts, running in multithreaded
-  mode
-home_addr: https://github.com/claygod/transaction
-title: transaction
-topics:
-- go
-- lib
-- finance

@@ -1,7 +1,0 @@
-description: Simple, configurable and scalable Structured Logging for Go
-home_addr: https://github.com/go-playground/log
-title: log
-topics:
-- go
-- lib
-- log

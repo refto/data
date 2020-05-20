@@ -1,8 +1,0 @@
-description: Quick and easy expression matching for JSON schemas used in requests
-  and responses
-home_addr: https://github.com/jgroeneveld/schema
-title: schema
-topics:
-- go
-- lib
-- test

@@ -1,7 +1,0 @@
-description: Simple and easy retry mechanism package for Go
-home_addr: https://github.com/thedevsaddam/retry
-title: retry
-topics:
-- go
-- lib
-- util

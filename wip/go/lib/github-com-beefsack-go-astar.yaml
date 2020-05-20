@@ -1,7 +1,0 @@
-description: Go implementation of the A\* path finding algorithm
-home_addr: https://github.com/beefsack/go-astar
-title: go-astar
-topics:
-- go
-- lib
-- game

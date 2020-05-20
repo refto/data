@@ -1,8 +1,0 @@
-description: Powerful HTTP-benchmark tool mixed with Аb, Wrk, Siege tools. Gathering
-  statistics and various parameters for benchmarks and comparison results
-home_addr: https://github.com/mrLSD/go-benchmark-app
-title: go-benchmark-app
-topics:
-- go
-- lib
-- benchmark

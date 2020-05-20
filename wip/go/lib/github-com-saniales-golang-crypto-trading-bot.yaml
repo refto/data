@@ -1,8 +1,0 @@
-description: A golang implementation of a console-based trading bot for cryptocurrency
-  exchanges
-home_addr: https://github.com/saniales/golang-crypto-trading-bot
-title: Golang CryptoTrading Bot
-topics:
-- go
-- lib
-- bot

@@ -1,8 +1,0 @@
-description: Native implementation of the freedesktop notification spec
-home_addr: https://github.com/TheCreeper/go-notify
-title: go-notify
-topics:
-- go
-- lib
-- msg
-- messaging

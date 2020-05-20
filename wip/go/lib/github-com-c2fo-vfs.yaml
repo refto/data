@@ -1,8 +1,0 @@
-description: A pluggable, extensible, and opinionated set of filesystem functionality
-  for Go across a number of filesystem types such as os, S3, and GCS
-home_addr: https://github.com/C2FO/vfs
-title: vfs
-topics:
-- go
-- lib
-- file

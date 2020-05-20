@@ -1,7 +1,0 @@
-description: Compact, sortable and fast unique IDs with embedded metadata
-home_addr: https://github.com/muyo/sno
-title: sno
-topics:
-- go
-- lib
-- uuid

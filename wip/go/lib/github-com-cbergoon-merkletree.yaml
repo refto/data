@@ -1,7 +1,0 @@
-description: Implementation of a merkle tree providing an efficient and secure verification
-  of the contents of data structures
-home_addr: https://github.com/cbergoon/merkletree
-title: merkletree
-topics:
-- go
-- lib

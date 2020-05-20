@@ -1,8 +1,0 @@
-description: Oracle driver for go that uses database/sql
-home_addr: https://github.com/mattn/go-oci8
-title: go-oci8
-topics:
-- go
-- lib
-- db
-- driver

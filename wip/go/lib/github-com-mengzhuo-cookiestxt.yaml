@@ -1,7 +1,0 @@
-description: provides parser of cookies.txt file format
-home_addr: https://github.com/mengzhuo/cookiestxt
-title: cookiestxt
-topics:
-- go
-- lib
-- auth

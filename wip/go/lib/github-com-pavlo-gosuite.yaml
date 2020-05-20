@@ -1,8 +1,0 @@
-description: Brings lightweight test suites with setup/teardown facilities to "testing"
-  by leveraging Go1.7's Subtests
-home_addr: https://github.com/pavlo/gosuite
-title: gosuite
-topics:
-- go
-- lib
-- test

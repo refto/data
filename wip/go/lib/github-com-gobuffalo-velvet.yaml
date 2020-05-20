@@ -1,7 +1,0 @@
-description: Complete handlebars implementation in Go
-home_addr: https://github.com/gobuffalo/velvet
-title: velvet
-topics:
-- go
-- lib
-- template

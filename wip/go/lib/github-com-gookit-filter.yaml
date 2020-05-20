@@ -1,7 +1,0 @@
-description: provide filtering, sanitizing, and conversion of Go data
-home_addr: https://github.com/gookit/filter
-title: filter
-topics:
-- go
-- lib
-- util

@@ -1,8 +1,0 @@
-description: redis client implement by golang, inspired by jedis
-home_addr: https://github.com/piaohao/godis
-title: godis
-topics:
-- go
-- lib
-- db
-- driver

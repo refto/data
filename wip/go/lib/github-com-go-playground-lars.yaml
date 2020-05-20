@@ -1,8 +1,0 @@
-description: Is a lightweight, fast and extensible zero allocation HTTP router for
-  Go used to create customizable frameworks
-home_addr: https://github.com/go-playground/lars
-title: lars
-topics:
-- go
-- lib
-- router

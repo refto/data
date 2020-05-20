@@ -1,7 +1,0 @@
-description: Generate a Go struct from XML
-home_addr: https://github.com/miku/zek
-title: zek
-topics:
-- go
-- lib
-- xml

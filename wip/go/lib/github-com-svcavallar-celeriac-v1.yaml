@@ -1,7 +1,0 @@
-description: Library for adding support for interacting and monitoring Celery workers,
-  tasks and events in Go
-home_addr: https://github.com/svcavallar/celeriac.v1
-title: celeriac
-topics:
-- go
-- lib

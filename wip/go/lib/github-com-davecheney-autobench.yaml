@@ -1,7 +1,0 @@
-description: Framework to compare the performance between different Go versions
-home_addr: https://github.com/davecheney/autobench
-title: autobench
-topics:
-- go
-- lib
-- benchmark

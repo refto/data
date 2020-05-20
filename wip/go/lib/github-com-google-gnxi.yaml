@@ -1,9 +1,0 @@
-description: A collection of tools for Network Management that use the gNMI and gNOI
-  protocols
-home_addr: https://github.com/google/gnxi
-title: gNxI
-topics:
-- go
-- lib
-- net
-- network

@@ -1,6 +1,0 @@
-description: Go package to automatically define command line flags from struct fields
-home_addr: https://github.com/artyom/autoflags
-title: autoflags
-topics:
-- go
-- lib

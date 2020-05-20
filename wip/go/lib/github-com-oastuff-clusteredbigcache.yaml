@@ -1,7 +1,0 @@
-description: BigCache with clustering support and individual item expiration
-home_addr: https://github.com/oaStuff/clusteredBigCache
-title: clusteredBigCache
-topics:
-- go
-- lib
-- db

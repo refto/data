@@ -1,7 +1,0 @@
-description: Extensions to Go's "testing/iotest" package
-home_addr: https://github.com/cavaliercoder/badio
-title: badio
-topics:
-- go
-- lib
-- test

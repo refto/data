@@ -1,7 +1,0 @@
-description: Fixed width file parser (encoding and decoding library) for Go
-home_addr: https://github.com/o1egl/fwencoder
-title: fwencoder
-topics:
-- go
-- lib
-- serialization

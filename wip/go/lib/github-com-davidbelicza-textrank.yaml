@@ -1,8 +1,0 @@
-description: TextRank implementation in Golang with extendable features (summarization,
-  weighting, phrase extraction) and multithreading (goroutine) support
-home_addr: https://github.com/DavidBelicza/TextRank
-title: TextRank
-topics:
-- go
-- lib
-- science

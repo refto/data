@@ -1,8 +1,0 @@
-description: The implementation of the Persian (Solar Hijri) Calendar in Go (golang)
-home_addr: https://github.com/yaa110/go-persian-calendar
-title: go-persian-calendar
-topics:
-- go
-- lib
-- date
-- time

@@ -1,8 +1,0 @@
-description: Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/)
-  (compatible with Insomnia)
-home_addr: https://github.com/rbretecher/go-postman-collection
-title: go-postman-collection
-topics:
-- go
-- lib
-- api

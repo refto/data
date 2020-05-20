@@ -1,6 +1,0 @@
-description: Minimalistic, pluggable Golang evloop/timer handler with dependency-injection
-home_addr: https://github.com/mudler/anagent
-title: anagent
-topics:
-- go
-- lib

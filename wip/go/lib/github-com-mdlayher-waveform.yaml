@@ -1,7 +1,0 @@
-description: Go package capable of generating waveform images from audio streams
-home_addr: https://github.com/mdlayher/waveform
-title: waveform
-topics:
-- go
-- lib
-- audio

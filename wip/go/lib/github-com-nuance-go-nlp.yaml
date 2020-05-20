@@ -1,8 +1,0 @@
-description: Utilities for working with discrete probability distributions and other
-  tools useful for doing NLP work
-home_addr: https://github.com/nuance/go-nlp
-title: go-nlp
-topics:
-- go
-- lib
-- lang

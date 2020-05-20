@@ -1,7 +1,0 @@
-description: Lightweight RESTful database engine based on stack data structures
-home_addr: https://github.com/fern4lvarez/piladb
-title: piladb
-topics:
-- go
-- lib
-- db

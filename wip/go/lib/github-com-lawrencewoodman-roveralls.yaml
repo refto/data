@@ -1,7 +1,0 @@
-description: Recursive coverage testing tool
-home_addr: https://github.com/LawrenceWoodman/roveralls
-title: roveralls
-topics:
-- go
-- lib
-- ci

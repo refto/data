@@ -1,7 +1,0 @@
-description: A library built to provide support for defining async service health
-  checks for golang services
-home_addr: https://github.com/AppsFlyer/go-sundheit
-title: go-sundheit
-topics:
-- go
-- lib

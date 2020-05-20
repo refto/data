@@ -1,7 +1,0 @@
-description: rwdb provides read replica capability for multiple database servers setup
-home_addr: https://github.com/andizzle/rwdb
-title: rwdb
-topics:
-- go
-- lib
-- db

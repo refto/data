@@ -1,9 +1,0 @@
-description: Simple Migration tool - currently for MySQL but planning to soon support
-  Postgres, SQLite, MongoDB, etc
-home_addr: https://github.com/pravasan/pravasan
-title: pravasan
-topics:
-- go
-- lib
-- db
-- migration

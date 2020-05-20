@@ -1,7 +1,0 @@
-description: Simple ACID key-value database that supports transactions
-home_addr: https://github.com/claygod/coffer
-title: Coffer
-topics:
-- go
-- lib
-- db

@@ -1,7 +1,0 @@
-description: High performance, reflection-less JSON encoder for Go
-home_addr: https://github.com/wI2L/jettison
-title: jettison
-topics:
-- go
-- lib
-- json

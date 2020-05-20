@@ -1,7 +1,0 @@
-description: In-memory, application-driven jailer built in the spirit of fail2ban
-home_addr: https://github.com/jaredfolkins/badactor
-title: BadActor
-topics:
-- go
-- lib
-- security

@@ -1,7 +1,0 @@
-description: A logging library with strack traces, object dumping and optional timestamps
-home_addr: https://github.com/pieterclaerhout/go-log
-title: go-log
-topics:
-- go
-- lib
-- log

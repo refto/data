@@ -1,8 +1,0 @@
-description: go:generate tool for wrapping symbols exported by golang plugins (1.8
-  only)
-home_addr: https://github.com/wendigo/go-bind-plugin
-title: go-bind-plugin
-topics:
-- go
-- lib
-- util

@@ -1,8 +1,0 @@
-description: 'HTTP mock for Golang: record and replay HTTP interactions for offline
-  testing'
-home_addr: https://github.com/seborama/govcr
-title: govcr
-topics:
-- go
-- lib
-- mock

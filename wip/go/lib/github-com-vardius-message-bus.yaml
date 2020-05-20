@@ -1,9 +1,0 @@
-description: messagebus is a Go simple async message bus, perfect for using as event
-  bus when doing event sourcing, CQRS, DDD
-home_addr: https://github.com/vardius/message-bus
-title: messagebus
-topics:
-- go
-- lib
-- msg
-- messaging

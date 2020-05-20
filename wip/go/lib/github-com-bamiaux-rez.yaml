@@ -1,7 +1,0 @@
-description: Image resizing in pure Go and SIMD
-home_addr: https://github.com/bamiaux/rez
-title: rez
-topics:
-- go
-- lib
-- image

@@ -1,8 +1,0 @@
-description: Stemmer packages for Go programming language. Includes English and German
-  stemmers
-home_addr: https://github.com/dchest/stemmer
-title: stemmer
-topics:
-- go
-- lib
-- lang

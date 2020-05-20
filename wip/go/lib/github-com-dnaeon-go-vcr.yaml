@@ -1,8 +1,0 @@
-description: Record and replay your HTTP interactions for fast, deterministic and
-  accurate tests
-home_addr: https://github.com/dnaeon/go-vcr
-title: go-vcr
-topics:
-- go
-- lib
-- test

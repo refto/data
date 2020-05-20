@@ -1,7 +1,0 @@
-description: Parser and generator library for Apple m3u8 playlists
-home_addr: https://github.com/quangngotan95/go-m3u8
-title: go-m3u8
-topics:
-- go
-- lib
-- video

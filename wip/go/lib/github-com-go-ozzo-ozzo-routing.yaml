@@ -1,8 +1,0 @@
-description: An extremely fast Go (golang) HTTP router that supports regular expression
-  route matching. Comes with full support for building RESTful APIs
-home_addr: https://github.com/go-ozzo/ozzo-routing
-title: ozzo-routing
-topics:
-- go
-- lib
-- router

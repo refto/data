@@ -1,7 +1,0 @@
-description: An extremely fast unique number generator, 10-135 times faster than UUID
-home_addr: https://github.com/edwingeng/wuid
-title: wuid
-topics:
-- go
-- lib
-- uuid

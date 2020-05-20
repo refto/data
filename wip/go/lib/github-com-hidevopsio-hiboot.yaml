@@ -1,8 +1,0 @@
-description: hiboot is a high performance web application framework with auto configuration
-  and dependency injection support
-home_addr: https://github.com/hidevopsio/hiboot
-title: hiboot
-topics:
-- go
-- lib
-- framework

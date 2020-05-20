@@ -1,9 +1,0 @@
-description: Package raw enables reading and writing data at the device driver level
-  for a network interface
-home_addr: https://github.com/mdlayher/raw
-title: raw
-topics:
-- go
-- lib
-- net
-- network

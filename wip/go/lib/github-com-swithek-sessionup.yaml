@@ -1,7 +1,0 @@
-description: Simple, yet effective HTTP session management and identification package
-home_addr: https://github.com/swithek/sessionup
-title: sessionup
-topics:
-- go
-- lib
-- auth

@@ -1,8 +1,0 @@
-description: read INI-style configuration files into Go structs; supports user-defined
-  types and subsections
-home_addr: https://github.com/go-gcfg/gcfg
-title: gcfg
-topics:
-- go
-- lib
-- config

@@ -1,6 +1,0 @@
-description: Concurrent FIFO queue
-home_addr: https://github.com/enriquebris/goconcurrentqueue
-title: goconcurrentqueue
-topics:
-- go
-- lib

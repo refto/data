@@ -1,7 +1,0 @@
-description: Go wrapper for the Pushover API
-home_addr: https://github.com/gregdel/pushover
-title: pushover
-topics:
-- go
-- lib
-- api

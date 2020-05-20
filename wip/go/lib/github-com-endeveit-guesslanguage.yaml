@@ -1,7 +1,0 @@
-description: Functions to determine the natural language of a unicode text
-home_addr: https://github.com/endeveit/guesslanguage
-title: guesslanguage
-topics:
-- go
-- lib
-- text

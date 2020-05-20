@@ -1,7 +1,0 @@
-description: A simple ORM for Google/Firebase Cloud Firestore
-home_addr: https://github.com/jschoedt/go-firestorm
-title: go-firestorm
-topics:
-- go
-- lib
-- orm

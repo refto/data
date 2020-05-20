@@ -1,6 +1,0 @@
-description: A library for using DynamoDB as an atomic counter
-home_addr: https://github.com/tylfin/dynatomic
-title: dynatomic
-topics:
-- go
-- lib

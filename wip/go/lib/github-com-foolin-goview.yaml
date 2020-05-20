@@ -1,8 +1,0 @@
-description: Goview is a lightweight, minimalist and idiomatic template library based
-  on golang html/template for building Go web application
-home_addr: https://github.com/foolin/goview
-title: goview
-topics:
-- go
-- lib
-- template

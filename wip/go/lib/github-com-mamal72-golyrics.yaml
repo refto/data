@@ -1,7 +1,0 @@
-description: Golyrics is a Go library to fetch music lyrics data from the Wikia website
-home_addr: https://github.com/mamal72/golyrics
-title: golyrics
-topics:
-- go
-- lib
-- api

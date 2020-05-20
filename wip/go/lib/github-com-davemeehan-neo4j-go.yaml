@@ -1,8 +1,0 @@
-description: Neo4j REST Client in golang
-home_addr: https://github.com/davemeehan/Neo4j-GO
-title: Neo4j-GO
-topics:
-- go
-- lib
-- db
-- driver

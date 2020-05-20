@@ -1,9 +1,0 @@
-description: A Message/Event Hub for Go applications, using publish/subscribe pattern
-  with support for alias like rabbitMQ exchanges
-home_addr: https://github.com/leandro-lugaresi/hub
-title: hub
-topics:
-- go
-- lib
-- msg
-- messaging

@@ -1,8 +1,0 @@
-description: Extends the standard "flag" package to support sub commands and more
-  in idomatic way
-home_addr: https://github.com/posener/cmd
-title: cmd
-topics:
-- go
-- lib
-- cli

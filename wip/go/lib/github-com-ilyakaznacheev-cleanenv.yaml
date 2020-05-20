@@ -1,8 +1,0 @@
-description: Minimalistic configuration reader (from files, ENV, and wherever you
-  want)
-home_addr: https://github.com/ilyakaznacheev/cleanenv
-title: cleanenv
-topics:
-- go
-- lib
-- config

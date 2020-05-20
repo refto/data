@@ -1,7 +1,0 @@
-description: Go bindings for Ethereum JSON RPC API
-home_addr: https://github.com/onrik/ethrpc
-title: ethrpc
-topics:
-- go
-- lib
-- api

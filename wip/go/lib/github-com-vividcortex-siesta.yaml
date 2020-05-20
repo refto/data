@@ -1,7 +1,0 @@
-description: Composable framework to write middleware and handlers
-home_addr: https://github.com/VividCortex/siesta
-title: Siesta
-topics:
-- go
-- lib
-- router

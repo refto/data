@@ -1,8 +1,0 @@
-description: Simple but powerful command line option parsing library for Go supporting
-  subcommand
-home_addr: https://github.com/cosiner/flag
-title: flag
-topics:
-- go
-- lib
-- cli

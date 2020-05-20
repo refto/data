@@ -1,8 +1,0 @@
-description: Go implementation of RFC 5389 STUN protocol
-home_addr: https://github.com/go-rtc/stun
-title: stun
-topics:
-- go
-- lib
-- net
-- network

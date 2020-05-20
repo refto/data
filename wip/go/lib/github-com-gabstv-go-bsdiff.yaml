@@ -1,7 +1,0 @@
-description: Pure Go bsdiff and bspatch libraries and CLI tools
-home_addr: https://github.com/gabstv/go-bsdiff
-title: go-bsdiff
-topics:
-- go
-- lib
-- util

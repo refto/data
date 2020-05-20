@@ -1,7 +1,0 @@
-description: Simple jwt generator and parser
-home_addr: https://github.com/brianvoe/sjwt
-title: sjwt
-topics:
-- go
-- lib
-- auth

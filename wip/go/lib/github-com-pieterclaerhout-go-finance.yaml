@@ -1,8 +1,0 @@
-description: Module to fetch exchange rates, check VAT numbers via VIES and check
-  IBAN bank account numbers
-home_addr: https://github.com/pieterclaerhout/go-finance
-title: go-finance
-topics:
-- go
-- lib
-- finance

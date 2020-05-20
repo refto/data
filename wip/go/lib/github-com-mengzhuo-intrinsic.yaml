@@ -1,7 +1,0 @@
-description: Use x86 SIMD without writing any assembly code
-home_addr: https://github.com/mengzhuo/intrinsic
-title: intrinsic
-topics:
-- go
-- lib
-- util

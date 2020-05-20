@@ -1,6 +1,0 @@
-description: Decompression library for RAR, TAR, ZIP and 7z archives
-home_addr: https://github.com/gen2brain/go-unarr
-title: go-unarr
-topics:
-- go
-- lib

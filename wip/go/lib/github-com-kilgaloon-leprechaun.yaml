@@ -1,7 +1,0 @@
-description: Job scheduler that supports webhooks, crons and classic scheduling
-home_addr: https://github.com/kilgaloon/leprechaun
-title: leprechaun
-topics:
-- go
-- lib
-- schedule

@@ -1,8 +1,0 @@
-description: Providing e-commerce features using clean architecture like DDD and ports
-  and adapters, that you can use to build flexible e-commerce applications
-home_addr: https://github.com/i-love-flamingo/flamingo-commerce
-title: Flamingo Commerce
-topics:
-- go
-- lib
-- framework

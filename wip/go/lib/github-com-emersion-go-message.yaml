@@ -1,7 +1,0 @@
-description: Streaming library for the Internet Message Format and mail messages
-home_addr: https://github.com/emersion/go-message
-title: go-message
-topics:
-- go
-- lib
-- email

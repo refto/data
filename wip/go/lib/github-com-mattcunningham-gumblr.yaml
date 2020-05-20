@@ -1,7 +1,0 @@
-description: Go wrapper for the Tumblr v2 API
-home_addr: https://github.com/mattcunningham/gumblr
-title: tumblr
-topics:
-- go
-- lib
-- api

@@ -1,7 +1,0 @@
-description: Parses the Graphviz DOT language
-home_addr: https://github.com/awalterschulze/gographviz
-title: gographviz
-topics:
-- go
-- lib
-- text

@@ -1,8 +1,0 @@
-description: Argon2 password hash and verification designed to be compatible with
-  existing Python and PHP implementations
-home_addr: https://github.com/dwin/goArgonPass
-title: goArgonPass
-topics:
-- go
-- lib
-- security

@@ -1,7 +1,0 @@
-description: Simple cli email parser. It currently takes stdin and outputs JSON
-home_addr: https://github.com/sanbornm/mp
-title: mp
-topics:
-- go
-- lib
-- json

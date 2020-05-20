@@ -1,8 +1,0 @@
-description: Database migration library using struct decorators
-home_addr: https://github.com/emvi/gondolier
-title: gondolier
-topics:
-- go
-- lib
-- db
-- migration

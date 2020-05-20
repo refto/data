@@ -1,7 +1,0 @@
-description: Editorconfig file parser and manipulator for Go
-home_addr: https://github.com/editorconfig/editorconfig-core-go
-title: editorconfig-core-go
-topics:
-- go
-- lib
-- text

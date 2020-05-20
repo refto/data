@@ -1,8 +1,0 @@
-description: Run a real Postgres database locally on Linux, OSX or Windows as part
-  of another Go application or test
-home_addr: https://github.com/fergusstrange/embedded-postgres
-title: embedded-postgres
-topics:
-- go
-- lib
-- test

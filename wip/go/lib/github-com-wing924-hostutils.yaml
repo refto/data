@@ -1,6 +1,0 @@
-description: A golang library for packing and unpacking FQDNs list
-home_addr: https://github.com/Wing924/hostutils
-title: hostutils
-topics:
-- go
-- lib

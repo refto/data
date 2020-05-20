@@ -1,7 +1,0 @@
-description: Test, Build, Sign, and Publish your go binaries from a clean workspace
-home_addr: https://github.com/nikogura/gomason
-title: gomason
-topics:
-- go
-- lib
-- ci

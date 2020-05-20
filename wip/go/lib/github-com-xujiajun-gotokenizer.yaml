@@ -1,7 +1,0 @@
-description: A tokenizer based on the dictionary and Bigram language models for Golang
-home_addr: https://github.com/xujiajun/gotokenizer
-title: gotokenizer
-topics:
-- go
-- lib
-- lang

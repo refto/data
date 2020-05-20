@@ -1,8 +1,0 @@
-description: opinionated configuration loading & validation framework from ENV and
-  Files focused towards 12-Factor compliant applications
-home_addr: https://github.com/sherifabdlnaby/configuro
-title: configuro
-topics:
-- go
-- lib
-- config

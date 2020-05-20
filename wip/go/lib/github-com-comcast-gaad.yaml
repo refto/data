@@ -1,7 +1,0 @@
-description: Native Go AAC bitstream parser
-home_addr: https://github.com/Comcast/gaad
-title: gaad
-topics:
-- go
-- lib
-- audio

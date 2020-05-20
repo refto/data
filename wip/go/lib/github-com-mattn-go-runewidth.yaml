@@ -1,7 +1,0 @@
-description: Functions to get fixed width of the character or string
-home_addr: https://github.com/mattn/go-runewidth
-title: go-runewidth
-topics:
-- go
-- lib
-- text

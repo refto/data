@@ -1,8 +1,0 @@
-description: Go package for data validation and filtering. support validate Map, Struct,
-  Request(Form, JSON, url.Values, Uploaded Files) data and more features
-home_addr: https://github.com/gookit/validate
-title: validate
-topics:
-- go
-- lib
-- validation

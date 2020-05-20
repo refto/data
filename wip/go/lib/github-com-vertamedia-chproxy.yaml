@@ -1,7 +1,0 @@
-description: HTTP proxy for ClickHouse database
-home_addr: https://github.com/Vertamedia/chproxy
-title: chproxy
-topics:
-- go
-- lib
-- db

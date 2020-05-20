@@ -1,8 +1,0 @@
-description: Simple command line XML comparer that generates diffs of folders, files
-  and tags
-home_addr: https://github.com/xml-comp/xml-comp
-title: XML-Comp
-topics:
-- go
-- lib
-- xml

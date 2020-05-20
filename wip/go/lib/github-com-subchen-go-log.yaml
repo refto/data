@@ -1,7 +1,0 @@
-description: Simple and configurable Logging in Go, with level, formatters and writers
-home_addr: https://github.com/subchen/go-log
-title: go-log
-topics:
-- go
-- lib
-- log

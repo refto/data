@@ -1,8 +1,0 @@
-description: Go utility for loading configuration parameters from AWS SSM (Parameter
-  Store)
-home_addr: https://github.com/ianlopshire/go-ssm-config
-title: go-ssm-config
-topics:
-- go
-- lib
-- config

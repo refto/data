@@ -1,8 +1,0 @@
-description: GoRouter is a Server/API micro framwework, HTTP request router, multiplexer,
-  mux that provides request router with middleware supporting "net/context"
-home_addr: https://github.com/vardius/gorouter
-title: GoRouter
-topics:
-- go
-- lib
-- router

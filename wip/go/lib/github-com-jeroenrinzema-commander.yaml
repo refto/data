@@ -1,9 +1,0 @@
-description: A high-level event driven consumer/producer supporting various "dialects"
-  such as Apache Kafka
-home_addr: https://github.com/jeroenrinzema/commander
-title: Commander
-topics:
-- go
-- lib
-- msg
-- messaging

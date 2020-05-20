@@ -1,7 +1,0 @@
-description: A helper for Rails' like test fixtures to test database applications
-home_addr: https://github.com/go-testfixtures/testfixtures
-title: testfixtures
-topics:
-- go
-- lib
-- test

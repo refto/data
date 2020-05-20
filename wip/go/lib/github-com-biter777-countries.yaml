@@ -1,8 +1,0 @@
-description: Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR
-  and IANA ccTLD standarts
-home_addr: https://github.com/biter777/countries
-title: countries
-topics:
-- go
-- lib
-- util

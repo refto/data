@@ -1,6 +1,0 @@
-description: Tools for parse JSON-like logs for collecting unique fields and events
-home_addr: https://github.com/MonaxGT/parsefields
-title: parsefields
-topics:
-- go
-- lib

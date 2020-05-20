@@ -1,8 +1,0 @@
-description: Package that provide functions for simplified creation of pointers from
-  constants of basic types
-home_addr: https://github.com/gotidy/ptr
-title: ptr
-topics:
-- go
-- lib
-- util

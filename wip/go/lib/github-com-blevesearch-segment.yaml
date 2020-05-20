@@ -1,8 +1,0 @@
-description: 'Go library for performing Unicode Text Segmentation as described in
-  [Unicode Standard Annex #29](http://www.unicode'
-home_addr: https://github.com/blevesearch/segment
-title: segment
-topics:
-- go
-- lib
-- lang

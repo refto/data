@@ -1,7 +1,0 @@
-description: 'Sentence tokenizer:  converts text into a list of sentences'
-home_addr: https://github.com/neurosnap/sentences
-title: sentences
-topics:
-- go
-- lib
-- lang

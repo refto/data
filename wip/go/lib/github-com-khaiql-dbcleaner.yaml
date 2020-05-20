@@ -1,8 +1,0 @@
-description: Clean database for testing purpose, inspired by "database_cleaner" in
-  Ruby
-home_addr: https://github.com/khaiql/dbcleaner
-title: dbcleaner
-topics:
-- go
-- lib
-- test

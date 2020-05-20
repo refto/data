@@ -1,8 +1,0 @@
-description: A process controller used to control the execution and return strategies
-  of multiple goroutines
-home_addr: https://github.com/duanckham/hands
-title: hands
-topics:
-- go
-- lib
-- goroutine

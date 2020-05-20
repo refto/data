@@ -1,6 +1,0 @@
-description: Go implementation of a high performance, thread safe bloom filter
-home_addr: https://github.com/TheTannerRyan/ring
-title: ring
-topics:
-- go
-- lib

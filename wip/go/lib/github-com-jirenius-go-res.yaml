@@ -1,9 +1,0 @@
-description: Package for building REST/real-time services where clients are synchronized
-  seamlessly, using NATS and Resgate
-home_addr: https://github.com/jirenius/go-res
-title: go-res
-topics:
-- go
-- lib
-- msg
-- messaging

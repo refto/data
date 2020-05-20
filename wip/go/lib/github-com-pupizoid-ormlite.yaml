@@ -1,9 +1,0 @@
-description: Lightweight package containing some ORM-like features and helpers for
-  sqlite databases
-home_addr: https://github.com/pupizoid/ormlite
-title: ormlite
-topics:
-- go
-- lib
-- db
-- sql

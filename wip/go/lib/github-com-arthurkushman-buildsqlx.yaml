@@ -1,8 +1,0 @@
-description: Go database query builder library for PostgreSQL
-home_addr: https://github.com/arthurkushman/buildsqlx
-title: buildsqlx
-topics:
-- go
-- lib
-- db
-- sql

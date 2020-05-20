@@ -1,8 +1,0 @@
-description: RollingWriter is an auto-rotate "io.Writer"" implementation with multi
-  policies to provide log file rotation
-home_addr: https://github.com/arthurkiller/rollingWriter
-title: rollingwriter
-topics:
-- go
-- lib
-- log

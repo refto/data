@@ -1,7 +1,0 @@
-description: Tool for generating self-contained mock objects
-home_addr: https://github.com/maxbrunsfeld/counterfeiter
-title: counterfeiter
-topics:
-- go
-- lib
-- mock

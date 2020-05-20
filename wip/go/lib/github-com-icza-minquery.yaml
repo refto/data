@@ -1,8 +1,0 @@
-description: MongoDB / mgo.v2 query that supports efficient pagination (cursors to
-  continue listing documents where we left off)
-home_addr: https://github.com/icza/minquery
-title: minquery
-topics:
-- go
-- lib
-- util

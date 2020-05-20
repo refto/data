@@ -1,8 +1,0 @@
-description: Django style fixtures for Golang's excellent built-in database/sql library
-home_addr: https://github.com/RichardKnop/go-fixtures
-title: go-fixtures
-topics:
-- go
-- lib
-- db
-- migration

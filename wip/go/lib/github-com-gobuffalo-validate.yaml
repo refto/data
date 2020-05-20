@@ -1,7 +1,0 @@
-description: This package provides a framework for writing validations for Go applications
-home_addr: https://github.com/gobuffalo/validate
-title: validate
-topics:
-- go
-- lib
-- validation

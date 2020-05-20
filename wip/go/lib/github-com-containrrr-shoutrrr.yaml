@@ -1,7 +1,0 @@
-description: Notification library providing easy access to various messaging services
-  like slack, mattermost, gotify and smtp among others
-home_addr: https://github.com/containrrr/shoutrrr
-title: shoutrrr
-topics:
-- go
-- lib

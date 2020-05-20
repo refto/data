@@ -1,7 +1,0 @@
-description: Simple logger of Go Programs, with level handlers
-home_addr: https://github.com/apsdehal/go-logger
-title: go-logger
-topics:
-- go
-- lib
-- log

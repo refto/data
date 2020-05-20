@@ -1,8 +1,0 @@
-description: Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB,
-  and similar databases
-home_addr: https://github.com/go-kivik/kivik
-title: Kivik
-topics:
-- go
-- lib
-- db

@@ -1,8 +1,0 @@
-description: String manipulation library to convert string to camel case, snake case,
-  kebab case / slugify etc
-home_addr: https://github.com/gobeam/Stringy
-title: gobeam/Stringy
-topics:
-- go
-- lib
-- string

@@ -1,8 +1,0 @@
-description: Go client library for the [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en)
-  with zero dependencies
-home_addr: https://github.com/esurdam/go-sophos
-title: go-sophos
-topics:
-- go
-- lib
-- api

@@ -1,7 +1,0 @@
-description: Command pattern for Go with thread safe serial and parallel dispatcher
-home_addr: https://github.com/txgruppi/command
-title: command
-topics:
-- go
-- lib
-- util

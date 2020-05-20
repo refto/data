@@ -1,7 +1,0 @@
-description: Unicode transliterator (also known as unidecode) for Go
-home_addr: https://github.com/fiam/gounidecode
-title: gounidecode
-topics:
-- go
-- lib
-- lang

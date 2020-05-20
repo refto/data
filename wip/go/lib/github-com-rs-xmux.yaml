@@ -1,7 +1,0 @@
-description: High performance muxer based on "httprouter" with "net/context" support
-home_addr: https://github.com/rs/xmux
-title: xmux
-topics:
-- go
-- lib
-- router

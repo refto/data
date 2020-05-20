@@ -1,8 +1,0 @@
-description: Article spinning and spintax/spinning syntax engine, useful for A/B,
-  testing pieces of text/articles and creating more natural conversations
-home_addr: https://github.com/m1/gospin
-title: gospin
-topics:
-- go
-- lib
-- template

@@ -1,7 +1,0 @@
-description: Simple golang error handling with classification primitives
-home_addr: https://github.com/neuronlabs/errors
-title: errors
-topics:
-- go
-- lib
-- error

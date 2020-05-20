@@ -1,8 +1,0 @@
-description: An efficient and feature complete Hystrix like Go implementation of the
-  circuit breaker pattern
-home_addr: https://github.com/cep21/circuit
-title: circuit
-topics:
-- go
-- lib
-- util

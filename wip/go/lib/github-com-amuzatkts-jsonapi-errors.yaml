@@ -1,7 +1,0 @@
-description: Go bindings based on the JSON API errors reference
-home_addr: https://github.com/AmuzaTkts/jsonapi-errors
-title: jsonapi-errors
-topics:
-- go
-- lib
-- json

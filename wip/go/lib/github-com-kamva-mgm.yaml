@@ -1,8 +1,0 @@
-description: MongoDB model-based ODM for Go (based on official MongoDB driver)
-home_addr: https://github.com/kamva/mgm
-title: mgm
-topics:
-- go
-- lib
-- db
-- driver

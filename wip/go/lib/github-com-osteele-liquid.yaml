@@ -1,7 +1,0 @@
-description: Go implementation of Shopify Liquid templates
-home_addr: https://github.com/osteele/liquid
-title: liquid
-topics:
-- go
-- lib
-- template

@@ -1,7 +1,0 @@
-description: A simple ci server no needs domain specific languages
-home_addr: https://github.com/duck8823/duci
-title: duci
-topics:
-- go
-- lib
-- ci

@@ -1,7 +1,0 @@
-description: 'Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go'
-home_addr: https://github.com/viant/afs
-title: afs
-topics:
-- go
-- lib
-- file

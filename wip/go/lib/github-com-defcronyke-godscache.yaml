@@ -1,9 +1,0 @@
-description: A wrapper for the Google Cloud Platform Go Datastore package that adds
-  caching using memcached
-home_addr: https://github.com/defcronyke/godscache
-title: godscache
-topics:
-- go
-- lib
-- db
-- driver

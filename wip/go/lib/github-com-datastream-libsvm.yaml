@@ -1,8 +1,0 @@
-description: libsvm golang version derived work based on LIBSVM 3.14
-home_addr: https://github.com/datastream/libsvm
-title: libsvm
-topics:
-- go
-- lib
-- ml
-- machine learning

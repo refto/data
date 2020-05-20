@@ -1,7 +1,0 @@
-description: Library to easily and dynamically generate maps from static structures
-home_addr: https://github.com/tuvistavie/structomap
-title: structomap
-topics:
-- go
-- lib
-- serialization

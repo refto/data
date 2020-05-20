@@ -1,7 +1,0 @@
-description: Lightweight JSON Web Token (JWT) library
-home_addr: https://github.com/pascaldekloe/jwt
-title: jwt
-topics:
-- go
-- lib
-- auth

@@ -1,8 +1,0 @@
-description: Error Wrapper creates an wrapper for the error type in Go which captures
-  the File, Line and Stack of where it was called
-home_addr: https://github.com/txgruppi/werr
-title: werr
-topics:
-- go
-- lib
-- error

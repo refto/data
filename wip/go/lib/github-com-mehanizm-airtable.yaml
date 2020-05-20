@@ -1,7 +1,0 @@
-description: Go client library for the [Airtable API](https://airtable.com/api)
-home_addr: https://github.com/mehanizm/airtable
-title: airtable
-topics:
-- go
-- lib
-- api

@@ -1,7 +1,0 @@
-description: Parses human names into individual name parts
-home_addr: https://github.com/polera/gonameparts
-title: gonameparts
-topics:
-- go
-- lib
-- text

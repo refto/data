@@ -1,7 +1,0 @@
-description: Go micro-benchmarks for calculating the speed of language constructs
-home_addr: https://github.com/feyeleanor/GoSpeed
-title: gospeed
-topics:
-- go
-- lib
-- benchmark

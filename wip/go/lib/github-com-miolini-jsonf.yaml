@@ -1,7 +1,0 @@
-description: Console tool for highlighted formatting and struct query fetching JSON
-home_addr: https://github.com/miolini/jsonf
-title: jsonf
-topics:
-- go
-- lib
-- json

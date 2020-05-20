@@ -1,7 +1,0 @@
-description: Asn.1 BER and DER encoding library for golang
-home_addr: https://github.com/PromonLogicalis/asn1
-title: asn1
-topics:
-- go
-- lib
-- serialization

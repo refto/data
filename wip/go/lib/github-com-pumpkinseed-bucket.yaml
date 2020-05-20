@@ -1,8 +1,0 @@
-description: Optimized data structure framework for Couchbase specialized on one bucket
-  usage
-home_addr: https://github.com/PumpkinSeed/bucket
-title: bucket
-topics:
-- go
-- lib
-- db

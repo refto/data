@@ -1,8 +1,0 @@
-description: Firebird RDBMS SQL driver for Go
-home_addr: https://github.com/nakagami/firebirdsql
-title: firebirdsql
-topics:
-- go
-- lib
-- db
-- driver

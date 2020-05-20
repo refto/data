@@ -1,7 +1,0 @@
-description: Golang Cache component for multiple drivers
-home_addr: https://github.com/fabiorphp/cachego
-title: cachego
-topics:
-- go
-- lib
-- db

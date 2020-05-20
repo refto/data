@@ -1,7 +1,0 @@
-description: Go client for the textbelt.com txt messaging API
-home_addr: https://github.com/dietsche/textbelt
-title: textbelt
-topics:
-- go
-- lib
-- api

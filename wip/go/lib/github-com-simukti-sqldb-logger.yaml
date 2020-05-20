@@ -1,8 +1,0 @@
-description: A logger for Go SQL database driver without modify existing *sql.DB stdlib
-  usage
-home_addr: https://github.com/simukti/sqldb-logger
-title: sqldb-logger
-topics:
-- go
-- lib
-- log

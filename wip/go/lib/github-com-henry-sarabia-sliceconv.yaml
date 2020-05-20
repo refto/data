@@ -1,7 +1,0 @@
-description: Slice conversion between primitive types
-home_addr: https://github.com/Henry-Sarabia/sliceconv
-title: sliceconv
-topics:
-- go
-- lib
-- util

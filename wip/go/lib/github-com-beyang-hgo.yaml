@@ -1,9 +1,0 @@
-description: Hgo is a collection of Go packages providing read-access to local Mercurial
-  repositories
-home_addr: https://github.com/beyang/hgo
-title: hgo
-topics:
-- go
-- lib
-- vcs
-- version control

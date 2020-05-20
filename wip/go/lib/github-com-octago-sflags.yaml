@@ -1,8 +1,0 @@
-description: Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin
-  and other libraries
-home_addr: https://github.com/octago/sflags
-title: sflags
-topics:
-- go
-- lib
-- cli

@@ -1,7 +1,0 @@
-description: Read nfdump netflow files
-home_addr: https://github.com/chrispassas/nfdump
-title: nfdump
-topics:
-- go
-- lib
-- util

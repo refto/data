@@ -1,8 +1,0 @@
-description: Rate limiters for distributed applications in Golang with configurable
-  back-ends and distributed locks
-home_addr: https://github.com/mennanov/limiters
-title: limiters
-topics:
-- go
-- lib
-- util

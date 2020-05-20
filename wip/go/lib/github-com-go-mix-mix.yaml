@@ -1,7 +1,0 @@
-description: Sequence-based Go-native audio mixer for music apps
-home_addr: https://github.com/go-mix/mix
-title: mix
-topics:
-- go
-- lib
-- audio

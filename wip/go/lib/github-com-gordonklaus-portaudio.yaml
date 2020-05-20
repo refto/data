@@ -1,7 +1,0 @@
-description: Go bindings for the PortAudio audio I/O library
-home_addr: https://github.com/gordonklaus/portaudio
-title: PortAudio
-topics:
-- go
-- lib
-- audio

@@ -1,8 +1,0 @@
-description: Print ASCII tables from command line utilities without the need to pass
-  large sets of data to the API
-home_addr: https://github.com/InVisionApp/tabular
-title: tabular
-topics:
-- go
-- lib
-- ui

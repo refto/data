@@ -1,7 +1,0 @@
-description: Type-safe metrics builder wrapper library for the official Prometheus
-  client
-home_addr: https://github.com/cabify/gotoprom
-title: gotoprom
-topics:
-- go
-- lib

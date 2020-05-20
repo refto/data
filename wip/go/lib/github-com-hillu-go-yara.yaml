@@ -1,8 +1,0 @@
-description: Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern
-  matching swiss knife for malware researchers (and everyone else)"
-home_addr: https://github.com/hillu/go-yara
-title: go-yara
-topics:
-- go
-- lib
-- security

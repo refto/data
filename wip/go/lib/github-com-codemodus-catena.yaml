@@ -1,7 +1,0 @@
-description: http.Handler wrapper catenation (same API as "chain")
-home_addr: https://github.com/codemodus/catena
-title: catena
-topics:
-- go
-- lib
-- middleware

@@ -1,8 +1,0 @@
-description: Gostore is a simple, durable, embedded key-value storage engine written
-  in Go
-home_addr: https://github.com/twharmon/gostore
-title: gostore
-topics:
-- go
-- lib
-- db

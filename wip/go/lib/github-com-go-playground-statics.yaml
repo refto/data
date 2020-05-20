@@ -1,8 +1,0 @@
-description: Embeds static resources into go files for single binary compilation +
-  works with http.FileSystem + symlinks
-home_addr: https://github.com/go-playground/statics
-title: statics
-topics:
-- go
-- lib
-- file

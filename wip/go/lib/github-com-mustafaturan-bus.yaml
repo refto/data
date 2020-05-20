@@ -1,8 +1,0 @@
-description: Minimalist message bus implementation for internal communication
-home_addr: https://github.com/mustafaturan/bus
-title: Bus
-topics:
-- go
-- lib
-- msg
-- messaging

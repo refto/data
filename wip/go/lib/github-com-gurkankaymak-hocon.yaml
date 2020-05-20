@@ -1,9 +1,0 @@
-description: Configuration library for working with the HOCON(a human-friendly JSON
-  superset) format, supports features like environment variables, referencing other
-  values, comments and multiple files
-home_addr: https://github.com/gurkankaymak/hocon
-title: hocon
-topics:
-- go
-- lib
-- config

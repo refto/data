@@ -1,7 +1,0 @@
-description: A collection of flag argument types for Go's standard "flag" package
-home_addr: https://github.com/sgreben/flagvar
-title: flagvar
-topics:
-- go
-- lib
-- cli

@@ -1,7 +1,0 @@
-description: Efficient secure cookie encoding/decoding
-home_addr: https://github.com/chmike/securecookie
-title: securecookie
-topics:
-- go
-- lib
-- auth

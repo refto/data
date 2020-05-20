@@ -1,9 +1,0 @@
-description: Simple Cron library for go that can execute closures or functions at
-  varying intervals, from once a second to once a year on a specific date and time.
-  Primarily for web applications and long running daemons
-home_addr: https://github.com/rk/go-cron
-title: go-cron
-topics:
-- go
-- lib
-- schedule

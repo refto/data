@@ -1,8 +1,0 @@
-description: Database schema evolution library for Go
-home_addr: https://github.com/GuiaBolso/darwin
-title: darwin
-topics:
-- go
-- lib
-- db
-- migration

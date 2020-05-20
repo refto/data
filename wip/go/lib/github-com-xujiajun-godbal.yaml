@@ -1,9 +1,0 @@
-description: Database Abstraction Layer (dbal) for go. Support SQL builder and get
-  result easily
-home_addr: https://github.com/xujiajun/godbal
-title: godbal
-topics:
-- go
-- lib
-- db
-- sql

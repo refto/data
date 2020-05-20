@@ -1,7 +1,0 @@
-description: Cap'n Proto library and parser for go
-home_addr: https://github.com/glycerine/go-capnproto
-title: go-capnproto
-topics:
-- go
-- lib
-- serialization

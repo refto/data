@@ -1,7 +1,0 @@
-description: Service oriented IRC bot using Redis and JSON for messaging
-home_addr: https://github.com/kyleterry/tenyks
-title: Tenyks
-topics:
-- go
-- lib
-- bot

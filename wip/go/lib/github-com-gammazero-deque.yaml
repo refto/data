@@ -1,6 +1,0 @@
-description: Fast ring-buffer deque (double-ended queue)
-home_addr: https://github.com/gammazero/deque
-title: deque
-topics:
-- go
-- lib

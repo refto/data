@@ -1,8 +1,0 @@
-description: Go implementation of different backoff strategies useful for retrying
-  operations and heartbeating
-home_addr: https://github.com/ssgreg/repeat
-title: repeat
-topics:
-- go
-- lib
-- util

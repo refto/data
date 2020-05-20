@@ -1,7 +1,0 @@
-description: goworker is a Go simple async worker pool
-home_addr: https://github.com/vardius/worker-pool
-title: worker-pool
-topics:
-- go
-- lib
-- goroutine

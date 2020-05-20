@@ -1,7 +1,0 @@
-description: Simple API to make HTTP GET requests with timeout support
-home_addr: https://github.com/inancgumus/myhttp
-title: myhttp
-topics:
-- go
-- lib
-- util

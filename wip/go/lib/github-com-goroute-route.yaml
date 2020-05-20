@@ -1,7 +1,0 @@
-description: Simple yet powerful HTTP request multiplexer
-home_addr: https://github.com/goroute/route
-title: goroute
-topics:
-- go
-- lib
-- router

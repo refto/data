@@ -1,8 +1,0 @@
-description: A collection of packages to augment the go testing package and support
-  common patterns
-home_addr: https://github.com/gotestyourself/gotest.tools
-title: gotest.tools
-topics:
-- go
-- lib
-- test

@@ -1,9 +1,0 @@
-description: Gives you a "sync.WaitGroup" like queue group accessibility. Helps you
-  to throttle and limit goroutines, wait for the end of the all goroutines and much
-  more
-home_addr: https://github.com/AnikHasibul/queue
-title: queue
-topics:
-- go
-- lib
-- goroutine

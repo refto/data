@@ -1,8 +1,0 @@
-description: Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org)
-home_addr: https://github.com/minus5/gofreetds
-title: gofreetds
-topics:
-- go
-- lib
-- db
-- driver

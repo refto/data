@@ -1,9 +1,0 @@
-description: Framework for writing type-safe SQL queries in Go, with ability to easily
-  convert database query result into desired arbitrary object structure
-home_addr: https://github.com/go-jet/jet
-title: jet
-topics:
-- go
-- lib
-- db
-- sql

@@ -1,8 +1,0 @@
-description: Ordinary differential equation (ODE) solver which supports extended states
-  and channel-based iteration stop conditions
-home_addr: https://github.com/ChristopherRabotin/ode
-title: ode
-topics:
-- go
-- lib
-- science

@@ -1,8 +1,0 @@
-description: A flexible and powerful SQL string builder library plus a zero-config
-  ORM
-home_addr: https://github.com/huandu/go-sqlbuilder
-title: go-sqlbuilder
-topics:
-- go
-- lib
-- orm

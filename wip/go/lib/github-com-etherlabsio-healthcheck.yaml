@@ -1,6 +1,0 @@
-description: An opinionated and concurrent health-check HTTP handler for RESTful services
-home_addr: https://github.com/etherlabsio/healthcheck
-title: healthcheck
-topics:
-- go
-- lib

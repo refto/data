@@ -1,8 +1,0 @@
-description: Rex is a library for modular development built upon gorilla/mux, fully
-  compatible with "net/http"
-home_addr: https://github.com/goanywhere/rex
-title: rex
-topics:
-- go
-- lib
-- framework

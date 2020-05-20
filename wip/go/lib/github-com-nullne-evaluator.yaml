@@ -1,8 +1,0 @@
-description: Evaluate an expression dynamicly based on s-expression. It's simple and
-  easy to extend
-home_addr: https://github.com/nullne/evaluator
-title: evaluator
-topics:
-- go
-- lib
-- util

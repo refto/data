@@ -1,8 +1,0 @@
-description: Go Library to access statdns.com API, which is in turn RRDA API. DNS
-  Queries over HTTP
-home_addr: https://github.com/Omie/rrdaclient
-title: rrdaclient
-topics:
-- go
-- lib
-- api

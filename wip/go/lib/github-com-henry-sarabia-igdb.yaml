@@ -1,7 +1,0 @@
-description: Go client for the [Internet Game Database API](https://api.igdb.com/)
-home_addr: https://github.com/Henry-Sarabia/igdb
-title: igdb
-topics:
-- go
-- lib
-- api

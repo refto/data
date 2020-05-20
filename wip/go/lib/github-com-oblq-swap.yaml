@@ -1,8 +1,0 @@
-description: Instantiate/configure structs recursively, based on build environment.
-  (YAML, TOML, JSON and env)
-home_addr: https://github.com/oblq/swap
-title: swap
-topics:
-- go
-- lib
-- config

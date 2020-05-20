@@ -1,6 +1,0 @@
-description: In-memory LRU string-interface{} map with expiration for golang
-home_addr: https://github.com/diegobernardes/ttlcache
-title: ttlcache
-topics:
-- go
-- lib

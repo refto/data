@@ -1,7 +1,0 @@
-description: Colorized logger for Golang with dynamic log level configuration
-home_addr: https://github.com/borderstech/logmatic
-title: logmatic
-topics:
-- go
-- lib
-- log

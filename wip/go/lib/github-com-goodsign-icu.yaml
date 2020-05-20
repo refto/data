@@ -1,8 +1,0 @@
-description: Cgo binding for icu4c C library detection and conversion functions. Guaranteed
-  compatibility with version 50.1
-home_addr: https://github.com/goodsign/icu
-title: icu
-topics:
-- go
-- lib
-- lang

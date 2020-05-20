@@ -1,7 +1,0 @@
-description: Error handling tools and best practices for Go libraries and applications
-home_addr: https://github.com/emperror/emperror
-title: emperror
-topics:
-- go
-- lib
-- error

@@ -1,8 +1,0 @@
-description: HTTP longpoll server library that makes web pub-sub simple
-home_addr: https://github.com/jcuga/golongpoll
-title: golongpoll
-topics:
-- go
-- lib
-- msg
-- messaging

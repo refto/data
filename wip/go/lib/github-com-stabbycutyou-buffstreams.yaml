@@ -1,8 +1,0 @@
-description: Streaming protocolbuffer data over TCP made easy
-home_addr: https://github.com/stabbycutyou/buffstreams
-title: buffstreams
-topics:
-- go
-- lib
-- net
-- network

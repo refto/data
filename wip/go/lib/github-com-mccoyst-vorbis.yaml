@@ -1,7 +1,0 @@
-description: '"Native" Go Vorbis decoder (uses CGO, but has no dependencies)'
-home_addr: https://github.com/mccoyst/vorbis
-title: vorbis
-topics:
-- go
-- lib
-- audio

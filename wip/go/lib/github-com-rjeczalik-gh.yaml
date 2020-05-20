@@ -1,8 +1,0 @@
-description: Scriptable server and net/http middleware for GitHub Webhooks
-home_addr: https://github.com/rjeczalik/gh
-title: gh
-topics:
-- go
-- lib
-- vcs
-- version control

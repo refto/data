@@ -1,8 +1,0 @@
-description: A fast data generator that's multi-table aware and supports multi-row
-  DML
-home_addr: https://github.com/codingconcepts/datagen
-title: datagen
-topics:
-- go
-- lib
-- db

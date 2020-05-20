@@ -1,7 +1,0 @@
-description: An opinionated tool for generating tls certificates
-home_addr: https://github.com/mvmaasakkers/certificates
-title: certificates
-topics:
-- go
-- lib
-- security

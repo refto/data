@@ -1,7 +1,0 @@
-description: Fast and simple  key/value store written using Go's standard library
-home_addr: https://github.com/recoilme/pudge
-title: pudge
-topics:
-- go
-- lib
-- db

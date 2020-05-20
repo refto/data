@@ -1,7 +1,0 @@
-description: A Go package that marshals and unmarshals INI-files
-home_addr: https://github.com/subpop/go-ini
-title: go-ini
-topics:
-- go
-- lib
-- config

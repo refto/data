@@ -1,8 +1,0 @@
-description: Go HTTP client calls with retries, backoff, and concurrency
-home_addr: https://github.com/sethgrid/pester
-title: pester
-topics:
-- go
-- lib
-- http
-- client

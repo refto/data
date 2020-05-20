@@ -1,9 +1,0 @@
-description: Package goshark use tshark to decode IP packet and create data struct
-  to analyse packet
-home_addr: https://github.com/sunwxg/goshark
-title: goshark
-topics:
-- go
-- lib
-- net
-- network

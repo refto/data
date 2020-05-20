@@ -1,8 +1,0 @@
-description: Mango is a modular web-application framework for Go, inspired by Rack,
-  and PEP333
-home_addr: https://github.com/paulbellamy/mango
-title: mango
-topics:
-- go
-- lib
-- framework

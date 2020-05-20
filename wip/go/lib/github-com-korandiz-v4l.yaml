@@ -1,7 +1,0 @@
-description: Video capture library for Linux, written in Go
-home_addr: https://github.com/korandiz/v4l
-title: v4l
-topics:
-- go
-- lib
-- video

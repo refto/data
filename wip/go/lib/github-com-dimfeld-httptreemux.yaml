@@ -1,8 +1,0 @@
-description: High-speed, flexible tree-based HTTP router for Go. Inspiration from
-  httprouter
-home_addr: https://github.com/dimfeld/httptreemux
-title: httptreemux
-topics:
-- go
-- lib
-- router

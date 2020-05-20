@@ -1,7 +1,0 @@
-description: Go debugger
-home_addr: https://github.com/derekparker/delve
-title: delve
-topics:
-- go
-- lib
-- util

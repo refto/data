@@ -1,9 +1,0 @@
-description: official trading and market-making bot for the [Stellar](https://www.stellar.org/)
-  DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges
-  and custom trading strategies
-home_addr: https://github.com/stellar/kelp
-title: Kelp
-topics:
-- go
-- lib
-- bot

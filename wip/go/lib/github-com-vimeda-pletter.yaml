@@ -1,7 +1,0 @@
-description: A standard way to wrap a proto message for message brokers
-home_addr: https://github.com/vimeda/pletter
-title: pletter
-topics:
-- go
-- lib
-- serialization

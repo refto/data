@@ -1,8 +1,0 @@
-description: An XPath query package for HTML, lets you extract data or evaluate from
-  HTML documents by an XPath expression
-home_addr: https://github.com/antchfx/htmlquery
-title: htmlquery
-topics:
-- go
-- lib
-- text

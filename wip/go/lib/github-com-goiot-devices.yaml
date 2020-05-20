@@ -1,7 +1,0 @@
-description: Suite of libraries for IoT devices, experimental for x/exp/io
-home_addr: https://github.com/goiot/devices
-title: devices
-topics:
-- go
-- lib
-- iot

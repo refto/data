@@ -1,9 +1,0 @@
-description: Golf is a fast, simple and lightweight micro-web framework for Go. It
-  comes with powerful features and has no dependencies other than the Go Standard
-  Library
-home_addr: https://github.com/dinever/golf
-title: Golf
-topics:
-- go
-- lib
-- framework

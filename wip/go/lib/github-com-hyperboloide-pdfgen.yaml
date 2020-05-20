@@ -1,6 +1,0 @@
-description: HTTP service to generate PDF from Json requests
-home_addr: https://github.com/hyperboloide/pdfgen
-title: pdfgen
-topics:
-- go
-- lib

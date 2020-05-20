@@ -1,7 +1,0 @@
-description: Structured concurrency in Go
-home_addr: https://github.com/arunsworld/nursery
-title: nursery
-topics:
-- go
-- lib
-- goroutine

@@ -1,7 +1,0 @@
-description: Lightweight middleware for net/http
-home_addr: https://github.com/stephens2424/muxchain
-title: muxchain
-topics:
-- go
-- lib
-- middleware

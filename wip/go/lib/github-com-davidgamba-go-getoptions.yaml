@@ -1,7 +1,0 @@
-description: Go option parser inspired on the flexibility of Perl’s GetOpt::Long
-home_addr: https://github.com/DavidGamba/go-getoptions
-title: go-getoptions
-topics:
-- go
-- lib
-- cli

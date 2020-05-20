@@ -1,7 +1,0 @@
-description: graphql parser + utilities
-home_addr: https://github.com/tmc/graphql
-title: graphql
-topics:
-- go
-- lib
-- query

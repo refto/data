@@ -1,8 +1,0 @@
-description: Markup language featuring html outlining via css-selectors, extensible
-  via pkg html/template and others
-home_addr: https://github.com/dskinner/damsel
-title: damsel
-topics:
-- go
-- lib
-- template

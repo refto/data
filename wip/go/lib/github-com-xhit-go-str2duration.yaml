@@ -1,9 +1,0 @@
-description: Convert string to duration. Support time.Duration returned string and
-  more
-home_addr: https://github.com/xhit/go-str2duration
-title: go-str2duration
-topics:
-- go
-- lib
-- date
-- time

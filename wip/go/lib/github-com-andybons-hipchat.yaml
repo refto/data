@@ -1,7 +1,0 @@
-description: This project implements a golang client library for the Hipchat API
-home_addr: https://github.com/andybons/hipchat
-title: hipchat
-topics:
-- go
-- lib
-- api

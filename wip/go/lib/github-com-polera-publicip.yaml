@@ -1,8 +1,0 @@
-description: Package publicip returns your public facing IPv4 address (internet egress)
-home_addr: https://github.com/polera/publicip
-title: publicip
-topics:
-- go
-- lib
-- net
-- network

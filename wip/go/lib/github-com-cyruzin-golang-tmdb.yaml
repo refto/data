@@ -1,7 +1,0 @@
-description: Golang wrapper for The Movie Database API v3
-home_addr: https://github.com/cyruzin/golang-tmdb
-title: golang-tmdb
-topics:
-- go
-- lib
-- api

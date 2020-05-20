@@ -1,8 +1,0 @@
-description: A scanner similar to bufio.Scanner, but it reads and returns lines in
-  reverse order, starting at a given position and going backward
-home_addr: https://github.com/icza/backscanner
-title: backscanner
-topics:
-- go
-- lib
-- util

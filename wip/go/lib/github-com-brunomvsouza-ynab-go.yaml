@@ -1,7 +1,0 @@
-description: Go wrapper for the YNAB API
-home_addr: https://github.com/brunomvsouza/ynab.go
-title: ynab
-topics:
-- go
-- lib
-- api

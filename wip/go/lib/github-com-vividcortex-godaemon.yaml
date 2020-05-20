@@ -1,7 +1,0 @@
-description: Utility to write daemons
-home_addr: https://github.com/VividCortex/godaemon
-title: godaemon
-topics:
-- go
-- lib
-- util

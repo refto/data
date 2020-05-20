@@ -1,8 +1,0 @@
-description: Microsoft ActiveX Object DataBase driver for go that uses database/sql
-home_addr: https://github.com/mattn/go-adodb
-title: go-adodb
-topics:
-- go
-- lib
-- db
-- driver

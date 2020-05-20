@@ -1,7 +1,0 @@
-description: Simple and complete API for building command line interfaces in Go
-home_addr: https://github.com/teris-io/cli
-title: cli
-topics:
-- go
-- lib
-- cli

@@ -1,7 +1,0 @@
-description: YATSPEC-like BDD testing framework for Go
-home_addr: https://github.com/corbym/gogiven
-title: gogiven
-topics:
-- go
-- lib
-- test

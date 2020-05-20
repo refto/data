@@ -1,8 +1,0 @@
-description: Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction
-  functionality [Snowball native](http://snowball.tartarus.org/)
-home_addr: https://github.com/goodsign/snowball
-title: snowball
-topics:
-- go
-- lib
-- lang

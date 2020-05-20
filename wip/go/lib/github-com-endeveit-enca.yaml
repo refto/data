@@ -1,7 +1,0 @@
-description: Minimal cgo bindings for [libenca](http://cihar.com/software/enca/)
-home_addr: https://github.com/endeveit/enca
-title: enca
-topics:
-- go
-- lib
-- text

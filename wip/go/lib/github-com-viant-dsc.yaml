@@ -1,7 +1,0 @@
-description: Datastore connectivity for SQL, NoSQL, structured files
-home_addr: https://github.com/viant/dsc
-title: dsc
-topics:
-- go
-- lib
-- db

@@ -1,7 +1,0 @@
-description: Reader and utility functions for word2vec embeddings
-home_addr: https://github.com/danieldk/go2vec
-title: go2vec
-topics:
-- go
-- lib
-- lang

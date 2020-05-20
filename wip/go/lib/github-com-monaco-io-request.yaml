@@ -1,9 +1,0 @@
-description: HTTP client for golang. If you have experience about axios or requests,
-  you will love it. No 3rd dependency
-home_addr: https://github.com/monaco-io/request
-title: request
-topics:
-- go
-- lib
-- http
-- client

@@ -1,7 +1,0 @@
-description: Go wrapper and command-line client for the Uptime Robot v2 API
-home_addr: https://github.com/bitfield/uptimerobot
-title: uptimerobot
-topics:
-- go
-- lib
-- api

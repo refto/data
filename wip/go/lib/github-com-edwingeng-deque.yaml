@@ -1,6 +1,0 @@
-description: A highly optimized double-ended queue
-home_addr: https://github.com/edwingeng/deque
-title: deque
-topics:
-- go
-- lib

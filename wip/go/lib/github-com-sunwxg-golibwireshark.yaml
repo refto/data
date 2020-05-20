@@ -1,9 +1,0 @@
-description: Package golibwireshark use libwireshark library to decode pcap file and
-  analyse dissection data
-home_addr: https://github.com/sunwxg/golibwireshark
-title: golibwireshark
-topics:
-- go
-- lib
-- net
-- network

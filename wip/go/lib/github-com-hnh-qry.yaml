@@ -1,8 +1,0 @@
-description: Tool that generates constants from files with raw SQL queries
-home_addr: https://github.com/HnH/qry
-title: qry
-topics:
-- go
-- lib
-- db
-- sql

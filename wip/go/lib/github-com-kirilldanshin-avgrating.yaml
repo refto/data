@@ -1,6 +1,0 @@
-description: Calculate average score and rating based on Wilson Score Equation
-home_addr: https://github.com/kirillDanshin/avgRating
-title: avgRating
-topics:
-- go
-- lib

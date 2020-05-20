@@ -1,8 +1,0 @@
-description: Go-lang global event triggerer, Register Events with an id and trigger
-  the event from anywhere from your project
-home_addr: https://github.com/sadlil/go-trigger
-title: go-trigger
-topics:
-- go
-- lib
-- util

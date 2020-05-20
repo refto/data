@@ -1,6 +1,0 @@
-description: An implementation of pipelines with fan-in and fan-out
-home_addr: https://github.com/hyfather/pipeline
-title: pipeline
-topics:
-- go
-- lib

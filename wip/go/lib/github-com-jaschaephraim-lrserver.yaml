@@ -1,7 +1,0 @@
-description: LiveReload server for Go
-home_addr: https://github.com/jaschaephraim/lrserver
-title: lrserver
-topics:
-- go
-- lib
-- util

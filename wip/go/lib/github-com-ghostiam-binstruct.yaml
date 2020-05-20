@@ -1,7 +1,0 @@
-description: Golang binary decoder for mapping data into the structure
-home_addr: https://github.com/ghostiam/binstruct
-title: binstruct
-topics:
-- go
-- lib
-- serialization

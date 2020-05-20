@@ -1,8 +1,0 @@
-description: A safe way to execute functions asynchronously, recovering them in case
-  of panic
-home_addr: https://github.com/studiosol/async
-title: async
-topics:
-- go
-- lib
-- goroutine

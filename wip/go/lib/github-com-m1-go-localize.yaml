@@ -1,8 +1,0 @@
-description: Simple and easy to use i18n (Internationalization and localization) engine
-  - used for translating locale strings
-home_addr: https://github.com/m1/go-localize
-title: go-localize
-topics:
-- go
-- lib
-- lang

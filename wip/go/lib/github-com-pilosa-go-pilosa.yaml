@@ -1,8 +1,0 @@
-description: Go client library for Pilosa
-home_addr: https://github.com/pilosa/go-pilosa
-title: go-pilosa
-topics:
-- go
-- lib
-- db
-- driver

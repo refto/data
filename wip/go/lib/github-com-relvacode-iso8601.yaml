@@ -1,8 +1,0 @@
-description: Efficiently parse ISO8601 date-times without regex
-home_addr: https://github.com/relvacode/iso8601
-title: iso8601
-topics:
-- go
-- lib
-- date
-- time

@@ -1,8 +1,0 @@
-description: Lightweight golang driver for ArangoDB
-home_addr: https://github.com/solher/arangolite
-title: arangolite
-topics:
-- go
-- lib
-- db
-- driver

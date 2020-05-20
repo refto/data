@@ -1,8 +1,0 @@
-description: A distributed high-performance key-value store. On Disk. Eventual consistent.
-  HA. Able to grow or shrink without service interruption
-home_addr: https://github.com/chrislusf/vasto
-title: Vasto
-topics:
-- go
-- lib
-- db

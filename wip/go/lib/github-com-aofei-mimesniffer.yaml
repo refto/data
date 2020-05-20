@@ -1,7 +1,0 @@
-description: A MIME type sniffer for Go
-home_addr: https://github.com/aofei/mimesniffer
-title: mimesniffer
-topics:
-- go
-- lib
-- util

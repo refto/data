@@ -1,8 +1,0 @@
-description: Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark,
-  Animate)
-home_addr: https://github.com/noelyahan/mergi
-title: mergi
-topics:
-- go
-- lib
-- image

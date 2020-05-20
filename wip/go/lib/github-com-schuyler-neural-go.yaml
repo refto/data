@@ -1,8 +1,0 @@
-description: Multilayer perceptron network implemented in Go, with training via backpropagation
-home_addr: https://github.com/schuyler/neural-go
-title: neural-go
-topics:
-- go
-- lib
-- ml
-- machine learning

@@ -1,7 +1,0 @@
-description: jio is a json schema validator similar to [joi](https://github.com/hapijs/joi)
-home_addr: https://github.com/faceair/jio
-title: jio
-topics:
-- go
-- lib
-- validation

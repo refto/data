@@ -1,7 +1,0 @@
-description: CGo bindings to Yandex.Mystem - russian morphology analyzer
-home_addr: https://github.com/dveselov/mystem
-title: go-mystem
-topics:
-- go
-- lib
-- lang

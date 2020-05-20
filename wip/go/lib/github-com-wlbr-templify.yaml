@@ -1,7 +1,0 @@
-description: Embed external template files into Go code to create single file binaries
-home_addr: https://github.com/wlbr/templify
-title: templify
-topics:
-- go
-- lib
-- file

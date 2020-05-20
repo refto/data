@@ -1,7 +1,0 @@
-description: Handler wrapper chaining with scoped data (net/context-based "middleware")
-home_addr: https://github.com/codemodus/chain
-title: chain
-topics:
-- go
-- lib
-- middleware

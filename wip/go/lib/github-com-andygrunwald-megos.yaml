@@ -1,8 +1,0 @@
-description: Client library for accessing an [Apache Mesos](http://mesos.apache.org/)
-  cluster
-home_addr: https://github.com/andygrunwald/megos
-title: megos
-topics:
-- go
-- lib
-- api

@@ -1,7 +1,0 @@
-description: Load Open Packaging Conventions (OPC) files for Go
-home_addr: https://github.com/qmuntal/opc
-title: opc
-topics:
-- go
-- lib
-- file

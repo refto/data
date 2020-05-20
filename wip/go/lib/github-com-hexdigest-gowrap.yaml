@@ -1,6 +1,0 @@
-description: Generate decorators for Go interfaces using simple templates
-home_addr: https://github.com/hexdigest/gowrap
-title: GoWrap
-topics:
-- go
-- lib

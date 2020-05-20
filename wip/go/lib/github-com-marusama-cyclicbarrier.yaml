@@ -1,7 +1,0 @@
-description: CyclicBarrier for golang
-home_addr: https://github.com/marusama/cyclicbarrier
-title: cyclicbarrier
-topics:
-- go
-- lib
-- goroutine

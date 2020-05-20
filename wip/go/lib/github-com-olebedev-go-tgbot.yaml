@@ -1,8 +1,0 @@
-description: Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based
-  router and middleware
-home_addr: https://github.com/olebedev/go-tgbot
-title: go-tgbot
-topics:
-- go
-- lib
-- bot

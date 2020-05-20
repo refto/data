@@ -1,7 +1,0 @@
-description: Process manager for Golang applications with an HTTP API
-home_addr: https://github.com/topfreegames/apm
-title: apm
-topics:
-- go
-- lib
-- util

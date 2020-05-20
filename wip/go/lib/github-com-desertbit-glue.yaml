@@ -1,8 +1,0 @@
-description: Robust Go and Javascript Socket Library (Alternative to Socket.io)
-home_addr: https://github.com/desertbit/glue
-title: Glue
-topics:
-- go
-- lib
-- msg
-- messaging

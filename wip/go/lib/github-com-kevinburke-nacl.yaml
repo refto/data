@@ -1,7 +1,0 @@
-description: Go implementation of the NaCL set of API's
-home_addr: https://github.com/kevinburke/nacl
-title: nacl
-topics:
-- go
-- lib
-- security

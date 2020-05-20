@@ -1,7 +1,0 @@
-description: Bindings for DOM and HTML generated from WebIDL
-home_addr: https://github.com/gowebapi/webapi
-title: webapi
-topics:
-- go
-- lib
-- web assembly

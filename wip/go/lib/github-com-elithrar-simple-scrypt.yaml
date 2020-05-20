@@ -1,8 +1,0 @@
-description: Scrypt package with a simple, obvious API and automatic cost calibration
-  built-in
-home_addr: https://github.com/elithrar/simple-scrypt
-title: simple-scrypt
-topics:
-- go
-- lib
-- security

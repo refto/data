@@ -1,7 +1,0 @@
-description: Database benchmarking tool with support for several databases and scripts
-home_addr: https://github.com/sj14/dbbench
-title: dbbench
-topics:
-- go
-- lib
-- db

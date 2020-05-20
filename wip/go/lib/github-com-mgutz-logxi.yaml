@@ -1,7 +1,0 @@
-description: 12-factor app logger that is fast and makes you happy
-home_addr: https://github.com/mgutz/logxi
-title: logxi
-topics:
-- go
-- lib
-- log

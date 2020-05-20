@@ -1,7 +1,0 @@
-description: Runs functions resiliently, catching and restarting panics
-home_addr: https://github.com/VividCortex/robustly
-title: robustly
-topics:
-- go
-- lib
-- util

@@ -1,8 +1,0 @@
-description: Advanced JSON to Go struct conversion. Provides package that can parse
-  multiple JSON documents and create struct to fit them all
-home_addr: https://github.com/m-zajac/json2go
-title: json2go
-topics:
-- go
-- lib
-- json

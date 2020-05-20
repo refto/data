@@ -1,8 +1,0 @@
-description: Library for reading, writing and working with OpenStreetMap data and
-  APIs
-home_addr: https://github.com/paulmach/osm
-title: osm
-topics:
-- go
-- lib
-- geo

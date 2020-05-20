@@ -1,7 +1,0 @@
-description: Data structure and algorithm library for go, designed to provide functions
-  similar to C++ STL
-home_addr: https://github.com/liyue201/gostl
-title: gostl
-topics:
-- go
-- lib

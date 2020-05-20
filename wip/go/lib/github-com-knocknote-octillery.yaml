@@ -1,7 +1,0 @@
-description: Go package for sharding databases ( Supports every ORM or raw SQL )
-home_addr: https://github.com/knocknote/octillery
-title: octillery
-topics:
-- go
-- lib
-- db

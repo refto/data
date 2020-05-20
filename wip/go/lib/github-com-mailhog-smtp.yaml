@@ -1,7 +1,0 @@
-description: SMTP server protocol state machine
-home_addr: https://github.com/mailhog/smtp
-title: smtp
-topics:
-- go
-- lib
-- email

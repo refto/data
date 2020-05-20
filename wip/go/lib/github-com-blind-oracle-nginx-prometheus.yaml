@@ -1,7 +1,0 @@
-description: Nginx log parser and exporter to Prometheus
-home_addr: https://github.com/blind-oracle/nginx-prometheus
-title: nginx-prometheus
-topics:
-- go
-- lib
-- server

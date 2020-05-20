@@ -1,7 +1,0 @@
-description: A simple fake clock for golang
-home_addr: https://github.com/jonboulle/clockwork
-title: clockwork
-topics:
-- go
-- lib
-- util

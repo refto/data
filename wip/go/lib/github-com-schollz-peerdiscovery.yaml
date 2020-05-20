@@ -1,8 +1,0 @@
-description: Pure Go library for cross-platform local peer discovery using UDP multicast
-home_addr: https://github.com/schollz/peerdiscovery
-title: peerdiscovery
-topics:
-- go
-- lib
-- net
-- network

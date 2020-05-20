@@ -1,8 +1,0 @@
-description: Compile-time controlled logger to make your release smaller without removing
-  debug calls
-home_addr: https://github.com/kirillDanshin/dlog
-title: dlog
-topics:
-- go
-- lib
-- util

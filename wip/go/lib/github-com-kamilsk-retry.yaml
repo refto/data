@@ -1,8 +1,0 @@
-description: The most advanced functional mechanism to perform actions repetitively
-  until successful
-home_addr: https://github.com/kamilsk/retry
-title: retry
-topics:
-- go
-- lib
-- util

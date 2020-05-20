@@ -1,8 +1,0 @@
-description: A file transfer system, support to manage files with http api, rpc call
-  and ftp client
-home_addr: https://github.com/bigfile/bigfile
-title: bigfile
-topics:
-- go
-- lib
-- file

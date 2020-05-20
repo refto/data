@@ -1,8 +1,0 @@
-description: The imghdr module determines the type of image contained in a file for
-  Go
-home_addr: https://github.com/corona10/goimghdr
-title: goimghdr
-topics:
-- go
-- lib
-- image

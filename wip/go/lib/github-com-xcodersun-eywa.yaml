@@ -1,8 +1,0 @@
-description: Project Eywa is essentially a connection manager that keeps track of
-  connected devices
-home_addr: https://github.com/xcodersun/eywa
-title: eywa
-topics:
-- go
-- lib
-- iot

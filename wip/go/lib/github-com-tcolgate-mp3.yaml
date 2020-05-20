@@ -1,7 +1,0 @@
-description: Native Go MP3 decoder
-home_addr: https://github.com/tcolgate/mp3
-title: mp3
-topics:
-- go
-- lib
-- audio

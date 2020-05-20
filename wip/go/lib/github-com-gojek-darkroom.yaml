@@ -1,8 +1,0 @@
-description: An image proxy with changeable storage backends and image processing
-  engines with focus on speed and resiliency
-home_addr: https://github.com/gojek/darkroom
-title: darkroom
-topics:
-- go
-- lib
-- image

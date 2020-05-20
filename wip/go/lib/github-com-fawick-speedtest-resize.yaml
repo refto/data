@@ -1,7 +1,0 @@
-description: Compare various Image resize algorithms for the Go language
-home_addr: https://github.com/fawick/speedtest-resize
-title: speedtest-resize
-topics:
-- go
-- lib
-- benchmark

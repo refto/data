@@ -1,7 +1,0 @@
-description: Process (i.e. goroutine) manager with an HTTP API
-home_addr: https://github.com/VividCortex/pm
-title: pm
-topics:
-- go
-- lib
-- util

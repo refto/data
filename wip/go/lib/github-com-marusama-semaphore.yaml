@@ -1,8 +1,0 @@
-description: Fast resizable semaphore implementation based on CAS (faster than channel-based
-  semaphore implementations)
-home_addr: https://github.com/marusama/semaphore
-title: semaphore
-topics:
-- go
-- lib
-- goroutine

@@ -1,7 +1,0 @@
-description: Scan golang "sql.Rows" directly to structs, slices, or primitive types
-home_addr: https://github.com/blockloop/scan
-title: scan
-topics:
-- go
-- lib
-- util

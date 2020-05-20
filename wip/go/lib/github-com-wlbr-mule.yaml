@@ -1,8 +1,0 @@
-description: Embed external resources like images, movies ... into Go source code
-  to create single file binaries using "go generate". Focussed on simplicity
-home_addr: https://github.com/wlbr/mule
-title: mule
-topics:
-- go
-- lib
-- file

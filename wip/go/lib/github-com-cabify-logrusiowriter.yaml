@@ -1,8 +1,0 @@
-description: '"io.Writer" implementation using [logrus](https://github.com/sirupsen/logrus)
-  logger'
-home_addr: https://github.com/cabify/logrusiowriter
-title: logrusiowriter
-topics:
-- go
-- lib
-- log

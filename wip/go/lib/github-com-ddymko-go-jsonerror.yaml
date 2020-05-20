@@ -1,8 +1,0 @@
-description: Go-JsonError is ment to allow us to easily create json response errors
-  that follow the JsonApi spec
-home_addr: https://github.com/ddymko/go-jsonerror
-title: go-jsonerror
-topics:
-- go
-- lib
-- json

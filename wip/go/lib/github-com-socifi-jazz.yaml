@@ -1,9 +1,0 @@
-description: A simple RabbitMQ abstraction layer for queue administration and publishing
-  and consuming of messages
-home_addr: https://github.com/socifi/jazz
-title: jazz
-topics:
-- go
-- lib
-- msg
-- messaging

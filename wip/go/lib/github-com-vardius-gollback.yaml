@@ -1,8 +1,0 @@
-description: asynchronous simple function utilities, for managing execution of closures
-  and callbacks
-home_addr: https://github.com/vardius/gollback
-title: gollback
-topics:
-- go
-- lib
-- goroutine

@@ -1,7 +1,0 @@
-description: JSON query expression library in Golang
-home_addr: https://github.com/elgs/jsonql
-title: jsonql
-topics:
-- go
-- lib
-- query

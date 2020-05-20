@@ -1,8 +1,0 @@
-description: Convert slices, maps or any other unknown value across different types
-  at run-time, no matter what
-home_addr: https://github.com/epiclabs-io/elastic
-title: elastic
-topics:
-- go
-- lib
-- serialization

@@ -1,8 +1,0 @@
-description: Tiny Go middleware library (with canned Middlewares) that supports JWT,
-  CORS, Statsd, and Go 1.7 context
-home_addr: https://github.com/InVisionApp/rye
-title: rye
-topics:
-- go
-- lib
-- middleware

@@ -1,9 +1,0 @@
-description: RapidMQ is a lightweight and reliable library for managing of the local
-  messages queue
-home_addr: https://github.com/sybrexsys/RapidMQ
-title: RapidMQ
-topics:
-- go
-- lib
-- msg
-- messaging

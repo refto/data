@@ -1,7 +1,0 @@
-description: Go client library for [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/)
-home_addr: https://github.com/ngs/go-google-email-audit-api
-title: google-email-audit-api
-topics:
-- go
-- lib
-- api

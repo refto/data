@@ -1,7 +1,0 @@
-description: DID (Decentralized Identifiers) Parser and Stringer in Go
-home_addr: https://github.com/ockam-network/did
-title: did
-topics:
-- go
-- lib
-- text

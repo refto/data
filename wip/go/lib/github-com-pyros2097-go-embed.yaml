@@ -1,7 +1,0 @@
-description: Generates go code to embed resource files into your library or executable
-home_addr: https://github.com/pyros2097/go-embed
-title: go-embed
-topics:
-- go
-- lib
-- file

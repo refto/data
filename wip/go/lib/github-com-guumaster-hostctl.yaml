@@ -1,7 +1,0 @@
-description: A CLI tool to manage /etc/hosts with easy commands
-home_addr: https://github.com/guumaster/hostctl
-title: hostctl
-topics:
-- go
-- lib
-- util

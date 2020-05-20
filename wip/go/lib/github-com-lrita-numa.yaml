@@ -1,7 +1,0 @@
-description: NUMA is a utility library, which is written in go. It help us to write
-  some NUMA-AWARED code
-home_addr: https://github.com/lrita/numa
-title: numa
-topics:
-- go
-- lib

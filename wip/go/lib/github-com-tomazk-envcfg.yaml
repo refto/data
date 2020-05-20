@@ -1,7 +1,0 @@
-description: Un-marshaling environment variables to Go structs
-home_addr: https://github.com/tomazk/envcfg
-title: envcfg
-topics:
-- go
-- lib
-- config

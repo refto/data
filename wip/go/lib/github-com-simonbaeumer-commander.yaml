@@ -1,7 +1,0 @@
-description: Tool for testing cli applications on windows, linux and osx
-home_addr: https://github.com/SimonBaeumer/commander
-title: commander
-topics:
-- go
-- lib
-- test

@@ -1,9 +1,0 @@
-description: A TCP Library use worker pool to improve performance and protect your
-  server
-home_addr: https://github.com/two/tspool
-title: tspool
-topics:
-- go
-- lib
-- net
-- network

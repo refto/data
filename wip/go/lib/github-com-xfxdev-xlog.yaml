@@ -1,8 +1,0 @@
-description: Plugin architecture and flexible log system for Go, with level ctrl,
-  multiple log target and custom log format
-home_addr: https://github.com/xfxdev/xlog
-title: xlog
-topics:
-- go
-- lib
-- log

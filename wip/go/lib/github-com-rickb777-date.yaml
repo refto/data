@@ -1,9 +1,0 @@
-description: Augments Time for working with dates, date ranges, time spans, periods,
-  and time-of-day
-home_addr: https://github.com/rickb777/date
-title: date
-topics:
-- go
-- lib
-- date
-- time

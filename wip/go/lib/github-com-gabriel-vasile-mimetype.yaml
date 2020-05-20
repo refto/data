@@ -1,7 +1,0 @@
-description: Package for MIME type detection based on magic numbers
-home_addr: https://github.com/gabriel-vasile/mimetype
-title: mimetype
-topics:
-- go
-- lib
-- util

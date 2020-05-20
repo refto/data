@@ -1,7 +1,0 @@
-description: Generate and Parse RFC4122 compliant V4 UUIDs
-home_addr: https://github.com/jakehl/goid
-title: goid
-topics:
-- go
-- lib
-- uuid

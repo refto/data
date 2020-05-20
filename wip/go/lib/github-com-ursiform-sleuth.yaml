@@ -1,7 +1,0 @@
-description: Library for master-less p2p auto-discovery and RPC between HTTP services
-  (using [ZeroMQ](https://github.com/zeromq/libzmq))
-home_addr: https://github.com/ursiform/sleuth
-title: sleuth
-topics:
-- go
-- lib

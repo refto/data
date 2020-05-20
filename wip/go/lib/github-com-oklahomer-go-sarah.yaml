@@ -1,8 +1,0 @@
-description: Framework to build bot for desired chat services including LINE, Slack,
-  Gitter and more
-home_addr: https://github.com/oklahomer/go-sarah
-title: go-sarah
-topics:
-- go
-- lib
-- bot

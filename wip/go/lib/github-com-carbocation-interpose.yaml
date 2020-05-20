@@ -1,7 +1,0 @@
-description: Minimalist net/http middleware for golang
-home_addr: https://github.com/carbocation/interpose
-title: interpose
-topics:
-- go
-- lib
-- middleware

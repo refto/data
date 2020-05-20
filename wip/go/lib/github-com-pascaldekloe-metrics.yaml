@@ -1,6 +1,0 @@
-description: Library for metrics instrumentation and Prometheus exposition
-home_addr: https://github.com/pascaldekloe/metrics
-title: metrics
-topics:
-- go
-- lib

@@ -1,8 +1,0 @@
-description: Go implementation of the k-modes and k-prototypes clustering algorithms
-home_addr: https://github.com/e-XpertSolutions/go-cluster
-title: go-cluster
-topics:
-- go
-- lib
-- ml
-- machine learning

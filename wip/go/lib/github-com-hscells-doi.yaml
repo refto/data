@@ -1,7 +1,0 @@
-description: Document object identifier (doi) parser in Go
-home_addr: https://github.com/hscells/doi
-title: doi
-topics:
-- go
-- lib
-- text

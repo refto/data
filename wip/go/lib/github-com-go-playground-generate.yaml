@@ -1,8 +1,0 @@
-description: runs go generate recursively on a specified path or environment variable
-  and can filter by regex
-home_addr: https://github.com/go-playground/generate
-title: generate
-topics:
-- go
-- lib
-- util

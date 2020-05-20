@@ -1,8 +1,0 @@
-description: Hackable package that determines responsible source code for an error
-  (and some other fast-debugging features). Pluggable to any logger in-place
-home_addr: https://github.com/snwfdhmp/errlog
-title: errlog
-topics:
-- go
-- lib
-- error

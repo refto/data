@@ -1,8 +1,0 @@
-description: JSON or YAML configuration wrapper with environment variables and flags
-  parsing
-home_addr: https://github.com/olebedev/config
-title: config
-topics:
-- go
-- lib
-- config

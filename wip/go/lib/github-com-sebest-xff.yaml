@@ -1,7 +1,0 @@
-description: Handle "X-Forwarded-For" header and friends
-home_addr: https://github.com/sebest/xff
-title: XFF
-topics:
-- go
-- lib
-- middleware

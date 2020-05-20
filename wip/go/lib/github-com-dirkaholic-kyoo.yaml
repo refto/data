@@ -1,7 +1,0 @@
-description: Provides an unlimited job queue and concurrent worker pools
-home_addr: https://github.com/dirkaholic/kyoo
-title: kyoo
-topics:
-- go
-- lib
-- goroutine

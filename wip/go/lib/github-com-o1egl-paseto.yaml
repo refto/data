@@ -1,7 +1,0 @@
-description: Golang implementation of Platform-Agnostic Security Tokens (PASETO)
-home_addr: https://github.com/o1egl/paseto
-title: paseto
-topics:
-- go
-- lib
-- auth

@@ -1,8 +1,0 @@
-description: A tiny wrapper around NSQ topic and channel
-home_addr: https://github.com/rafaeljesus/nsq-event-bus
-title: nsq-event-bus
-topics:
-- go
-- lib
-- msg
-- messaging

@@ -1,8 +1,0 @@
-description: Network link speed simulation for Reader/Writer interfaces
-home_addr: https://github.com/ian-kent/linkio
-title: linkio
-topics:
-- go
-- lib
-- net
-- network

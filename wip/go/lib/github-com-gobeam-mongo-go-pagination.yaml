@@ -1,8 +1,0 @@
-description: Mongodb Pagination for official mongodb/mongo-go-driver package which
-  supports  both normal queries and Aggregation pipelines
-home_addr: https://github.com/gobeam/mongo-go-pagination
-title: mongo-go-pagination
-topics:
-- go
-- lib
-- util

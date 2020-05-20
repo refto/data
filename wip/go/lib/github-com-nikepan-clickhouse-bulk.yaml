@@ -1,7 +1,0 @@
-description: Collects small insterts and sends big requests to ClickHouse servers
-home_addr: https://github.com/nikepan/clickhouse-bulk
-title: clickhouse-bulk
-topics:
-- go
-- lib
-- db
