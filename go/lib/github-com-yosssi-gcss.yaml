@@ -1,0 +1,7 @@
+title: GCSS
+description: GCSS is a pure Go CSS preprocessor. This is inspired by Sass and Stylus.
+home_addr: https://github.com/yosssi/gcss
+topics:
+  - go
+  - lib
+  - css

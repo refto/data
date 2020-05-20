@@ -1,7 +1,0 @@
-description: App shutdown hooks for "os.Signal" handling
-home_addr: https://github.com/ztrue/shutdown
-title: shutdown
-topics:
-- go
-- lib
-- util

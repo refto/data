@@ -1,6 +1,0 @@
-description: Lua 5.1 VM and compiler written in Go
-home_addr: https://github.com/yuin/gopher-lua
-title: gopher-lua
-topics:
-- go
-- lib

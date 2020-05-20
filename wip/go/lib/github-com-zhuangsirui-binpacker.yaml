@@ -1,6 +1,0 @@
-description: Binary packer and unpacker helps user build custom binary stream
-home_addr: https://github.com/zhuangsirui/binpacker
-title: binpacker
-topics:
-- go
-- lib

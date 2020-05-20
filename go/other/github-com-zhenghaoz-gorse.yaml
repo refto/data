@@ -1,0 +1,16 @@
+title: gorse
+description: gorse is an offline recommender system backend based on collaborative filtering written in Go. This project is aim to provide a high performance, easy-to-use, programming language irrelevant recommender micro-service based on collaborative filtering.
+
+home_addr: https://gorse.io/
+picture_addr: https://img.sine-x.com/gorse.png
+
+topics:
+  - go
+  - open-source
+  - data-mining
+  - machine-learning
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/zhenghaoz/gorse

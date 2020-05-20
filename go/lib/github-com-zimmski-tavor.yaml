@@ -1,0 +1,7 @@
+title: Tavor
+description: Tavor (Sindarin for woodpecker) is a framework for easily implementing and using fuzzing and delta-debugging. Its EBNF-like notation allows you to define file formats, protocols, and other structured data without the need to write source code. Tavor relaxes on the definitions of fuzzing and delta-debugging to enable the usage of its algorithms universally for keyword-driven testing, model-based testing, simulating user-behavior and genetic programming. Tavor is also well-suited for researching new methods without reimplementing basic algorithms.
+home_addr: https://github.com/zimmski/tavor
+topics:
+  - go
+  - lib
+  - test

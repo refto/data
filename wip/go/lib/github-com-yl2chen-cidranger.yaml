@@ -1,8 +1,0 @@
-description: Fast IP to CIDR lookup for Go
-home_addr: https://github.com/yl2chen/cidranger
-title: cidranger
-topics:
-- go
-- lib
-- net
-- network

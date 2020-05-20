@@ -1,6 +1,0 @@
-description: Generic fuzzing and delta-debugging framework
-home_addr: https://github.com/zimmski/tavor
-title: Tavor
-topics:
-- go
-- lib

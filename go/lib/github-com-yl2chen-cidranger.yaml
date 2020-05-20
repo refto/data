@@ -1,0 +1,9 @@
+title: cidranger
+description: Fast IP to CIDR block(s) lookup using trie in Golang, inspired by IPv4 route lookup linux. Possible use cases include detecting if a IP address is from published cloud provider CIDR blocks (e.g. 52.95.110.1 is contained in published AWS Route53 CIDR 52.95.110.0/24), IP routing rules, etc.
+home_addr: https://github.com/yl2chen/cidranger
+topics:
+  - go
+  - lib
+  - network
+  - ip
+  - cidr

@@ -1,8 +1,0 @@
-description: Cross-platform webview window with simple two-way JavaScript bindings
-  (Windows / macOS / Linux)
-home_addr: https://github.com/zserge/webview
-title: webview
-topics:
-- go
-- lib
-- gui

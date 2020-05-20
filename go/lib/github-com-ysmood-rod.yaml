@@ -1,0 +1,11 @@
+title: rod
+description: >
+  Rod is a High-level Chrome Devtools driver directly based on Chrome DevTools Protocol. It's designed for web automation and scraping. Rod also tries to expose low-level interfaces to users, so that whenever a function is missing users can easily send control requests to the browser directly.
+home_addr: https://github.com/ysmood/rod
+picture_addr: https://github.com/ysmood/rod/raw/master/fixtures/rod.png
+topics:
+  - go
+  - lib
+  - web-scraping
+  - automation
+  - chrome

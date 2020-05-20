@@ -1,7 +1,0 @@
-description: Pure Go ultra performant MIME sniffing library/utility
-home_addr: https://github.com/zRedShift/mimemagic
-title: mimemagic
-topics:
-- go
-- lib
-- util

@@ -1,8 +1,0 @@
-description: Enriches the default go HTTP client with retry functionality
-home_addr: https://github.com/ybbus/httpretry
-title: httpretry
-topics:
-- go
-- lib
-- http
-- client

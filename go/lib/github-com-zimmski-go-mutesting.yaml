@@ -1,0 +1,7 @@
+title: go-mutesting
+description: go-mutesting is a framework for performing mutation testing on Go source code. Its main purpose is to find source code, which is not covered by any tests.
+home_addr: https://github.com/zimmski/go-mutesting
+topics:
+  - go
+  - lib
+  - test

@@ -1,7 +1,0 @@
-description: Generate test data from SQL files before testing and clear it after finished
-home_addr: https://github.com/zhulongcheng/testsql
-title: testsql
-topics:
-- go
-- lib
-- test

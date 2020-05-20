@@ -1,7 +1,0 @@
-description: Mutation testing for Go source code
-home_addr: https://github.com/zimmski/go-mutesting
-title: go-mutesting
-topics:
-- go
-- lib
-- test

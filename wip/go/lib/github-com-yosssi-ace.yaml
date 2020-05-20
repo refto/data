@@ -1,8 +1,0 @@
-description: Ace is an HTML template engine for Go, inspired by Slim and Jade. Ace
-  is a refinement of Gold
-home_addr: https://github.com/yosssi/ace
-title: ace
-topics:
-- go
-- lib
-- template

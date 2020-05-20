@@ -1,7 +1,0 @@
-description: JSON diff utility written in Go
-home_addr: https://github.com/yazgazan/jaydiff
-title: JayDiff
-topics:
-- go
-- lib
-- json

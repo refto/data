@@ -1,0 +1,10 @@
+title: jsonrpc
+description: A go implementation of an rpc client using json as data format over http. The implementation is based on the JSON-RPC 2.0 specification
+home_addr: https://github.com/ybbus/jsonrpc
+topics:
+  - go
+  - lib
+  - rpc
+  - client
+  - json
+  - json-rpc

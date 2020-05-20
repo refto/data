@@ -1,0 +1,11 @@
+title: webview
+description: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+home_addr: https://github.com/zserge/webview
+topics:
+  - go
+  - lib
+  - gui
+  - c
+  - c++
+  - cgo
+  - webkit
