@@ -1,0 +1,11 @@
+title: kcptun
+description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64
+
+home_addr: https://github.com/xtaci/kcptun
+picture_addr: https://github.com/xtaci/kcptun/raw/master/logo.png
+
+topics:
+  - go
+  - lib
+  - network
+  - udp

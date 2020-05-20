@@ -1,0 +1,8 @@
+title: gormt
+description: mysql database to golang struct conversion tools base on gorm，You can automatically generate golang sturct from MySQL database. big Camel-Case Name Rule, JSON tag.
+home_addr: https://github.com/xxjwxc/gormt
+topics:
+  - go
+  - mysql
+  - tool
+  - codegen

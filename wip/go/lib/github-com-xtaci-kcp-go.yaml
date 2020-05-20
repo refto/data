@@ -1,8 +1,0 @@
-description: KCP - Fast and Reliable ARQ Protocol
-home_addr: https://github.com/xtaci/kcp-go
-title: kcp-go
-topics:
-- go
-- lib
-- net
-- network

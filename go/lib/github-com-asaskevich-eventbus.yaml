@@ -1,8 +1,8 @@
+title: EventBus
 description: The lightweight event bus with async compatibility
 home_addr: https://github.com/asaskevich/EventBus
-title: EventBus
 topics:
-- go
-- lib
-- msg
-- messaging
+  - go
+  - lib
+  - event
+  - event-bus

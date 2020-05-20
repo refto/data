@@ -1,0 +1,9 @@
+title: go-jira
+description: Go client library for Atlassian JIRA
+home_addr: https://github.com/andygrunwald/go-jira
+topics:
+  - go
+  - client
+  - api
+  - jira
+  - atlassian

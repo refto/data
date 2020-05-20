@@ -1,8 +1,0 @@
-description: Extremely simple & fast udp tunnel based on KCP protocol
-home_addr: https://github.com/xtaci/kcptun
-title: kcptun
-topics:
-- go
-- lib
-- net
-- network

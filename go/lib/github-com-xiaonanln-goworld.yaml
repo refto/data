@@ -1,0 +1,7 @@
+description: Scalable Distributed Game Server Engine with Hot Swapping in Golang
+home_addr: https://github.com/xiaonanln/goworld
+title: GoWorld
+topics:
+  - go
+  - lib
+  - game-server

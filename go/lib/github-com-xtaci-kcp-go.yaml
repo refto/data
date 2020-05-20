@@ -1,0 +1,10 @@
+title: kcp-go
+description: A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC. This library intents to provide a smooth, resilient, ordered, error-checked and anonymous delivery of streams over UDP packets, it has been battle-tested with opensource project kcptun. Millions of devices(from low-end MIPS routers to high-end servers) have deployed kcp-go powered program in a variety of forms like online games, live broadcasting, file synchronization and network acceleration.
+
+home_addr: https://github.com/xtaci/kcp-go
+
+topics:
+  - go
+  - lib
+  - network
+  - udp

@@ -1,7 +1,0 @@
-description: HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber
-home_addr: https://github.com/xyproto/algernon
-title: algernon
-topics:
-- go
-- lib
-- server
