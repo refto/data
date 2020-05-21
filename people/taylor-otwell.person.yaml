@@ -1,0 +1,17 @@
+title: Taylor Otwell
+description: >
+  Creator of Laravel
+
+home_addr: https://twitter.com/taylorotwell
+photo_addr: https://pbs.twimg.com/profile_images/914894066072113152/pWD-GUwG_400x400.jpg
+
+links:
+   - icon: link
+     label: Laravel
+     addr: https://laravel.com/
+   - icon: github
+     label: GitHub
+     addr: https://github.com/taylorotwell
+
+topics:
+  - laravel

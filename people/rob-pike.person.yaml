@@ -1,0 +1,16 @@
+title: Rob Pike
+description: >
+  Robert "Rob" C. Pike is best known for his work on the Go programming language and at Bell Labs, where he was a member of the Unix team and was involved in the creation of the Plan 9 from Bell Labs and Inferno operating systems, as well as the Limbo programming language.
+
+home_addr: https://twitter.com/rob_pike
+photo_addr: https://upload.wikimedia.org/wikipedia/commons/e/ea/Rob-pike_%28cropped%29.jpg
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/Rob_Pike
+
+topics:
+   - go
+   - limbo
+   - plan9

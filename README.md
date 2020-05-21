@@ -17,8 +17,9 @@ When changes pushed to repository, GitHub notifies server via webhook. Then [ser
 * Each data's file name must be in format `filename.type.yaml`
     * The `filename` part can be anything that reflect it's data (it will be used as ID of data)
     * The `type` part is a type of data and can be:
-        * `generic`: Generic data, see `generic.sample.yaml`
-        * `book`: A book entity, see `book.sample.yaml`
+        * `generic`: Generic data, see `./generic.sample.yaml`
+        * `book`: A book entity, see `./book.sample.yaml`
+        * `person`: A person entity, see `./person.sample.yaml`
     * The `type` part can omitted if data is a `generic` type 
 * Each data must comply with schema of its type (For example: `clean-code.book.yaml` must be valid against `book.schema.yaml`).
 * File names that ends with `.sample.yaml` or `.schema.yaml` will not be counted as data

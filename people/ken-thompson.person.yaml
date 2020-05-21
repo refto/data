@@ -1,0 +1,17 @@
+title: Ken Thompson
+description: >
+  Kenneth Lane Thompson is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating system. Since 2006, Thompson has worked at Google, where he co-invented the Go programming language.
+
+home_addr: https://en.wikipedia.org/wiki/Ken_Thompson
+photo_addr: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJLjhCAZLNnVEABLcx52HpxEem_9RB3APgjITKNFHF479b6iTX&usqp=CAU
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/Rob_Pike
+
+topics:
+  - unix
+  - b
+  - plan9
+  - go

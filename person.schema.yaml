@@ -1,0 +1,50 @@
+title: Person
+description: Person's schema
+type: object
+additionalProperties: false
+properties:
+    title:
+        type: string
+        description: Name of person
+
+    description:
+        type: string
+        description: Description
+
+    home_addr:
+        type: string
+        description: Address of home page or where to find more
+
+    photo_addr:
+        type: string
+        description: Preview picture (or logo) address
+
+    links:
+        description: List of helpful links associated with book
+        type: array
+        items:
+            type: object
+            properties:
+                icon:
+                    type: string
+                label:
+                    type: string
+                addr:
+                    type: string
+            required:
+                - label
+                - addr
+
+    topics:
+        type: array
+        description: List of topics that data is related to
+        items:
+            type: string
+        minItems: 1
+        uniqueItems: true
+            
+    
+required:
+    - title
+    - description
+    - home_addr

@@ -1,0 +1,17 @@
+title: Tim Berners-Lee
+description: >
+  Engineer and computer scientist best known as the inventor of the World Wide Web. Proposed an information management system on 12 March 1989, then implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the internet. He received the 2016 Turing Award "for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale"
+
+home_addr: https://www.w3.org/People/Berners-Lee/
+photo_addr: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/330px-Sir_Tim_Berners-Lee_%28cropped%29.jpg
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/Tim_Berners-Lee
+
+topics:
+   - internet
+   - w3c
+   - www
+   - http
