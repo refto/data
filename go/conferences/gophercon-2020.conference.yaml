@@ -1,0 +1,14 @@
+title: GopherCon
+description: >
+  Mark your calendars for a little social "undistancing" in November at The Walt Disney World Swan & Dolphin Resort, in Lake Buena Vista, Florida. GopherCon may be smaller than past years, but we still believe in the power and importance of bringing our community of gophers together. For those who can make the journey this autumn, we will continue to offer both rooming and programming under one roof with all the appropriate measures in place for a safe and fulfilling gathering. We are working on developing a comprehensive health safety plan with the hotel and will post this plan on the website by the end of May. With exceptional pre-conference workshops taught by a few of the smartest people we know, some of the very best programming driven by our conference attendees' feedback, hours and hours of networking, and a magical destination, we can't imagine a better way of celebrating Go's 10-year anniversary!
+
+home_addr: https://gophercon.asia/
+picture_addr: https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/v1580236921/qt1k2jk58ragj3ox4gwt.png
+location:  Walt Disney World Dolphin Resort, Orlando, Florida, USA
+
+start_dt: 2020-11-12 10:00
+end_dt: 2020-11-14 18:00
+
+topics:
+  - go
+  - orlando

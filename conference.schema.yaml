@@ -1,26 +1,38 @@
-title: Person
-description: Person's schema
+title: Event
+description: Real life or online conference
 type: object
 additionalProperties: false
 properties:
     title:
         type: string
-        description: Name of person
+        description: Name of conference
 
     description:
         type: string
         description: Description
 
+    location:
+        type: string
+        description: Location of conference (Using "Online" or online provider's name (like "Youtube") is fine)
+
+    start_dt:
+        type: string
+        description: Starts at (date and time). Use format "2020-01-30 01:01"
+
+    end_dt:
+        type: string
+        description: Ends at (date and time). Use format "2020-01-30 01:01"
+
     home_addr:
         type: string
         description: Address of home page or where to find more
 
-    photo_addr:
+    picture_addr:
         type: string
         description: Preview picture (or logo) address
 
     links:
-        description: List of helpful links associated with person
+        description: List of helpful links associated with conference
         type: array
         items:
             type: object
@@ -48,3 +60,5 @@ required:
     - title
     - description
     - home_addr
+    - location
+    - start_dt

@@ -1,0 +1,14 @@
+title: GothamGo
+description: >
+  GothamGo is a one-day, single-tracked Go language and community conference conducted annually in New York City. We feature talks that push the boundaries of Go, given by speakers with an expert or unique perspective. Our venue is the amazing NYIT Auditorium on Broadway, near Columbus Circle, an awesome location in the city.
+
+home_addr: https://gophercon.asia/
+picture_addr: http://gothamgo.com/assets/gothamgo/2018/conference/three-14e3d4534217a3cea791355fd4dd36b39146e5e4ec21f7b430a44cb897f99aba.png
+location:  New York City, USA
+
+start_dt: 2020-10-02 10:00
+end_dt: 2020-10-02 18:00
+
+topics:
+   - go
+   - new york

@@ -1,0 +1,13 @@
+title: GopherCon Singapore
+description: >
+  The international Go programming language conference for Singapore and Southeast Asia is back! Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+home_addr: https://2020.gophercon.sg/
+picture_addr: https://2020.gophercon.sg/img/gopherconsg2020-d.png
+location:  Singapore
+
+start_dt: TBA (due to COVID-19)
+
+topics:
+  - go
+  - singapore

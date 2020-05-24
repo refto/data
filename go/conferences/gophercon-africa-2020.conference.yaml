@@ -1,0 +1,14 @@
+title: GopherCon Africa
+description: >
+  <p>GopherconAfrica conference is brought to you by volunteer gophers together with nectarhub.io Gophercon Africa is a single-track event which makes our attendees experience all our speakers, live and onsite. Sometimes it’s difficult to choose between sessions and we have curated our talks for a single track.</p>
+  <p>Day 1 has been set aside for tutorials, Day 2 for talks and Day 3 for more talks and the community day.</p>
+home_addr: https://www.gophercon.africa/
+
+location: Lagos, Nigeria
+
+start_dt: 2020-07-14 08:00
+end_dt: 2020-07-16 18:00
+
+topics:
+   - go
+   - nigeria

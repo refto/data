@@ -1,0 +1,13 @@
+title: GopherCon India
+description: >
+  This conference is brought to you by the Go Language Community in India together with the Emerging Technology Trust (ETT). We love going to conferences that don't make you choose between two great presentations. So we created GopherConIndia as a single-track event that you don't want to miss and where everyone gets the opportunity to see the same talks. We think you'll enjoy the speakers we're lining up so much, you won't want to miss anyone of them.
+
+home_addr: https://gopherconindia.com/
+picture_addr: https://gopherconindia.com/images/gopher-150.webp
+location:  Goa, India
+
+start_dt: TBA (due to COVID-19)
+
+topics:
+  - go
+  - goa

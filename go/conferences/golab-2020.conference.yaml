@@ -1,0 +1,14 @@
+title: GoLab
+description: >
+  GoLab is the first Italian conference on Go
+
+home_addr: https://golab.io/
+picture_addr: https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1569851804/l40wlhq33sojhlnbtg6m.png
+location:  Florence, Italy
+
+start_dt: 2020-10-18 10:00
+end_dt: 2020-10-20 18:00
+
+topics:
+   - go
+   - florence

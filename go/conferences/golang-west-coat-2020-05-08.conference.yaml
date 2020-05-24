@@ -1,0 +1,20 @@
+title: GoWest
+description: >
+  This conference is meant to service the Rocky Mountain West Area (Arizona, Utah, Colorado, Idaho). The GoWest Conference was created with two main goals: to highlight the local talent and expertise in engineering with the Go programming language, and to bring world-renowned Go speakers to the area.
+
+home_addr: https://www.gowestconf.com/
+picture_addr: https://static.wixstatic.com/media/4ee7be_3a66139fdf3c460c83377f06dfcf04ab~mv2.png/v1/fill/w_276,h_304,al_c,q_85,usm_0.66_1.00_0.01/IMG_0069_edited.webp
+
+location: Salt Lake City, USA
+
+start_dt: 2020-05-07 16:00
+end_dt: 2020-05-08 19:00
+
+links:
+   - icon: link # this is default value, so you can just skip it
+     label: Talks and Workshops
+     addr: https://www.gowestconf.com/blank
+
+topics:
+   - go
+   - usa

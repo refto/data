@@ -1,0 +1,41 @@
+# Somebody love dev's conferences, somebody hate them, somebody find them useless
+# but they exists and that is great
+
+title: GoWest
+description: >
+  This conference is meant to service the Rocky Mountain West Area (Arizona, Utah, Colorado, Idaho). The GoWest Conference was created with two main goals: to highlight the local talent and expertise in engineering with the Go programming language, and to bring world-renowned Go speakers to the area.
+
+# Address to where find out more
+home_addr: https://www.gowestconf.com/
+picture_addr: https://static.wixstatic.com/media/4ee7be_3a66139fdf3c460c83377f06dfcf04ab~mv2.png/v1/fill/w_276,h_304,al_c,q_85,usm_0.66_1.00_0.01/IMG_0069_edited.webp
+
+# please use ascending order (county last), ex: "city, country"
+# you can use more clear location, if you need to, ex: "1st street, 2nd district, 3rd region, city, country"
+location: Salt Lake City, USA
+
+# staring date and time
+# format for know date is 2020-05-08 16:00
+# otherwise use whatever reasonable text, like "End of July"
+start_dt: 2020-05-08 16:00
+
+# closing date and time
+# skip if unknown
+end_dt: 2020-05-08 19:00
+
+# List of helpful links associated with conference
+# None is required, but if provided, "label"  and "addr" properties is required on each element
+links:
+   # available icons: https://www.antdv.com/components/icon/
+   - icon: link # this is default value, so you can just skip it
+     label: Talks and Workshops
+     addr: https://www.gowestconf.com/blank
+
+
+# List of topics that conference is related to
+# Do not add "conference" topic, it will be added automatically
+# Please add country, but not city (use location property for that)
+# Add topic "online" for online conf
+# Add topic "free" for free conf
+topics:
+   - go
+   - usa

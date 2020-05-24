@@ -1,0 +1,14 @@
+title: GopherCon UK
+description: >
+  Introducing GopherCon UK, formerly known as the Golang UK Conference.
+  Join us for three days of great Go content with the best speakers from across the world.
+
+home_addr: https://www.gophercon.co.uk/
+location: The Brewery, London, Europe
+
+start_dt: 2020-08-19 10:00
+end_dt: 2020-08-21 18:00
+
+topics:
+   - go
+   - london

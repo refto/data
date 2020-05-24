@@ -1,0 +1,14 @@
+title: GopherCon Russia
+description: >
+  The Largest Go Conference in Russia. 700 gophers, one day, 3 tracks of talks. Talks and workshops from 10:00 till 18:00. Traditional after-party starts at 18:30.
+  Conference languages: English and Russian.
+
+home_addr: https://www.gophercon-russia.ru/en
+location: Moscow, Russia
+
+start_dt: 2020-08-08 10:00
+end_dt: 2020-08-08 18:00
+
+topics:
+   - go
+   - moscow
