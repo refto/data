@@ -1,0 +1,10 @@
+title: Telebot
+description: Telebot is a bot framework for Telegram Bot API. This package provides the best of its kind API for command routing, inline query requests and keyboards, as well as callbacks. Actually, I went a couple steps further, so instead of making a 1:1 API wrapper I chose to focus on the beauty of API and performance
+
+home_addr: https://github.com/tucnak/telebot
+
+topics:
+  - go
+  - lib
+  - telegram
+  - bot

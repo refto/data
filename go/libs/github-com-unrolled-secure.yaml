@@ -1,0 +1,9 @@
+title: unrolled/secure
+description: HTTP middleware for Go that facilitates some quick security wins
+home_addr: https://github.com/unrolled/secure
+topics:
+  - go
+  - lib
+  - http
+  - middleware
+  - security

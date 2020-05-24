@@ -1,0 +1,9 @@
+description: Pitaya is an simple, fast and lightweight game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. It provides a basic development framework for distributed multiplayer games and server-side applications.
+home_addr: https://github.com/topfreegames/pitaya
+title: Pitaya
+topics:
+  - go
+  - game
+  - server
+  - framework
+  - multiplayer

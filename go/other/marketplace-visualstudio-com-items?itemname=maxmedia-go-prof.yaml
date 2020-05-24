@@ -1,0 +1,9 @@
+title: goprofiling
+description: This extension adds benchmark profiling support for the Go language to VS Code. To collect the data, Go Profiling uses the pprof package. Profiling is an analysis of your program performance. It measures the duration of method calls. This is a useful extension if you want to optimize your program performance.
+home_addr: https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof
+topics:
+  - ide
+  - plugin
+  - go
+  - vscode
+  - profiling

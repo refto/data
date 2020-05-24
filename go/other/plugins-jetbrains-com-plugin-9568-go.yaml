@@ -1,0 +1,8 @@
+title: Go plugin for JetBrains IDEs
+description: This plugin extends IntelliJ platform with Go-specific coding assistance and tool integrations, and has everything you could find in GoLand
+home_addr: https://plugins.jetbrains.com/plugin/9568-go
+topics:
+  - plugin
+  - ide
+  - jetbrains
+  - go

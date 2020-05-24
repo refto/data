@@ -1,0 +1,6 @@
+title: limetext
+description: Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text
+home_addr: http://limetext.org/
+topics:
+  - ide
+  - go

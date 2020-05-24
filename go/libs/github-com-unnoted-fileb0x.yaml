@@ -1,0 +1,8 @@
+title: fileb0x
+description: Customizable tool to embed files in go. It is an alternative to go-bindata that have better features and organized configuration.
+home_addr: https://github.com/UnnoTed/fileb0x
+topics:
+  - go
+  - lib
+  - file
+  - embed

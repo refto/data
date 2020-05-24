@@ -1,0 +1,12 @@
+title: tinygo
+description: TinyGo is a Go compiler intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools. It reuses libraries used by the Go language tools alongside LLVM to provide an alternative way to compile programs written in the Go programming language.
+
+home_addr: https://github.com/tinygo-org/tinygo
+picture_addr: https://tinygo.org/images/tinygo-logo.png
+
+topics:
+  - go
+  - lib
+  - microcontroller
+  - wasm
+  - iot

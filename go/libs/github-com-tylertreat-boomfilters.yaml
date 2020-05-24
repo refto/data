@@ -1,0 +1,7 @@
+title: boomfilters
+description: Probabilistic data structures for processing continuous, unbounded streams
+home_addr: https://github.com/tylertreat/BoomFilters
+topics:
+  - go
+  - lib
+  - bloom-filter

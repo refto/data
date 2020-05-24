@@ -1,0 +1,7 @@
+title: goreturns
+description: A gofmt/goimports-like tool for Go programmers that fills in Go return statements with zero values to match the func return types
+home_addr: https://github.com/sqs/goreturns
+topics:
+- go
+- tool
+- lint

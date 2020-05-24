@@ -1,0 +1,10 @@
+title: Fx
+description: A dependency injection based application framework for Go (built on top
+  of dig)
+home_addr: https://github.com/uber-go/fx
+topics:
+  - go
+  - lib
+  - app-framework
+  - dependency-injection
+  - di

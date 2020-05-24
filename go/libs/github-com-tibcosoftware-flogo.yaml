@@ -1,0 +1,8 @@
+title: Flogo
+description: Project Flogo is a resource efficient, Go-based open source ecosystem for building event-driven apps. Designed to abstract the event processing paradigm from event consumption enabling devs to build once, consume from anywhere and process using any of the supported actions
+home_addr: https://github.com/tibcosoftware/flogo
+picture_addr: https://github.com/TIBCOSoftware/flogo/raw/master/images/projectflogo.png
+topics:
+- go
+- lib
+- event-driven

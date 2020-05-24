@@ -1,0 +1,8 @@
+title: GoDNS
+description: A dynamic DNS client tool, supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, written in Go.
+home_addr: https://github.com/timothyye/godns
+topics:
+  - go
+  - lib
+  - dns
+  - client

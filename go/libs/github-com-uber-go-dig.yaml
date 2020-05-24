@@ -1,0 +1,8 @@
+title: dig
+description: A reflection based dependency injection toolkit for Go
+home_addr: https://github.com/uber-go/dig
+topics:
+  - go
+  - lib
+  - dependency-injection
+  - di
