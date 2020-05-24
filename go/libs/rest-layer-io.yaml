@@ -7,6 +7,5 @@ picture_addr: http://rest-layer.io/doc/schema.png
 
 topics:
   - go
-  - lib
-  - framework
+  - web-framework
   - rest

@@ -1,7 +1,0 @@
-description: A dynamic DNS client tool, supports DNSPod & HE.net, written in Go
-home_addr: https://github.com/timothyye/godns
-title: GoDNS
-topics:
-- go
-- lib
-- dns

@@ -1,7 +1,0 @@
-description: Cloud-agnostic service deployment and orchestration - supports EC2, Azure,
-  Openstack, MAAS and more
-home_addr: https://jujucharms.com/
-title: Juju
-topics:
-- go
-- tool

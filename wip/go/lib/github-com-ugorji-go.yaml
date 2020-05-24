@@ -1,8 +1,0 @@
-description: High Performance, feature-Rich, idiomatic encode, decode and rpc library
-  for msgpack, cbor and json, with runtime-based OR code-generation support
-home_addr: https://github.com/ugorji/go
-title: go-codec
-topics:
-- go
-- lib
-- serialization

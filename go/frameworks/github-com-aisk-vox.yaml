@@ -3,8 +3,7 @@ description: A golang web framework for humans, inspired by Koa heavily
 home_addr: https://github.com/aisk/vox
 topics:
   - go
-  - web
-  - framework
+  - web-framework
 
 links:
   - icon: home

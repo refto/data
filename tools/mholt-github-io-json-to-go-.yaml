@@ -3,7 +3,8 @@ description: This tool instantly converts JSON into a Go type definition. Paste 
 home_addr: https://mholt.github.io/json-to-go/
 topics:
 - tool
-- go
 - json
 - codegen
 - web-service
+- source:go
+

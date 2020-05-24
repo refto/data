@@ -1,8 +1,0 @@
-description: Go build system with file watchers and live reload. Run, build and watch
-  file changes with custom paths
-home_addr: https://github.com/tockins/realize
-title: realize
-topics:
-- go
-- lib
-- util

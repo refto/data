@@ -6,10 +6,9 @@ picture_addr: https://www.docker.com/sites/default/files/d8/2019-07/vertical-log
 
 topics:
   - tool
-  - devops
+  - devop
   - docker
-  - open-source
-  - go
+  - source:go
 
 links:
   - icon: github

@@ -1,9 +1,0 @@
-description: Package fasthttp is a fast HTTP implementation for Go, up to 10 times
-  faster than net/http
-home_addr: https://github.com/valyala/fasthttp
-title: fasthttp
-topics:
-- go
-- lib
-- net
-- network

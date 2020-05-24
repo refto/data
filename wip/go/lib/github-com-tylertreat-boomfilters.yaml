@@ -1,6 +1,0 @@
-description: Probabilistic data structures for processing continuous, unbounded streams
-home_addr: https://github.com/tylertreat/BoomFilters
-title: boomfilters
-topics:
-- go
-- lib

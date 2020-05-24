@@ -1,9 +1,0 @@
-description: A n:m multiplexer that gathers messages from different sources and broadcasts
-  them to a set of destinations
-home_addr: https://github.com/trivago/gollum
-title: Gollum
-topics:
-- go
-- lib
-- msg
-- messaging

@@ -1,8 +1,0 @@
-description: Simple, fast, and fun package for building command line apps in Go (formerly
-  codegangsta/cli)
-home_addr: https://github.com/urfave/cli
-title: urfave/cli
-topics:
-- go
-- lib
-- cli

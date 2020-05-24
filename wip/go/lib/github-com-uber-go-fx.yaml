@@ -1,8 +1,0 @@
-description: A dependency injection based application framework for Go (built on top
-  of dig)
-home_addr: https://github.com/uber-go/fx
-title: fx
-topics:
-- go
-- lib
-- di

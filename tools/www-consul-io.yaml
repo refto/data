@@ -4,12 +4,12 @@ description: Consul is a tool for service discovery and configuration. Consul is
 home_addr: https://www.consul.io/
 
 topics:
-- go
-- tool
-- devops
-- network
+  - tool
+  - devop
+  - network
+  - source:go
 
 links:
   - icon: github
-    label: Repo
+    label: Source
     addr: https://github.com/hashicorp/consul

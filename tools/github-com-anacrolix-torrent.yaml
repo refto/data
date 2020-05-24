@@ -6,4 +6,4 @@ topics:
   - p2p
   - tool
   - cli
-  - go
+  - source:go

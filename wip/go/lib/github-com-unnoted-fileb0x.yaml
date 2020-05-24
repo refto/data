@@ -1,8 +1,0 @@
-description: Simple tool to embed files in go with focus on "customization" and ease
-  to use
-home_addr: https://github.com/UnnoTed/fileb0x
-title: fileb0x
-topics:
-- go
-- lib
-- file
