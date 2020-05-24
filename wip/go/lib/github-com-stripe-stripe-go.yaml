@@ -1,7 +1,0 @@
-description: Go client for the Stripe API
-home_addr: https://github.com/stripe/stripe-go
-title: stripe
-topics:
-- go
-- lib
-- api

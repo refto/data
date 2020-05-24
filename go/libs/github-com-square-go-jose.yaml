@@ -1,0 +1,8 @@
+title: go-jose
+description: Package jose aims to provide an implementation of the Javascript Object Signing and Encryption set of standards. This includes support for JSON Web Encryption, JSON Web Signature, and JSON Web Token standards.
+home_addr: https://github.com/square/go-jose
+topics:
+  - go
+  - jws
+  - jwe
+  - jwt

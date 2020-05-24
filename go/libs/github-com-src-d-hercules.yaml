@@ -1,0 +1,8 @@
+description: Fast, insightful and highly customizable Git history analysis
+home_addr: https://github.com/src-d/hercules
+title: hercules
+topics:
+  - go
+  - lib
+  - git
+  - history-analysis

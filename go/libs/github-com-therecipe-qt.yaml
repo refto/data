@@ -1,0 +1,8 @@
+description: Qt is a cross-platform application framework that is used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase.
+home_addr: https://github.com/therecipe/qt
+title: qt
+topics:
+  - go
+  - qt
+  - gui
+  - bindings

@@ -1,0 +1,8 @@
+title: GoLearn
+description: GoLearn is a 'batteries included' machine learning library for Go. Simplicity, paired with customisability, is the goal. We are in active development, and would love comments from users out in the wild
+home_addr: https://github.com/sjwhitworth/golearn
+picture_addr: https://github.com/sjwhitworth/golearn
+topics:
+  - go
+  - lib
+  - machine learning

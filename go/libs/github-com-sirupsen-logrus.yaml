@@ -1,0 +1,8 @@
+title: Logrus
+description: Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
+home_addr: https://github.com/Sirupsen/logrus
+picture_addr: https://camo.githubusercontent.com/0e39ba1d71e6818ceeccd5b6f7f70bddec32e768/687474703a2f2f692e696d6775722e636f6d2f68546556776d4a2e706e67
+topics:
+  - go
+  - lib
+  - logger

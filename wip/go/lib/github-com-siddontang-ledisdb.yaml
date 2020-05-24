@@ -1,7 +1,0 @@
-description: Ledisdb is a high performance NoSQL like Redis based on LevelDB
-home_addr: https://github.com/siddontang/ledisdb
-title: ledisdb
-topics:
-- go
-- lib
-- db

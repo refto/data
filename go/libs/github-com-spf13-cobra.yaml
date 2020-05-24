@@ -1,0 +1,8 @@
+title: Cobra
+description: Cobra is a library providing a simple interface to create powerful modern CLI interfaces similar to git & go tools. Cobra is also an application that will generate your application scaffolding to rapidly develop a Cobra-based application.
+home_addr: https://github.com/spf13/cobra
+picture_addr: https://cloud.githubusercontent.com/assets/173412/10886352/ad566232-814f-11e5-9cd0-aa101788c117.png
+topics:
+  - go
+  - lib
+  - cli

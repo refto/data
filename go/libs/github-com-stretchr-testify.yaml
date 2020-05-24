@@ -1,0 +1,7 @@
+title: Testify
+description: A toolkit with common assertions and mocks that plays nicely with the standard library
+home_addr: https://github.com/stretchr/testify
+topics:
+  - go
+  - lib
+  - test

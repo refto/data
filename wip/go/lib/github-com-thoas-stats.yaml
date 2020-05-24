@@ -1,7 +1,0 @@
-description: Go middleware that stores various information about your web application
-home_addr: https://github.com/thoas/stats
-title: stats
-topics:
-- go
-- lib
-- middleware

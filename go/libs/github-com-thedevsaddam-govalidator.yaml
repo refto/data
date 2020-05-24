@@ -1,0 +1,10 @@
+title: govalidator
+description: Validate golang request data with simple rules
+
+home_addr: https://github.com/thedevsaddam/govalidator
+picture_addr: https://github.com/thedevsaddam/govalidator/raw/master/govalidator.png
+
+topics:
+  - go
+  - lib
+  - validation

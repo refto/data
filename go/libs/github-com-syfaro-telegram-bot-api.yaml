@@ -1,0 +1,8 @@
+title: telegram-bot-api
+description: Golang bindings for the Telegram Bot API
+home_addr: https://github.com/Syfaro/telegram-bot-api
+topics:
+  - go
+  - lib
+  - telegram
+  - bot

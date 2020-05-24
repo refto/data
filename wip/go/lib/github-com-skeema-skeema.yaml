@@ -1,9 +1,0 @@
-description: Pure-SQL schema management system for MySQL, with support for sharding
-  and external online schema change tools
-home_addr: https://github.com/skeema/skeema
-title: skeema
-topics:
-- go
-- lib
-- db
-- migration

@@ -1,0 +1,7 @@
+title: thoas/stats
+description: A Go middleware that stores various information about your web application (response time, status code count, etc.)
+home_addr: https://github.com/thoas/stats
+topics:
+  - go
+  - lib
+  - middleware

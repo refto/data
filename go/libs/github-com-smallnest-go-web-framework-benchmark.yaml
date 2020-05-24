@@ -1,0 +1,8 @@
+title: go-web-framework-benchmark
+description: This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that. Go HTTP Router Benchmark suit aims to compare the performance of routers but this Benchmark suit aims to compare whole HTTP request processing.
+home_addr: https://github.com/smallnest/go-web-framework-benchmark
+topics:
+  - go
+  - lib
+  - benchmark
+  - web-framework-benchmark

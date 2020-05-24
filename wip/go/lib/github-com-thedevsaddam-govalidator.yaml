@@ -1,8 +1,0 @@
-description: Validate Golang request data with simple rules. Highly inspired by Laravel's
-  request validation
-home_addr: https://github.com/thedevsaddam/govalidator
-title: govalidator
-topics:
-- go
-- lib
-- validation

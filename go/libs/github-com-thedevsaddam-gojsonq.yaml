@@ -1,0 +1,8 @@
+title: gojsonq
+description: A simple Go package to Query over JSON/YAML/XML/CSV Data
+home_addr: https://github.com/thedevsaddam/gojsonq
+picture_addr: https://github.com/thedevsaddam/gojsonq/raw/v2/gojsonq.png
+topics:
+  - go
+  - lib
+  - parser

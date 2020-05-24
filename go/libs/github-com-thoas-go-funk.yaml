@@ -1,0 +1,7 @@
+title: go-funk
+description: Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...)
+home_addr: https://github.com/thoas/go-funk
+topics:
+  - go
+  - lib
+  - util

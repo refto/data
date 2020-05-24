@@ -1,0 +1,9 @@
+description: Drop-in replacement for Go's flag package, implementing POSIX/GNU-style
+  --flags
+home_addr: https://github.com/spf13/pflag
+title: pflag
+topics:
+  - go
+  - lib
+  - cli
+  - flag

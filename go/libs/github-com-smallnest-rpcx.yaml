@@ -1,0 +1,8 @@
+title: rpcx
+description: Distributed pluggable RPC service framework like alibaba Dubbo
+home_addr: https://github.com/smallnest/rpcx
+picture_addr: https://camo.githubusercontent.com/542406ca22d288f1396480664a6a639187655c62/687474703a2f2f727063782e696f2f6c6f676f732f727063782d6c6f676f2d746578742e706e67
+topics:
+  - go
+  - lib
+  - rpc

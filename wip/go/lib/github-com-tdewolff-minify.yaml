@@ -1,7 +1,0 @@
-description: Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats
-home_addr: https://github.com/tdewolff/minify
-title: minify
-topics:
-- go
-- lib
-- util

@@ -1,0 +1,10 @@
+title: go-git
+description: >
+  go-git is a highly extensible git implementation library written in pure Go.
+  It can be used to manipulate git repositories at low level (plumbing) or high level (porcelain), through an idiomatic Go API. It also supports several types of storage, such as in-memory filesystems, or custom implementations, thanks to the Storer interface.
+home_addr: https://github.com/go-git/go-git
+picture_addr: https://camo.githubusercontent.com/ae315a6c955df45bcdf8aaadcae67cd9591466e2/68747470733a2f2f63646e2e7261776769742e636f6d2f7372632d642f617274776f726b2f30323033363438342f676f2d6769742f66696c65732f676f2d6769742d6769746875622d726561646d652d6865616465722e706e67
+topics:
+  - go
+  - lib
+  - git

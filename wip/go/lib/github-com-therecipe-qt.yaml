@@ -1,8 +1,0 @@
-description: Qt binding for Go (support for Windows / macOS / Linux / Android / iOS
-  / Sailfish OS / Raspberry Pi)
-home_addr: https://github.com/therecipe/qt
-title: qt
-topics:
-- go
-- lib
-- gui

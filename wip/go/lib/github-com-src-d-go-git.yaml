@@ -1,8 +1,0 @@
-description: highly extensible Git implementation in pure Go
-home_addr: https://github.com/src-d/go-git
-title: go-git
-topics:
-- go
-- lib
-- vcs
-- version control

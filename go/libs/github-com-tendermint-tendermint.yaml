@@ -1,0 +1,9 @@
+title: tendermint
+description: High-performance middleware for transforming a state machine written
+  in any programming language into a Byzantine Fault Tolerant replicated state machine
+  using the Tendermint consensus and blockchain protocols
+home_addr: https://github.com/tendermint/tendermint
+topics:
+  - go
+  - lib
+  - bft

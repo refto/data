@@ -1,7 +1,0 @@
-description: Distributed generation of super short, unique, non-sequential, URL friendly
-  IDs
-home_addr: https://github.com/teris-io/shortid
-title: shortid
-topics:
-- go
-- lib

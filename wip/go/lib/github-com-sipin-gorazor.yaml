@@ -1,7 +1,0 @@
-description: Razor view engine for Golang
-home_addr: https://github.com/sipin/gorazor
-title: Razor
-topics:
-- go
-- lib
-- template
