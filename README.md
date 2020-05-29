@@ -28,10 +28,11 @@ When changes pushed to repository, GitHub notifies server via webhook. Then [ser
 * Files can be stored in sub-directories indefinitely, **but keep in mind** that path to file (including name of a file) is also a data ID, so moving files between dirs, renaming dirs or files will also change their ID (currently the ID have no practical use, but planned in future)
 
 # Topics
-* Topics is a list of nouns that is relevant to data
-* Your first topic is an answer to the question "What is it?" (Except for data that have specific data type, its will be set as first topic automatically)
-* Your all other topics is context. You can add as much as yo need, but remember that less is more and try to be straight to the point. Topic `lib` or `tool` is useless when alone because they so broad and will match thousands of entities. For example data that falls into `static-site-generator` topic doesn't need to have `tool` or `static` or `site` or `generator` or `fast` or `golang` topics because `static-site-generator` speaks for itself and no need for extra explanation. 
-* For open-source app or software, if you want to add the language that software written it, please follow this format: `source:{lang}`, ex: `source:go`. (Because software itself have nothing to do with the language it is written in, but people often looking for open sourced software in specific language for study and research)
+* Topics an only mechanism of how data is filtered and being accessible  (on frontend clients)
+* Topics is a list of nouns that is relevant to it's data
+* Your first topic is an answer to the question "What is it?" (Except for data that have specific data type (type will be set as first topic automatically). For example, data of `book` type should skip topic `book` because it is already a `book`)
+* Your all other topics is context. You can add as much as you need, but remember that less is more and try to be straight to the point. Topic `lib` or `tool` is useless when alone because they so broad and will match thousands of entities. For example data that falls into `static-site-generator` topic doesn't need to have `tool` or `static` or `site` or `generator` or `fast` or `golang` topics because `static-site-generator` speaks for itself and no need for extra explanation. 
+* For open-source apps, if you want to add the language that software written it, please follow this format: `source:{lang}`, ex: `source:go`. (Because binary apps itself have nothing to do with the language it is written in (from end-user view), but often devs looking for open sourced software in specific language for study and research)
 
 
     
