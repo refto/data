@@ -1,6 +1,8 @@
 # Data source of [refto.dev](https://refto.dev)
 [refto.dev](https://refto.dev) is a collection of awesome creations that is useful to software developers. Anyone is welcome to contribute.
 
+**Side note: This project is in early development and open for contributions for anything that might shift it's course for better.**
+
 # What data is eligible to be here?
 Everything that made with quality and love and useful to dev's community. Doesn't matter free or paid, open-source or proprietary. 
 
