@@ -1,7 +1,0 @@
-description: Easily add CORS capabilities to your API
-home_addr: https://github.com/rs/cors
-title: CORS
-topics:
-- go
-- lib
-- middleware

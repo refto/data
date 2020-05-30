@@ -1,7 +1,0 @@
-description: Basic thread-safe progress bar that works in every OS
-home_addr: https://github.com/schollz/progressbar
-title: progressbar
-topics:
-- go
-- lib
-- ui

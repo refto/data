@@ -1,8 +1,0 @@
-description: 'Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern
-  desktop UI development. Cross platform'
-home_addr: https://github.com/sciter-sdk/go-sciter
-title: go-sciter
-topics:
-- go
-- lib
-- gui

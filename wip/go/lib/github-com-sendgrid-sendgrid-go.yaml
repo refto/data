@@ -1,7 +1,0 @@
-description: SendGrid's Go library for sending email
-home_addr: https://github.com/sendgrid/sendgrid-go
-title: SendGrid
-topics:
-- go
-- lib
-- email

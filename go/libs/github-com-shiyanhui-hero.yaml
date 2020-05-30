@@ -1,0 +1,7 @@
+title: hero
+description: Hero is a handy, fast and powerful go template engine, which pre-compiles the html templates to go code
+home_addr: https://github.com/shiyanhui/hero
+topics:
+  - go
+  - lib
+  - template

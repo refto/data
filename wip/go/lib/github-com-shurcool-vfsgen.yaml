@@ -1,8 +1,0 @@
-description: Generates a vfsdata.go file that statically implements the given virtual
-  filesystem
-home_addr: https://github.com/shurcooL/vfsgen
-title: vfsgen
-topics:
-- go
-- lib
-- file

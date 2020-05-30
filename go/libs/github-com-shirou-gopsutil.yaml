@@ -1,0 +1,7 @@
+title: gopsutil
+description: Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc)
+home_addr: https://github.com/shirou/gopsutil
+topics:
+  - go
+  - lib
+  - system

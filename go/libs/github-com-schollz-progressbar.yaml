@@ -1,0 +1,7 @@
+title: progressbar
+description: A very simple thread-safe progress bar which should work on every OS without problems
+home_addr: https://github.com/schollz/progressbar
+topics:
+  - go
+  - lib
+  - ui

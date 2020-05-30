@@ -1,7 +1,0 @@
-description: Circuit Breakers in Go
-home_addr: https://github.com/rubyist/circuitbreaker
-title: circuitbreaker
-topics:
-- go
-- lib
-- util

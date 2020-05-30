@@ -1,0 +1,7 @@
+title: sarama
+description: Go library for Apache Kafka 0.8+
+home_addr: https://github.com/Shopify/sarama
+topics:
+  - go
+  - client
+  - kafka

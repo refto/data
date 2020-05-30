@@ -1,8 +1,0 @@
-description: Go library for Apache Kafka
-home_addr: https://github.com/Shopify/sarama
-title: sarama
-topics:
-- go
-- lib
-- msg
-- messaging

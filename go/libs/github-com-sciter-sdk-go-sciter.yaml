@@ -1,0 +1,8 @@
+title: go-sciter
+description: >
+  Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
+home_addr: https://github.com/sciter-sdk/go-sciter
+topics:
+  - go
+  - lib
+  - gui

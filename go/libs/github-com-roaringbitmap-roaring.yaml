@@ -1,6 +1,8 @@
+title: roaring
 description: Go package implementing compressed bitsets
 home_addr: https://github.com/RoaringBitmap/roaring
-title: roaring
 topics:
-- go
-- lib
+  - go
+  - lib
+  - bitmap
+  - bitset

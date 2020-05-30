@@ -1,0 +1,7 @@
+title: go-lua
+description: Port of the Lua 5.2 VM to pure Go. It is compatible with binary files dumped by luac, from the Lua reference implementation
+home_addr: https://github.com/Shopify/go-lua
+topics:
+  - go
+  - lib
+  - lua

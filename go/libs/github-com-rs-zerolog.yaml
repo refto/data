@@ -1,0 +1,7 @@
+title: zerolog
+description: The zerolog package provides a fast and simple logger dedicated to JSON output.
+home_addr: https://github.com/rs/zerolog
+topics:
+  - go
+  - lib
+  - log

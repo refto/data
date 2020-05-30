@@ -1,0 +1,8 @@
+title: CORS
+description: Go net/http configurable handler to handle CORS requests
+home_addr: https://github.com/rs/cors
+topics:
+  - go
+  - lib
+  - middleware
+  - cors

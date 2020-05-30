@@ -1,0 +1,7 @@
+description: Naive go bindings towards the C-API of CPython-2. This package provides a go package named "python" under which most of the PyXYZ functions and macros of the public C-API of CPython have been exposed.
+home_addr: https://github.com/sbinet/go-python
+title: go-python
+topics:
+  - go
+  - lib
+  - python

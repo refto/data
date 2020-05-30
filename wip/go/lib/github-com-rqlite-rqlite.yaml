@@ -1,7 +1,0 @@
-description: The lightweight, distributed, relational database built on SQLite
-home_addr: https://github.com/rqlite/rqlite
-title: rqlite
-topics:
-- go
-- lib
-- db

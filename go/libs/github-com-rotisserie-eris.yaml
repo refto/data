@@ -1,0 +1,7 @@
+title: eris
+description: A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors
+home_addr: https://github.com/rotisserie/eris
+topics:
+- go
+- lib
+- error

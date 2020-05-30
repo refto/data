@@ -1,7 +1,0 @@
-description: Zero-allocation JSON logger
-home_addr: https://github.com/rs/zerolog
-title: zerolog
-topics:
-- go
-- lib
-- log

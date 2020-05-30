@@ -1,0 +1,8 @@
+title: vfsgen
+description: Package vfsgen takes an http.FileSystem (likely at go generate time) and generates Go code that statically implements the provided http.FileSystem
+home_addr: https://github.com/shurcooL/vfsgen
+topics:
+  - go
+  - lib
+  - fs
+  - embed
