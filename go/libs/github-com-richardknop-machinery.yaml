@@ -1,0 +1,8 @@
+title: machinery
+description: Machinery is an asynchronous task queue/job queue based on distributed message passing
+home_addr: https://github.com/RichardKnop/machinery
+topics:
+  - go
+  - lib
+  - scheduler
+  - queue

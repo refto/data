@@ -1,7 +1,0 @@
-description: Go readline-like library for command-line interfaces
-home_addr: https://github.com/peterh/liner
-title: liner
-topics:
-- go
-- lib
-- cli

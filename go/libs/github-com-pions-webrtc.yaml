@@ -1,0 +1,8 @@
+title: webrtc
+description: A pure Go implementation of the WebRTC API
+home_addr: https://github.com/pions/webrtc
+picture_addr: https://github.com/pion/webrtc/raw/master/.github/pion-gopher-webrtc.png
+topics:
+  - go
+  - lib
+  - webrtc

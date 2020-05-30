@@ -1,0 +1,7 @@
+title: tigertonic
+description: A Go framework for building JSON web services inspired by Dropwizard. If HTML is your game, this will hurt a little.
+home_addr: https://github.com/rcrowley/go-tigertonic
+topics:
+  - go
+  - web-framework
+  - json

@@ -1,0 +1,7 @@
+title: errors
+description: Package that provides simple error handling primitives
+home_addr: https://github.com/pkg/errors
+topics:
+- go
+- lib
+- error

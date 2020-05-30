@@ -1,0 +1,10 @@
+title: GoQuery
+description: goquery brings a syntax and a set of features similar to jQuery to the Go language. It is based on Go's net/html package and the CSS Selector library cascadia. Since the net/html parser returns nodes, and not a full-featured DOM tree, jQuery's stateful manipulation functions (like height(), css(), detach()) have been left off.
+
+home_addr: https://github.com/PuerkitoBio/goquery
+topics:
+  - go
+  - lib
+  - html
+  - jquery
+

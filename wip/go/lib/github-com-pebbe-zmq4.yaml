@@ -1,9 +1,0 @@
-description: Go interface to ZeroMQ version 4. Also available for [version 3](https://github.com/pebbe/zmq3)
-  and [version 2](https://github.com/pebbe/zmq2)
-home_addr: https://github.com/pebbe/zmq4
-title: zmq4
-topics:
-- go
-- lib
-- msg
-- messaging

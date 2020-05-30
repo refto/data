@@ -1,0 +1,7 @@
+title: andlabs/ui
+description: This is a library that aims to provide simple GUI software development in Go. It is based on my libui, a simple cross-platform library that does the same thing, but written in C
+home_addr: https://github.com/andlabs/ui
+topics:
+  - go
+  - lib
+  - gui

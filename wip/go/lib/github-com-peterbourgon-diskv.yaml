@@ -1,7 +1,0 @@
-description: Home-grown disk-backed key-value store
-home_addr: https://github.com/peterbourgon/diskv
-title: diskv
-topics:
-- go
-- lib
-- db

@@ -1,0 +1,9 @@
+title: gatt
+description: Gatt (Generic Attribute Profile) is the protocol used to write BLE peripherals (servers) and centrals (clients). As a peripheral, you can create services, characteristics, and descriptors, advertise, accept connections, and handle requests. As a central, you can scan, connect, discover services, and make requests.
+home_addr: https://github.com/paypal/gatt
+topics:
+  - go
+  - lib
+  - iot
+  - ble
+  - bluetooth

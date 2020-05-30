@@ -1,0 +1,7 @@
+title: Liner
+description: Liner is a command line editor with history. It was inspired by linenoise; everything Unix-like is a VT100 (or is trying very hard to be). If your terminal is not pretending to be a VT100, change it. Liner also support Windows
+home_addr: https://github.com/peterh/liner
+topics:
+  - go
+  - lib
+  - cli

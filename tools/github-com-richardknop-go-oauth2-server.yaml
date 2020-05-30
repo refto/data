@@ -1,0 +1,7 @@
+title: Go OAuth2 Server
+description: Standalone, specification-compliant,  OAuth2 server written in Go
+home_addr: https://github.com/RichardKnop/go-oauth2-server
+topics:
+  - oauth2
+  - server
+  - source:go
