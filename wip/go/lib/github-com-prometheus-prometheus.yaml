@@ -1,7 +1,0 @@
-description: Monitoring system and time series database
-home_addr: https://github.com/prometheus/prometheus
-title: prometheus
-topics:
-- go
-- lib
-- db

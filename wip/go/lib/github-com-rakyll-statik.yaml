@@ -1,7 +1,0 @@
-description: Embeds static files into a Go executable
-home_addr: https://github.com/rakyll/statik
-title: statik
-topics:
-- go
-- lib
-- file

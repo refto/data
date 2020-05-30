@@ -1,8 +1,0 @@
-description: In-memory key:value store/cache (similar to Memcached) library for Go,
-  suitable for single-machine applications
-home_addr: https://github.com/pmylund/go-cache
-title: go-cache
-topics:
-- go
-- lib
-- db

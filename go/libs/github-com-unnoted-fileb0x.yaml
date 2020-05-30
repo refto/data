@@ -4,5 +4,6 @@ home_addr: https://github.com/UnnoTed/fileb0x
 topics:
   - go
   - lib
+  - fs
   - file
   - embed
