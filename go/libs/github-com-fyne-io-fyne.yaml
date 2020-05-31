@@ -1,0 +1,8 @@
+title: Fyne
+description: >
+  The Fyne toolkit provides the easiest way to develop beautiful, lightweight and user friendly native applications for desktop, mobile and beyond. Driven by design and usability principles we are breaking free of the current desktop app drudgery to create a joyous experience.
+home_addr: https://github.com/fyne-io/fyne
+topics:
+  - go
+  - lib
+  - gui

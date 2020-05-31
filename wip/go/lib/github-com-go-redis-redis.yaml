@@ -1,8 +1,0 @@
-description: Redis client for Golang
-home_addr: https://github.com/go-redis/redis
-title: redis
-topics:
-- go
-- lib
-- db
-- driver

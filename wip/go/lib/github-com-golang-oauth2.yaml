@@ -1,8 +1,0 @@
-description: Successor of goauth2. Generic OAuth 2.0 package that comes with JWT,
-  Google APIs, Compute Engine and App Engine support
-home_addr: https://github.com/golang/oauth2
-title: oauth2
-topics:
-- go
-- lib
-- auth

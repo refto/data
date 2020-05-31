@@ -1,0 +1,8 @@
+title: Pixel
+description: Hand-crafted 2D game library in Go
+home_addr: https://github.com/faiface/pixel
+picture_addr: https://github.com/faiface/pixel/raw/master/logo/LOGOTYPE-HORIZONTAL-BLUE.png
+topics:
+- go
+- game-engine
+- 2d

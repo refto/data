@@ -1,0 +1,7 @@
+title: grpc-go
+description: The Go language implementation of gRPC. HTTP/2 based RPC
+home_addr: https://github.com/grpc/grpc-go
+topics:
+  - go
+  - lib
+  - grpc

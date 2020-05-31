@@ -1,7 +1,0 @@
-description: Protocol Buffers for Go with Gadgets
-home_addr: https://github.com/gogo/protobuf
-title: gogoprotobuf
-topics:
-- go
-- lib
-- serialization

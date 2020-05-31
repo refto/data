@@ -1,0 +1,7 @@
+title: go-pg
+description: PostgreSQL ORM with focus on PostgreSQL specific features and performance
+home_addr: https://github.com/go-pg/pg
+topics:
+  - go
+  - orm
+  - postgres

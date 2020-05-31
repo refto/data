@@ -1,0 +1,8 @@
+title: validator
+description: Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+home_addr: https://github.com/go-playground/validator
+picture_addr: https://raw.githubusercontent.com/go-playground/validator/v9/logo.png
+topics:
+  - go
+  - lib
+  - validation

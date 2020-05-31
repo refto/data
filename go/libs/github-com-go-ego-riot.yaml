@@ -1,0 +1,8 @@
+title: Riot
+description: Go Open Source, Distributed, Simple and efficient Search Engine
+home_addr: https://github.com/go-ego/riot
+picture_addr: https://github.com/go-ego/riot/raw/master/logo/512px.svg?sanitize=true
+topics:
+  - go
+  - lib
+  - search-engine

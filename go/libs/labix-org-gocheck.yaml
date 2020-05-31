@@ -5,4 +5,4 @@ home_addr: http://labix.org/gocheck
 topics:
 - go
 - lib
-- test
+- testing

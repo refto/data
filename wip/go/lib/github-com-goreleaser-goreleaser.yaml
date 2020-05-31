@@ -1,7 +1,0 @@
-description: Deliver Go binaries as fast and easily as possible
-home_addr: https://github.com/goreleaser/goreleaser
-title: goreleaser
-topics:
-- go
-- lib
-- util

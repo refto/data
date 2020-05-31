@@ -1,7 +1,0 @@
-description: An Express.js inspired web framework build on Fasthttp
-home_addr: https://github.com/gofiber/fiber
-title: Fiber
-topics:
-- go
-- lib
-- framework

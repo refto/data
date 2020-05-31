@@ -1,0 +1,8 @@
+title: resty
+description: Simple HTTP and REST client for Go inspired by Ruby rest-client
+home_addr: https://github.com/go-resty/resty
+topics:
+  - go
+  - lib
+  - http-client
+  - rest-client

@@ -1,7 +1,0 @@
-description: Powerful URL router and dispatcher for golang
-home_addr: https://github.com/gorilla/mux
-title: mux
-topics:
-- go
-- lib
-- router

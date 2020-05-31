@@ -1,0 +1,11 @@
+title: go-chat-bot
+description: IRC, Slack & Telegram bot written in Go
+home_addr: https://github.com/go-chat-bot/bot
+topics:
+  - go
+  - lib
+  - chat-bot
+  - irc
+  - slack
+  - telegram
+  - rocket-chat

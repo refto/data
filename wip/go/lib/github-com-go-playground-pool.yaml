@@ -1,8 +1,0 @@
-description: Limited consumer goroutine or unlimited goroutine pool for easier goroutine
-  handling and cancellation
-home_addr: https://github.com/go-playground/pool
-title: pool
-topics:
-- go
-- lib
-- goroutine

@@ -1,8 +1,0 @@
-description: Higher-level API for building SSH servers (wraps crypto/ssh)
-home_addr: https://github.com/gliderlabs/ssh
-title: ssh
-topics:
-- go
-- lib
-- net
-- network

@@ -1,0 +1,7 @@
+title: reform
+description: Better ORM for Go, based on non-empty interfaces and code generation
+home_addr: https://github.com/go-reform/reform
+picture_addr: https://github.com/go-reform/reform/raw/v1-stable/.github/reform.png
+topics:
+  - go
+  - orm

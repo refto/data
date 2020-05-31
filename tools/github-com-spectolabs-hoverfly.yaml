@@ -5,5 +5,5 @@ picture_addr: https://raw.githubusercontent.com/SpectoLabs/hoverfly/master/hover
 topics:
   - go
   - lib
-  - mock
+  - mocking
   - source:go

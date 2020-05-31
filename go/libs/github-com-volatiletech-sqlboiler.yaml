@@ -6,7 +6,6 @@ picture_addr: https://camo.githubusercontent.com/6b45c26869e06b9babe847f8c0bb1c2
 
 topics:
   - go
-  - lib
   - database
   - orm
   - postgres

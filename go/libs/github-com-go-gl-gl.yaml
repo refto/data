@@ -1,0 +1,7 @@
+title: gl
+description: Go bindings for OpenGL (generated via glow)
+home_addr: https://github.com/go-gl/gl
+topics:
+  - go
+  - bindings
+  - opengl

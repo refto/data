@@ -1,7 +1,0 @@
-description: kingshard is a high performance proxy for MySQL powered by Golang
-home_addr: https://github.com/flike/kingshard
-title: kingshard
-topics:
-- go
-- lib
-- db

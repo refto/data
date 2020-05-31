@@ -1,0 +1,8 @@
+title: uiprogress
+description: Flexible library to render progress bars in terminal applications
+home_addr: https://github.com/gosuri/uiprogress
+topics:
+  - go
+  - lib
+  - terminal
+  - ui

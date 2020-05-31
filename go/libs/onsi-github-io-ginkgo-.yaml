@@ -7,4 +7,4 @@ picture_addr: http://onsi.github.io/ginkgo/images/ginkgo.png
 topics:
 - go
 - lib
-- test
+- testing

@@ -1,0 +1,7 @@
+title: baloo
+description: Expressive and versatile end-to-end HTTP API testing made easy
+home_addr: https://github.com/h2non/baloo
+topics:
+  - go
+  - lib
+  - http-api-testing

@@ -1,0 +1,8 @@
+title: grafov/m3u8
+description: Parser and generator library of M3U8 playlists for Apple HLS
+home_addr: https://github.com/grafov/m3u8
+topics:
+  - go
+  - lib
+  - m3u8-playlist
+  - hls

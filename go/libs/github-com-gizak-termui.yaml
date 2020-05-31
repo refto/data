@@ -1,0 +1,9 @@
+title: termui
+description: termui is a cross-platform and fully-customizable terminal dashboard and widget library built on top of termbox-go.
+home_addr: https://github.com/gizak/termui
+topics:
+  - go
+  - lib
+  - terminal
+  - ui
+  - dashboard

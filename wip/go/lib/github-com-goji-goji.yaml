@@ -1,8 +1,0 @@
-description: Goji is a minimalistic and flexible HTTP request multiplexer with support
-  for "net/context"
-home_addr: https://github.com/goji/goji
-title: Goji
-topics:
-- go
-- lib
-- router

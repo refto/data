@@ -1,0 +1,9 @@
+title: Goa
+description: Goa is a framework for building micro-services and APIs in Go using a unique design-first approach
+home_addr: https://github.com/goadesign/goa
+picture_addr: https://camo.githubusercontent.com/12dcc7041a947ad24edff85c902d658d8bfaffe0/68747470733a2f2f676f612e64657369676e2f696d672f676f612d6c6f676f2e737667
+topics:
+  - go
+  - framework
+  - microservice
+  - generator

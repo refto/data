@@ -1,0 +1,7 @@
+description: Package for comparing Go values in tests
+home_addr: https://github.com/google/go-cmp
+title: go-cmp
+topics:
+  - go
+  - lib
+  - testing

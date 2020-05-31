@@ -1,0 +1,8 @@
+title: G3N
+description: G3N (pronounced "gen") is an OpenGL 3D Game Engine written in Go. It can be used to write cross-platform Go applications that show rich and dynamic 3D representations - not just games. A basic integrated GUI framework is provided, and 3D spatial audio is supported through OpenAL
+home_addr: http://g3n.rocks/
+picture_addr: https://github.com/g3n/g3nd/raw/master/data/images/g3n_logo.png
+topics:
+  - go
+  - game-engine
+  - 3d

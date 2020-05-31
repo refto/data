@@ -1,8 +1,0 @@
-description: MySQL driver for Go
-home_addr: https://github.com/go-sql-driver/mysql
-title: go-sql-driver/mysql
-topics:
-- go
-- lib
-- db
-- driver

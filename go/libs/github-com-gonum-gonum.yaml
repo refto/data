@@ -1,0 +1,8 @@
+description: Gonum is a set of packages designed to make writing numerical and scientific algorithms productive, performant, and scalable. Gonum contains libraries for matrices and linear algebra; statistics, probability distributions, and sampling; tools for function differentiation, integration, and optimization; network creation and analysis; and more.
+home_addr: https://www.gonum.org/
+picture_addr: https://www.gonum.org/img/gophernumerical.png
+title: gonum
+topics:
+  - go
+  - lib
+  - science

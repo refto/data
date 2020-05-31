@@ -1,7 +1,0 @@
-description: Win32 OLE implementation for golang
-home_addr: https://github.com/go-ole/go-ole
-title: go-ole
-topics:
-- go
-- lib
-- windows

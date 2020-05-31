@@ -1,0 +1,8 @@
+title: gorilla/mux
+description: Powerful URL router and dispatcher for golang
+home_addr: https://github.com/gorilla/mux
+picture_addr: https://github.com/gorilla/mux
+topics:
+  - go
+  - lib
+  - http-router

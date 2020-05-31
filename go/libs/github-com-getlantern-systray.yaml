@@ -1,0 +1,8 @@
+title: systray
+description: Cross platform Go library to place an icon and menu in the notification
+  area
+home_addr: https://github.com/getlantern/systray
+topics:
+  - go
+  - lib
+  - gui

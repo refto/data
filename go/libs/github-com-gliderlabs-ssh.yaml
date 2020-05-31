@@ -1,0 +1,7 @@
+title: gliderlabs/ssh
+description: Higher-level API for building SSH servers (wraps crypto/ssh)
+home_addr: https://github.com/gliderlabs/ssh
+topics:
+  - go
+  - lib
+  - ssh-server

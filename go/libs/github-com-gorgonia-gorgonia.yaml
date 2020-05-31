@@ -1,0 +1,8 @@
+title: Gorgonia
+description: Gorgonia is a library that helps facilitate machine learning in Go. Write and evaluate mathematical equations involving multidimensional arrays easily. If this sounds like Theano or TensorFlow, it's because the idea is quite similar. Specifically, the library is pretty low-level, like Theano, but has higher goals like Tensorflow
+home_addr: https://github.com/gorgonia/gorgonia
+picture_addr: https://raw.githubusercontent.com/gorgonia/gorgonia/master/media/Logo_horizontal_small.png
+topics:
+  - go
+  - lib
+  - machine-learning

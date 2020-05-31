@@ -1,8 +1,0 @@
-description: An enchanced http client with retry and hystrix capabilities
-home_addr: https://github.com/gojektech/heimdall
-title: heimdall
-topics:
-- go
-- lib
-- http
-- client

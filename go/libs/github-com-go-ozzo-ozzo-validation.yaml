@@ -1,0 +1,7 @@
+title: ozzo-validation
+description: An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags
+home_addr: https://github.com/go-ozzo/ozzo-validation
+topics:
+  - go
+  - lib
+  - validation

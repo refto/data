@@ -1,0 +1,8 @@
+title: gopacket
+description: Go library for packet processing with libpcap bindings
+home_addr: https://github.com/google/gopacket
+topics:
+  - go
+  - lib
+  - network
+  - packet-processing

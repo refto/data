@@ -1,0 +1,7 @@
+title: Fiber
+description: An Express.js inspired web framework build on Fasthttp
+home_addr: https://gofiber.io/
+picture_addr: https://github.com/gofiber/docs/raw/master/static/fiber_v2_logo.svg
+topics:
+  - go
+  - web-framework

@@ -1,0 +1,8 @@
+description: MySQL driver for Go
+home_addr: https://github.com/go-sql-driver/mysql
+picture_addr: https://camo.githubusercontent.com/8bbf4cd21943665bfff6b2f03676ce610eef79ec/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f676f2d73716c2d6472697665722f6d7973716c2f676f6d7973716c5f6d2e706e67
+title: go-sql-driver/mysql
+topics:
+  - go
+  - driver
+  - mysql

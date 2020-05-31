@@ -1,7 +1,0 @@
-description: Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib)
-home_addr: https://github.com/gizak/termui
-title: termui
-topics:
-- go
-- lib
-- ui

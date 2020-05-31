@@ -1,0 +1,9 @@
+title: Gin
+description: Gin is a web framework written in Go! It features a martini-like API
+  with much better performance, up to 40 times faster. If you need performance and
+  good productivity
+home_addr: https://gin-gonic.com/
+picture_addr: https://raw.githubusercontent.com/gin-gonic/logo/master/color.png
+topics:
+  - go
+  - web-framework

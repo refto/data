@@ -1,0 +1,9 @@
+title: Goblin
+description: Minimal and Beautiful Go testing framework
+home_addr: https://github.com/franela/goblin
+picture_addr: https://github.com/marcosnils/goblin/raw/master/goblin_logo.jpg
+topics:
+  - go
+  - lib
+  - testing
+  - framework

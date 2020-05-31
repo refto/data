@@ -1,8 +1,0 @@
-description: Redigo is a Go client for the Redis database
-home_addr: https://github.com/gomodule/redigo
-title: redigo
-topics:
-- go
-- lib
-- db
-- driver

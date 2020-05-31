@@ -1,7 +1,0 @@
-description: Graph database with support for multiple backends
-home_addr: https://github.com/google/cayley
-title: cayley
-topics:
-- go
-- lib
-- db

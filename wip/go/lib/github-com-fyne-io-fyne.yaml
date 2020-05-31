@@ -1,8 +1,0 @@
-description: 'Cross platform native GUIs designed for Go based on Material Design.
-  Supports: Linux, macOS, Windows, BSD, iOS and Android'
-home_addr: https://github.com/fyne-io/fyne
-title: fyne
-topics:
-- go
-- lib
-- gui

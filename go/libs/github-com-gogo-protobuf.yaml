@@ -1,0 +1,7 @@
+title: gogoprotobuf
+description: Protocol Buffers for Go with Gadgets
+home_addr: https://github.com/gogo/protobuf
+topics:
+  - go
+  - lib
+  - protobuf

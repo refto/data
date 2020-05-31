@@ -1,0 +1,7 @@
+title: gotk3
+description: Go bindings for GTK3
+home_addr: https://github.com/gotk3/gotk3
+topics:
+  - go
+  - bindings
+  - gtk3

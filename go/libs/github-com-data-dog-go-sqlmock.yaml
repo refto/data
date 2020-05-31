@@ -1,0 +1,8 @@
+title: go-sqlmock
+description: Mock SQL driver for testing database interactions
+home_addr: https://github.com/DATA-DOG/go-sqlmock
+topics:
+  - go
+  - lib
+  - mocking
+  - sql

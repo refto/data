@@ -1,0 +1,11 @@
+title: webhooks
+description: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs
+home_addr: https://github.com/go-playground/webhooks
+picture_addr: https://raw.githubusercontent.com/go-playground/webhooks/v5/logo.png
+topics:
+  - go
+  - lib
+  - webhook-handler
+  - bitbucket
+  - github
+  - gitlab

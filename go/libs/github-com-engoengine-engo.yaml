@@ -1,0 +1,8 @@
+title: Engo
+description: Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System
+  paradigm
+home_addr: https://github.com/EngoEngine/engo
+topics:
+  - go
+  - game-engine
+  - 2d

@@ -1,0 +1,8 @@
+title: chi
+description: Small, fast and expressive HTTP router built on net/context
+home_addr: https://github.com/go-chi/chi
+picture_addr: https://camo.githubusercontent.com/d8ace1a39ee6643dfc032645e353f1a143c0e5d2/68747470733a2f2f63646e2e7261776769742e636f6d2f676f2d6368692f6368692f6d61737465722f5f6578616d706c65732f6368692e737667
+topics:
+  - go
+  - lib
+  - http-router

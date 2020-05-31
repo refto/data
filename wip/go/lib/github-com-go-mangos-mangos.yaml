@@ -1,9 +1,0 @@
-description: Pure go implementation of the Nanomsg ("Scalable Protocols") with transport
-  interoperability
-home_addr: https://github.com/go-mangos/mangos
-title: mangos
-topics:
-- go
-- lib
-- msg
-- messaging

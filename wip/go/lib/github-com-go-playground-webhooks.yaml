@@ -1,7 +1,0 @@
-description: Webhook receiver for GitHub and Bitbucket
-home_addr: https://github.com/go-playground/webhooks
-title: webhooks
-topics:
-- go
-- lib
-- api

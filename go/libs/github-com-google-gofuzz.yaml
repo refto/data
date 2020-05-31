@@ -1,0 +1,7 @@
+title: gofuzz
+description: Library for populating go objects with random values
+home_addr: https://github.com/google/gofuzz
+topics:
+  - go
+  - lib
+  - fuzz-testing

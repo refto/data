@@ -1,0 +1,7 @@
+title: Macaron
+description: Macaron is a high productive and modular design web framework in Go
+home_addr: https://go-macaron.com/
+picture_addr: https://raw.githubusercontent.com/go-macaron/macaron/v1/macaronlogo.png
+topics:
+  - go
+  - web-framework

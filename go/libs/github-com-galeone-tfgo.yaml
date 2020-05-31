@@ -1,0 +1,8 @@
+title: tfgo
+description: >
+  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python
+home_addr: https://github.com/galeone/tfgo
+topics:
+  - go
+  - bindings
+  - tensorflow

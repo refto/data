@@ -1,0 +1,7 @@
+title: redis
+description: Type-safe Redis client for Golang
+home_addr: https://github.com/go-redis/redis
+topics:
+  - go
+  - client
+  - redis

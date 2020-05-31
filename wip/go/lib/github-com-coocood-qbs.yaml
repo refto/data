@@ -1,7 +1,0 @@
-description: Stands for Query By Struct. A Go ORM
-home_addr: https://github.com/coocood/qbs
-title: QBS
-topics:
-- go
-- lib
-- orm

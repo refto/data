@@ -1,0 +1,8 @@
+title: pt
+description: This is a CPU-only, unidirectional path tracing engine written in Go. It has lots of features and a simple API
+home_addr: https://github.com/fogleman/pt
+topics:
+  - go
+  - lib
+  - image
+  - path-tracing

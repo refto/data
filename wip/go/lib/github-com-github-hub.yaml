@@ -1,8 +1,0 @@
-description: wrap git commands with additional functionality to interact with github
-  from the terminal
-home_addr: https://github.com/github/hub
-title: hub
-topics:
-- go
-- lib
-- util

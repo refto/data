@@ -1,0 +1,6 @@
+title: gorp
+description: Go Relational Persistence, ORM-ish library for Go
+home_addr: https://github.com/go-gorp/gorp
+topics:
+  - go
+  - orm

@@ -1,0 +1,8 @@
+title: Heimdall
+description: Heimdall is an HTTP client that helps your application make a large number of requests, at scale
+home_addr: https://github.com/gojektech/heimdall
+picture_addr: https://github.com/gojek/heimdall/raw/master/doc/heimdall-logo.png
+topics:
+  - go
+  - client
+  - http

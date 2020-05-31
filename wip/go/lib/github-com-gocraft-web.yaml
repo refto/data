@@ -1,7 +1,0 @@
-description: Mux and middleware package in Go
-home_addr: https://github.com/gocraft/web
-title: gocraft/web
-topics:
-- go
-- lib
-- router

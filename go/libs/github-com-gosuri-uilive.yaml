@@ -1,0 +1,8 @@
+title: uilive
+description: Library for updating terminal output in realtime
+home_addr: https://github.com/gosuri/uilive
+topics:
+  - go
+  - lib
+  - terminal
+  - ui

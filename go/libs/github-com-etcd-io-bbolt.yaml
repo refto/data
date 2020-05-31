@@ -1,0 +1,9 @@
+title: bbolt
+description: An embedded key/value database for Go
+home_addr: https://github.com/etcd-io/bbolt
+topics:
+  - go
+  - lib
+  - database
+  - key-value
+  - embedded

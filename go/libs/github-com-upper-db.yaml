@@ -4,5 +4,4 @@ description: Single interface for interacting with different data sources throug
 home_addr: https://github.com/upper/db
 topics:
 - go
-- lib
 - orm

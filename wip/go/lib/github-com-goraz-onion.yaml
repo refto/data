@@ -1,8 +1,0 @@
-description: Layer based configuration for Go, Supports JSON, TOML, YAML, properties,
-  etcd, env, and encryption using PGP
-home_addr: http://github.com/goraz/onion
-title: onion
-topics:
-- go
-- lib
-- config

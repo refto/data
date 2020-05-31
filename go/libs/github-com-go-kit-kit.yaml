@@ -1,0 +1,9 @@
+title: go-kit
+description: Go kit is a programming toolkit for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture so you can focus on delivering business value
+home_addr: https://github.com/go-kit/kit
+picture_addr: https://gokit.io/gokit-logo-header.png
+topics:
+  - go
+  - lib
+  - microservices
+  - toolkit

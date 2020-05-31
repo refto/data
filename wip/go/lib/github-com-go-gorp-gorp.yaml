@@ -1,7 +1,0 @@
-description: Go Relational Persistence, ORM-ish library for Go
-home_addr: https://github.com/go-gorp/gorp
-title: gorp
-topics:
-- go
-- lib
-- orm

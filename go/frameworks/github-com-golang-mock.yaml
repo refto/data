@@ -1,0 +1,8 @@
+title: GoMock
+description: Mocking framework for the Go programming language
+home_addr: https://github.com/golang/mock
+topics:
+  - go
+  - lib
+  - mocking
+  - framework

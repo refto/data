@@ -1,7 +1,0 @@
-description: Library to improve readability in terminal apps using tabular data
-home_addr: https://github.com/gosuri/uitable
-title: uitable
-topics:
-- go
-- lib
-- ui

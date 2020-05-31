@@ -1,0 +1,8 @@
+title: S2 geometry
+description: S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries
+home_addr: https://github.com/golang/geo
+topics:
+  - go
+  - lib
+  - geo
+  - s2-geometry

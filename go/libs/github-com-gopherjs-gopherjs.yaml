@@ -1,0 +1,7 @@
+title: gopherjs
+description: Compiler from Go to JavaScript
+home_addr: https://github.com/gopherjs/gopherjs
+topics:
+  - go
+  - lib
+  - javascript

@@ -20,6 +20,6 @@ links:
 topics:
 - go
 - lib
-- test
+- testing
 - http
 - api

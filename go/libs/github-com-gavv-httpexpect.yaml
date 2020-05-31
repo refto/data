@@ -1,0 +1,7 @@
+title: httpexpect
+description: Concise, declarative, and easy to use end-to-end HTTP and REST API testing
+home_addr: https://github.com/gavv/httpexpect
+topics:
+  - go
+  - lib
+  - rest-api-testing

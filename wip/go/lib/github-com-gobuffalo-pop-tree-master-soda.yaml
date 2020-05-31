@@ -1,9 +1,0 @@
-description: Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and
-  SQLite
-home_addr: https://github.com/gobuffalo/pop/tree/master/soda
-title: soda
-topics:
-- go
-- lib
-- db
-- migration

@@ -1,7 +1,0 @@
-description: Better ORM for Go, based on non-empty interfaces and code generation
-home_addr: https://github.com/go-reform/reform
-title: reform
-topics:
-- go
-- lib
-- orm

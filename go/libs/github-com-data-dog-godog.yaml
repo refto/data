@@ -1,0 +1,8 @@
+title: Godog
+description: Cucumber or Behat like BDD framework for Go
+home_addr: https://github.com/DATA-DOG/godog
+picture_addr: https://github.com/cucumber/godog/raw/master/logo.png
+topics:
+  - go
+  - lib
+  - testing
