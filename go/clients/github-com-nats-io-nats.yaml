@@ -1,0 +1,9 @@
+title: NATS Go Client
+description: Lightweight and high performance publish-subscribe and distributed queueing
+  messaging system - this is the Go library
+home_addr: https://github.com/nats-io/nats
+picture_addr: https://nats.io/img/large-logo.png
+topics:
+  - go
+  - client
+  - nats

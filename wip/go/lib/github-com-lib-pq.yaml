@@ -1,8 +1,0 @@
-description: Pure Go Postgres driver for database/sql
-home_addr: https://github.com/lib/pq
-title: pq
-topics:
-- go
-- lib
-- db
-- driver

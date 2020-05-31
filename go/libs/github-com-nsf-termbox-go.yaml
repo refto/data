@@ -1,0 +1,7 @@
+title: Termbox
+description: Termbox is a library that provides a minimalistic API which allows the programmer to write text-based user interfaces. The library is crossplatform and has both terminal-based implementations on *nix operating systems and a winapi console based implementation for windows operating systems
+home_addr: https://github.com/nsf/termbox-go
+topics:
+  - go
+  - lib
+  - ui

@@ -1,0 +1,18 @@
+title: MinIO
+description: MinIO's high-performance, software-defined object storage suite
+  enables customers to build cloud-native data infrastructure for
+  machine learning, analytics and application data workloads.
+home_addr: https://github.com/minio/minio
+picture_addr: https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/minio/minio
+
+topics:
+  - storage
+  - object-storage
+  - amazon-s3
+  - minio
+  - source:go

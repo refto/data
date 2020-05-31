@@ -1,0 +1,9 @@
+title: accounting
+description: Money and currency formatting
+home_addr: https://github.com/leekchan/accounting
+topics:
+  - go
+  - lib
+  - money
+  - currency
+  - formatter

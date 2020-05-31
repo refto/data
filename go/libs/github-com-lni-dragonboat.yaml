@@ -1,0 +1,7 @@
+title: dragonboat
+description: A feature complete and high performance multi-group Raft library in Go
+home_addr: https://github.com/lni/dragonboat
+topics:
+  - go
+  - lib
+  - raft

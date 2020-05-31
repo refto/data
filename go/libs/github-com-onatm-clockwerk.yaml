@@ -1,0 +1,8 @@
+title: clockwerk
+description: Job Scheduling Library. clockwerk allows you to schedule periodic jobs using a simple, fluent syntax.
+home_addr: http://github.com/onatm/clockwerk
+topics:
+  - go
+  - lib
+  - scheduler
+  - cron

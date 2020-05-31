@@ -1,7 +1,0 @@
-description: Minio is a distributed object storage server
-home_addr: https://github.com/minio/minio
-title: minio
-topics:
-- go
-- lib
-- server

@@ -1,7 +1,0 @@
-description: Go integration for Coveralls.io continuous code coverage tracking system
-home_addr: https://github.com/mattn/goveralls
-title: goveralls
-topics:
-- go
-- lib
-- ci

@@ -1,8 +1,0 @@
-description: A Go "clone" of the great and famous Requests library
-home_addr: https://github.com/levigross/grequests
-title: grequests
-topics:
-- go
-- lib
-- http
-- client

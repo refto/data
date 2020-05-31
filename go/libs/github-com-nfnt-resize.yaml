@@ -1,0 +1,7 @@
+title: nfnt/resize
+description: Image resizing for Go with common interpolation methods
+home_addr: https://github.com/nfnt/resize
+topics:
+  - go
+  - lib
+  - image

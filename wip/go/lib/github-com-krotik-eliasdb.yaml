@@ -1,8 +1,0 @@
-description: Dependency-free, transactional graph database with REST API, phrase search
-  and SQL-like query language
-home_addr: https://github.com/krotik/eliasdb
-title: eliasdb
-topics:
-- go
-- lib
-- db

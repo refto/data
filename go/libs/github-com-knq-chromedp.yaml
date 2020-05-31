@@ -1,0 +1,9 @@
+title: chromedp
+description: A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+home_addr: https://github.com/knq/chromedp
+topics:
+  - go
+  - lib
+  - chrome
+  - testing
+  - chrome-devtools

@@ -1,7 +1,0 @@
-description: Parse RSS and Atom feeds in Go
-home_addr: https://github.com/mmcdole/gofeed
-title: gofeed
-topics:
-- go
-- lib
-- text

@@ -1,7 +1,0 @@
-description: Serve a RESTful API from any PostgreSQL database
-home_addr: https://github.com/nuveo/prest
-title: pREST
-topics:
-- go
-- lib
-- db

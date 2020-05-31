@@ -1,0 +1,7 @@
+title: llvm
+description: Library for interacting with LLVM IR in pure Go
+home_addr: https://github.com/llir/llvm
+topics:
+  - go
+  - lib
+  - llvm

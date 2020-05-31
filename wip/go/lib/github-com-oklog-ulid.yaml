@@ -1,8 +1,0 @@
-description: Go implementation of ULID (Universally Unique Lexicographically Sortable
-  Identifier)
-home_addr: https://github.com/oklog/ulid
-title: ulid
-topics:
-- go
-- lib
-- uuid

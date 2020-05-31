@@ -1,9 +1,0 @@
-description: Lightweight and high performance publish-subscribe and distributed queueing
-  messaging system - this is the Go library
-home_addr: https://github.com/nats-io/nats
-title: NATS Go Client
-topics:
-- go
-- lib
-- msg
-- messaging

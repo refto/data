@@ -1,0 +1,7 @@
+title: go-dsp
+description: Digital Signal Processing for Go
+home_addr: https://github.com/mjibson/go-dsp
+topics:
+  - go
+  - lib
+  - dsp

@@ -1,7 +1,0 @@
-description: Golang package that generates clean, responsive HTML e-mails
-home_addr: https://github.com/matcornic/hermes
-title: hermes
-topics:
-- go
-- lib
-- email

@@ -1,8 +1,0 @@
-description: Statistics package with common functions missing from the Golang standard
-  library
-home_addr: https://github.com/montanaflynn/stats
-title: stats
-topics:
-- go
-- lib
-- science

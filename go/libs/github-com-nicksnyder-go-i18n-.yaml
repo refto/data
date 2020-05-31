@@ -1,0 +1,8 @@
+title: go-i18n
+description: Package and an accompanying tool to work with localized text
+home_addr: https://github.com/nicksnyder/go-i18n/
+topics:
+  - go
+  - lib
+  - util
+  - i18n

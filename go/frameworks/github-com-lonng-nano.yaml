@@ -1,0 +1,7 @@
+title: Nano
+description: Nano is an easy to use, fast, lightweight game server networking library for Go. It provides a core network architecture and a series of tools and libraries that can help developers eliminate boring duplicate work for common underlying logic. The goal of nano is to improve development efficiency by eliminating the need to spend time on repetitious network related programming. Nano was designed for server-side applications like real-time games, social games, mobile games, etc of all sizes
+home_addr: https://github.com/lonng/nano
+topics:
+  - go
+  - game-server
+  - game-framework

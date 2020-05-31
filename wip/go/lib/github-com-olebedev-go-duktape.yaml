@@ -1,6 +1,0 @@
-description: Duktape JavaScript engine bindings for Go
-home_addr: https://github.com/olebedev/go-duktape
-title: go-duktape
-topics:
-- go
-- lib

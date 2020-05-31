@@ -1,0 +1,8 @@
+title: Squirrel
+description: Go library that helps you build SQL queries
+home_addr: https://github.com/Masterminds/squirrel
+topics:
+  - go
+  - lib
+  - sql
+  - generator

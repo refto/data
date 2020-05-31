@@ -1,0 +1,8 @@
+title: go-nsq
+description: The official Go package for NSQ
+home_addr: https://github.com/nsqio/go-nsq
+picture_addr: https://nsq.io/static/img/nsq.png
+topics:
+  - go
+  - client
+  - nsq

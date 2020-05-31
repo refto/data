@@ -1,7 +1,0 @@
-description: Add/parse Server-Timing header
-home_addr: https://github.com/mitchellh/go-server-timing
-title: go-server-timing
-topics:
-- go
-- lib
-- middleware

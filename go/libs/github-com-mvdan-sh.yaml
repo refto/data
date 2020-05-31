@@ -1,0 +1,10 @@
+title: mvdan/sh
+description: Shell parser and formatter
+home_addr: https://github.com/mvdan/sh
+topics:
+  - go
+  - lib
+  - shell
+  - bash
+  - parser
+  - formatter

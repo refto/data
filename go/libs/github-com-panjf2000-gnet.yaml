@@ -1,0 +1,9 @@
+title: gnet
+description: >
+  gnet is an event-driven networking framework that is fast and lightweight. It makes direct epoll and kqueue syscalls rather than using the standard Go net package and works in a similar manner as netty and libuv, which makes gnet achieve a much higher performance than Go net.
+home_addr: https://github.com/panjf2000/gnet
+topics:
+  - go
+  - lib
+  - network
+  - framework

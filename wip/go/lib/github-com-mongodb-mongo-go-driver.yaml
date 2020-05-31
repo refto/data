@@ -1,8 +1,0 @@
-description: Official MongoDB driver for the Go language
-home_addr: https://github.com/mongodb/mongo-go-driver
-title: mongo-go-driver
-topics:
-- go
-- lib
-- db
-- driver

@@ -1,8 +1,0 @@
-description: Embeds files into Go programs and provides http.FileSystem interfaces
-  to them
-home_addr: https://github.com/mjibson/esc
-title: esc
-topics:
-- go
-- lib
-- file

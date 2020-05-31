@@ -1,0 +1,7 @@
+title: mitchellh/cli
+description: Go library for implementing command-line interfaces
+home_addr: https://github.com/mitchellh/cli
+topics:
+  - go
+  - lib
+  - cli

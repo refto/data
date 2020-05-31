@@ -1,0 +1,8 @@
+title: Gizmo
+description: Microservice toolkit used by the New York Times
+home_addr: https://github.com/NYTimes/gizmo
+picture_addr: https://camo.githubusercontent.com/4fa1a38d148cc9caff71478709ea1c0d532b5f9f/687474703a2f2f6772617068696373382e6e7974696d65732e636f6d2f696d616765732f626c6f67732f6f70656e2f323031352f67697a6d6f2e706e67
+topics:
+  - go
+  - lib
+  - microservice

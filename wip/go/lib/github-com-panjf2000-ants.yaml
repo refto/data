@@ -1,7 +1,0 @@
-description: A high-performance and low-cost goroutine pool in Go
-home_addr: https://github.com/panjf2000/ants
-title: ants
-topics:
-- go
-- lib
-- goroutine

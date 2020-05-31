@@ -1,9 +1,0 @@
-description: Minimalist framework for dealing with websocket sessions, includes broadcasting
-  and automatic ping/pong handling
-home_addr: https://github.com/olahol/melody
-title: melody
-topics:
-- go
-- lib
-- msg
-- messaging

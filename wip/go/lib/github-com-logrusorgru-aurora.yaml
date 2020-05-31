@@ -1,7 +1,0 @@
-description: ANSI terminal colors that supports fmt.Printf/Sprintf
-home_addr: https://github.com/logrusorgru/aurora
-title: aurora
-topics:
-- go
-- lib
-- ui

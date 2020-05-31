@@ -1,0 +1,7 @@
+title: mkideal/cli
+description: Feature-rich and easy to use command-line package based on golang struct tags
+home_addr: https://github.com/mkideal/cli
+topics:
+- go
+- lib
+- cli

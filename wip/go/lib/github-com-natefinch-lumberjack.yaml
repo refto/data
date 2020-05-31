@@ -1,7 +1,0 @@
-description: Simple rolling logger, implements io.WriteCloser
-home_addr: https://github.com/natefinch/lumberjack
-title: lumberjack
-topics:
-- go
-- lib
-- log

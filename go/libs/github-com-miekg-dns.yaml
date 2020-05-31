@@ -1,0 +1,7 @@
+title: miekg/dns
+description: Go library for working with DNS
+home_addr: https://github.com/miekg/dns
+topics:
+  - go
+  - lib
+  - dns

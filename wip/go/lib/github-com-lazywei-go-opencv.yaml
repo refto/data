@@ -1,7 +1,0 @@
-description: Go bindings for OpenCV
-home_addr: https://github.com/lazywei/go-opencv
-title: go-opencv
-topics:
-- go
-- lib
-- image

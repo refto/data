@@ -1,7 +1,0 @@
-description: HTML Sanitizer
-home_addr: https://github.com/microcosm-cc/bluemonday
-title: bluemonday
-topics:
-- go
-- lib
-- text

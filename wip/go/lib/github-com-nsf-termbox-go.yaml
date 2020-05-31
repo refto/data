@@ -1,7 +1,0 @@
-description: Termbox is a library for creating cross-platform text-based interfaces
-home_addr: https://github.com/nsf/termbox-go
-title: termbox-go
-topics:
-- go
-- lib
-- ui

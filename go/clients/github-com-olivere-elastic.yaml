@@ -1,0 +1,7 @@
+title: Elastic
+description: Elasticsearch client for Go
+home_addr: https://github.com/olivere/elastic
+topics:
+  - go
+  - client
+  - elasticsearch

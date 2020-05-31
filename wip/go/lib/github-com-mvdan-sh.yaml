@@ -1,7 +1,0 @@
-description: Shell parser and formatter
-home_addr: https://github.com/mvdan/sh
-title: sh
-topics:
-- go
-- lib
-- text

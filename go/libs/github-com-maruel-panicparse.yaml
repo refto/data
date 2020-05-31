@@ -1,0 +1,7 @@
+title: panicparse
+description: Parses panic stack traces, densifies and deduplicates goroutines with similar stack traces. Helps debugging crashes and deadlocks in heavily parallelized process
+home_addr: https://github.com/maruel/panicparse
+topics:
+  - go
+  - lib
+  - debug

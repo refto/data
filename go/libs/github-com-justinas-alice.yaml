@@ -1,0 +1,7 @@
+title: alice
+description: Painless middleware chaining for Go
+home_addr: https://github.com/justinas/alice
+topics:
+  - go
+  - lib
+  - middleware

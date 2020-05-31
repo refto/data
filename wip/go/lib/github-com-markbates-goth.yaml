@@ -1,8 +1,0 @@
-description: provides a simple, clean, and idiomatic way to use OAuth and OAuth2.
-  Handles multiple providers out of the box
-home_addr: https://github.com/markbates/goth
-title: goth
-topics:
-- go
-- lib
-- auth

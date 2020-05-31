@@ -1,7 +1,0 @@
-description: Code generation for the Colfer binary format
-home_addr: https://github.com/pascaldekloe/colfer
-title: colfer
-topics:
-- go
-- lib
-- serialization

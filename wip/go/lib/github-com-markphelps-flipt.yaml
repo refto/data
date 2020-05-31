@@ -1,7 +1,0 @@
-description: A self contained feature flag solution written in Go and Vue
-home_addr: https://github.com/markphelps/flipt
-title: flipt
-topics:
-- go
-- lib
-- server

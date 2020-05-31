@@ -1,7 +1,0 @@
-description: Finds good crops for arbitrary images and crop sizes
-home_addr: https://github.com/muesli/smartcrop
-title: smartcrop
-topics:
-- go
-- lib
-- image

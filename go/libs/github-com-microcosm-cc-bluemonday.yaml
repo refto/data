@@ -1,0 +1,7 @@
+title: bluemonday
+description: bluemonday is a HTML sanitizer implemented in Go. It is fast and highly configurable. It takes untrusted user generated content as an input, and will return HTML that has been sanitised against a whitelist of approved HTML elements and attributes so that you can safely include the content in your web page.
+home_addr: https://github.com/microcosm-cc/bluemonday
+topics:
+  - go
+  - lib
+  - html-sanitizer

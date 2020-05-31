@@ -1,7 +1,0 @@
-description: Elasticsearch client library
-home_addr: https://github.com/mattbaird/elastigo
-title: elastigo
-topics:
-- go
-- lib
-- db

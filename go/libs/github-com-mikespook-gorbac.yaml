@@ -1,0 +1,8 @@
+title: gorbac
+description: provides a lightweight role-based access control (RBAC) implementation
+  in Golang
+home_addr: https://github.com/mikespook/gorbac
+topics:
+  - go
+  - lib
+  - rbac

@@ -1,8 +1,0 @@
-description: In-memory key:value cache which supports automatic invalidation based
-  on timeouts
-home_addr: https://github.com/muesli/cache2go
-title: cache2go
-topics:
-- go
-- lib
-- db

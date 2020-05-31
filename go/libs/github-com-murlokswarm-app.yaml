@@ -1,0 +1,11 @@
+title: murlokswarm/app
+description: >
+  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress
+home_addr: https://github.com/murlokswarm/app
+picture_addr: https://github.com/murlokswarm/app
+topics:
+  - go
+  - lib
+  - gui
+  - pwa
+  - webassembly

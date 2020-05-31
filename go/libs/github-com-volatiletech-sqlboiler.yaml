@@ -9,7 +9,7 @@ topics:
   - lib
   - database
   - orm
-  - postgresql
+  - postgres
   - mysql
   - mssql
   - cockroachdb

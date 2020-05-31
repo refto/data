@@ -3,6 +3,6 @@ description: Pgweb is a web-based database browser for PostgreSQL, written in Go
 home_addr: http://sosedoff.github.io/pgweb/
 topics:
   - go
-  - postgresql
+  - postgres
   - web-client
   - source:go

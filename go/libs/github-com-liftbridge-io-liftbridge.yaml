@@ -1,0 +1,10 @@
+title: liftbridge
+description: Liftbridge provides lightweight, fault-tolerant message streams by implementing a durable stream augmentation for the NATS messaging system. It extends NATS with a Kafka-like publish-subscribe log API that is highly available and horizontally scalable. The goal of Liftbridge is to provide a message-streaming solution with a focus on simplicity and usability. Use it as a simpler and lighter alternative to systems like Kafka and Pulsar or to add streaming semantics to an existing NATS deployment.
+
+home_addr: https://github.com/liftbridge-io/liftbridge
+picture_addr: https://github.com/liftbridge-io/liftbridge/raw/master/website/static/img/liftbridge_full.png
+
+topics:
+  - go
+  - lib
+  - nats

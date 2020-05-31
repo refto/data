@@ -1,0 +1,8 @@
+title: montanaflynn/stats
+description: Statistics package with common functions missing from the Golang standard
+  library
+home_addr: https://github.com/montanaflynn/stats
+topics:
+  - go
+  - lib
+  - statistics

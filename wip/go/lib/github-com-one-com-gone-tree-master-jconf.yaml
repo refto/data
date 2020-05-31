@@ -1,9 +1,0 @@
-description: Modular JSON configuration. Keep you config structs along with the code
-  they configure and delegate parsing to submodules without sacrificing full config
-  serialization
-home_addr: https://github.com/One-com/gone/tree/master/jconf
-title: gone/jconf
-topics:
-- go
-- lib
-- config
