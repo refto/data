@@ -1,7 +1,0 @@
-description: Logging functionality with flexible dispatching, filtering, and formatting
-home_addr: https://github.com/cihub/seelog
-title: seelog
-topics:
-- go
-- lib
-- log

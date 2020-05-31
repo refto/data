@@ -1,0 +1,8 @@
+title: docopt.go
+description: Command-line arguments parser that will make you smile
+home_addr: https://github.com/docopt/docopt.go
+topics:
+  - go
+  - lib
+  - cli
+  - flag

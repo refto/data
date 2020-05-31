@@ -1,8 +1,0 @@
-description: Pure golang implementation that provides most features in GNU-Readline
-  under MIT license
-home_addr: https://github.com/chzyer/readline
-title: readline
-topics:
-- go
-- lib
-- cli

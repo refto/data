@@ -1,0 +1,7 @@
+title: go-elasticsearch
+description: Official Elasticsearch client for Go
+home_addr: https://github.com/elastic/go-elasticsearch
+topics:
+  - go
+  - client
+  - elasticsearch

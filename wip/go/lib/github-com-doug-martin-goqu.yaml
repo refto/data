@@ -1,8 +1,0 @@
-description: Idiomatic SQL builder and query library
-home_addr: https://github.com/doug-martin/goqu
-title: goqu
-topics:
-- go
-- lib
-- db
-- sql

@@ -1,7 +1,0 @@
-description: Scalable, Distributed, Low Latency, High Throughput Graph Database
-home_addr: https://github.com/dgraph-io/dgraph
-title: dgraph
-topics:
-- go
-- lib
-- db

@@ -1,6 +1,0 @@
-description: Randomized testing system
-home_addr: https://github.com/dvyukov/go-fuzz
-title: go-fuzz
-topics:
-- go
-- lib

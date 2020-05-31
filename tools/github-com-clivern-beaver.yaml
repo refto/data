@@ -1,0 +1,8 @@
+title: Beaver
+description: Beaver is a real-time messaging server. With beaver you can easily build scalable in-app notifications, realtime graphs, multiplayer games, chat applications, geotracking and more in web applications and mobile apps.
+home_addr: https://github.com/Clivern/Beaver
+picture_addr: https://raw.githubusercontent.com/clivern/Beaver/master/assets/img/gopher.png
+topics:
+  - pubsub-server
+  - socket.io
+  - source:go

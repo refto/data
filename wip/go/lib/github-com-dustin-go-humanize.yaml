@@ -1,7 +1,0 @@
-description: Formatters for time, numbers, and memory size to human readable format
-home_addr: https://github.com/dustin/go-humanize
-title: go-humanize
-topics:
-- go
-- lib
-- text

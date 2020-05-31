@@ -1,0 +1,7 @@
+title: gendry
+description: Non-invasive SQL builder and powerful data binder
+home_addr: https://github.com/didi/gendry
+topics:
+  - go
+  - lib
+  - sql-builder

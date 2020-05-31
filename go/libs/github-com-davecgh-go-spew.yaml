@@ -1,0 +1,7 @@
+title: Go-spew
+description: Go-spew implements a deep pretty printer for Go data structures to aid in debugging
+home_addr: https://github.com/davecgh/go-spew
+topics:
+  - go
+  - lib
+  - debug

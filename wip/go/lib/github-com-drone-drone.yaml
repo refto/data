@@ -1,8 +1,0 @@
-description: Drone is a Continuous Integration platform built on Docker, written in
-  Go
-home_addr: https://github.com/drone/drone
-title: drone
-topics:
-- go
-- lib
-- ci

@@ -1,6 +1,0 @@
-description: Thread-Safe and Non-Thread-Safe high-performance sets for Go
-home_addr: https://github.com/deckarep/golang-set
-title: golang-set
-topics:
-- go
-- lib

@@ -1,0 +1,8 @@
+title: gorethink
+description: Go language driver for RethinkDB
+home_addr: https://github.com/dancannon/gorethink
+picture_addr: https://camo.githubusercontent.com/95930b01baefa295422819f587f335bdf324bf94/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f72657468696e6b64622f72657468696e6b64622d676f2f676f706865722d616e642d7468696e6b65722d732e706e67
+topics:
+  - go
+  - driver
+  - rethinkdb

@@ -1,8 +1,0 @@
-description: Go language driver for RethinkDB
-home_addr: https://github.com/dancannon/gorethink
-title: gorethink
-topics:
-- go
-- lib
-- db
-- driver

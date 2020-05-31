@@ -1,0 +1,9 @@
+description: Bytecode compiled script language for Go
+home_addr: https://tengolang.com/
+picture_addr: https://raw.githubusercontent.com/d5/tengolang-share/master/logo_400.png
+title: Tengo
+topics:
+  - go
+  - script
+  - programming-language
+  - embedded-language

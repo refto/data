@@ -1,0 +1,9 @@
+title: BadgerDB
+description: BadgerDB is an embeddable, persistent and fast key-value (KV) database written in pure Go
+home_addr: https://github.com/dgraph-io/badger
+picture_addr: https://github.com/dgraph-io/badger/raw/master/images/diggy-shadow.png
+topics:
+  - go
+  - database
+  - key-value
+  - embedded

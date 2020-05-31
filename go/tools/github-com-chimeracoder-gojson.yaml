@@ -1,0 +1,9 @@
+title: gojson
+description: Automatically generate Go struct definitions from example JSON
+home_addr: https://github.com/ChimeraCoder/gojson
+topics:
+  - tool
+  - json
+  - codegen
+  - go
+

@@ -1,0 +1,8 @@
+title: Gosl
+description: The library tries to be as general and as easy as possible. Gosl considers the use of both Go concurrency routines and parallel computing using the message passing interface (MPI). Gosl has several modules (sub-packages) for a variety of tasks in scientific computing, image analysis, and data post-processing.
+home_addr: https://github.com/cpmech/gosl
+topics:
+  - go
+  - lib
+  - artificial-intelligence
+  - scientific-computations

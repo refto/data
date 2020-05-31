@@ -1,7 +1,0 @@
-description: IMAP library for clients and servers
-home_addr: https://github.com/emersion/go-imap
-title: go-imap
-topics:
-- go
-- lib
-- email

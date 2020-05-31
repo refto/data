@@ -1,8 +1,0 @@
-description: Fast and scalable distributed map/reduce system written in pure Go and
-  Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone
-  or distributed
-home_addr: https://github.com/chrislusf/gleam
-title: gleam
-topics:
-- go
-- lib

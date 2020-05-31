@@ -1,0 +1,9 @@
+title: Trickster
+description: Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+home_addr: https://github.com/Comcast/trickster
+picture_addr: https://github.com/tricksterproxy/trickster/raw/master/docs/images/logos/trickster-logo.svg
+topics:
+  - reverse-proxy-cache
+  - time-series
+  - dashboard-accelerator
+  - source:go

@@ -1,9 +1,0 @@
-description: Server and library to dispatch server-sent updates using the Mercure
-  protocol (built on top of Server-Sent Events)
-home_addr: https://github.com/dunglas/mercure
-title: Mercure
-topics:
-- go
-- lib
-- msg
-- messaging

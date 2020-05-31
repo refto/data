@@ -1,7 +1,0 @@
-description: Scalable, Geo-Replicated, Transactional Datastore
-home_addr: https://github.com/cockroachdb/cockroach
-title: cockroach
-topics:
-- go
-- lib
-- db

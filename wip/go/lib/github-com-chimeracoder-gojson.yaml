@@ -1,7 +1,0 @@
-description: Automatically generate Go (golang) struct definitions from example JSON
-home_addr: https://github.com/ChimeraCoder/gojson
-title: gojson
-topics:
-- go
-- lib
-- json

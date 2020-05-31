@@ -1,0 +1,8 @@
+title: gosx-notifier
+description: OSX Desktop Notifications library for Go
+home_addr: https://github.com/deckarep/gosx-notifier
+topics:
+  - go
+  - lib
+  - desktop-notification
+  - osx

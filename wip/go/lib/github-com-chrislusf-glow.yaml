@@ -1,7 +1,0 @@
-description: Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG
-  execution, all in pure Go
-home_addr: https://github.com/chrislusf/glow
-title: glow
-topics:
-- go
-- lib

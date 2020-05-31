@@ -1,7 +1,0 @@
-description: HTTP reverse proxy cache and time series accelerator
-home_addr: https://github.com/Comcast/trickster
-title: Trickster
-topics:
-- go
-- lib
-- server

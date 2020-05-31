@@ -1,0 +1,9 @@
+title: gologin
+description: Package gologin provides chainable login http.Handler's for Google, Github, Twitter, Facebook, Bitbucket, Tumblr, or any OAuth1 or OAuth2 authentication providers.
+home_addr: https://github.com/dghubble/gologin
+topics:
+  - go
+  - lib
+  - http-handler
+  - auth
+  - oauth

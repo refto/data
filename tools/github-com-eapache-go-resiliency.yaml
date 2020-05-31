@@ -1,0 +1,7 @@
+title: go-resiliency
+description: Resiliency patterns for golang
+home_addr: https://github.com/eapache/go-resiliency
+topics:
+  - go
+  - lib
+  - resiliency-patterns

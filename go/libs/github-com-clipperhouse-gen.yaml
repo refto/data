@@ -1,0 +1,8 @@
+title: gen
+description: gen is a code-generation tool for Go. It’s intended to offer generics-like functionality on your types. Out of the box, it offers offers LINQ/underscore-inspired methods.
+home_addr: https://github.com/clipperhouse/gen
+topics:
+  - go
+  - lib
+  - codegen
+  - generics

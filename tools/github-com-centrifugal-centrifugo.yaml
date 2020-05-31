@@ -1,0 +1,8 @@
+title: Centrifugo
+description: Centrifugo is a scalable real-time messaging server in language-agnostic way. Centrifugo works in conjunction with application backend written in any programming language.
+home_addr: https://github.com/centrifugal/centrifugo
+topics:
+  - pubsub-server
+  - websocket
+  - sockjs
+  - source:go
