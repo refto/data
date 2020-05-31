@@ -1,9 +1,8 @@
+title: Asynq
 description: A simple, reliable, and efficient distributed task queue for Go built
   on top of Redis
 home_addr: https://github.com/hibiken/asynq
-title: Asynq
 topics:
-- go
-- lib
-- msg
-- messaging
+  - go
+  - lib
+  - task-queue

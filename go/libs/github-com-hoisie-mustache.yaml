@@ -1,6 +1,6 @@
+title: mustache
 description: Go implementation of the Mustache template language
 home_addr: https://github.com/hoisie/mustache
-title: mustache
 topics:
 - go
 - lib

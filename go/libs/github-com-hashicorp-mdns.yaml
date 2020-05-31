@@ -1,8 +1,8 @@
+title: mdns
 description: Simple mDNS (Multicast DNS) client/server library in Golang
 home_addr: https://github.com/hashicorp/mdns
-title: mdns
 topics:
-- go
-- lib
-- net
-- network
+  - go
+  - lib
+  - dns
+  - mdns

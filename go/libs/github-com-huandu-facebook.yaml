@@ -1,7 +1,7 @@
+title: huandu/facebook
 description: Go Library that supports the Facebook Graph API
 home_addr: https://github.com/huandu/facebook
-title: facebook
 topics:
-- go
-- lib
-- api
+  - go
+  - lib
+  - facebook-graph-api

@@ -1,7 +1,7 @@
+title: go-multierror
 description: Go (golang) package for representing a list of errors as a single error
 home_addr: https://github.com/hashicorp/go-multierror
-title: go-multierror
 topics:
-- go
-- lib
-- error
+  - go
+  - lib
+  - error

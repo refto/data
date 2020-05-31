@@ -1,7 +1,0 @@
-description: dead simple 2D game library in Go
-home_addr: https://github.com/hajimehoshi/ebiten
-title: Ebiten
-topics:
-- go
-- lib
-- game

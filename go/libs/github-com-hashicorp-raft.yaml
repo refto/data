@@ -2,5 +2,6 @@ description: Golang implementation of the Raft consensus protocol, by HashiCorp
 home_addr: https://github.com/hashicorp/raft
 title: raft
 topics:
-- go
-- lib
+  - go
+  - lib
+  - raft

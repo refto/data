@@ -1,7 +1,0 @@
-description: Parallel and Pipelined HTTP GET Utility
-home_addr: https://github.com/htcat/htcat
-title: htcat
-topics:
-- go
-- lib
-- util

@@ -1,0 +1,12 @@
+title: Casbin
+description: Authorization library that supports access control models like ACL, RBAC,
+  ABAC
+home_addr: https://github.com/casbin/casbin
+picture_addr: https://github.com/casbin/casbin/raw/master/casbin-logo.png
+topics:
+  - go
+  - lib
+  - auth
+  - rbac
+  - abac
+  - acl

@@ -1,9 +1,8 @@
+title: go-getter
 description: Go library for downloading files or directories from various sources
   using a URL
 home_addr: https://github.com/hashicorp/go-getter
-title: go-getter
 topics:
-- go
-- lib
-- net
-- network
+  - go
+  - lib
+  - downloader

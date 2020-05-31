@@ -1,0 +1,8 @@
+title: Hprose
+description: Hprose is a cross-language RPC. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. You just need a little time to learn, then you can use it to easily construct cross language cross platform distributed application system.
+home_addr: https://github.com/hprose/hprose-golang
+picture_addr: https://camo.githubusercontent.com/e60e6518600f6304c207aaa0b969f47b3631edad/687474703a2f2f6870726f73652e636f6d2f62616e6e65722e4032782e706e67
+topics:
+  - go
+  - lib
+  - rpc

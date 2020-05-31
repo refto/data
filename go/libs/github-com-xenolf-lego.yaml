@@ -6,5 +6,5 @@ topics:
   - lib
   - tls
   - certificate
-  - letsencrypt
+  - lets-encrypt
 

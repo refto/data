@@ -1,7 +1,8 @@
+title: tail
 description: Go package striving to emulate the features of the BSD tail program
 home_addr: https://github.com/hpcloud/tail
-title: tail
 topics:
-- go
-- lib
-- log
+  - go
+  - lib
+  - util
+  - log
