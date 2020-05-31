@@ -1,7 +1,0 @@
-description: High-performance 100% compatible drop-in replacement of "encoding/json"
-home_addr: https://github.com/json-iterator/go
-title: jsoniter
-topics:
-- go
-- lib
-- serialization

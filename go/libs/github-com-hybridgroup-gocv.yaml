@@ -1,0 +1,8 @@
+title: GoCV
+description: Go package for computer vision using OpenCV 3.3+
+home_addr: https://github.com/hybridgroup/gocv
+picture_addr: https://raw.githubusercontent.com/hybridgroup/gocv/master/images/gocvlogo.jpg
+topics:
+  - go
+  - lib
+  - opencv

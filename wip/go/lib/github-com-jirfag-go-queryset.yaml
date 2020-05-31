@@ -1,8 +1,0 @@
-description: 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3,
-  SQL Server support based on GORM
-home_addr: https://github.com/jirfag/go-queryset
-title: go-queryset
-topics:
-- go
-- lib
-- orm

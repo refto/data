@@ -1,0 +1,9 @@
+title: Tunny
+description: Goroutine pool for golang
+home_addr: https://github.com/Jeffail/tunny
+picture_addr: https://github.com/Jeffail/tunny/raw/master/tunny_logo.png
+topics:
+  - go
+  - lib
+  - goroutine
+  - pool

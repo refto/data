@@ -1,0 +1,7 @@
+description: Package ftp implements a FTP client as described in RFC 959
+home_addr: https://github.com/jlaffaye/ftp
+title: jlaffaye/ftp
+topics:
+  - go
+  - client
+  - ftp

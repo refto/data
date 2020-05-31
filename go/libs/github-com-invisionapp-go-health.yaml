@@ -1,0 +1,9 @@
+title: go-health
+description: A library that enables async dependency health checking for services running on an orchestrated container platform such as kubernetes or mesos.
+home_addr: https://github.com/InVisionApp/go-health
+picture_addr: https://github.com/InVisionApp/go-health/raw/master/images/go-health.svg
+topics:
+  - go
+  - lib
+  - microservice
+  - health-check

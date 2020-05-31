@@ -1,6 +1,0 @@
-description: Library for enabling asynchronous dependency health checks in your service
-home_addr: https://github.com/InVisionApp/go-health
-title: go-health
-topics:
-- go
-- lib

@@ -1,7 +1,0 @@
-description: \*nix cross-platform (OS agnostic) supervisor
-home_addr: https://github.com/immortal/immortal
-title: immortal
-topics:
-- go
-- lib
-- util

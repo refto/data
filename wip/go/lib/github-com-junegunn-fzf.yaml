@@ -1,7 +1,0 @@
-description: Command-line fuzzy finder written in Go
-home_addr: https://github.com/junegunn/fzf
-title: fzf
-topics:
-- go
-- lib
-- util

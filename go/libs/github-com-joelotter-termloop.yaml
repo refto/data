@@ -1,0 +1,7 @@
+title: termloop
+description: Terminal-based game engine for Go, built on top of Termbox
+home_addr: https://github.com/JoelOtter/termloop
+topics:
+  - go
+  - game-engine
+  - terminal

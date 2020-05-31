@@ -1,0 +1,10 @@
+title: Gobot
+description: Gobot is a framework for robotics, physical computing, and the Internet
+  of Things
+home_addr: https://gobot.io/
+picture_addr: https://raw.githubusercontent.com/hybridgroup/gobot-site/master/source/images/elements/gobot-logo-small.png
+topics:
+  - go
+  - lib
+  - iot
+  - framework

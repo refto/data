@@ -1,0 +1,6 @@
+title: GORM
+description: The fantastic ORM library for Golang, aims to be developer friendly
+home_addr: https://github.com/jinzhu/gorm
+topics:
+  - go
+  - orm

@@ -1,0 +1,8 @@
+title: godotenv
+description: Go port of Ruby's dotenv library (Loads environment variables from ".env")
+home_addr: https://github.com/joho/godotenv
+topics:
+  - go
+  - lib
+  - config
+  - env-config

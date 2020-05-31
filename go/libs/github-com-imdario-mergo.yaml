@@ -1,0 +1,8 @@
+title: Mergo
+description: Helper to merge structs and maps in Golang. Useful for configuration
+  default values, avoiding messy if-statements
+home_addr: https://github.com/imdario/mergo
+topics:
+  - go
+  - lib
+  - util

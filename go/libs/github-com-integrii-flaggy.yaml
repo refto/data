@@ -1,0 +1,8 @@
+title: flaggy
+description: A robust and idiomatic flags package with excellent subcommand support
+home_addr: https://github.com/integrii/flaggy
+topics:
+  - go
+  - lib
+  - cli
+  - flag

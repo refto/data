@@ -1,0 +1,8 @@
+title: httpmock
+description: Easy mocking of HTTP responses from external resources
+home_addr: https://github.com/jarcoal/httpmock
+topics:
+  - go
+  - lib
+  - http
+  - mock

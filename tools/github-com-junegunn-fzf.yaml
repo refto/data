@@ -1,0 +1,10 @@
+title: fzf
+description: Command-line fuzzy finder written in Go
+home_addr: https://github.com/junegunn/fzf
+picture_addr: https://raw.githubusercontent.com/junegunn/i/master/fzf.png
+topics:
+  - go
+  - lib
+  - cli
+  - finder
+  - source:go

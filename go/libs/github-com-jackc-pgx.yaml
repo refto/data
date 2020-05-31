@@ -1,0 +1,7 @@
+title: pgx
+description: PostgreSQL driver supporting features beyond those exposed by database/sql
+home_addr: https://github.com/jackc/pgx
+topics:
+  - go
+  - driver
+  - postgres

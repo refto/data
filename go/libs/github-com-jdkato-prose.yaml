@@ -1,0 +1,7 @@
+title: prose
+description: prose is a natural language processing library (English only) in pure Go. It supports tokenization, segmentation, part-of-speech tagging, and named-entity extraction.
+home_addr: https://github.com/jdkato/prose
+topics:
+  - go
+  - lib
+  - language-processing

@@ -1,0 +1,8 @@
+title: go-http-routing-benchmark
+description: Go HTTP request router benchmark and comparison
+home_addr: https://github.com/julienschmidt/go-http-routing-benchmark
+topics:
+  - go
+  - lib
+  - http-router
+  - benchmark

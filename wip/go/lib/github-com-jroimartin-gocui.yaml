@@ -1,7 +1,0 @@
-description: Minimalist Go library aimed at creating Console User Interfaces
-home_addr: https://github.com/jroimartin/gocui
-title: gocui
-topics:
-- go
-- lib
-- ui

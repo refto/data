@@ -1,0 +1,7 @@
+title: bayesian
+description: Naive Bayesian Classification for Golang
+home_addr: https://github.com/jbrukh/bayesian
+topics:
+  - go
+  - lib
+  - machine-learning

@@ -1,8 +1,0 @@
-description: Library for text processing that supports tokenization, part-of-speech
-  tagging, named-entity extraction, and more. English only
-home_addr: https://github.com/jdkato/prose
-title: prose
-topics:
-- go
-- lib
-- lang

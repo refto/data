@@ -1,0 +1,9 @@
+title: NFF-Go
+description: Framework for rapid development of performant network functions for cloud
+  and bare-metal (former YANFF)
+home_addr: https://github.com/intel-go/nff-go
+topics:
+  - go
+  - lib
+  - network-function
+  - framework

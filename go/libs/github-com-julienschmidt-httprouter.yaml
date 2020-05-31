@@ -1,0 +1,8 @@
+title: httprouter
+description: High performance router. Use this and the standard http handlers to form
+  a very high performance web framework
+home_addr: https://github.com/julienschmidt/httprouter
+topics:
+  - go
+  - lib
+  - http-router
