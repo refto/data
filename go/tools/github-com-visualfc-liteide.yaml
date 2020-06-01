@@ -1,0 +1,7 @@
+title: LiteIDE
+description: LiteIDE is a simple, open source, cross-platform Go IDE
+home_addr: https://github.com/visualfc/liteide
+picture_addr: https://github.com/visualfc/liteide/raw/master/liteidex/liteide-logo/liteide.png
+topics:
+  - go
+  - ide

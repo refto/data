@@ -1,8 +1,8 @@
 description: A Parser for PHP written in Go
 home_addr: https://github.com/z7zmey/php-parser
+picture_addr: https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png
 title: php-parser
 topics:
-- go
-- tool
-- lint
-- analysis
+  - go
+  - php
+  - parser

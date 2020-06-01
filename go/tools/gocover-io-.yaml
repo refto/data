@@ -1,8 +1,8 @@
+title: GoCover.io
 description: GoCover.io offers the code coverage of any golang package as a service
 home_addr: http://gocover.io/
-title: GoCover.io
+picture_addr: https://gocover.io/logo.png
 topics:
-- go
-- tool
-- lint
-- analysis
+  - go
+  - code-coverage
+  - service

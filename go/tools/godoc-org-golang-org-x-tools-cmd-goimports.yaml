@@ -1,8 +1,7 @@
+title: goimports
 description: Tool to fix (add, remove) your Go imports automatically
 home_addr: https://godoc.org/golang.org/x/tools/cmd/goimports
-title: goimports
 topics:
-- go
-- tool
-- lint
-- analysis
+  - go
+  - tool
+  - lint
