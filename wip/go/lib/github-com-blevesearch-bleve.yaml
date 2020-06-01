@@ -1,7 +1,0 @@
-description: Modern text indexing library for go
-home_addr: https://github.com/blevesearch/bleve
-title: bleve
-topics:
-- go
-- lib
-- db

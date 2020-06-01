@@ -1,0 +1,8 @@
+title: Storm
+description: Storm is a simple and powerful toolkit for BoltDB. Basically, Storm provides indexes, a wide range of methods to store and fetch data, an advanced query system, and much more.
+home_addr: https://github.com/asdine/storm
+topics:
+  - go
+  - lib
+  - util
+  - boltdb

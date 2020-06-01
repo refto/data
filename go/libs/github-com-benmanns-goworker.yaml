@@ -1,0 +1,7 @@
+title: goworker
+description: goworker is a Go-based background worker
+home_addr: https://github.com/benmanns/goworker
+topics:
+  - go
+  - lib
+  - task-runner

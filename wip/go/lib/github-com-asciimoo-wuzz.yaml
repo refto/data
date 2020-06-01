@@ -1,7 +1,0 @@
-description: Interactive cli tool for HTTP inspection
-home_addr: https://github.com/asciimoo/wuzz
-title: wuzz
-topics:
-- go
-- lib
-- util

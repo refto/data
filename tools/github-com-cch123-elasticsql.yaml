@@ -1,0 +1,9 @@
+title: elasticsql
+description: Convert sql to elasticsearch dsl in Go
+home_addr: https://github.com/cch123/elasticsql
+topics:
+  - go
+  - lib
+  - converter
+  - elasticsearch
+  - sql

@@ -1,0 +1,8 @@
+title: spinner
+description: Go package to easily provide a terminal spinner with options
+home_addr: https://github.com/briandowns/spinner
+topics:
+  - go
+  - lib
+  - terminal
+  - spinner

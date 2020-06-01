@@ -1,0 +1,9 @@
+title: dateparse
+description: Parse many date strings without knowing format in advance. Uses a scanner to read bytes and use a state machine to find format. Much faster than shotgun based parse methods.
+home_addr: https://github.com/araddon/dateparse
+topics:
+  - go
+  - lib
+  - date
+  - time
+  - parser

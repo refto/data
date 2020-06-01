@@ -1,8 +1,0 @@
-description: memcache client library for the Go programming language
-home_addr: https://github.com/bradfitz/gomemcache/
-title: gomemcache
-topics:
-- go
-- lib
-- db
-- driver

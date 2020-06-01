@@ -1,0 +1,9 @@
+title: JobRunner
+description: JobRunner is framework for performing work asynchronously, outside of the request flow. It comes with cron to schedule and queue job functions for processing at specified time. It includes a live monitoring of current schedule and state of active jobs that can be outputed as JSON or Html template.
+home_addr: https://github.com/bamzi/jobrunner
+picture_addr: https://raw.githubusercontent.com/bamzi/jobrunner/master/views/runclock.jpg
+topics:
+  - go
+  - lib
+  - cron
+  - scheduler

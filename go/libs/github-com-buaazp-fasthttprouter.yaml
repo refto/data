@@ -1,0 +1,8 @@
+title: fasthttprouter
+description: High performance router forked from "httprouter". The first router fit
+  for "fasthttp"
+home_addr: https://github.com/buaazp/fasthttprouter
+topics:
+  - go
+  - lib
+  - http-router

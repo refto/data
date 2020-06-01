@@ -1,0 +1,7 @@
+title: goml
+description: On-line Machine Learning in Go
+home_addr: https://github.com/cdipaolo/goml
+topics:
+  - go
+  - lib
+  - machine-learning

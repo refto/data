@@ -1,7 +1,0 @@
-description: A registry for resilient mid-tier load balancing and failover
-home_addr: https://github.com/Bilibili/discovery
-title: discovery
-topics:
-- go
-- lib
-- server

@@ -1,9 +1,0 @@
-description: Push notification server using [APNs2](https://github.com/sideshow/apns2)
-  and google [GCM](https://github.com/google/go-gcm)
-home_addr: https://github.com/appleboy/gorush
-title: gorush
-topics:
-- go
-- lib
-- msg
-- messaging

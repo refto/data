@@ -1,0 +1,6 @@
+title: aws-sdk-go
+description: The official AWS SDK for the Go programming language
+home_addr: https://github.com/aws/aws-sdk-go
+topics:
+  - go
+  - aws-sdk

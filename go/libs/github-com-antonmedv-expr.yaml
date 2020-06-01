@@ -1,0 +1,9 @@
+title: expr
+description: Expr package provides an engine that can compile and evaluate expressions. An expression is a one-liner that returns a value (mostly, but not limited to, booleans). It is designed for simplicity, speed and safety.
+home_addr: https://github.com/antonmedv/expr
+picture_addr: https://github.com/antonmedv/expr
+topics:
+  - go
+  - lib
+  - expression-evaluator
+  - expression-language

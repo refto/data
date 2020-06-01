@@ -1,0 +1,8 @@
+title: DiscordGo
+description: DiscordGo is a Go package that provides low level bindings to the Discord chat client API. DiscordGo has nearly complete support for all of the Discord API endpoints, websocket interface, and voice interface.
+home_addr: https://github.com/bwmarrin/discordgo
+picture_addr: https://camo.githubusercontent.com/285cfc297824859aa2a3b4248be16fd63797e620/687474703a2f2f62776d617272696e2e6769746875622e696f2f646973636f7264676f2f696d672f646973636f7264676f2e706e67
+topics:
+  - go
+  - client
+  - discord

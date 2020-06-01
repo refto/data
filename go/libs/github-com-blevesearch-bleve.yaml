@@ -1,0 +1,9 @@
+title: bleve
+description: Modern text indexing library for go
+home_addr: https://github.com/blevesearch/bleve
+picture_addr: https://www.blevesearch.com//img/bleve-icon-placard-small.png
+topics:
+  - go
+  - lib
+  - text-indexing
+  - text-search

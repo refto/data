@@ -1,6 +1,0 @@
-description: Generate boilerplate http input and output handling
-home_addr: https://github.com/azr/generators/tree/master/varhandler
-title: VarHandler
-topics:
-- go
-- lib

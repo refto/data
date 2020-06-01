@@ -1,7 +1,0 @@
-description: Validators and sanitizers for strings, numerics, slices and structs
-home_addr: https://github.com/asaskevich/govalidator
-title: govalidator
-topics:
-- go
-- lib
-- validation

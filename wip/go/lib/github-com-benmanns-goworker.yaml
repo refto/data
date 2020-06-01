@@ -1,7 +1,0 @@
-description: goworker is a Go-based background worker
-home_addr: https://github.com/benmanns/goworker
-title: goworker
-topics:
-- go
-- lib
-- goroutine

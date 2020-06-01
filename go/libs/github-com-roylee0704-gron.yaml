@@ -5,4 +5,4 @@ topics:
   - go
   - lib
   - cron
-  - schedule
+  - scheduler

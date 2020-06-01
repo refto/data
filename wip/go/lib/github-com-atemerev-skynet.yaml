@@ -1,7 +1,0 @@
-description: Skynet 1M threads microbenchmark
-home_addr: https://github.com/atemerev/skynet
-title: skynet
-topics:
-- go
-- lib
-- benchmark

@@ -1,0 +1,7 @@
+title: Go-Json-Rest
+description: Go-Json-Rest is a thin layer on top of net/http that helps building RESTful JSON APIs easily. It provides fast and scalable request routing using a Trie based implementation, helpers to deal with JSON requests and responses, and middlewares for functionalities like CORS, Auth, Gzip, Status ...
+home_addr: https://github.com/ant0ine/go-json-rest
+topics:
+  - go
+  - lib
+  - web-framework

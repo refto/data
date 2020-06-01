@@ -1,7 +1,0 @@
-description: Go bindings for the Discord Chat API
-home_addr: https://github.com/bwmarrin/discordgo
-title: discordgo
-topics:
-- go
-- lib
-- api

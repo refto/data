@@ -1,7 +1,0 @@
-description: '[Top-like](http://ctop.sh) interface (e.g. htop) for container metrics'
-home_addr: https://github.com/bcicen/ctop
-title: ctop
-topics:
-- go
-- lib
-- util

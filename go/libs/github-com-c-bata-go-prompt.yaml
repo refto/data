@@ -1,0 +1,8 @@
+title: go-prompt
+description: Library for building a powerful interactive prompt
+home_addr: https://github.com/c-bata/go-prompt
+topics:
+  - go
+  - lib
+  - terminal
+  - prompt

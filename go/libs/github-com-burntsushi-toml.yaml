@@ -1,0 +1,7 @@
+title: toml
+description: TOML configuration format (encoder/decoder with reflection)
+home_addr: https://github.com/BurntSushi/toml
+topics:
+  - go
+  - lib
+  - toml

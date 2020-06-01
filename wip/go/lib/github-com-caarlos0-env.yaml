@@ -1,7 +1,0 @@
-description: Parse environment variables to Go structs (with defaults)
-home_addr: https://github.com/caarlos0/env
-title: env
-topics:
-- go
-- lib
-- config

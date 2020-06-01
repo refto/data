@@ -1,0 +1,10 @@
+title: gofakeit
+description: Random data generator written in go
+home_addr: https://github.com/brianvoe/gofakeit
+picture_addr: https://raw.githubusercontent.com/brianvoe/gofakeit/master/logo.png
+topics:
+  - go
+  - lib
+  - data-generator
+  - testing
+  - mocking

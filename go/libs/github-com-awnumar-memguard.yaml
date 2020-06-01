@@ -1,0 +1,8 @@
+title: MemGuard
+description: This package attempts to reduce the likelihood of sensitive data being exposed when in memory. It aims to support all major operating systems and is written in pure Go.
+home_addr: https://github.com/awnumar/memguard
+picture_addr: https://camo.githubusercontent.com/055397a8974003ccec4311312698d3147422b920/68747470733a2f2f63646e2e7261776769742e636f6d2f61776e756d61722f6d656d67756172642f6d61737465722f6c6f676f2e737667
+topics:
+  - go
+  - lib
+  - security
