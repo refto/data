@@ -1,8 +1,0 @@
-title: Colfer
-description: Colfer is a binary serialization format optimized for speed and size. The project's compiler colf(1) generates source code from schema definitions to marshal and unmarshall data structures. This is free and unencumbered software released into the public domain. The format is inspired by Protocol Buffers
-home_addr: https://github.com/pascaldekloe/colfer
-topics:
-  - util
-  - serialization
-  - binary-data
-  - source:go

@@ -1,8 +1,0 @@
-title: nes
-description: Nintendo Entertainment System (NES) emulator written in Go
-home_addr: https://github.com/fogleman/nes
-topics:
-  - nintendo-entertainment-system
-  - emulator
-  - nes-emulator
-  - source:go

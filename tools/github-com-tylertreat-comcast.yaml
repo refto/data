@@ -1,7 +1,0 @@
-title: Comcast
-description: Simulate bad network connections. Comcast is a tool designed to simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets.
-home_addr: https://github.com/tylertreat/Comcast
-topics:
-  - network-testing
-  - network-connection-testing
-  - source:go

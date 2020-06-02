@@ -1,6 +1,0 @@
-title: SFTPGo
-description: Full featured and highly configurable SFTP server software
-home_addr: https://github.com/drakkan/sftpgo
-topics:
-  - sftp-server
-  - source:go

@@ -1,7 +1,0 @@
-title: peco
-description: peco (pronounced peh-koh) is based on a python tool, percol. percol was darn useful, but I wanted a tool that was a single binary, and forget about python. peco is written in Go, and therefore you can just grab the binary releases and drop it in your $PATH. peco can be a great tool to filter stuff like logs, process stats, find files, because unlike grep, you can type as you think and look through the current results.
-home_addr: https://github.com/peco/peco
-topics:
-  - util
-  - cli
-  - source:go

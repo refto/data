@@ -1,7 +1,0 @@
-title: usql
-description: A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
-home_addr: https://github.com/knq/usql
-topics:
-  - database
-  - cli
-  - source:go

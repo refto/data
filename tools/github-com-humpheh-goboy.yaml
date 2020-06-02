@@ -1,7 +1,0 @@
-title: GoBoy
-description: Nintendo Game Boy Color emulator written in Go
-home_addr: https://github.com/Humpheh/goboy
-topics:
-  - game-boy-color
-  - emulator
-  - source:go

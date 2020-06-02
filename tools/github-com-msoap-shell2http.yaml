@@ -1,7 +1,0 @@
-title: shell2http
-description: HTTP-server to execute shell commands. Designed for development, prototyping or remote control. Settings through two command line arguments, path and shell command
-home_addr: https://github.com/msoap/shell2http
-topics:
-  - remote-access
-  - remote-shell
-  - source:go

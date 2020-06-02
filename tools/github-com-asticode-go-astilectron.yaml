@@ -1,8 +1,0 @@
-title: go-astilectron
-description: Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
-home_addr: https://github.com/asticode/go-astilectron
-topics:
-  - go
-  - lib
-  - gui
-  - electron

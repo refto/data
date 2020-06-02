@@ -1,8 +1,0 @@
-title: git-time-metric
-description: Simple, seamless, lightweight time tracking for Git
-home_addr: https://github.com/git-time-metric/gtm
-picture_addr: https://cloud.githubusercontent.com/assets/630550/19619834/43c460dc-9835-11e6-8652-1c8fff91cf02.png
-topics:
-  - time-tracker
-  - git
-  - source:go

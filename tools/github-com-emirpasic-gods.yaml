@@ -1,7 +1,0 @@
-title: GoDS (Go Data Structures)
-description: Implementation of various data structures and algorithms in Go
-home_addr: https://github.com/emirpasic/gods
-topics:
-  - go
-  - lib
-  - data-structure

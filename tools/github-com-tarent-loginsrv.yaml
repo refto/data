@@ -1,7 +1,0 @@
-title: loginsrv
-description: Standalone minimalistic login server providing a JWT login for multiple login backends.
-home_addr: https://github.com/tarent/loginsrv
-topics:
-  - jwt
-  - server
-  - source:go

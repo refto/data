@@ -1,6 +1,0 @@
-title: MailHog
-description: Email and SMTP testing with web and API interface
-home_addr: https://github.com/mailhog/MailHog
-topics:
-  - smtp-testing
-  - source:go

@@ -1,7 +1,0 @@
-title: imaginary
-description: Fast and simple HTTP microservice for image resizing
-home_addr: https://github.com/h2non/imaginary
-topics:
-  - microservice
-  - image-processing
-  - source:go

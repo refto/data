@@ -1,7 +1,0 @@
-title: goav
-description: A comprehensive binding to the ffmpeg video/audio manipulation library
-home_addr: https://github.com/giorgisio/goav
-topics:
-  - go
-  - bindings
-  - ffmpeg
