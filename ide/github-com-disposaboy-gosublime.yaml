@@ -3,6 +3,6 @@ description: Golang plugin collection for the text editor SublimeText 3 providin
 home_addr: https://github.com/DisposaBoy/GoSublime
 title: GoSublime
 topics:
-- go
-- tool
-- ide
+  - sublime
+  - plugin
+  - go

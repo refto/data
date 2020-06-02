@@ -1,7 +1,0 @@
-description: Sloc Cloc and Code, a very fast accurate code counter with complexity
-  calculations and COCOMO estimates
-home_addr: https://github.com/boyter/scc
-title: scc
-topics:
-- go
-- tool

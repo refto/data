@@ -1,8 +1,0 @@
-description: Visualise Go program GC trace data in real time
-home_addr: https://github.com/davecheney/gcvis
-title: gcvis
-topics:
-- go
-- tool
-- lint
-- analysis

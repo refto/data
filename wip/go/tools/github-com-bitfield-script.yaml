@@ -1,8 +1,0 @@
-description: Making it easy to write shell-like scripts in Go for DevOps and system
-  administration tasks
-home_addr: https://github.com/bitfield/script
-title: script
-topics:
-- go
-- tool
-- devop

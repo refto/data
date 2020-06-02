@@ -1,7 +1,0 @@
-description: Reverse proxy and load balancer with support for multiple backends
-home_addr: https://github.com/containous/traefik
-title: traefik
-topics:
-- go
-- tool
-- devop

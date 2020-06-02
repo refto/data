@@ -1,0 +1,13 @@
+title: Documize
+description: Modern wiki software that integrates data from SaaS tools
+home_addr: https://www.documize.com/
+
+links:
+  - icon: github
+    label: Source
+    addr:  https://github.com/documize/community
+
+topics:
+  - knowledge-management
+  - knowledge-base
+  - source:go

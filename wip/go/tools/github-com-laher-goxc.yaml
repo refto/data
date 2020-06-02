@@ -1,7 +1,0 @@
-description: build tool for Go, with a focus on cross-compiling and packaging
-home_addr: https://github.com/laher/goxc
-title: goxc
-topics:
-- go
-- tool
-- devop

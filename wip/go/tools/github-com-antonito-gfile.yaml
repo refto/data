@@ -1,7 +1,0 @@
-description: Securely transfer files between two computers, without any third party,
-  over WebRTC
-home_addr: https://github.com/Antonito/gfile
-title: gfile
-topics:
-- go
-- tool

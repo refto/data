@@ -1,8 +1,6 @@
+title: GoLint
 description: Golint is a linter for Go source code
 home_addr: https://github.com/golang/lint
-title: GoLint
 topics:
-- go
-- tool
-- lint
-- analysis
+  - go
+  - linter

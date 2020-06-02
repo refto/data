@@ -1,0 +1,7 @@
+title: vim-go
+description: Go development plugin for Vim
+home_addr: https://github.com/fatih/vim-go
+picture_addr: https://github.com/fatih/vim-go/raw/master/assets/vim-go.png
+topics:
+  - vim-plugin
+  - go

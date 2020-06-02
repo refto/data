@@ -1,7 +1,0 @@
-description: Http traffic replication tool, for replaying traffic from production
-  to stage/dev environments in real-time
-home_addr: https://github.com/buger/gor
-title: Gor
-topics:
-- go
-- tool

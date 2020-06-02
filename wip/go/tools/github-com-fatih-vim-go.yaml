@@ -1,7 +1,0 @@
-description: Go development plugin for Vim
-home_addr: https://github.com/fatih/vim-go
-title: vim-go
-topics:
-- go
-- tool
-- ide

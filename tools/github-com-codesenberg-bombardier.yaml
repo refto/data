@@ -1,7 +1,6 @@
+title: bombardier
 description: Fast cross-platform HTTP benchmarking tool
 home_addr: https://github.com/codesenberg/bombardier
-title: bombardier
 topics:
-- go
-- tool
-- devop
+  - http-benchmarking
+  - source:go

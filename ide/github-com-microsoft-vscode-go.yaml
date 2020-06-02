@@ -1,8 +1,7 @@
+title: vscode-go
 description: Extension for Visual Studio Code (VS Code) which provides support for
   the Go language
 home_addr: https://github.com/Microsoft/vscode-go
-title: vscode-go
 topics:
-- go
-- tool
-- ide
+  - go
+  - vscode-extension
