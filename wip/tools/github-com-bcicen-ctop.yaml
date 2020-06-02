@@ -1,0 +1,14 @@
+title: ctop
+description: Top-like interface (e.g. htop) for container metrics. ctop provides a concise and condensed overview of real-time metrics for multiple containers, as well as an single container view for inspecting a specific container. ctop comes with built-in support for Docker and runC; connectors for other container and cluster systems are planned for future releases.
+home_addr: https://ctop.sh/
+picture_addr: https://github.com/bcicen/ctop/raw/master/_docs/img/logo.png
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/bcicen/ctop
+
+topics:
+  - container-metrics-interface
+  - docker
+  - source:go

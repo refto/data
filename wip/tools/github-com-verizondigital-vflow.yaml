@@ -1,0 +1,8 @@
+title: vFlow
+description: High-performance, scalable and reliable IPFIX, sFlow and Netflow collector
+home_addr: https://github.com/VerizonDigital/vflow
+picture_addr: https://github.com/VerizonDigital/vflow/raw/master/docs/imgs/vflow_logo.png
+topics:
+  - netflow-collectir
+  - monitoring
+  - source:go

@@ -1,0 +1,15 @@
+title: GoReplay
+description: GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+home_addr: https://goreplay.org/
+picture_addr: https://camo.githubusercontent.com/9f1d7f1303e4362acf347b1671ada86c3b4c3679/687474703a2f2f692e696d6775722e636f6d2f5a47326b69356e2e706e67
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/buger/goreplay
+
+topics:
+  - network-monitoring
+  - network-testing
+  - network-analysis
+  - source:go

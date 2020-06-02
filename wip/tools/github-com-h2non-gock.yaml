@@ -1,0 +1,8 @@
+title: gock
+description: Versatile HTTP mocking made easy
+home_addr: https://github.com/h2non/gock
+topics:
+  - go
+  - lib
+  - http
+  - mocking

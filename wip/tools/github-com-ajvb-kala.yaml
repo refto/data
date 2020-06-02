@@ -1,0 +1,7 @@
+title: Kala
+description: Simplistic, modern, and performant job scheduler
+home_addr: https://github.com/ajvb/kala
+topics:
+  - cron
+  - task-runner
+  - source:go

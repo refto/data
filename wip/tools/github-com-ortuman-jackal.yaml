@@ -1,0 +1,8 @@
+title: jackal
+description: jackal is a free, open-source, high performance XMPP server which aims to be known for its stability, simple configuration and low resource consumption
+home_addr: https://github.com/ortuman/jackal
+picture_addr: https://github.com/ortuman/jackal/raw/master/.github/gopher.png
+topics:
+  - xmpp-server
+  - jabber
+  - source:go

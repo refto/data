@@ -1,0 +1,6 @@
+title: gosms
+description: Your own local SMS gateway in Go that can be used to send SMS
+home_addr: https://github.com/haxpax/gosms
+topics:
+  - sms-gateway
+  - source:go

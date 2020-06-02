@@ -1,0 +1,7 @@
+title: LedisDB
+description: Ledisdb is a high-performance NoSQL database library and server written in Go. It's similar to Redis but store data in disk. It supports many data structures including kv, list, hash, zset, set. LedisDB now supports multiple different databases as backends.
+home_addr: https://github.com/siddontang/ledisdb
+topics:
+  - database
+  - nosql
+  - source:go

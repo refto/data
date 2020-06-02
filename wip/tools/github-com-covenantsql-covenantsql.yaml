@@ -1,0 +1,9 @@
+title: CovenantSQL
+description: A decentralized, trusted, high performance, SQL database with blockchain features
+home_addr: https://github.com/CovenantSQL/CovenantSQL
+picture_addr: https://github.com/CovenantSQL/CovenantSQL/raw/develop/logo/covenantsql_horizontal.png
+topics:
+  - database
+  - blockchain
+  - p2p
+  - source:go

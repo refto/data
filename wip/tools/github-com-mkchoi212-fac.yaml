@@ -1,0 +1,8 @@
+title: fac
+description: Command-line user interface to fix git merge conflicts
+home_addr: https://github.com/mkchoi212/fac
+topics:
+  - merge-conflict-resolution
+  - git
+  - cli
+  - source:go

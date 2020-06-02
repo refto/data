@@ -1,0 +1,7 @@
+title: go-humanize
+description: Formatters for time, numbers, and memory size to human readable format
+home_addr: https://github.com/dustin/go-humanize
+topics:
+  - go
+  - lib
+  - unit-formatter

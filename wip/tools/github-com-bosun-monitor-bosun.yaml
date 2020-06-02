@@ -1,0 +1,14 @@
+description: Bosun is an open-source, MIT licensed, monitoring and alerting system by Stack Exchange. It has an expressive domain specific language for evaluating alerts and creating detailed notifications. It also lets you test your alerts against history for a faster development experience.
+home_addr: https://bosun.org/
+picture_addr: https://bosun.org/public/bosun-logo-mark.svg
+title: Bosun
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/bosun-monitor/bosun
+
+topics:
+  - monitoring
+  - alerting
+  - source:go

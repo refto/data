@@ -1,0 +1,8 @@
+title: MinIO Client
+description: MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff, find etc. It supports filesystems and Amazon S3 compatible cloud storage service
+home_addr: https://github.com/minio/mc
+topics:
+  - minio
+  - util
+  - amazon-s3
+  - source:go

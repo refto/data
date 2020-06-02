@@ -1,0 +1,8 @@
+title: gentleman
+description: Full-featured plugin-driven HTTP client library
+home_addr: https://github.com/h2non/gentleman
+topics:
+  - go
+  - lib
+  - http
+  - client

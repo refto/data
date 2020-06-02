@@ -1,0 +1,14 @@
+title: Benthos
+description: A message streaming bridge between a range of protocols
+home_addr: https://www.benthos.dev/
+picture_addr: https://github.com/Jeffail/benthos/raw/master/icon.png
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/Jeffail/benthos
+
+topics:
+  - stream-processor
+  - message-bridge
+  - source:go

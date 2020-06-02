@@ -1,0 +1,7 @@
+title: devd
+description: Local webserver for developers
+home_addr: https://github.com/cortesi/devd
+topics:
+  - web-server
+  - dev-server
+  - source:go

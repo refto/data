@@ -1,0 +1,8 @@
+title: StatusOK
+description: Monitor your Website and REST APIs.Get Notified through Slack, E-mail
+  when your server is down or response time is more than expected
+home_addr: https://github.com/sanathp/statusok
+topics:
+  - server-status-check
+  - server-monitoring
+  - source:go

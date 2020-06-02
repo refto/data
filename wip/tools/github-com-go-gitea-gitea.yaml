@@ -1,0 +1,13 @@
+title: Gitea
+description: Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLabThe goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports.
+home_addr: https://gitea.io/
+picture_addr: https://docs.gitea.io/images/gitea.png
+
+links:
+  - icon: github
+    label: Source
+    addr: https://github.com/go-gitea/gitea
+
+topics:
+  - git-service
+  - source:go
