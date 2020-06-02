@@ -1,8 +1,8 @@
+title: s3gof3r
 description: Small utility/library optimized for high speed transfer of large objects
   into and out of Amazon S3
 home_addr: https://github.com/rlmcpherson/s3gof3r
-title: s3gof3r
 topics:
-- go
-- tool
-- devop
+  - data-transfer
+  - amazon-s3-cli
+  - source:go

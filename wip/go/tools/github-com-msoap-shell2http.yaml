@@ -1,6 +1,0 @@
-description: Executing shell commands via http server (for prototyping or remote control)
-home_addr: https://github.com/msoap/shell2http
-title: shell2http
-topics:
-- go
-- tool

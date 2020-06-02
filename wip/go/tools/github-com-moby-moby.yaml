@@ -1,8 +1,0 @@
-description: Collaborative project for the container ecosystem to assemble container-based
-  systems
-home_addr: https://github.com/moby/moby
-title: Moby
-topics:
-- go
-- tool
-- devop

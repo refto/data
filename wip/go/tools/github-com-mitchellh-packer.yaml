@@ -1,8 +1,0 @@
-description: Packer is a tool for creating identical machine images for multiple platforms
-  from a single source configuration
-home_addr: https://github.com/mitchellh/packer
-title: Packer
-topics:
-- go
-- tool
-- devop

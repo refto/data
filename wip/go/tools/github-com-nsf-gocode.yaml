@@ -1,7 +1,0 @@
-description: Autocompletion daemon for the Go programming language
-home_addr: https://github.com/nsf/gocode
-title: gocode
-topics:
-- go
-- tool
-- ide

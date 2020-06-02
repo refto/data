@@ -1,6 +1,6 @@
+title: drive
 description: Google Drive client for the commandline
 home_addr: https://github.com/odeke-em/drive
-title: drive
 topics:
-- go
-- tool
+  - google-drive-cli
+  - source:go

@@ -1,7 +1,6 @@
+title: gox
 description: Dead simple, no frills Go cross compile tool
 home_addr: https://github.com/mitchellh/gox
-title: gox
 topics:
-- go
-- tool
-- devop
+  - go
+  - cross-compile

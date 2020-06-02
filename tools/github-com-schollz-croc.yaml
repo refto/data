@@ -1,6 +1,7 @@
+title: croc
 description: Easily and securely send files or folders from one computer to another
 home_addr: https://github.com/schollz/croc
-title: croc
 topics:
-- go
-- tool
+  - file-transfer
+  - cli
+  - source:go

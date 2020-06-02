@@ -1,7 +1,9 @@
+title: Stack Up
 description: Stack Up, a super simple deployment tool - just Unix - think of it like
   'make' for a network of servers
 home_addr: https://github.com/pressly/sup
-title: Stack Up
 topics:
-- go
-- tool
+  - go
+  - tool
+  - deploy
+  - source:go
