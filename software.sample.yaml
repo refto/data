@@ -1,0 +1,41 @@
+# Software describes software
+
+title: Kubernetes
+description: Kubernetes (k8s) is an open source system for managing containerized applications across multiple hosts. It provides basic mechanisms for deployment, maintenance, and scaling of applications. Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
+
+# Official website of software
+home_addr: https://kubernetes.io/
+
+# Logo of software
+logo_addr: https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png
+
+# If it is open source software, great to have link to source
+source_addr: https://github.com/kubernetes/kubernetes
+
+# Helpful links that is fit to context
+links:
+  - icon: twitter
+    label: Twitter
+    addr: https://twitter.com/kubernetesio
+  - icon: book
+    label: Tutorials
+    addr: https://kubernetes.io/docs/tutorials/
+
+
+# Topics of software have some conventions to follow
+# 1. If software is only for one or two operating systems then set them in topics
+# 2. If software only of specific type (desktop, mobile, cli, web, server) set it in topics
+# 3. If it is open source software specify the languages and technologies used in software
+#     in format "source:{lang}", for example: source:go, source:vue
+#     This is not required, but great to have (often people looking for software that is written
+#     in specific lang/tech for research and study)
+# 4. Do not add "software" topic, instead expand its meaning by kind of software (database, operating-system, chat, etc)
+
+topics:
+  - server
+  - devops
+  - container-orchestration
+  - container-deployment
+  - container-scaling
+  - container-management
+  - source:go
