@@ -6,7 +6,7 @@ source_addr: https://github.com/hashicorp/consul
 
 topics:
   - tool
-  - devop
+  - devops
   - network
   - source:go
 

@@ -11,7 +11,7 @@ description: >
 home_addr: https://tsuru.io/
 topics:
   - tool
-  - devop
+  - devops
   - paas
   - source:go
 
