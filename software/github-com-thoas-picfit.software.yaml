@@ -1,0 +1,9 @@
+title: picfit
+description: An image resizing server written in Go
+home_addr: https://github.com/thoas/picfit
+logo_addr: https://github.com/thoas/picfit
+topics:
+  - image
+  - image-resize
+  - server
+  - source:go

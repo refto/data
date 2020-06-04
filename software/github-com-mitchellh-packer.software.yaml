@@ -1,0 +1,11 @@
+title: Packer
+description: Packer is a tool for creating identical machine images for multiple platforms
+  from a single source configuration
+home_addr: https://www.packer.io/
+logo_addr: https://www.packer.io/img/logo-hashicorp.svg
+source_addr: https://github.com/hashicorp/packer
+
+topics:
+  - machine-image
+  - automate
+  - source:go

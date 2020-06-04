@@ -1,0 +1,10 @@
+title: immortal
+description: A *nix cross-platform (OS agnostic) supervisor
+home_addr: https://immortal.run/
+logo_addr: https://github.com/immortal/immortal
+source_addr: https://github.com/immortal/immortal
+
+topics:
+  - supervisor
+  - daemon
+  - source:go

@@ -1,9 +1,0 @@
-title: Boilr
-description: CLI tool for creating projects from boilerplate templates
-home_addr: https://github.com/tmrts/boilr
-picture_addr: https://github.com/tmrts/boilr/raw/master/assets/logo.png
-topics:
-  - scaffolding
-  - boilerplate
-  - automation
-  - source:go

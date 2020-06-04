@@ -1,0 +1,9 @@
+title: CDS
+description: Enterprise-Grade CI/CD and DevOps Automation Open Source Platform
+home_addr: https://github.com/ovh/cds
+logo_addr: https://raw.githubusercontent.com/ovh/cds/master/logo-background.png
+topics:
+  - ci/cd
+  - devops
+  - automation
+  - source:go

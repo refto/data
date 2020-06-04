@@ -1,0 +1,12 @@
+title: etcd
+description: Highly-available key value store for shared configuration and service
+  discovery
+home_addr: https://etcd.io/
+logo_addr: https://github.com/etcd-io/etcd/raw/master/logos/etcd-horizontal-color.svg?sanitize=true
+source_addr: https://github.com/coreos/etcd
+
+topics:
+  - database
+  - key-value
+  - distributed-database
+  - source:go

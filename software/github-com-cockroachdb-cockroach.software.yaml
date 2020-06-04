@@ -1,0 +1,10 @@
+title: CockroachDB
+description: CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters
+home_addr: https://www.cockroachlabs.com/
+logo_addr: https://github.com/cockroachdb/cockroach/raw/master/docs/media/cockroach_db.png
+source_addr: https://github.com/cockroachdb/cockroach
+
+topics:
+  - database
+  - sql
+  - source:go

@@ -1,0 +1,12 @@
+title: Flipt
+description: Flipt is an open source, on-prem feature flag application that allows you to run experiments across services in your environment.
+home_addr: https://flipt.io/
+source_addr: https://github.com/markphelps/flipt
+
+topics:
+  - tool
+  - config
+  - feature
+  - toggle
+  - source:go
+  - source:vue

@@ -1,0 +1,15 @@
+title: Resgate
+description: >
+  Resgate is a Go project implementing a realtime API gateway for the RES protocol with NATS server as messaging system.
+  It is a simple server that lets you create REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
+  Used for building new REST APIs with real-time functionality, or when creating single page applications using reactive frameworks such as React, Vue.js, or Modapp.
+
+home_addr: https://resgate.io/
+logo_addr: https://github.com/resgateio/resgate/raw/master/docs/img/resgate-logo.png
+
+topics:
+- tool
+- api
+- rest
+- source:go
+

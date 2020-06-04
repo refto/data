@@ -1,0 +1,9 @@
+title: Duplicacy
+description: A cross-platform network and cloud backup tool based on the idea of lock-free
+  deduplication
+home_addr: https://duplicacy.com/
+source_addr: https://github.com/gilbertchen/duplicacy
+
+topics:
+  - backup
+  - source:go

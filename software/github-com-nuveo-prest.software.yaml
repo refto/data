@@ -1,0 +1,11 @@
+title: pREST
+description: Serve a RESTful API from any PostgreSQL database
+home_addr: https://github.com/nuveo/prest
+logo_addr: https://postgres.rest/logo.png
+source_addr: https://github.com/prest/prest
+
+topics:
+  - postgres
+  - rest
+  - api-server
+  - source:go

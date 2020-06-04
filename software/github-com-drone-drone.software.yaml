@@ -1,0 +1,9 @@
+title: Drone
+description: Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+home_addr: https://drone.io/
+logo_addr: https://drone.io/images/logo-f06b66939d.svg
+source_addr: https://github.com/drone/drone
+
+topics:
+  - ci/cd
+  - source:go

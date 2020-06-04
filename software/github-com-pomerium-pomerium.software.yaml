@@ -1,0 +1,9 @@
+title: Pomerium
+description: Pomerium is an identity-aware proxy that enables secure access to internal applications. Pomerium provides a standardized interface to add access control to applications regardless of whether the application itself has authorization or authentication baked-in. Pomerium gateways both internal and external requests, and can be used in situations where you'd typically reach for a VPN.
+home_addr: https://github.com/pomerium/pomerium
+logo_addr: https://camo.githubusercontent.com/136a0c235acc41544a31695cfb003e2ebc4aea65/68747470733a2f2f7777772e706f6d657269756d2e696f2f6c6f676f2d6c6f6e672e737667
+topics:
+  - identity-proxy
+  - identity-gateway
+  - reverse-proxy
+  - source:go

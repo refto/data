@@ -1,0 +1,8 @@
+title: rqlite
+description: rqlite is a lightweight, distributed relational database, which uses SQLite as its storage engine. Forming a cluster is very straightforward, it gracefully handles leader elections, and tolerates failures of machines, including the leader. rqlite is available for Linux, OSX, and Microsoft Windows.
+home_addr: https://github.com/rqlite/rqlite
+logo_addr: https://www.philipotoole.com/wp-content/uploads/2016/04/j.png
+topics:
+  - database
+  - sqlite
+  - source:go

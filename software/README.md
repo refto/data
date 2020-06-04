@@ -2,8 +2,6 @@
 
 Software is a broad term for many entities. For example mobile application and browser extension is both software, tiny utility and operating system is both software. Creating data type for every king of software would be too overwhelming.
 
-Everything that is completed and can be used by end-user as binary or script (for example bash-scripts or web-apps)
-
 Because "software" is a broad term each software entity should expand meaning of "software" in topics. 
 
 Until we have no clear understanding on how software schema should describe a software, here some conventions to follow:

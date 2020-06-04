@@ -1,0 +1,7 @@
+title: Olivia
+description: Olivia is an open-source chatbot built in Golang using Machine Learning technologies. Its goal is to provide a free and open-source alternative to big services like DialogFlow
+home_addr: https://github.com/olivia-ai/olivia
+logo_addr: https://camo.githubusercontent.com/9acb1fba7ae79a34b2d23a24bde58e0eb5ed08e9/68747470733a2f2f6f6c697669612d61692e6f72672f696d672f69636f6e732f6f6c697669612d776974682d746578742e706e67
+topics:
+  - chatbot
+  - source:go

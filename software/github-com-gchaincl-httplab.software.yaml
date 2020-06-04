@@ -1,0 +1,11 @@
+title: HTTPLab
+description: The interactive web server. HTTPLabs let you inspect HTTP requests and forge responses.
+home_addr: https://github.com/gchaincl/httplab
+logo_addr: https://github.com/gchaincl/httplab/raw/master/images/httplab_logo.png
+topics:
+  - web-server
+  - http-client
+  - testing
+  - devtool
+  - cli
+  - source:go

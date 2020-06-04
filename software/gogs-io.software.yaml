@@ -1,0 +1,9 @@
+title: Gogs
+description: A Self Hosted Git Service in the Go Programming Language
+home_addr: https://gogs.io/
+logo_addr: https://gogs.io/img/hero.png
+source_addr: https://github.com/gogs/gogs
+
+topics:
+  - git-service
+  - source:go

@@ -1,7 +1,0 @@
-title: gobgp
-description: BGP implemented in the Go Programming Language
-home_addr: https://github.com/osrg/gobgp
-picture_addr: https://osrg.github.io/gobgp/logos/GoBGP_v.png
-topics:
-  - bgp
-  - source:go

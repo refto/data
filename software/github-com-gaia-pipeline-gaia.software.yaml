@@ -1,0 +1,10 @@
+title: Gaia
+description: Build powerful pipelines in any programming language. Gaia is an open source automation platform which makes it easy and fun to build powerful pipelines in any programming language. Based on HashiCorp's go-plugin and gRPC, gaia is efficient, fast, lightweight, and developer friendly.
+home_addr: https://gaia-pipeline.io/
+logo_addr: https://camo.githubusercontent.com/4818f81953ad0db26f24b1e5109ac11d635c43b5/68747470733a2f2f63646e2e7261776769742e636f6d2f6d696368656c766f636b732f65663338393466363363336262303034626361316132666435663765623634342f7261772f633336643631346462386166653232396234363662333864653136333661383261643830396636342f676169612d6c6f676f2d746578742e706e67
+source_addr: https://github.com/gaia-pipeline/gaia
+
+topics:
+  - automation
+  - ci-cd
+  - source:go

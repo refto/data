@@ -1,0 +1,9 @@
+title: Caddy
+description: Fast, multi-platform web server with automatic HTTPS
+home_addr: https://caddyserver.com/
+logo_addr: https://caddyserver.com/resources/images/caddy-wordmark.svg
+source_addr: https://github.com/mholt/caddy
+
+topics:
+  - web-server
+  - source:go

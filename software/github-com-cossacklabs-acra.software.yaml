@@ -1,0 +1,12 @@
+title: Acra
+description: >
+  Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL
+home_addr: https://www.cossacklabs.com/acra/
+logo_addr: https://github.com/cossacklabs/acra/wiki/Images/acralogo.png
+source_addr: https://github.com/cossacklabs/acra/
+
+
+topics:
+  - database-security
+  - database-encryption
+  - source:go

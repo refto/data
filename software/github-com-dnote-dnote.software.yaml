@@ -1,0 +1,9 @@
+title: Dnote
+description: Dnote is a simple command line notebook for programmers. It keeps you focused by providing a way of effortlessly capturing and retrieving information without leaving your terminal. It also offers a seamless multi-device sync and a web interface.
+home_addr: https://www.getdnote.com/
+logo_addr: https://github.com/dnote/dnote/raw/master/assets/logo.png
+source_addr: https://github.com/dnote/dnote
+
+topics:
+  - cli-notebook
+  - source:go

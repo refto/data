@@ -1,9 +1,0 @@
-title: realize
-description: >
-  Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading
-home_addr: https://github.com/tockins/realize
-picture_addr: https://camo.githubusercontent.com/7668b0290c90a36525240726752b820362921410/68747470733a2f2f692e696d6775722e636f6d2f764a66496949642e706e67
-topics:
-  - task-runner
-  - live-reload
-  - source:go

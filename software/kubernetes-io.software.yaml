@@ -14,7 +14,6 @@ links:
     addr: https://kubernetes.io/docs/tutorials/
 
 topics:
-  - server
   - devops
   - container-orchestration
   - container-deployment
