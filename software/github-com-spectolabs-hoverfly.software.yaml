@@ -1,9 +1,12 @@
 title: Hoverfly
 description: Hoverfly is a lightweight, open source API simulation tool. Using Hoverfly, you can create realistic simulations of the APIs your application depends on.
-home_addr: https://github.com/SpectoLabs/hoverfly
+home_addr: https://hoverfly.io/
 logo_addr: https://raw.githubusercontent.com/SpectoLabs/hoverfly/master/hoverfly_logo.png
+source_addr: https://github.com/SpectoLabs/hoverfly
+
 topics:
-  - go
-  - lib
+  - api-mocking
+  - api-simulation
   - mocking
+  - testing
   - source:go

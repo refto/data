@@ -3,5 +3,5 @@ description: Go interface to ZeroMQ version 4
 home_addr: https://github.com/pebbe/zmq4
 topics:
   - go
-  - lib
+  - client
   - zeromq

@@ -6,4 +6,5 @@ topics:
   - lib
   - converter
   - elasticsearch
+  - dsl
   - sql
