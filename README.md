@@ -20,7 +20,7 @@ When changes pushed to repository, GitHub notifies server via webhook. Then [ser
 # Conventions
 * All data is stored in YAML format.
 * Each `.yaml` file contains data of something specific. 
-* Each data's file name must be in format `filename.type.yaml`
+* Each data's filename must be in format: `{filename}.{type}.yaml`
     * The `filename` part can be anything that reflect it's data (it will be used as ID of data)
     * The `type` part is a type of data and can be:
         * `generic`: Generic data, see `./generic.sample.yaml`
