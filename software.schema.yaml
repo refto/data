@@ -24,7 +24,7 @@ properties:
     description: Address of logotype of software
 
   links:
-    description: List of helpful links associated with book
+    description: List of helpful links associated with software
     type: array
     items:
       type: object

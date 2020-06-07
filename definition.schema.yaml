@@ -1,0 +1,81 @@
+title: Definition
+description: Schema of definition
+type: object
+additionalProperties: false
+properties:
+  icon:
+    type: string
+    description: Icon to accompany title
+  title:
+    type: string
+    description: Title
+
+  description:
+    type: string
+    description: Description
+
+  home_addr:
+    type: string
+    description: Link to website
+
+  picture_addr:
+    type: string
+    description: Address of logotype of software
+
+  links:
+    description: List of helpful links associated with definition
+    type: array
+    items:
+      type: object
+      properties:
+        icon:
+          type: string
+        label:
+          type: string
+        addr:
+          type: string
+      required:
+        - label
+        - addr
+
+  relations:
+    type: array
+    description: List of data that is related to definition but not fit to description
+    items:
+      type: object
+      properties:
+        icon:
+          type: string
+          description: Icon to accompany title
+        title:
+          type: string
+          description: Title
+        picture_addr:
+          type: string
+          description: Address to picture
+
+        description:
+          type: string
+          description: Description
+
+        links:
+          description: List of helpful links associated with definition
+          type: array
+          items:
+            type: object
+            properties:
+              icon:
+                type: string
+              label:
+                type: string
+              description:
+                type: string
+              addr:
+                type: string
+            required:
+              - label
+              - addr
+
+required:
+  - title
+  - description

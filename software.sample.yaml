@@ -32,7 +32,6 @@ links:
 # 4. Do not add "software" topic, instead expand its meaning by kind of software (database, operating-system, chat, etc)
 
 topics:
-  - server
   - devops
   - container-orchestration
   - container-deployment

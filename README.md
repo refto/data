@@ -27,6 +27,8 @@ When changes pushed to repository, GitHub notifies server via webhook. Then [ser
         * `book`: A book entity, see `./book.sample.yaml`
         * `person`: A person entity, see `./person.sample.yaml`
         * `software`: A software entity, see `./software.sample.yaml`
+        * `conference`: A conference entity, see `./conference.sample.yaml`
+        * `definition`: Topic's definition , see `./definition.sample.yaml`, also [read more below](#definitions).
     * The `type` part can omitted if data is a `generic` type 
 * Each data must comply with schema of its type (For example: `clean-code.book.yaml` must be valid against `book.schema.yaml`).
 * File names that ends with `.sample.yaml` or `.schema.yaml` will not be counted as data
@@ -38,6 +40,12 @@ When changes pushed to repository, GitHub notifies server via webhook. Then [ser
 * Your first topic is an answer to the question "What is it?" (Except for data that have specific data type (type will be set as first topic automatically). For example, data of `book` type should skip topic `book` because it is already a `book`)
 * Your all other topics is context. You can add as much as you need, but remember that less is more and try to be straight to the point. Topic `lib` or `tool` is useless when alone because they so broad and will match thousands of entities. For example data that falls into `static-site-generator` topic doesn't need to have `tool` or `static` or `site` or `generator` or `fast` or `golang` topics because `static-site-generator` speaks for itself and no need for extra explanation. 
 * For open-source apps, if you want to add the language that software written it, please follow this format: `source:{lang}`, ex: `source:go`. (Because apps itself have nothing to do with the language it is written in (from end-user view), but often devs looking for open sourced software in specific language for study and research)
+
+# Definitions
+* Definition is a special kind of data, that is not necessary to reference something, but only describes specific topic
+* Definitions displayed only when one topic is selected (and when definition for selected topic exists). (Visit [refto.dev/go](https://refto.dev/go) to see definition of Go and get the idea of definition)
+* To create definition, simply create file in `{topic}.definition.yaml` in `definitions/` directory. 
+* All definitions files must be stored in `definitions/` directory. (This limitation exists because path to file is also its ID, to determine definition of topic, the ID must be persistent)
 
 
     

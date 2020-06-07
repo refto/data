@@ -1,0 +1,96 @@
+# Definitions is a special kind of data,
+# that may not reference anything,
+# but only describes specific topic
+
+# icon that displayed next to title
+# value can be any of: https://www.antdv.com/components/icon/
+# default is "info-circle"
+icon: info-circle
+title: Go (programming language)
+description: >
+  Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. The language is often referred to as "Golang" because of its domain name, golang.org, but the proper name is Go. Read more on <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Wikipedia</a>
+
+# Official website
+home_addr: https://golang.org/
+
+# Picture or logo
+picture_addr: https://golang.org/lib/godoc/images/go-logo-blue.svg
+
+# Helpful links that is fit to context
+links:
+  - label: Home
+    icon: home
+    addr: https://golang.org/
+  - label: Developers Hub
+    addr: https://go.dev/
+  - label: Playground
+    addr: https://play.golang.org/
+  - label: Blog
+    addr: https://blog.golang.org/
+
+# Relations is extra data that is related to definition and out of description and grouped by context
+relations:
+  - title: Getting started with Go
+    icon: flag
+    links:
+      - label: Official "Getting Started"
+        addr: https://golang.org/doc/install
+      - label: Tour of Go
+        description: Interactive tour of Go that covers the most important features of the language
+        addr: https://tour.golang.org/welcome/1
+      - label: Go books for beginners
+        addr: https://refto.dev/go,book,novice
+      - label: Go by Example
+        description: Hands-on introduction to Go using annotated example programs
+        addr: https://gobyexample.com/
+      - label: Snippets and tutorials
+        description: Collection of code snippets and tutorials to help tackle every day issues
+        addr: https://golangcode.com/
+      - label: Wiki
+        description: Useful collection of information about Go
+        addr: https://github.com/golang/go/wiki
+
+  - title: Go Community
+    icon: team
+    links:
+      - label: Gophers Slack Channel
+        addr: https://gophers.slack.com/
+        icon: slack
+      - label: Golang news
+        description: Curated links about Go Programming.
+        addr: https://golangnews.com/
+      - label: /r/golang
+        addr: https://www.reddit.com/r/golang
+        icon: reddit
+      - label: "@golang"
+        addr: https://twitter.com/golang
+        icon: twitter
+      - label: "#golang"
+        addr: https://twitter.com/search?q=%23golang&src=typd
+        icon: twitter
+      - label: Discord server
+        addr: https://discord.com/invite/VF92f7M
+      - label: Conferences
+        addr: https://refto.dev/go,conference
+
+  - title: Gopher Mascot
+    picture_addr: https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png
+    description: >
+      The Go gopher is an iconic mascot and one of the most distinctive features of the Go project. The Go gopher was designed by Renee French
+    links:
+      - label: golang-samples/gopher-vector
+        addr: https://github.com/golang-samples/gopher-vector
+        icon: github
+        description: Vector data of gopher
+
+      - label: shalakhin/gophericons
+        addr: https://github.com/shalakhin/gophericons
+        icon: github
+        description: Gopher images
+
+      - label: tenntenn/gopher-stickers
+        addr: https://github.com/tenntenn/gopher-stickers
+        icon: github
+        description: Gopher stickers
+
+
