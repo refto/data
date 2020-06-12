@@ -19,13 +19,13 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 
 * Make commit for each file changed
 * Name your commits with action you did to file, for example:
-    * `Add Vue`
-    * `Update React`
-    * `Delete javascript`
+    * `add Vue`
+    * `update React`
+    * `delete javascript`
 * In pull request description answer `why` question:
     * For new data: Why this data is useful to developer?
     * For deleted data: Why this data is no longer useful to developer?
-    * For updated data: Why new data is better than previous? (If you do obvious change, like fix a typo, add missing link or picture, you can answer `why` in commit message (like `Update React: add link to docs`, `Update vue: add logo pic`, etc) and this is just enough)
+    * For updated data: Why new data is better than previous? (If you do obvious change, like fix a typo, add missing link or picture, you can answer `why` in commit message (like `update React: add link to docs`, `update vue: add logo pic`, etc) and this is just enough)
     
 # Contributor's tools
 ## Free search mode
