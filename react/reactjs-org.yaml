@@ -9,6 +9,7 @@ links:
     label: Repository
     addr: https://github.com/facebook/react
 
+hello: world
 topics:
   - javascript
   - framework
