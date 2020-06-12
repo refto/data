@@ -7,12 +7,7 @@
 Everything that made with quality and love and useful to dev's community. Doesn't matter free or paid, open-source or proprietary. 
 
 # How to contribute
-* Clone repository
-* Make changes: add, update or delete something
-* Submit your PR to `master` branch
-* Please use one PR for each file changed
-
-Note: If you'll need to check that something is already added to this repo, you can add `@` to beginning of search query to search in reference addresses, for example `@github.com` will return entries having `github.com` in reference address. See it in action: [refto.dev/@github.com](https://refto.dev/@github.com)
+Please see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # How it works
 When changes pushed to repository, GitHub notifies server via webhook. Then [server](https://github.com/refto/server) clones this repository, validates data and imports it in database. That's it.
