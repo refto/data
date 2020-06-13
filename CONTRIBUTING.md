@@ -35,8 +35,6 @@ Often, when you want to add something to data you'd like to know if this entity 
 * Add `*` to beginning of search query to search substring everywhere, for example `*network` will return entries that contains `network`. See it in action: [refto.dev/*network](https://refto.dev/*network). 
 
 ## Local data validation
-(this section is WIP until validator binary is released)
-
-If you'd like to validate your changes, you can use `rtd-validate` binary, simply run `./rtd-validate` in your local repo directory or provide repository path if you run validator elsewhere: `./rtd-validate {path-to-data}` 
+If you'd like to validate your changes, you can use [Validator](https://github.com/refto/server/releases/tag/v1.0) binary. Simply run `validator` in your local repo directory or provide repository path if you run validator elsewhere: `validator {path-to-data}` 
  
     
