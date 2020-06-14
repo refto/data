@@ -1,0 +1,17 @@
+title: D3
+description: >
+  D3 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
+
+home_addr: https://d3js.org/
+picture_addr: https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667
+
+links:
+  - icon: github
+    label: Repository
+    addr: https://github.com/d3/d3
+
+topics:
+  - lib
+  - javascript
+  - data-visualization
+  - graph

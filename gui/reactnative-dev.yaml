@@ -1,0 +1,17 @@
+title: React Native
+description: >
+  React Native brings React's declarative UI framework to iOS and Android. With React Native, you use native UI controls and have full access to the native platform.
+
+home_addr: https://reactnative.dev/
+picture_addr: https://reactnative.dev/img/header_logo.svg
+
+links:
+  - icon: github
+    label: Repository
+    addr: https://github.com/facebook/react-native
+
+topics:
+  - framework
+  - react
+  - ios
+  - android

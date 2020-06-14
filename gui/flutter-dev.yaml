@@ -1,0 +1,13 @@
+title: Flutter
+description: >
+  <p>Flutter makes it easy and fast to build beautiful apps for mobile and beyond.</p>
+  <p>Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.</p>
+
+home_addr: https://flutter.dev/
+picture_addr: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
+
+topics:
+   - gui
+   - cross-platform
+   - design
+   - material-design
