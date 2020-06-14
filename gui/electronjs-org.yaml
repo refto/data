@@ -12,7 +12,7 @@ links:
 
 topics:
   - framework
-  - cross-platform
   - desktop-app
+  - cross-platform
   - source:nodejs
   - source:chromium
