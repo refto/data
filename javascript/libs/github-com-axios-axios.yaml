@@ -1,0 +1,6 @@
+title: axios
+description: Promise based HTTP client for the browser and node.js
+home_addr: https://github.com/axios/axios
+topics:
+  - http-client
+  - javascript
