@@ -1,0 +1,18 @@
+title: Electron
+description: >
+  The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium
+
+home_addr: https://www.electronjs.org/
+picture_addr: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png
+
+links:
+  - icon: github
+    label: Repository
+    addr: https://github.com/electron/electron
+
+topics:
+  - framework
+  - cross-platform
+  - desktop-app
+  - source:nodejs
+  - source:chromium
