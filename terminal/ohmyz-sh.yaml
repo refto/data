@@ -1,0 +1,23 @@
+title: Oh My Zsh
+description: >
+  <p>Oh My Zsh is an open source, community-driven framework for managing your <a href="https://www.zsh.org/">zsh configuration</a>.</p>
+  <p>Sounds boring. Let's try again.</p>
+  <p>Oh My Zsh will not make you a 10x developer...but you may feel like one.</p>
+  <p>Once installed, your terminal shell will become the talk of the town or your money back! With each keystroke in your command prompt, you'll take advantage of the hundreds of powerful plugins and beautiful themes. Strangers will come up to you in cafés and ask you, "that is amazing! are you some sort of genius?"</p>
+  <p>Finally, you'll begin to get the sort of attention that you have always felt you deserved. ...or maybe you'll use the time that you're saving to start flossing more often</p>
+
+# todo https://ohmyz.sh/ is not responding atm
+home_addr: https://github.com/ohmyzsh/ohmyzsh
+picture_addr: https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67
+
+links:
+  - icon: github
+    label: Repository
+    addr: https://github.com/ohmyzsh/ohmyzsh
+
+topics:
+  - framework
+  - terminal
+  - shell
+  - config
+  - zsh
