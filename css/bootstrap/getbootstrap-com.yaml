@@ -1,0 +1,19 @@
+title: Bootstrap
+description: Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+home_addr: Bootstrap
+picture_addr: https://camo.githubusercontent.com/7e090d60341c69164ba7c9b0754c713948f5d668/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f342e352f6173736574732f6272616e642f626f6f7473747261702d736f6c69642e737667
+
+links:
+   - icon: github
+     label: Repository
+     addr: https://github.com/twbs/bootstrap
+   - icon: book
+     label: Get started
+     addr: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+topics:
+   - css
+   - layout
+   - web-design
+   - framework
