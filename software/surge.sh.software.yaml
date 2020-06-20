@@ -1,0 +1,9 @@
+title: Surge
+description: Static web publishing for Front-End Developers. Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+
+home_addr: http://surge.sh/
+logo_addr: http://surge.sh/images/logos/svg/surge-logo.svg
+
+topics:
+  - deploy-service
+  - frontend
