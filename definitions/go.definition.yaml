@@ -46,6 +46,8 @@ relations:
   - title: Go Community
     icon: team
     links:
+      - label: Go on DEV
+        addr: https://dev.to/t/go
       - label: Gophers Slack Channel
         addr: https://gophers.slack.com/
         icon: slack
