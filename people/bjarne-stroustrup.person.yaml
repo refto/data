@@ -1,0 +1,9 @@
+title: Bjarne Stroustrup
+description: >
+  Bjarne Stroustrup is a Danish computer scientist, most notable for the creation and development of the C++ programming language.
+
+home_addr: https://stroustrup.com/
+photo_addr: https://stroustrup.com/Bjarne2018.jpg
+
+topics:
+   - c++

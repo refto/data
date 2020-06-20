@@ -1,0 +1,21 @@
+title: Linus Torvalds
+description: >
+  Linus Benedict Torvalds is a Finnish-American software engineer who is the creator and, historically, the principal developer of the Linux kernel, which is the kernel for Linux operating systems (distributions) and other operating systems such as Android and Chrome OS. He also created the distributed version control system Git and the scuba dive logging and planning software Subsurface.
+
+home_addr: https://en.wikipedia.org/wiki/Linus_Torvalds
+photo_addr: https://avatars0.githubusercontent.com/u/1024025?s=460&v=4
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/Linus_Torvalds
+   - icon: twitter
+     label: Twitter
+     addr: https://twitter.com/linus__torvalds
+   - icon: github
+     label: Github
+     addr: https://github.com/torvalds
+
+topics:
+   - linux
+   - git
