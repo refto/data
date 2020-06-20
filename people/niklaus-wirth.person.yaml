@@ -1,0 +1,18 @@
+title: Niklaus Wirth
+description: >
+  Niklaus Emil Wirth is a Swiss computer scientist. He has designed several programming languages, including Pascal, and pioneered several classic topics in software engineering. In 1984 he won the Turing Award, generally recognized as the highest distinction in computer science, for developing a sequence of innovative computer languages.
+
+home_addr: https://en.wikipedia.org/wiki/Ada_Lovelace
+photo_addr: https://hsto.org/getpro/habr/post_images/d41/3d1/cb9/d413d1cb974ec601a1fca3260419964e.jpg
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/Niklaus_Wirth
+
+topics:
+   - pascal
+   - euler
+   - algol-w
+   - modula
+   - oberon

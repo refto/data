@@ -1,0 +1,14 @@
+title: James Gosling
+description: >
+  James Arthur Gosling, often referred to as "Dr. Java", is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language
+
+home_addr: https://www.linkedin.com/in/jamesgosling/
+photo_addr: https://media-exp1.licdn.com/dms/image/C4D03AQFkeUrRk0xpOQ/profile-displayphoto-shrink_200_200/0?e=1597881600&v=beta&t=AICRMcrqevHoSqbEbLgUCyiGHJnvXwtEzo_kFj7pCpQ
+
+links:
+   - icon: link
+     label: Wikipedia
+     addr: https://en.wikipedia.org/wiki/James_Gosling
+
+topics:
+   - java
