@@ -1,4 +1,4 @@
-title: Linus Torvalds
+title: Richard Stallman
 description: >
   <p>Richard Matthew Stallman, often known by his initials, rms, and occasionally upper-case RMS, is an American free software movement activist and programmer. He campaigns for software to be distributed in a manner such that its users receive the freedoms to use, study, distribute, and modify that software. Software that ensures these freedoms is termed free software. Stallman launched the GNU Project, founded the Free Software Foundation, developed the GNU Compiler Collection and GNU Emacs, and wrote the GNU General Public License.</p>
 
@@ -9,7 +9,7 @@ description: >
   <p>In 1989, he co-founded the League for Programming Freedom. Since the mid-1990s, Stallman has spent most of his time advocating for free software, as well as campaigning against software patents, digital rights management (which he referred to as digital restrictions management, calling the more common term misleading), and other legal and technical systems which he sees as taking away users' freedoms. This has included software license agreements, non-disclosure agreements, activation keys, dongles, copy restriction, proprietary formats, and binary executables without source code.</p>
 
 home_addr: https://stallman.org/
-  photo_addr:https://lh3.googleusercontent.com/proxy/XxIojAKGcvpKfGsR65nBI6Nbh3r4KvLTXn5EsbH34E-dpBNBtlkZ4cbc86o7I9dwfS96YN9DH7gz2QuNP41lOyHwgXKOFm3BEGcRl1MC9-3-VNrZkWXBXNd_E9SxKsSrmUqRU69Rxkt5AaYgKidEVfHGYQ
+photo_addr: https://lh3.googleusercontent.com/proxy/XxIojAKGcvpKfGsR65nBI6Nbh3r4KvLTXn5EsbH34E-dpBNBtlkZ4cbc86o7I9dwfS96YN9DH7gz2QuNP41lOyHwgXKOFm3BEGcRl1MC9-3-VNrZkWXBXNd_E9SxKsSrmUqRU69Rxkt5AaYgKidEVfHGYQ
 
 topics:
   - free-software
