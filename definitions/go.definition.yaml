@@ -25,6 +25,9 @@ relations:
     links:
       - label: Official "Getting Started"
         addr: https://golang.org/doc/install
+      - label: Effective Go
+        description: A document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.
+        addr: https://golang.org/doc/install
       - label: Tour of Go
         description: Interactive tour of Go that covers the most important features of the language
         addr: https://tour.golang.org/welcome/1
