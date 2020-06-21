@@ -1,0 +1,9 @@
+title: Netlify
+description: Instantly build and deploy your sites to Netlify global network from Git. Custom domains, https, deploy previews, rollbacks and much more.
+
+home_addr: https://www.netlify.com/
+
+topics:
+  - build-service
+  - deploy-service
+  - git

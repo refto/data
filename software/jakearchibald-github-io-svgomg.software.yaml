@@ -1,0 +1,9 @@
+title: SVGOMG!
+description: Remove unnecessary meta data and excess things from a SVG files, and make it smaller
+
+home_addr: https://jakearchibald.github.io/svgomg/
+
+topics:
+  - svg
+  - svg-optimizer
+  - source:javascript

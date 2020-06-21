@@ -1,0 +1,9 @@
+title: Img BB
+description: Host images for free. Has an API which you can use to upload images and it returns you a URL.
+
+home_addr: https://imgbb.com/
+logo_addr: https://simgbb.com/images/logo.png
+
+topics:
+  - image-hosting
+  - web

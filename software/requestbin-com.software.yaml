@@ -1,0 +1,10 @@
+title: Img BB
+description: Get a URL that collects requests you send it so you can inspect them in a human-friendly way. See what your HTTP client is sending or inspect and debug webhook requests.
+
+home_addr: https://requestbin.com/
+
+topics:
+  - http-request-debug
+  - webhook-debug
+  - request-bin
+  - web
