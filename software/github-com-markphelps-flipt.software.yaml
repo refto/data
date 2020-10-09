@@ -6,6 +6,8 @@ source_addr: https://github.com/markphelps/flipt
 topics:
   - tool
   - config
+  - feature-flag
+  - ab-testing
   - feature
   - toggle
   - source:go
