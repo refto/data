@@ -1,13 +1,15 @@
 title: bit
 description: >
   bit is an experimental modernized git CLI built on top of git that provides happy defaults and other niceties:
-  * command and flag suggestions to help you navigate the plethora of options git provides you
-  * autocompletion for files and branch names when using bit add or bit checkout
-  * automatic fetch and branch fast-forwarding reducing the likelihood of merge conflicts
-  * suggestions work with git aliases
-  * new commands like bit sync that vastly simplify your workflow
-  * commands from git-extras such as bit release & bit info
-  * fully compatible with git allowing you to fallback to git if need be.
+  <ul>
+    <li>command and flag suggestions to help you navigate the plethora of options git provides you</li>
+    <li>autocompletion for files and branch names when using bit add or bit checkout</li>
+    <li>automatic fetch and branch fast-forwarding reducing the likelihood of merge conflicts</li>
+    <li>suggestions work with git aliases</li>
+    <li>new commands like bit sync that vastly simplify your workflow</li>
+    <li>commands from git-extras such as bit release & bit info</li>
+    <li>fully compatible with git allowing you to fallback to git if need be.</li>
+  </ul>
 
 home_addr: https://github.com/chriswalz/bit
 #logo_addr: none
