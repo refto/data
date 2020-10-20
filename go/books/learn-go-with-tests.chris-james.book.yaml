@@ -1,0 +1,31 @@
+title: Learn Go with Tests
+description: >
+  <ul>
+  <li>Explore the Go language by writing tests</li>
+  <li>Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in</li>
+  <li>Be confident that you'll be able to start writing robust, well-tested systems in Go</li>
+  </ul>
+
+# Address where to read, buy or find out more
+home_addr: https://quii.gitbook.io/learn-go-with-tests/
+
+# Address to cover picture
+#picture_addr:
+
+# this book is constantly updated by community,
+# so I just set year of latest release
+publish_date: 2020
+
+# at least one author should be set
+authors:
+  - name: Chris James
+    addr: https://quii.dev/
+  - name: Contributors
+    addr: https://github.com/quii/learn-go-with-tests/graphs/contributors
+
+# List of topics that book is related to
+# At least one is required
+topics:
+  - go
+  - novice
+  - free
