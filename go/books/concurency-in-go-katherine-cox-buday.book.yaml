@@ -1,6 +1,15 @@
 title: Concurrency in Go
 description: >
   This practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
+  You’ll understand how Go chooses to model concurrency, what issues arise from this model, and how you can compose primitives within this model to solve problems. Learn the skills and tooling you need to confidently write and implement concurrent systems of any size.
+  <ul>
+    <li>Understand how Go addresses fundamental problems that make concurrency difficult to do correctly</li>
+    <li>Learn the key differences between concurrency and parallelism</li>
+    <li>Dig into the syntax of Go’s memory synchronization primitives</li>
+    <li>Form patterns with these primitives to write maintainable concurrent code</li>
+    <li>Compose patterns into a series of practices that enable you to write large, distributed systems that scale</li>
+    <li>Learn the sophistication behind goroutines and how Go’s runtime stitches everything together</li>
+  </ul>
 
 # Address where to read, buy or find out more
 home_addr: http://shop.oreilly.com/product/0636920046189.do
