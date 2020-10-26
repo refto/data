@@ -1,0 +1,12 @@
+title: Bubble Tea
+description: >
+  The fun, functional and stateful way to build terminal apps. A Go framework based on The Elm Architecture. Bubble Tea is well-suited for simple and complex terminal applications, either inline, full-window, or a mix of both.
+
+home_addr: https://github.com/charmbracelet/bubbletea
+
+logo_addr: https://camo.githubusercontent.com/7956558fdd5fae7133b18e6f265a0e93549d0384/68747470733a2f2f73747566662e636861726d2e73682f627562626c657465612f627562626c657465612d6769746875622d6865616465722d73696d706c652e706e67
+
+topics:
+  - cli
+  - framework
+  - ui
