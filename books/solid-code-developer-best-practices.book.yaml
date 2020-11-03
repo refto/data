@@ -1,0 +1,16 @@
+title: "Solid Code (Developer Best Practices)"
+description: >
+  Get best-in-class engineering practices to help you write more-robust, bug-free code. Two Microsoft .NET development experts share real-world examples and proven methods for optimizing the software development life cycle—from avoiding costly programming pitfalls to making your development team more efficient. Managed code developers at all levels will find design, prototyping, implementation, debugging, and testing tips to boost the quality of their code—today.
+
+home_addr: https://www.amazon.com/Solid-Code-Developer-Best-Practices-ebook/dp/B00JDMPQ32
+picture_addr: https://images-na.ssl-images-amazon.com/images/I/51Y2-4-x1-L._SX408_BO1,204,203,200_.jpg
+publish_date: February 18, 2009
+
+authors:
+  - name: Donis Marshall
+#    addr:
+  - name: John Bruno
+#    addr:
+
+topics:
+   - programming
