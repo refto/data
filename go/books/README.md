@@ -1,8 +1,9 @@
 # Go books
 
-Please follow this conventions:
-* If it is free book add topic `free` 
-* Add topics of level of reader's the book is targeted to. Use one of or any of:
-    * novice
-    * intermediate
-    * advanced
+Please follow these conventions:
+* Add topic: `go`
+* If it is a free book add topic: `free` 
+* Add topics of intended reader's level. Use one of or any of:
+    - novice
+    - intermediate
+    - advanced

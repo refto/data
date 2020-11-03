@@ -1,0 +1,14 @@
+title: "Code Craft: The Practice of Writing Excellent Code"
+description: >
+  Many programmers know how to write correct code - code that works. But not all know how to craft great code - code that is well written and easy to understand. Code Craft teaches programmers how to move beyond writing correct code to writing great code. The book covers code writing concerns, including code presentation style, variable naming, error handling, and security; and the wider issues of programming in the real world, such as good teamwork, development processes, and documentation. Code Craft presents language-agnostic advice that is relevant to all developers, from an author with loads of practical experience.
+
+home_addr: https://www.goodreads.com/book/show/44875.Code_Craft
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753447l/44875.jpg
+publish_date: January 1st 2006
+
+authors:
+  - name: Pete Goodliffe
+    addr: https://www.linkedin.com/in/petegoodliffe/
+
+topics:
+   - programming
