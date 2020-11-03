@@ -1,0 +1,14 @@
+title: "The Clean Coder: A Code of Conduct for Professional Programmers"
+description: >
+  Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals. Legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice-about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act
+
+home_addr: https://www.goodreads.com/book/show/10284614-the-clean-coder
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347470803l/10284614.jpg
+publish_date: May 13th 2011
+
+authors:
+  - name: Robert C. Martin
+    addr: http://cleancoder.com/
+
+topics:
+   - programming
