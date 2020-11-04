@@ -1,0 +1,18 @@
+title: "Refactoring: Improving the Design of Existing Code"
+description: >
+  As the application of object technology—particularly the Java programming language—has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as refactoring, these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use... until now.
+
+home_addr: https://www.goodreads.com/book/show/44936.Refactoring
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg
+publish_date: June 28th 1999
+
+authors:
+  - name: Martin Fowler
+    addr: https://martinfowler.com/
+  - name: Kent Beck
+    addr: https://twitter.com/KentBeck
+  - name: Don Roberts
+  - name: Erich Gamma
+
+topics:
+   - programming
