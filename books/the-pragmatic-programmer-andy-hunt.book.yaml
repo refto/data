@@ -1,0 +1,16 @@
+title: The Pragmatic Programmer
+description: >
+  The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse.
+
+home_addr: https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg
+publish_date: October 20th 1999
+
+authors:
+  - name: Andy Hunt
+    addr: https://toolshed.com/
+  - name: Dave Thomas
+#    addr:
+
+topics:
+   - programming
