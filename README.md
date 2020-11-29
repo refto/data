@@ -13,26 +13,26 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md)
 When changes pushed to repository, GitHub notifies server via webhook. Then [server](https://github.com/refto/server) clones this repository, validates data and imports it in database. That's it.
 
 # Conventions
-* All data is stored in YAML format.
+* All data is stored in [YAML](https://en.wikipedia.org/wiki/YAML) format.
 * Each `.yaml` file contains data of something specific. 
 * Each data's filename must be in format: `{filename}.{type}.yaml`
     * The `filename` part can be anything that reflect it's data (it will be used as ID of data)
-    * The `type` part is a type of data and can be:
-        * `generic`: Generic data, see `./generic.sample.yaml`
-        * `book`: A book entity, see `./book.sample.yaml`
-        * `person`: A person entity, see `./person.sample.yaml`
-        * `software`: A software entity, see `./software.sample.yaml`
-        * `conference`: A conference entity, see `./conference.sample.yaml`
-        * `definition`: Topic's definition , see `./definition.sample.yaml`, also [read more below](#definitions).
-    * The `type` part can omitted if data is a `generic` type 
-* Each data must comply with schema of its type (For example: `clean-code.book.yaml` must be valid against `book.schema.yaml`).
+    * The `type` part is a type of data and can be one of:
+        * `generic`: Generic data. Sample: [generic.sample.yaml](./generic.sample.yaml)
+        * `book`: A book entity. Sample: [book.sample.yaml](./book.sample.yaml)
+        * `person`: A person entity. Sample: [person.sample.yaml](./person.sample.yaml)
+        * `software`: A software entity. Sample: [software.sample.yaml](./software.sample.yaml)
+        * `conference`: A conference entity. Sample: [conference.sample.yaml](./conference.sample.yaml)
+        * `definition`: Topic's definition. Sample: [definition.sample.yaml](./definition.sample.yaml). Read more on [definitions](#definitions).
+    * The `type` part can omitted if it is a `generic` type 
+* Each data must comply with schema of its type (For example data of `book` type must be valid against `book.schema.yaml`).
 * File names that ends with `.sample.yaml` or `.schema.yaml` will not be counted as data
-* Files can be stored in sub-directories indefinitely, **but keep in mind** that path to file (including name of a file) is also a data ID, so moving files between dirs, renaming dirs or files will also change their ID (currently the ID have no practical use, but planned in future)
+* Files can be stored in sub-directories indefinitely, **but keep in mind** that path to file (including name of a file) is also a data ID, so moving files between dirs, renaming dirs or file names will also change their ID.
 
 # Topics
-* Topics a primary mechanism of how data is filtered and being accessible
+* Topics is a primary mechanism of how data is filtered
 * Topics is a list of nouns that is relevant to it's data
-* Your first topic is an answer to the question "What is it?" (Except for data that have specific data type (type will be set as first topic automatically). For example, data of `book` type should skip topic `book` because it is already a `book`)
+* Your first topic is an answer to the question "What is it?" (Except for data that have specific data type (type will be set as first topic automatically). For example, data of type `book` should skip topic `book` because this topic will be added automatically)
 * Your all other topics is context. You can add as much as you need, but remember that less is more and try to be straight to the point. Topic `lib` or `tool` is useless when alone because they so broad and will match thousands of entities. For example data that falls into `static-site-generator` topic doesn't need to have `tool` or `static` or `site` or `generator` or `fast` or `golang` topics because `static-site-generator` speaks for itself and no need for extra explanation. 
 * For open-source apps, if you want to add the language that software written it, please follow this format: `source:{lang}`, ex: `source:go`. (Because apps itself have nothing to do with the language it is written in (from end-user view), but often devs looking for open sourced software in specific language for study and research)
 
