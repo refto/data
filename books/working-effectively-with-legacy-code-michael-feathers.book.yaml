@@ -1,0 +1,14 @@
+title: Working Effectively with Legacy Code
+description: >
+  Get more out of your legacy systems, more performance, functionality, reliability, and manageability.Is your code easy to change? Can you get nearly instantaneous feedback when you do change it? Do you understand it? If the answer to any of these questions is no, you have legacy code, and it is draining time and money away from your development efforts.
+
+home_addr: https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348627451l/44919.jpg
+publish_date: November 5th 2002
+
+authors:
+  - name: Martin Fowler
+    addr: http://martinfowler.com/
+
+topics:
+   - programming
