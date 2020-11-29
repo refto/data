@@ -1,0 +1,14 @@
+title: Code Simplicity
+description: >
+  Every complexity of software design, simplified and codified at last, for use by every programmer, from the novice to the architects of major applications. This book contains the fundamental laws of software development, the primary pieces of understanding that make the difference between a mid-level/junior programmer and the high-level senior software engineer. The book exists to help all programmers understand the process of writing software, on a very fundamental level that can be applied to any programming language or project, from here into eternity.
+
+home_addr: https://www.goodreads.com/book/show/3735293-clean-code
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334061301l/13234063.jpg
+publish_date: April 5th 2012
+
+authors:
+  - name: Max Kanat-Alexander
+    addr: https://www.codesimplicity.com/
+
+topics:
+   - programming
