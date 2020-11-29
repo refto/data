@@ -1,0 +1,24 @@
+title: Patterns of Enterprise Application Architecture
+description: >
+  Developers of enterprise applications (e.g reservation systems, supply chain programs, financial systems, etc.) face a unique set of challenges, different than those faced by their desktop system and embedded system peers. For this reason, enterprise developers must uncover their own solutions. In this new book, noted software engineering expert Martin Fowler turns his attention to enterprise application development. He helps professionals understand the complex -- yet critical -- aspects of architecture.
+
+home_addr: https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture
+picture_addr: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440294142l/70156._SX318_.jpg
+publish_date: November 9th 2004
+
+authors:
+  - name: Martin Fowler
+    addr: http://martinfowler.com/
+  - name: David Rice
+#    addr:
+  - name: Matthew Foemmel
+#    addr:
+  - name: Edward Hieatt
+#    addr:
+  - name: Robert Mee
+#    addr:
+  - name: Randy Stafford
+#    addr:
+
+topics:
+   - programming
