@@ -10,7 +10,7 @@ Thank you for your time and effort to make this project better
 # How to contribute, advanced
 To keep your fork in sync with `refto/data` (to not create new fork for every change), do the following:
    * Add upstream (this need to be done once):<br>`$ git remote add upstream https://github.com/refto/data.git`
-   * Merge changes from refto/data's master branch into your local master branch:<br>`$ git merge upstream/master`
+   * Merge changes from refto/data's master branch into your local master branch:<br>`$ git merge upstream/main`
 
 Now you in sync with `refto/data`
 
