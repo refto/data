@@ -3,7 +3,7 @@ Thank you for your time and effort to make this project better
 
 # How to contribute, basic flow
 * Fork this repository
-* Make some changes
+* Add, update or delete something
 * Commit
 * Propose changes with pull request to this repository
 
