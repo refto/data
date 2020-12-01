@@ -7,4 +7,4 @@ source_addr: https://github.com/bosun-monitor/bosun
 topics:
   - monitoring
   - alerting
-  - source:god
+  - source:go
